@@ -33,7 +33,7 @@
 * 输出
   * 运动：每周3次45分钟挥拍运动（-47% ACM）
   * 日常：刷牙（-25% ACM）
-  * 睡眠：每天睡7小时全因死亡率最低；且22-24点间最好，早睡+43% ACM，晚睡+15% ACM
+  * 睡眠：每天睡7小时全因死亡率最低；且22-24点间最好，*早睡+43% ACM，晚睡+15% ACM（存在争议）*
 * 上下文
   * 体重：减肥（-54% ACM）
 
@@ -58,7 +58,7 @@
     * Bondonno博士说道“吃不同蔬菜、水果补充，不同种类的黄酮类化合物是很重要的，这很容易通过饮食实现：一杯茶、一个苹果、一个橘子、100克蓝莓，或100克西兰花，就能提供各种黄酮类化合物，并且总含量超过500毫克。
 * 辣椒
   * [辣椒成死亡克星？据调研，常吃辣患病死亡风险可降低61%](https://3g.163.com/dy/article/F6Q7I1ME053228ZU.html)
-    * [Chili pepper consumption and mortality in Italian adults](https://www.sciencedirect.com/science/article/pii/S0735109719382063)
+    * 出处：[Chili pepper consumption and mortality in Italian adults](https://www.sciencedirect.com/science/article/pii/S0735109719382063)
     * 2016年Plos One 的另一项来自美国的研究以16179名，年龄在18岁以上的人群为对象，并对其进行了高达19年的随访，发现在4946例死亡患者中，食用辣椒的参与者的全因死亡率为21.6％，而未食用辣椒的参与者的全因死亡率为33.6％。相较于不吃辣或很少吃（少于每周两次）的人群，每周吃辣＞4次的人群总死亡风险降低23%，心血管死亡风险降低34%。
 * 鸡蛋
   * [每天多吃半个蛋，增加7%的全因和心血管死亡风险？](https://m.thepaper.cn/baijiahao_11540780)
@@ -66,11 +66,15 @@
     * 每天多吃半个蛋，增加7%的全因和心血管死亡风险？在假设性替代分析中，研究者发现，用等量的蛋清/鸡蛋替代物、家禽、鱼、乳制品、坚果和豆类分别替代半只全蛋（25克/天）可以降低6%、8%、9%、7%、13%和10%的全因死亡率。
 * 坚果
   * [哈佛20年研究：吃核桃的人更长寿，显著减少全因死亡，延长寿命](https://www.163.com/dy/article/GKVOMMMF05148PF4.html)
-    * [Association of nut consumption with total and cause-specific mortality](https://www.nejm.org/doi/full/10.1056/NEJMoa1307352)
+    * 出处：[Association of nut consumption with total and cause-specific mortality](https://www.nejm.org/doi/full/10.1056/NEJMoa1307352)
     * 通过分析发现，经常食用核桃可以延长寿命，降低心血管疾病死亡风险。比起不吃核桃，每周食用核桃5份以上（1份28克）的健康预期寿命延长1.3岁，全因死亡风险降低14%，心血管疾病死亡率降低25%。
   * [研究：每日食生坚果，死亡率降20%](https://zhuanlan.zhihu.com/p/44454030)
+    * 出处：[APG_Health-&-Nutrition-Research-Brochure_DEC-19-18](https://americanpistachios.cn/sites/china/files/inline-files/APG_Health-%26-Nutrition-Research-Brochure_DEC-19-18.pdf)
+    * 研究人员发现，每周吃树坚果低于1盎司份量的人，死亡率降低7％。而每周吃了1盎司份量的人，减少11％的死亡率；每周吃2份量的人，减低13％；每周5至6份量者，减少了15％；一周7份以上的人，死亡率则减少20％。
+    * 另外两篇发表在《公共科学图书馆在线期刊》(Public Library of Science Online Journal)和《生物医学中心》(BioMed Central)上的医学预科研究论文，展示了试验开始时的横断面数据。这两项研究都评估了7,216名对象，以及他们食用坚果的频率和数量之间的关系。那些每周食用三份以上坚果(包括开心果)的研究对象的死亡率降低39%。
 * 碳水（存有大量争议）
   * [低碳生酮饮食（四）碳水化合物与长期死亡率](https://zhuanlan.zhihu.com/p/137815934)
+    * 出处：The Lancet Public Health - [Dietary carbohydrate intake and mortality: a prospective cohort study and meta-analysis](https://www.sciencedirect.com/science/article/pii/S246826671830135X)
     * 碳水越低，寿命越短；碳水越高，寿命也轻微缩短；碳水50%左右（其实按照一般的说法，这也算高碳水）是最长寿命区间 
     * ![碳水](https://user-images.githubusercontent.com/2707039/163703985-a2e2f8ac-101a-4f3c-903b-6850507f144b.jpg)
   * [最强营养搭配！BMJ：这么吃，心血管疾病和死亡风险更低](https://www.chinacdc.cn/gwxx/202003/t20200323_214639.html)
@@ -182,6 +186,9 @@
   * ![睡眠-男](https://user-images.githubusercontent.com/2707039/163704166-226b7ebb-92ce-4753-a3e7-77a87652a104.jpg)
   * 在女性中，与睡眠持续时间7小时相比：睡眠持续时间≥10小时与全因死亡风险增加48%相关；
   * ![睡眠-女](https://user-images.githubusercontent.com/2707039/163704169-c5c715aa-7130-403b-b0d1-ec34fab094d8.png)
+* [颠覆认知！加拿大研究发现：早睡比熬夜或许更伤身，几点睡才好？](https://www.thepaper.cn/newsDetail_forward_14461799)
+  * 其中一个结论为，就寝时间与全因死亡率的关联性强，过早睡觉和过晚睡觉都会影响健康，但是早睡增加的全因死亡率比晚睡增加的死亡率高，早睡增加了43%的死亡风险，而晚睡增加了15%的死亡风险。
+  * 这项调查研究，还存在很多局限性，比如没有直接证明就寝时间与死亡的关系，仅仅说明相关性，通过参与人群自我报告统计睡眠时间，数据不够客观
 
 #### 上下文
 
