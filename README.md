@@ -26,7 +26,7 @@
 
 * 输入
   * 固体：吃白肉（-3%\~-11% ACM）、蔬果为主（-17%\~-26% ACM），多吃辣（-23% ACM），多吃坚果（-4%\~-27% ACM），少吃蛋黄（否则+7% ACM/0.5颗/天），中量碳水、多吃植物蛋白（-10% ACM）
-  * 液体：喝咖啡（-12%\~-22% ACM），喝牛奶（-10%\~-17% ACM），喝茶（-8%\~15% ACM），少喝或不喝甜味饮料（否则每天一杯+7% ACM，+多巴胺），戒酒或每周100g（纯酒精量(g)=饮酒量(ml)×酒精浓度(%)×酒精密度0.8g/ml）内（否则+\~50% ACM，无上限）
+  * 液体：喝咖啡（-12%\~-22% ACM），喝牛奶（-10%\~-17% ACM），喝茶（-8%\~-15% ACM），少喝或不喝甜味饮料（否则每天一杯+7% ACM，+多巴胺），戒酒或每周100g（纯酒精量(g)=饮酒量(ml)×酒精浓度(%)×酒精密度0.8g/ml）内（否则+\~50% ACM，无上限）
   * 气体：不吸烟（否则+~50% ACM，-11\~-12年寿命）
   * 光照：晒太阳（-~40% ACM）
   * 药物：二甲双胍（糖尿病人相比正常人可以+3年）、复合维生素（-8%癌症风险）、亚精胺（-30%\~-60%  ACM）、葡萄糖胺（-39% ACM）
@@ -51,7 +51,7 @@
   * [每年54万人死亡，竟是因为水果吃得少！？这已成十大死亡因素之一！](https://www.sohu.com/a/322360740_164924)
     * 出处：[Estimated Global, Regional, and National Cardiovascular Disease Burdens Related to Fruit and Vegetable Consumption: An Analysis from the Global Dietary Database (FS01-01-19) ](https://academic.oup.com/cdn/article-abstract/3/Supplement_1/nzz028.FS01-01-19/5516583)
     * 每天摄入200克新鲜水果可使死亡率降低17%，糖尿病大血管并发症（如中风、缺血性心脏病等）风险降低13%，及糖尿病小血管并发症（如糖尿病肾病、糖尿病眼病、糖尿病足病等）风险降低28%
-  * [《自然》子刊：每天二两西蓝花，健康长寿都有啦！分析近6万人23年的数据发现，吃含黄酮类食物与死亡风险降低20%相关丨临床大发现](https://mp.weixin.qq.com/s/E6BAi-Vnhr1jXBm0Pys2ZQ)
+  * [《自然》子刊：每天二两西兰花，健康长寿都有啦！分析近6万人23年的数据发现，吃含黄酮类食物与死亡风险降低20%相关丨临床大发现](https://mp.weixin.qq.com/s/E6BAi-Vnhr1jXBm0Pys2ZQ)
     * 出处：[Flavonoid intake is associated with lower mortality in the Danish Diet Cancer and Health Cohort](https://www.nature.com/articles/s41467-019-11622-x)
     * 吃含黄酮类食物与死亡风险降低20%相关
     * ![黄酮](https://user-images.githubusercontent.com/2707039/163703969-42e64f88-e727-4e7d-85f2-07a92e29b613.jpg)
