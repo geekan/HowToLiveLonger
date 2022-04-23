@@ -118,6 +118,10 @@
     * 碳水越低，寿命越短；碳水越高，寿命也轻微缩短；碳水50%左右（其实按照一般的说法，这也算高碳水）是最长寿命区间 
     * ![碳水](https://user-images.githubusercontent.com/2707039/163703985-a2e2f8ac-101a-4f3c-903b-6850507f144b.jpg)
   * [最强营养搭配！BMJ：这么吃，心血管疾病和死亡风险更低](https://www.chinacdc.cn/gwxx/202003/t20200323_214639.html)
+* 槟榔
+  * [如何看待槟榔嚼出来的癌症？槟榔致癌风险究竟有多大？ - 丁香医生的回答 - 知乎](https://www.zhihu.com/question/312784161/answer/603370131)
+    * 出处：Chewing Betel Quid and the Risk of Metabolic Disease, Cardiovascular Disease, and All-Cause Mortality: A Meta-Analysis(https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0070679)
+    * 嚼槟榔会增加1.21%的全因死亡率
 * 热量限制
   * [怎么看待BBC《进食、断食与长寿》？](https://www.zhihu.com/question/31395511)
     * 限制卡路里动物实验：CR（热量限制，即少吃）延迟了恒河猴的多种疾病发病和死亡率，与CR动物相比，正常喂养的猴子的各种疾病患病风险增加2.9倍，死亡风险增加3.0倍。
