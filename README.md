@@ -122,6 +122,10 @@
     * ![各种营养元素与心血管疾病之间的关系](https://user-images.githubusercontent.com/2707039/163702084-97fb4a03-707c-475d-b88e-6fe2f8e87f92.jpg)
     * **进一步研究表明，在所有的饮食模式中，全因死亡率风险最低的饮食方式为：10-30g高纤维、14-30%蛋白质、10-25%单不饱和脂肪酸、5%-7%多不饱和脂肪酸以及20%-30%淀粉摄入。**
     * **最优能量来源配比：<24%淀粉，15%-17%蛋白质，>15%单不饱和脂肪酸，<15%糖，6%饱和脂肪酸，6%多不饱和脂肪酸，30g+高纤维**
+  * [BMJ | 常吃薯片汉堡巧克力等食品，平均死亡年龄仅仅为58岁，死亡风险剧增](https://med.ckcest.cn/details.html?id=5183272274855936&classesEn=news)
+    * [Rico-Campà A, Martínez-González M A, Alvarez-Alvarez I, et al. Association between consumption of ultra-processed foods and all cause mortality: SUN prospective cohort study[J]. bmj, 2019, 365.](https://www.bmj.com/content/365/bmj.l1949.full)
+    * [Srour B, Fezeu L K, Kesse-Guyot E, et al. Ultra-processed food intake and risk of cardiovascular disease: prospective cohort study (NutriNet-Santé)[J]. bmj, 2019, 365.](https://www.bmj.com/content/365/bmj.l1451)
+    * [Lawrence M A, Baker P I. Ultra-processed food and adverse health outcomes[J]. bmj, 2019, 365.](https://www.researchgate.net/profile/Phillip-Baker-5/publication/333483796_Ultra-processed_food_and_adverse_health_outcomes/links/5f0c646ca6fdcc2f32336a95/Ultra-processed-food-and-adverse-health-outcomes.pdf)
 
 ##### 6.1.2. 液体
 
