@@ -96,7 +96,7 @@
     * 出处：[NIH-AARP工作主页](https://dietandhealth.cancer.gov/)、[Egg and cholesterol consumption and mortality from cardiovascular and different causes in the United States: A population-based cohort study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7872242/)
     * 每天多吃半个蛋，增加7%的全因和心血管死亡风险？在假设性替代分析中，研究者发现，用等量的蛋清/鸡蛋替代物、家禽、鱼、乳制品、坚果和豆类分别替代半只全蛋（25克/天）可以降低6%、8%、9%、7%、13%和10%的全因死亡率。
 * 坚果
-  * [哈佛20年研究：吃核桃的人更长寿，显著减少全因死亡，延长寿命](https://www.163.com/dy/article/GKVOMMMF05148PF4.html)
+  * [哈佛20年研究：吃坚果的人更长寿，显著减少全因死亡，延长寿命](https://www.163.com/dy/article/GKVOMMMF05148PF4.html)
     * 出处：[Association of nut consumption with total and cause-specific mortality](https://www.nejm.org/doi/full/10.1056/NEJMoa1307352)
     * 通过分析发现，经常食用核桃可以延长寿命，降低心血管疾病死亡风险。比起不吃核桃，每周食用核桃5份以上（1份28克）的健康预期寿命延长1.3岁，全因死亡风险降低14%，心血管疾病死亡率降低25%。
   * [研究：每日食生坚果，死亡率降20%](https://zhuanlan.zhihu.com/p/44454030)
