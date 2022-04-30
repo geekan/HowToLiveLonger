@@ -135,6 +135,7 @@
     * ![热量限制-恒河猴](https://user-images.githubusercontent.com/2707039/163703988-8767185b-326a-4783-b2e2-f190322bb7d6.jpg)
 * 综合
   * [最强营养搭配！BMJ：这么吃，心血管疾病和死亡风险更低](https://www.chinacdc.cn/gwxx/202003/t20200323_214639.html)
+  * [Associations of fat and carbohydrate intake with cardiovascular disease and mortality: prospective cohort study of UK Biobank participants](https://doi.org/10.1136/bmj.m688)
     * 通过对这些参与者的数据进行分析，研究人员发现碳水化合物（糖、淀粉和纤维）和蛋白质的摄入与全因死亡率呈非线性关系，而脂肪则与全因死亡率呈线性相关。其中，较高的糖分摄入与全因死亡风险和患心血管疾病的风险较高均有关联，而较高的饱和脂肪酸摄入与全因死亡风险较高有关。
     * 图1：各种营养元素与全因死亡之间的关系
     * ![各种营养元素与全因死亡之间的关系](https://user-images.githubusercontent.com/2707039/163702022-8c2bfea9-ed5d-4fe0-8ead-e8740014b92b.jpg)
@@ -157,7 +158,7 @@
   * [10万中国人随访7年发现，每周喝三次茶与全因死亡风险降低15%，预期寿命增加1.26年相关 ](https://www.jianshu.com/p/5461a205cf95?utm_campaign=hugo)
   * 出处：[Tea consumption and the risk of atherosclerotic cardiovascular disease and all-cause mortality: The China-PAR project](https://www.researchgate.net/profile/Fangchao-Liu-4/publication/338483323_Tea_consumption_and_the_risk_of_atherosclerotic_cardiovascular_disease_and_all-cause_mortality_The_China-PAR_project/links/5e55e5e94585152ce8efe511/Tea-consumption-and-the-risk-of-atherosclerotic-cardiovascular-disease-and-all-cause-mortality-The-China-PAR-project.pdf)
   * [中国成年人饮茶与死亡风险的前瞻性关联研究](http://rs.yiigle.com/CN112338202202/1351516.htm)
-  * 纳入分析的438 443例研究对象随访11.1年共发生死亡34 661例。与从不饮茶者相比，当前非每日饮茶者和每日饮茶者全因死亡HR值（95%CI）依次为0.89（0.86~0.91）和0.92（0.88~0.95）。分性别分析显示，饮茶对全因死亡风险的保护作用主要见于男性（交互P<0.05）
+  * 纳入分析的438 443例研究对象随访11.1年共发生死亡34 661例。与从不饮茶者相比，当前非每日饮茶者和每日饮茶者全因死亡HR值（95%CI）依次为0.89（0.86-0.91）和0.92（0.88-0.95）。分性别分析显示，饮茶对全因死亡风险的保护作用主要见于男性（交互P<0.05）
 * 无糖（甜味）饮料
   * [「无糖饮料使死亡风险增加 26 %」，是真的吗？](https://www.zhihu.com/question/418598272/answer/1450648364)
     * 相比于软饮料摄入量＜1杯/月的参与者，混合软饮料摄入≥1杯/天的参与者死亡风险增加18%，而**摄入含糖软饮料或无糖软饮料会令死亡风险分别增加11%和27%。**

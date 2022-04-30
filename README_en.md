@@ -113,34 +113,35 @@
   * [Eur Heart J: 钠摄入量与预期寿命, 全因死亡率的关系](https://nursing.medsci.cn/article/show_article.do;jsessionid=A34E8A33918A152CB55BDD2E5FB1798D?id=afe720486ee7)
     * Reference: [Messerli F H, Hofstetter L, Syrogiannouli L, et al. Sodium intake, life expectancy, and all-cause mortality[J]. European heart journal, 2021, 42(21): 2103-2112.](https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC8169157&blobtype=pdf)
     * ![ehaa947f6](https://user-images.githubusercontent.com/2707039/164894778-9710f18d-e055-4f62-bdcb-618687771d77.jpeg)
-    * Among the 181 countries included in this analysis, we found a positive correlation between sodium intake and healthy life expectancy at birth (β = 2.6 years/g of daily sodium intake, R^2^ = 0.66, P < 0.001), as well as healthy life expectancy at age 60(β = 0.3 years/g of daily sodium intake, R^2^ = 0.60, P = 0.048) but not for death due to non-communicable diseases(β = 17 events/g of daily sodium intake, R^2^ = 0.43, P = 0.100). Conversely, all-cause mortality correlated inversely with sodium intake (β = -131 events/g of daily sodium intake, R^2^ = 0.60, P < 0.001). In a sensitivity analysis restricted to 46 countries in the highest income class, sodium intake continued to correlate positively with healthy life expectancy at birth (β = 3.4 years/g of daily sodium intake, R^2^ = 0.53, P < 0.001) and inversely with all-cause mortality (β = -168 events/g of daily sodium intake, R^2^ = 0.50, P < 0.001).
-    * 该(大范围)研究认为更多的钠摄入与显著更低的全因死亡率有关
-    * [针对该论文的延伸解读和讨论: A Fresh Foray in the Salt Wars: Life Expectancy Higher With Greater Sodium Intake](https://www.tctmd.com/news/fresh-foray-salt-wars-life-expectancy-higher-greater-sodium-intake)
+    * Among the 181 countries included in this analysis, we found a positive correlation between sodium intake and healthy life expectancy at birth (β = 2.6 years/g of daily sodium intake, R<sup>2</sup> = 0.66, P < 0.001), as well as healthy life expectancy at age 60(β = 0.3 years/g of daily sodium intake, R<sup>2</sup> = 0.60, P = 0.048) but not for death due to non-communicable diseases(β = 17 events/g of daily sodium intake, R<sup>2</sup> = 0.43, P = 0.100). Conversely, all-cause mortality correlated inversely with sodium intake (β = -131 events/g of daily sodium intake, R<sup>2</sup> = 0.60, P < 0.001). In a sensitivity analysis restricted to 46 countries in the highest income class, sodium intake continued to correlate positively with healthy life expectancy at birth (β = 3.4 years/g of daily sodium intake, R<sup>2</sup> = 0.53, P < 0.001) and inversely with all-cause mortality (β = -168 events/g of daily sodium intake, R<sup>2</sup> = 0.50, P < 0.001).
+    * This (extensive) study links higher sodium intake with significantly lower ACM
+    * [Extended interpretation and discussion of the paper: A Fresh Foray in the Salt Wars: Life Expectancy Higher With Greater Sodium Intake](https://www.tctmd.com/news/fresh-foray-salt-wars-life-expectancy-higher-greater-sodium-intake)
   * [NEJM/Lancet: 不要吃太多盐, 中国饮食所致心血管病和癌症死亡全球第一, 吃低钠盐可降低全因死亡率](https://ibook.antpedia.com/x/669028.html)
-    * 但也有多项研究认为用低钠盐可以降低一系列疾病的发生概率, 对全因死亡率的减少有积极影响
-* 碳水(存有大量争议)
+    * However, many studies show that use low sodium salts can reduce the probability of a series of diseases and have a positive impact on the reduction of ACM.
+* Carbohydrates(Seriously controversial)
   * [低碳生酮饮食(四)碳水化合物与长期死亡率](https://zhuanlan.zhihu.com/p/137815934)
-    * 出处: The Lancet Public Health - [Dietary carbohydrate intake and mortality: a prospective cohort study and meta-analysis](https://www.sciencedirect.com/science/article/pii/S246826671830135X)
-    * 碳水越低, 寿命越短；碳水越高, 寿命也轻微缩短；碳水50%左右(其实按照一般的说法, 这也算高碳水)是最长寿命区间 
-    * ![碳水](https://user-images.githubusercontent.com/2707039/163703985-a2e2f8ac-101a-4f3c-903b-6850507f144b.jpg)
+    * Reference: The Lancet Public Health - [Dietary carbohydrate intake and mortality: a prospective cohort study and meta-analysis](https://www.sciencedirect.com/science/article/pii/S246826671830135X)
+    * The less carbs, the shorter the lifespan. However, more carbs also slightly shorten lifespan. 50% carbs are associated with the longest lifespan.
+    * ![Carbs](https://user-images.githubusercontent.com/2707039/163703985-a2e2f8ac-101a-4f3c-903b-6850507f144b.jpg)
   * [最强营养搭配！BMJ: 这么吃, 心血管疾病和死亡风险更低](https://www.chinacdc.cn/gwxx/202003/t20200323_214639.html)
-* 槟榔
+* Betel nut
   * [如何看待槟榔嚼出来的癌症？槟榔致癌风险究竟有多大？ - 丁香医生的回答 - 知乎](https://www.zhihu.com/question/312784161/answer/603370131)
-    * 出处: Chewing Betel Quid and the Risk of Metabolic Disease, Cardiovascular Disease, and All-Cause Mortality: A Meta-Analysis(https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0070679)
-    * 嚼槟榔会增加21%的全因死亡率
-* 热量限制
+    * Reference: Chewing Betel Quid and the Risk of Metabolic Disease, Cardiovascular Disease, and All-Cause Mortality: A Meta-Analysis(https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0070679)
+    * Chewing betel nut increases ACM by 21%
+* Caloric Restriction
   * [怎么看待BBC《进食, 断食与长寿》？](https://www.zhihu.com/question/31395511)
-    * 限制卡路里动物实验: CR(热量限制, 即少吃)延迟了恒河猴的多种疾病发病和死亡率, 与CR动物相比, 正常喂养的猴子的各种疾病患病风险增加2.9倍, 死亡风险增加3.0倍. 
-    * ![热量限制-恒河猴](https://user-images.githubusercontent.com/2707039/163703988-8767185b-326a-4783-b2e2-f190322bb7d6.jpg)
-* 综合
+    * Animal experiments show that CR (caloric restriction, i.e. eating less) delayed multiple disease morbidity and mortality in rhesus monkeys. Compared with CR animals, normally fed monkeys had a 2.9-fold increased risk of various diseases and a 3.0-fold increased risk of death.
+    * ![CR-Macaca mulatta](https://user-images.githubusercontent.com/2707039/163703988-8767185b-326a-4783-b2e2-f190322bb7d6.jpg)
+* Complex
   * [最强营养搭配！BMJ: 这么吃, 心血管疾病和死亡风险更低](https://www.chinacdc.cn/gwxx/202003/t20200323_214639.html)
-    * 通过对这些参与者的数据进行分析, 研究人员发现碳水化合物(糖, 淀粉和纤维)和蛋白质的摄入与全因死亡率呈非线性关系, 而脂肪则与全因死亡率呈线性相关. 其中, 较高的糖分摄入与全因死亡风险和患心血管疾病的风险较高均有关联, 而较高的饱和脂肪酸摄入与全因死亡风险较高有关. 
-    * 图1: 各种营养元素与全因死亡之间的关系
-    * ![各种营养元素与全因死亡之间的关系](https://user-images.githubusercontent.com/2707039/163702022-8c2bfea9-ed5d-4fe0-8ead-e8740014b92b.jpg)
-    * 图2: 各种营养元素与心血管疾病之间的关系
-    * ![各种营养元素与心血管疾病之间的关系](https://user-images.githubusercontent.com/2707039/163702084-97fb4a03-707c-475d-b88e-6fe2f8e87f92.jpg)
-    * **进一步研究表明, 在所有的饮食模式中, 全因死亡率风险最低的饮食方式为: 10-30g高纤维, 14-30%蛋白质, 10-25%单不饱和脂肪酸, 5%-7%多不饱和脂肪酸以及20%-30%淀粉摄入. **
-    * **最优能量来源配比: <24%淀粉, 15%-17%蛋白质, >15%单不饱和脂肪酸, <15%糖, 6%饱和脂肪酸, 6%多不饱和脂肪酸, 30g+高纤维**
+  * [Associations of fat and carbohydrate intake with cardiovascular disease and mortality: prospective cohort study of UK Biobank participants](https://doi.org/10.1136/bmj.m688)
+    * By analyzing these participants' data, the researchers found that carbohydrate (sugar, starch, and fiber) and protein intake were non-linearly associated with all-cause mortality, while fat was linearly associated with all-cause mortality. Among them, higher sugar intake was associated with a higher risk of all-cause mortality and cardiovascular disease, while higher intake of saturated fatty acids was associated with a higher risk of all-cause mortality.
+    * Fig 1: The relationship between various nutrients and ACM
+    * ![The relationship between various nutrients and ACM](https://user-images.githubusercontent.com/2707039/163702022-8c2bfea9-ed5d-4fe0-8ead-e8740014b92b.jpg)
+    * Fig 2: The relationship between various nutrients and cardiovascular disease
+    * ![The relationship between various nutrients and cardiovascular disease](https://user-images.githubusercontent.com/2707039/163702084-97fb4a03-707c-475d-b88e-6fe2f8e87f92.jpg)
+    * **Further research showed that among all dietary patterns, the dietary pattern with the lowest risk of all-cause mortality was: 10-30g high fiber, 14-30% protein, 10-25% monounsaturated fatty acids, 5%-7% polyunsaturated fatty acids and 20%-30% starch intake. **
+    * **Optimum energy source ratio: <24% starch, 15%-17% protein, >15% monounsaturated fatty acid, <15% sugar, 6% saturated fatty acid, 6% polyunsaturated fatty acid, >30ghigh fiber**
   * [BMJ | 常吃薯片汉堡巧克力等食品, 平均死亡年龄仅仅为58岁, 死亡风险剧增](https://med.ckcest.cn/details.html?id=5183272274855936&classesEn=news)
     * [Rico-Campà A, Martínez-González M A, Alvarez-Alvarez I, et al. Association between consumption of ultra-processed foods and all cause mortality: SUN prospective cohort study[J]. bmj, 2019, 365.](https://www.bmj.com/content/365/bmj.l1949.full)
     * [Srour B, Fezeu L K, Kesse-Guyot E, et al. Ultra-processed food intake and risk of cardiovascular disease: prospective cohort study (NutriNet-Santé)[J]. bmj, 2019, 365.](https://www.bmj.com/content/365/bmj.l1451)
@@ -148,76 +149,78 @@
 
 ##### 6.1.2. Liquid
 
-* 牛奶
+* Milk
   * [《柳叶刀》调研21个国家13万人: 每天1斤牛奶或酸奶, 心血管死亡风险下降23%](https://www.sohu.com/a/253940257_419768)
-  * 出处: [Association of dairy intake with cardiovascular disease and mortality in 21 countries from five continents (PURE): a prospective cohort study](http://mdrf-eprints.in/1114/1/Association_of_dietary_patterns_and_dietary_diversity_with_cardiometabolic_disease_risk_factors.pdf)
-  * 与不食用乳制品的人相比, 每天摄入两份乳制品(一份指244克牛奶/酸奶, 15克奶酪或5克黄油)的人, **全因死亡风险下降了17%**, 心血管死亡风险下降23%, 中风风险下降33%
-* 茶
+  * Reference: [Association of dairy intake with cardiovascular disease and mortality in 21 countries from five continents (PURE): a prospective cohort study](http://mdrf-eprints.in/1114/1/Association_of_dietary_patterns_and_dietary_diversity_with_cardiometabolic_disease_risk_factors.pdf)
+  * People who ate two servings of dairy products a day had **a 17% lower risk of all-cause death**, a 23% lower risk of cardiovascular death, and a 33% lower risk of stroke compared to those who didn't eat dairy. (one serving was 244 grams of milk/yogurt, 15 grams of cheese, or 5 grams of butter)
+* Tea
   * [10万中国人随访7年发现, 每周喝三次茶与全因死亡风险降低15%, 预期寿命增加1.26年相关 ](https://www.jianshu.com/p/5461a205cf95?utm_campaign=hugo)
-  * 出处: [Tea consumption and the risk of atherosclerotic cardiovascular disease and all-cause mortality: The China-PAR project](https://www.researchgate.net/profile/Fangchao-Liu-4/publication/338483323_Tea_consumption_and_the_risk_of_atherosclerotic_cardiovascular_disease_and_all-cause_mortality_The_China-PAR_project/links/5e55e5e94585152ce8efe511/Tea-consumption-and-the-risk-of-atherosclerotic-cardiovascular-disease-and-all-cause-mortality-The-China-PAR-project.pdf)
+  * Reference: [Tea consumption and the risk of atherosclerotic cardiovascular disease and all-cause mortality: The China-PAR project](https://www.researchgate.net/profile/Fangchao-Liu-4/publication/338483323_Tea_consumption_and_the_risk_of_atherosclerotic_cardiovascular_disease_and_all-cause_mortality_The_China-PAR_project/links/5e55e5e94585152ce8efe511/Tea-consumption-and-the-risk-of-atherosclerotic-cardiovascular-disease-and-all-cause-mortality-The-China-PAR-project.pdf)
   * [中国成年人饮茶与死亡风险的前瞻性关联研究](http://rs.yiigle.com/CN112338202202/1351516.htm)
-  * 纳入分析的438 443例研究对象随访11.1年共发生死亡34 661例. 与从不饮茶者相比, 当前非每日饮茶者和每日饮茶者全因死亡HR值(95%CI)依次为0.89(0.86~0.91)和0.92(0.88~0.95). 分性别分析显示, 饮茶对全因死亡风险的保护作用主要见于男性(交互P<0.05)
-* 无糖(甜味)饮料
+  * A total of 34,661 deaths occurred in the 438,443 subjects included in the analysis during 11.1 years of follow-up.Compared with never tea drinkers, current non-daily tea drinkers and daily tea drinkers had HR values (95%CI) of all-cause mortality of 0.89 (0.86-0.91) and 0.92 (0.88-0.95), respectively. By gender The analysis showed that the protective effect of tea drinking on the risk of all-cause mortality was mainly seen in males (P<0.05 for interaction).
+* Sugar-free (sweet) beverages
   * [「无糖饮料使死亡风险增加 26 %」, 是真的吗？](https://www.zhihu.com/question/418598272/answer/1450648364)
-    * 相比于软饮料摄入量＜1杯/月的参与者, 混合软饮料摄入≥1杯/天的参与者死亡风险增加18%, 而**摄入含糖软饮料或无糖软饮料会令死亡风险分别增加11%和27%. **
+    * Participants who consumed ≥1 cup/day of mixed soft drinks had an 18% increased risk of death compared with those who consumed <1 cup/month. **Consumption of sugar-sweetened soft drinks or sugar-free soft drinks was associated with an 11% and 27% increased risk of death, respectively.**
     * ![饮料](https://user-images.githubusercontent.com/2707039/163704346-e7d92e7f-eba5-4673-8f15-3a96782c2e32.png)
   * [Association Between Soft Drink Consumption and Mortality in 10 European Countries](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2749350)
-* 有糖饮料
+* Sugary drinks
   * [可乐和奶茶, 增加全因死亡率高达62%！果汁降低免疫力, 影响肝代谢！含糖饮料那些事](https://zhuanlan.zhihu.com/p/400746073)
-    * 每天1杯含糖饮料增加7%全因死亡率, 2杯21%
-    * 在34年的随访中, 研究人员发现, 相比那些一个月喝1杯或者更少含糖饮料的人, 每天喝2杯的人总体死亡风险升高了21%, 心血管疾病死亡风险升高了31%, 癌症死亡风险上升了16%. 
-    * 只要每天多喝一杯含糖饮料, 总体死亡风险将增加7%, 心血管疾病的风险将增加10%, 癌症相关的死亡风险将16%. 
-    * 发表在国际顶级期刊《BMJ》上的一篇论文就证明了含糖饮料会在增加患癌风险, 当然这篇文章验证的不仅仅是果汁, 奶茶也有份——和含糖饮料相关的总体患癌风险要高出通常值18%, 100%的鲜榨果汁也会使得整体的患癌风险上升12%. 
-* 果汁
+    * 1 cup of sugar-sweetened beverages per day increases all-cause mortality by 7%, and 2 cups increases all-cause mortality by 21%
+    * During 34 years of follow-up, the researchers found that those who drank 2 cups a day had a 21% higher risk of death overall, a 31% higher risk of death from cardiovascular disease, and a 16% higher risk of death from cancer than those who drank 1 or less sugar-sweetened beverages a month.
+    * Drinking one extra sugar-sweetened beverage per day was associated with a 7% increased risk of overall death, a 10% increased risk of cardiovascular disease, and a 16% increased risk of cancer-related death.
+    * A paper published in the "BMJ" proves that sugar-sweetened beverages can increase the risk of cancer. The overall cancer risk associated with sugar-sweetened beverages was 18% higher than usual, and 100% freshly squeezed fruit juice also increased the overall cancer risk by 12%.
+* Juice
   * [JAMA子刊: 100%纯果汁可能比含糖饮料更危险](https://zhuanlan.zhihu.com/p/66513350)
-    * 每天多摄入一份12盎司的含糖饮料, 全因死亡率风险增加11%；
-    * 每天多摄入一份12盎司的果汁, 全因死亡率风险增加24%. 
-* 咖啡
+    * Consuming an extra 12-ounce serving of sugar-sweetened beverages per day was associated with an 11% increased risk of all-cause mortality.
+    * Consuming an extra 12-ounce serving of fruit juice per day was associated with a 24% increased risk of all-cause mortality.
+* Coffee
   * [重磅！多篇研究证实喝咖啡与人群全因死亡率降低直接相关](https://news.bioon.com/article/6725420.html)
   * [科普 | 喝咖啡又多了一个新理由: 降低死亡率！ ](https://www.sohu.com/a/439412995_100003595)
   * [地中海成年人咖啡消耗量及全因, 心血管疾病和癌症的死亡率](https://fanyi.pdf365.cn/help/249)
-    * 在最近的荟萃分析中, 该研究包括来自不同国家的40项研究和3,852,651名受试者. 在这项荟萃分析显示, 咖啡摄入量与各种原因的死亡率, CVD和癌症死亡率之间存在非线性关系, 每天摄入两杯咖啡的癌症死亡率最低(RR = 0.96), CVD最低的死亡率, 每天2.5杯(RR= 0.83), 全天最低死亡率为每天3.5杯(RR= 0.85), 并且随着咖啡消费量的增加, 死亡率没有进一步降低或增加
-* 亚精胺
+    * In the most recent meta-analysis, the study included 40 studies and 3,852,651 subjects from different countries.In this meta-analysis, non-linear relationships between coffee intake and all-cause mortality, CVD and cancer mortality were shown. Two cups of coffee per day were associated with the lowest cancer mortality (RR = 0.96), 2.5 cups per day for CVD mortality (RR = 0.83), and 3.5 cups per day for all-day mortality (RR = 0.85). And as coffee consumption increased, mortality did not further decrease or increase.
+* Spermidine
   * [Science: 科学背书！从精液中发现的亚精胺, 竟然有着抗衰老, 抗癌, 保护心血管和神经, 改善肥胖和2型糖尿病等逆天神效](https://www.medsci.cn/article/show_article.do?id=420d12904103)
   * [饮食中亚精胺摄入量高会降低死亡率](https://zhuanlan.zhihu.com/p/388942219)
 
 ##### 6.1.3. Gas
 
-* 吸烟
+* Smoking
   * [即使是低强度吸烟, 也增加死亡风险！](https://www.medsci.cn/article/show_article.do?id=02ca2083319b)
-    * 研究发现: 在42 416名男性和86 735名女性(年龄在35-89岁之间, 以前没有患病)中, 18 985名男性(45%)和18 072名女性(21%)目前吸烟, 其中33%的男性吸烟者和39%的女性吸烟者并不每天吸烟. 8866名男性(21%)和53 912名女性(62%)从不吸烟. 在随访期间, 与从不吸烟相比, 每天<10支烟或每天≥10支烟的全因死亡率危险比分别为1.17(95%置信区间1.10-1.25)和1.54(1.42-1.67). 无论年龄或性别, 危险比相似. 与每日吸烟关系最密切的疾病是呼吸道癌症, 慢性阻塞性肺病和胃肠道及血管疾病. 在招募时已经戒烟的人的死亡率低于现在每天吸烟者. 
-    * 吸烟者平均减少寿命11-12年
+    * Among the 42,416 men and 86,735 women(aged 35-89 years with no previous disease), 18,985 men (45%) and 18,072 women (21%) were current smokers, with 33% of men and 39% of women not smoking daily. 8866 men (21%) and 53 912 women (62%) never smoked. During follow-up, the hazard ratios for all-cause mortality compared with never smoking were 1.17 (95% CI 1.10-1.25) and 1.54 (1.42-1.67) for <10 cigarettes per day or ≥10 cigarettes per day, respectively. Hazard ratios were similar regardless of age or gender. The diseases most closely associated with daily smoking are respiratory cancers, chronic obstructive pulmonary disease, and gastrointestinal and vascular diseases. People who quit smoking at the time of recruitment had lower mortality rates than current daily smokers.
+    * Smokers lose 11-12 years of life on average.
   * [吸烟让人过瘾是什么原理？有节制的吸烟依旧有害吗？](https://www.zhihu.com/question/24846224/answer/1719798177)
 
 ##### 6.1.4. Illumination
 
-* 晒太阳
+* Sunbathe
   * [晒太阳和死亡率的关系, 如何科学, 安全的晒太阳？
 ](https://zhuanlan.zhihu.com/p/76301306)
-    * 丹麦一项长达26年的研究发现, 多晒太阳能显著延长寿命, 即使是由于过度暴晒诱发皮肤癌的患者, 平均寿命也比普通人长了6岁. 
+    * A 26-year Danish study found that more sun exposure significantly increased life expectancy, and even patients with skin cancer caused by excessive sun exposure lived an average of 6 years longer than the average person.
 
 ##### 6.1.5. Medicine
 
 * NMN
-* 二甲双胍
+* Metformin
   * [“胍”吹必看 丨我就是神药——二甲双胍](https://zhuanlan.zhihu.com/p/419202902)
-    * 二甲双胍不仅在多种肿瘤, 心血管疾病及糖尿病中发挥保护作用, 而且在肥胖, 肝病, 肾病及衰老方面也大放异彩. 
+    * Metformin not only plays a protective role in various tumors, cardiovascular diseases and diabetes, but also plays a role in obesity, liver disease, kidney disease and aging.
   * [二甲双胍2020最值得了解的“吃瓜”大新闻——护胃, 健脑, 抗衰, 防癌还是致癌？](https://zhuanlan.zhihu.com/p/357807109)
   * [二甲双胍真的那么神吗？美研究: 父亲服用二甲双胍或致子女有缺陷](https://baijiahao.baidu.com/s?id=1729999374705305768)
   * ![二甲双胍](https://user-images.githubusercontent.com/2707039/163702325-5d427542-9ae5-4311-8979-d0d326a9832f.jpg)
-  * 不良反应
-    * 作为一种使用近百年的药物, 二甲双胍的不良反应已经非常明确, 常见的有: 维生素B12缺乏(7%-17.4%), 胃肠道不良反应(最高53%), 疲倦(9%), 头痛(6%)；严重但不常见的不良反应包括乳酸酸中毒, 肝损伤；也有研究表明可能对胎儿致畸
-* 复合维生素
+  * Adverse reactions
+    * As a drug that has been used for nearly a hundred years, the adverse reactions of metformin have been very clear. The common ones are: vitamin B12 deficiency (7%-17.4%), gastrointestinal adverse reactions (up to 53%), fatigue (9%), headache (6%). 
+	* Serious but infrequent adverse reactions include lactic acidosis, liver damage. 
+	* Studies have also shown that it may be teratogenic to the fetus
+* Multi-vitamins
   * [服用复合维生素可降低癌症危险8%, 其他效果并不显著](https://health.qq.com/a/20121023/000026.htm)
-* 葡萄糖胺
+* Glucosamine
   * [神奇！氨糖降低心血管死亡率65%, 与定期运动效果相当](https://www.sohu.com/a/436372221_120873241)
-  * 美国西弗吉尼亚大学最新研究发现 氨糖(软骨素) 可以降低心血管死亡率65%, 降低总体死亡率39%, 效果与坚持定期运动相对
-  * 该研究使用1999年至2010年, 16,686名成年人的国家健康和营养检查(NHANES)数据, 参与者的中位追踪时间为107个月, 而其中有648位参与者定期且每服用日500-1000毫克的葡萄糖胺/软骨素一年以上. 
-* 亚精胺
+  * The latest research from West Virginia University found that glucosamine (chondroitin) can reduce cardiovascular mortality by 65% and reduce overall mortality by 39%, which is equivalent to regular exercise.
+  * The study used National Health and Nutrition Examination (NHANES) data from 16,686 adults from 1999 to 2010. Participants were followed for a median of 107 months, and 648 of them took 500-1000 mg of glucosamine/chondroitin daily for more than one year on a regular basis.
+* Spermidine
   * [Science: 科学背书！从精液中发现的亚精胺, 竟然有着抗衰老, 抗癌, 保护心血管和神经, 改善肥胖和2型糖尿病等逆天神效](https://www.medsci.cn/article/show_article.do?id=420d12904103)
-  * 亚精胺是最容易从人体肠道吸收的多胺. 许多的食物中都含有大量的亚精胺, 例如新鲜的青椒, 小麦胚芽, 花椰菜, 西兰花, 蘑菇和各种奶酪, 尤其在纳豆等大豆制品, 香菇和榴莲中含量更高. 在本实验中, 研究人员选择了829位年龄在45-84岁之间的参与者进行了为期20年的随访, 分析了饮食中亚精胺摄入量与人类死亡率之间的潜在关联. 
-  * 研究发现, 女性的亚精胺摄入量高于男性, 并且摄入量都会随着年龄的增长而下降. 亚精胺的主要来源是全谷物(占13.4%), 苹果和梨(占13.3%), 沙拉(占9.8%), 芽菜(占7.3%)和马铃薯(占6.4%). 研究根据亚精胺摄入量将人群分为三组, 低摄入量组(<62.2 µmol / d), 中摄入量组(62.2–79.8 µmol / d)和高摄入量组(> 79.8 µmol / d). 随访期间共记录了341例死亡, 其中血管疾病137例, 癌症94例, 其他原因110例. 经计算低中高三组的粗略死亡率分别为40.5%, 23.7%和15.1%, 这些数据表明亚精胺摄入量与全因死亡率之间的负相关关系显著. 随着逐步对年龄, 性别和热量的比例进行调整, 这种相关关系依然显著. 
-* 综合
+  * Spermidine is the most easily absorbed polyamine from the human gut. Spermidine is found in high amounts in many foods, such as fresh green peppers, wheat germ, cauliflower, broccoli, mushrooms and various cheeses, especially in soy products such as natto, shiitake mushrooms and durian. In this experiment, the researchers selected 829 participants aged 45-84 for a 20-year follow-up to analyze the potential association between dietary spermidine intake and human mortality.
+  * The study found that women's spermidine intake was higher than men's, and the intake decreased with age. The main sources of spermidine were whole grains (13.4%), apples and pears (13.3%), salads (9.8%), sprouts (7.3%) and potatoes (6.4%). The study divided the population into three groups based on spermidine intake, low intake (<62.2 µmol/d), moderate intake (62.2–79.8 µmol/d), and high intake (>79.8 µmol/d). A total of 341 deaths were recorded during follow-up, including 137 from vascular disease, 94 from cancer, and 110 from other causes. The crude mortality rates for the low, middle, and high groups were calculated to be 40.5%, 23.7%, and 15.1%, respectively. These data indicate a significant inverse relationship between spermidine intake and all-cause mortality. The relationship remained significant with gradual adjustment for age, sex, and calorie ratios.
+* Complex
   * [《自然》子刊深度综述: 如何开发抗衰老药](https://zhuanlan.zhihu.com/p/145495570)
   * ![如何开发抗衰老药](https://user-images.githubusercontent.com/2707039/163702474-205baeec-f0ce-4e8d-96a4-36efe47534de.jpg)
 
