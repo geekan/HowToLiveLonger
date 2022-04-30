@@ -76,43 +76,44 @@
 * Plain boiled pork
   * [JAMA子刊: 食用红肉和加工肉类会增加心脏病和死亡风险！鱼肉和家禽肉则不会](https://zhuanlan.zhihu.com/p/268401670)
     * Reference: [Associations of Processed Meat, Unprocessed Red Meat, Poultry, or Fish Intake With Incident Cardiovascular Disease and All-Cause Mortality](https://jamanetwork.com/journals/jamainternalmedicine/articlepdf/2759737/jamainternal_zhong_2020_oi_190112.pdf)
-    * Increased red meat intake is associated with risk of death. Respondents who increased red meat intake by at least half a serving per day on average over eight years had a 10% increase in ACM over the next eight years. (HR(95%Cl),1.10(1.04-1.17)) 
+    * Increased red meat intake is associated with risk of death. Respondents who increased red meat intake by at least half a serving per day on average over eight years had a 10% increase in ACM over the next eight years. (HR, 1.10[95%CI, 1.04-1.17])
 	* Eating two servings of read or processed meat(excluding poultry or fish) per week increases ACM by 3%.
 	> P.S. Half serving of red meat is equivalent to 14g processed red meat or 40g unprocessed red meat
-	八年内平均每天增加至少半份红肉摄入(半份红肉相当于14g加工红肉或40g非加工红肉)的调查对象, 在接下来八年内全因死亡风险增加10％(HR, 1.10; 95%CI, 1.04-1.17)；每周吃两份红肉或加工肉类(但不包括家禽或鱼类)会使全因死亡风险增加3%
     * ![红肉](https://user-images.githubusercontent.com/2707039/163703960-6f321de5-4daa-4ea5-95b9-af9c96f1c1bc.jpg)
   * [红肉和白肉最大的区别是什么？为啥要这么分呢？](https://www.zhihu.com/question/67223570/answer/809785380)
-* 蔬果
+* Fruits and vegetables
   * [每年54万人死亡, 竟是因为水果吃得少！？这已成十大死亡因素之一！](https://www.sohu.com/a/322360740_164924)
-    * 出处: [Estimated Global, Regional, and National Cardiovascular Disease Burdens Related to Fruit and Vegetable Consumption: An Analysis from the Global Dietary Database (FS01-01-19) ](https://academic.oup.com/cdn/article-abstract/3/Supplement_1/nzz028.FS01-01-19/5516583)
-    * 每天摄入200克新鲜水果可使死亡率降低17%, 糖尿病大血管并发症(如中风, 缺血性心脏病等)风险降低13%, 及糖尿病小血管并发症(如糖尿病肾病, 糖尿病眼病, 糖尿病足病等)风险降低28%
+    * Reference: [Estimated Global, Regional, and National Cardiovascular Disease Burdens Related to Fruit and Vegetable Consumption: An Analysis from the Global Dietary Database (FS01-01-19) ](https://academic.oup.com/cdn/article-abstract/3/Supplement_1/nzz028.FS01-01-19/5516583)
+	* A daily intake of 200g fresh fruit can reduce ACM by 17%, the risk of diabetic macrovascular complications (e.g. stroke, ischemic heart disease, etc.) by 13%, and the risk of diabetic small blood vessel complications (e.g. diabetic nephropathy, diabetic eye disease, diabetic foot disease, etc.) by 28%.
   * [《自然》子刊: 每天二两西兰花, 健康长寿都有啦！分析近6万人23年的数据发现, 吃含黄酮类食物与死亡风险降低20%相关丨临床大发现](https://mp.weixin.qq.com/s/E6BAi-Vnhr1jXBm0Pys2ZQ)
-    * 出处: [Flavonoid intake is associated with lower mortality in the Danish Diet Cancer and Health Cohort](https://www.nature.com/articles/s41467-019-11622-x)
-    * 吃含黄酮类食物与死亡风险降低20%相关
-    * ![黄酮](https://user-images.githubusercontent.com/2707039/163703969-42e64f88-e727-4e7d-85f2-07a92e29b613.jpg)
-    * Bondonno博士说道“吃不同蔬菜, 水果补充, 不同种类的黄酮类化合物是很重要的, 这很容易通过饮食实现: 一杯茶, 一个苹果, 一个橘子, 100克蓝莓, 或100克西兰花, 就能提供各种黄酮类化合物, 并且总含量超过500毫克. 
-* 辣椒
+    * Reference: [Flavonoid intake is associated with lower mortality in the Danish Diet Cancer and Health Cohort](https://www.nature.com/articles/s41467-019-11622-x)
+    * Eating flavonoid-rich foods linked to 20% lower risk of death
+    * ![Flavonoid](https://user-images.githubusercontent.com/2707039/163703969-42e64f88-e727-4e7d-85f2-07a92e29b613.jpg)
+    * "Interestingly, these threshold levels exist well within daily dietary achievable limits: one cup of tea, one apple, one orange, 100g of blueberries, and 100g of broccoli would provide most of the flavonoid subclasses and over 500mg of total flavonoids."says Dr. Bondonno.
+* Chili
   * [辣椒成死亡克星？据调研, 常吃辣患病死亡风险可降低61%](https://3g.163.com/dy/article/F6Q7I1ME053228ZU.html)
-    * 出处: [Chili pepper consumption and mortality in Italian adults](https://www.sciencedirect.com/science/article/pii/S0735109719382063)
-    * 2016年Plos One 的另一项来自美国的研究以16179名, 年龄在18岁以上的人群为对象, 并对其进行了高达19年的随访, 发现在4946例死亡患者中, 食用辣椒的参与者的全因死亡率为21.6％, 而未食用辣椒的参与者的全因死亡率为33.6％. 相较于不吃辣或很少吃(少于每周两次)的人群, 每周吃辣＞4次的人群总死亡风险降低23%, 心血管死亡风险降低34%. 
-* 鸡蛋
+    * Reference 1: [Chili pepper consumption and mortality in Italian adults](https://www.sciencedirect.com/science/article/pii/S0735109719382063)
+	* Reference 2: [The Association of Hot Red Chili Pepper Consumption and Mortality: A Large Population-Based Cohort Study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0169876)
+    * Another study from Plos One in 2017 looked at 16,179 people aged 18+ and followed them up to 19 years. It was found that among the 4946 patients who died, the ACM rate was 21.6% for those who ate chili peppers, compared with 33.6% for those who did not eat chili peppers. For those who ate spicy food more than four times a week, the overall risk of death was reduced by 23%, and the risk of cardiovascular death was reduced by 34%.
+* Eggs
   * [每天多吃半个蛋, 增加7%的全因和心血管死亡风险？](https://m.thepaper.cn/baijiahao_11540780)
-    * 出处: [NIH-AARP工作主页](https://dietandhealth.cancer.gov/), [Egg and cholesterol consumption and mortality from cardiovascular and different causes in the United States: A population-based cohort study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7872242/)
-    * 每天多吃半个蛋, 增加7%的全因和心血管死亡风险？在假设性替代分析中, 研究者发现, 用等量的蛋清/鸡蛋替代物, 家禽, 鱼, 乳制品, 坚果和豆类分别替代半只全蛋(25克/天)可以降低6%, 8%, 9%, 7%, 13%和10%的全因死亡率. 
-* 坚果
+    * Reference: [NIH-AARP Diet and Health Study](https://dietandhealth.cancer.gov/), [Egg and cholesterol consumption and mortality from cardiovascular and different causes in the United States: A population-based cohort study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7872242/)
+    * Each additional half a whole egg/day was associated with a 7% (HR 1.07; 95% CI 1.06–1.08; P < 0.001) higher risk of all-cause mortality.In hypothetical substitution analyses, we found 6%, 8%, 9%, 7%, 13%, and 10% lower all-cause mortality when replacing half a whole egg (25 g/day) with equivalent amounts of egg whites/substitutes, poultry, fish, dairy products, nuts, and legumes, respectively.
+	* [Egg](https://raw.githubusercontent.com/qhy040404/Image-Resources-Repo/master/pmed.1003508.g002.jpg)
+* Nuts
   * [哈佛20年研究: 吃核桃的人更长寿, 显著减少全因死亡, 延长寿命](https://www.163.com/dy/article/GKVOMMMF05148PF4.html)
-    * 出处: [Association of Walnut Consumption with Total and Cause-Specific Mortality and Life Expectancy in US Adults](https://www.mdpi.com/2072-6643/13/8/2699/pdf)
-    * 通过分析发现, 经常食用核桃可以延长寿命, 降低心血管疾病死亡风险. 比起不吃核桃, 每周食用核桃5份以上(1份28克)的健康预期寿命延长1.3岁, 全因死亡风险降低14%, 心血管疾病死亡率降低25%. 
+    * Reference: [Association of Walnut Consumption with Total and Cause-Specific Mortality and Life Expectancy in US Adults](https://www.mdpi.com/2072-6643/13/8/2699/pdf)
+    * The analysis found that regular consumption of walnuts can prolong life and reduce the risk of death from cardiovascular disease. Compared with no walnuts, eating more than 5 servings(1 serving defined as 28g) of walnuts per week increased healthy life expectancy by 1.3 years and reduced the risk of SCM by 14%, and the risk of cardiovascular mortality by 25%.
   * [研究: 每日食生坚果, 死亡率降20%](https://zhuanlan.zhihu.com/p/44454030)
-    * 出处1: [Association of nut consumption with total and cause-specific mortality](https://www.nejm.org/doi/full/10.1056/NEJMoa1307352)
-    * 出处2: [APG_Health-&-Nutrition-Research-Brochure_DEC-19-18](https://americanpistachios.cn/sites/china/files/inline-files/APG_Health-%26-Nutrition-Research-Brochure_DEC-19-18.pdf)
-    * 研究人员发现, 每周吃树坚果低于1盎司份量的人, 死亡率降低7％. 而每周吃了1盎司份量的人, 减少11％的死亡率；每周吃2份量的人, 减低13％；每周5至6份量者, 减少了15％；一周7份以上的人, 死亡率则减少20％. 
-    * 另外两篇发表在《公共科学图书馆在线期刊》(Public Library of Science Online Journal)和《生物医学中心》(BioMed Central)上的医学预科研究论文, 展示了试验开始时的横断面数据. 这两项研究都评估了7,216名对象, 以及他们食用坚果的频率和数量之间的关系. 那些每周食用三份以上坚果(包括开心果)的研究对象的死亡率降低39%. 
-* 钠(存有大量争议)
+    * Reference 1: [Association of nut consumption with total and cause-specific mortality](https://www.nejm.org/doi/full/10.1056/NEJMoa1307352)
+    * Reference 2: [APG_Health-&-Nutrition-Research-Brochure_DEC-19-18](https://americanpistachios.cn/sites/china/files/inline-files/APG_Health-%26-Nutrition-Research-Brochure_DEC-19-18.pdf)
+    * The researchers found that those who ate less than 1 ounce servings of tree nuts per week had a 7 percent lower mortality rate. Those who ate 1 ounce per week had an 11% reduction in mortality; those who ate 2 per week had a 13% reduction; those who ate 5 to 6 per week had a 15% reduction; and those who ate more than 7 per week had a 20% reduction in mortality.
+    * Two other premed research papers published in the Public Library of Science Online Journal and BioMed Central presented cross-sectional data at the start of the trial. Both studies evaluated 7,216 subjects and the relationship between the frequency and amount of nuts they consumed.Those who ate more than three servings of nuts(including pistachios) a week had a 39 percent lower mortality rate.
+* Sodium(Seriously controversial)
   * [Eur Heart J: 钠摄入量与预期寿命, 全因死亡率的关系](https://nursing.medsci.cn/article/show_article.do;jsessionid=A34E8A33918A152CB55BDD2E5FB1798D?id=afe720486ee7)
-    * 出处: [Messerli F H, Hofstetter L, Syrogiannouli L, et al. Sodium intake, life expectancy, and all-cause mortality[J]. European heart journal, 2021, 42(21): 2103-2112.](https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC8169157&blobtype=pdf)
+    * Reference: [Messerli F H, Hofstetter L, Syrogiannouli L, et al. Sodium intake, life expectancy, and all-cause mortality[J]. European heart journal, 2021, 42(21): 2103-2112.](https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC8169157&blobtype=pdf)
     * ![ehaa947f6](https://user-images.githubusercontent.com/2707039/164894778-9710f18d-e055-4f62-bdcb-618687771d77.jpeg)
-    * 在该分析所包含的181个国家中, 研究人员发现钠摄入量与出生时的健康预期寿命(β=2.6年/克每日钠摄入量, R2=0.66, P<0.001)和60岁时的健康预期寿命(β=0.3年/克每日钠摄入量, R2=0.60, P=0.048)之间存在正相关关系, 但与非传染性疾病死亡(β=17次事件/克每日钠摄入量, R2=0.43, P=0.100)无关. 相反, 全因死亡率与钠摄入量成负相关(β=−131次事件/克每日钠摄入量, R2=0.60, P<0.001). 在仅限于46个收入最高国家的敏感性分析中, 钠摄入量与出生时的健康预期寿命呈正相关(β=3.4年/克每日钠摄入量, R2=0.53, P<0.001), 而与全因死亡率(β=−168次事件/克每日钠摄入量, R2=0.50, P<0.001)呈负相关. 
+    * Among the 181 countries included in this analysis, we found a positive correlation between sodium intake and healthy life expectancy at birth (β = 2.6 years/g of daily sodium intake, R^2^ = 0.66, P < 0.001), as well as healthy life expectancy at age 60(β = 0.3 years/g of daily sodium intake, R^2^ = 0.60, P = 0.048) but not for death due to non-communicable diseases(β = 17 events/g of daily sodium intake, R^2^ = 0.43, P = 0.100). Conversely, all-cause mortality correlated inversely with sodium intake (β = -131 events/g of daily sodium intake, R^2^ = 0.60, P < 0.001). In a sensitivity analysis restricted to 46 countries in the highest income class, sodium intake continued to correlate positively with healthy life expectancy at birth (β = 3.4 years/g of daily sodium intake, R^2^ = 0.53, P < 0.001) and inversely with all-cause mortality (β = -168 events/g of daily sodium intake, R^2^ = 0.50, P < 0.001).
     * 该(大范围)研究认为更多的钠摄入与显著更低的全因死亡率有关
     * [针对该论文的延伸解读和讨论: A Fresh Foray in the Salt Wars: Life Expectancy Higher With Greater Sodium Intake](https://www.tctmd.com/news/fresh-foray-salt-wars-life-expectancy-higher-greater-sodium-intake)
   * [NEJM/Lancet: 不要吃太多盐, 中国饮食所致心血管病和癌症死亡全球第一, 吃低钠盐可降低全因死亡率](https://ibook.antpedia.com/x/669028.html)

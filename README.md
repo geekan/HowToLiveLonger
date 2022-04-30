@@ -93,12 +93,14 @@
     * Bondonno博士说道“吃不同蔬菜、水果补充，不同种类的黄酮类化合物是很重要的，这很容易通过饮食实现：一杯茶、一个苹果、一个橘子、100克蓝莓，或100克西兰花，就能提供各种黄酮类化合物，并且总含量超过500毫克。
 * 辣椒
   * [辣椒成死亡克星？据调研，常吃辣患病死亡风险可降低61%](https://3g.163.com/dy/article/F6Q7I1ME053228ZU.html)
-    * 出处：[Chili pepper consumption and mortality in Italian adults](https://www.sciencedirect.com/science/article/pii/S0735109719382063)
-    * 2016年Plos One 的另一项来自美国的研究以16179名，年龄在18岁以上的人群为对象，并对其进行了高达19年的随访，发现在4946例死亡患者中，食用辣椒的参与者的全因死亡率为21.6％，而未食用辣椒的参与者的全因死亡率为33.6％。相较于不吃辣或很少吃（少于每周两次）的人群，每周吃辣＞4次的人群总死亡风险降低23%，心血管死亡风险降低34%。
+    * 出处1：[Chili pepper consumption and mortality in Italian adults](https://www.sciencedirect.com/science/article/pii/S0735109719382063)
+	* 出处2：[The Association of Hot Red Chili Pepper Consumption and Mortality: A Large Population-Based Cohort Study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0169876)
+    * 2017年Plos One 的另一项来自美国的研究以16179名，年龄在18岁以上的人群为对象，并对其进行了高达19年的随访，发现在4946例死亡患者中，食用辣椒的参与者的全因死亡率为21.6％，而未食用辣椒的参与者的全因死亡率为33.6％。相较于不吃辣或很少吃（少于每周两次）的人群，每周吃辣＞4次的人群总死亡风险降低23%，心血管死亡风险降低34%。
 * 鸡蛋
   * [每天多吃半个蛋，增加7%的全因和心血管死亡风险？](https://m.thepaper.cn/baijiahao_11540780)
     * 出处：[NIH-AARP工作主页](https://dietandhealth.cancer.gov/)、[Egg and cholesterol consumption and mortality from cardiovascular and different causes in the United States: A population-based cohort study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7872242/)
     * 每天多吃半个蛋，增加7%的全因和心血管死亡风险？在假设性替代分析中，研究者发现，用等量的蛋清/鸡蛋替代物、家禽、鱼、乳制品、坚果和豆类分别替代半只全蛋（25克/天）可以降低6%、8%、9%、7%、13%和10%的全因死亡率。
+	*[鸡蛋](https://raw.githubusercontent.com/qhy040404/Image-Resources-Repo/master/pmed.1003508.g002.jpg)
 * 坚果
   * [哈佛20年研究：吃核桃的人更长寿，显著减少全因死亡，延长寿命](https://www.163.com/dy/article/GKVOMMMF05148PF4.html)
     * 出处：[Association of Walnut Consumption with Total and Cause-Specific Mortality and Life Expectancy in US Adults](https://www.mdpi.com/2072-6643/13/8/2699/pdf)
@@ -112,7 +114,7 @@
   * [Eur Heart J：钠摄入量与预期寿命、全因死亡率的关系](https://nursing.medsci.cn/article/show_article.do;jsessionid=A34E8A33918A152CB55BDD2E5FB1798D?id=afe720486ee7)
     * 出处：[Messerli F H, Hofstetter L, Syrogiannouli L, et al. Sodium intake, life expectancy, and all-cause mortality[J]. European heart journal, 2021, 42(21): 2103-2112.](https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC8169157&blobtype=pdf)
     * ![ehaa947f6](https://user-images.githubusercontent.com/2707039/164894778-9710f18d-e055-4f62-bdcb-618687771d77.jpeg)
-    * 在该分析所包含的181个国家中，研究人员发现钠摄入量与出生时的健康预期寿命（β=2.6年/克每日钠摄入量，R2=0.66，P<0.001）和60岁时的健康预期寿命（β=0.3年/克每日钠摄入量，R2=0.60，P=0.048）之间存在正相关关系，但与非传染性疾病死亡（β=17次事件/克每日钠摄入量，R2=0.43，P=0.100）无关。相反，全因死亡率与钠摄入量成负相关（β=−131次事件/克每日钠摄入量，R2=0.60，P<0.001）。在仅限于46个收入最高国家的敏感性分析中，钠摄入量与出生时的健康预期寿命呈正相关（β=3.4年/克每日钠摄入量，R2=0.53，P<0.001），而与全因死亡率（β=−168次事件/克每日钠摄入量，R2=0.50，P<0.001）呈负相关。
+    * 在该分析所包含的181个国家中，研究人员发现钠摄入量与出生时的健康预期寿命（β=2.6年/克每日钠摄入量，R^2^=0.66，P<0.001）和60岁时的健康预期寿命（β=0.3年/克每日钠摄入量，R^2^=0.60，P=0.048）之间存在正相关关系，但与非传染性疾病死亡（β=17次事件/克每日钠摄入量，R^2^=0.43，P=0.100）无关。相反，全因死亡率与钠摄入量成负相关（β=−131次事件/克每日钠摄入量，R^2^=0.60，P<0.001）。在仅限于46个收入最高国家的敏感性分析中，钠摄入量与出生时的健康预期寿命呈正相关（β=3.4年/克每日钠摄入量，R^2^=0.53，P<0.001），而与全因死亡率（β=−168次事件/克每日钠摄入量，R^2^=0.50，P<0.001）呈负相关。
     * 该（大范围）研究认为更多的钠摄入与显著更低的全因死亡率有关
     * [针对该论文的延伸解读和讨论：A Fresh Foray in the Salt Wars: Life Expectancy Higher With Greater Sodium Intake](https://www.tctmd.com/news/fresh-foray-salt-wars-life-expectancy-higher-greater-sodium-intake)
   * [NEJM/Lancet：不要吃太多盐，中国饮食所致心血管病和癌症死亡全球第一，吃低钠盐可降低全因死亡率](https://ibook.antpedia.com/x/669028.html)
