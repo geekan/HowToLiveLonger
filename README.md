@@ -1,4 +1,8 @@
-<h1><center> 程序员延寿指南 </h1></center>
+<h1><center> 程序员延寿指南 </center></h1>
+
+---
+
+- [English Version](README_en.md)
 
 ---
 
