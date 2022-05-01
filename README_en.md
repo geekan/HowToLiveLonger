@@ -229,64 +229,66 @@
 ##### 6.2.1. Racquet Sports
 
 * [哪种运动性价比最高？权威医学杂志“柳叶刀”给出答案了 ](https://www.sohu.com/a/535581770_121124216)
-  * 一周三次, 每次45-60分钟, 挥拍运动, 降低~47%全因死亡率
-  * 羽毛球, 乒乓球, 网球等都算挥拍运动, 但由于西化研究背景, 可能指网球更多. 这隐式的表达了全身锻炼更为重要
+  * Three times a week, 45-60 minutes of racquet sports, reduces all-cause mortality by ~47%
+  * Badminton, table tennis, tennis, etc. are all racquet sports. But due to the westernized research background, it may refer to tennis more. This implicitly expresses that the whole body exercise is more important. (Translator's Note: pickleball)
 
 ##### 6.2.2. Walk
 
 * [走路降低全因死亡率超过50%！每天走多少步最合适？《JAMA》子刊超10年研究告诉你答案](http://www.shcell.org/219/3571.html)
   * ![走路降低全因死亡率](https://user-images.githubusercontent.com/2707039/163704147-afec1c79-799b-4db8-b547-1a2431d504c9.jpg)
-  * 注1: 这项研究参与者的平均年龄为45.2岁
-  * 注2: 平均步数的多少与职业有关, 此项研究仅表明相关性, 还没有更深度的因果分析
+  * Note 1: The average age of participants in this study was 45.2 years old.
+  * Note 2: The average number of steps is related to occupation. This study only shows correlation, not causation.
 
 ##### 6.2.3. Tooth brushing
 
 * [50万国人研究证实: 不好好刷牙, 致癌！血管疾病也会增多！](https://www.cn-healthcare.com/articlewm/20211209/content-1293760.html)
-  * 经常不刷牙的人: 癌症, 慢性阻塞性肺病及肝硬化风险分别增加了9%, 12%和25%, 过早死亡风险增加25%. 
+  * People who don't brush their teeth regularly: increased risk of cancer, chronic obstructive pulmonary disease and cirrhosis by 9%, 12% and 25%, respectively, and increased risk of premature death by 25%.
 
 ##### 6.2.4. Bath
 
 * [定期洗澡降低心血管疾病发作风险](https://www.cn-healthcare.com/article/20200326/content-533379.html)
-  * 与每周一至两次泡澡或根本不泡澡相比, 每天洗热水澡可以降低28%的心血管疾病总风险, 降低26%的中风总风险, 脑出血风险下降46%. 而浴缸浴的频率与心源性猝死的风险增加无关. 
+  * A daily hot bath was associated with a 28% lower overall risk of cardiovascular disease, a 26% lower overall risk of stroke, and a 46% lower risk of cerebral hemorrhage compared to taking a bath one to two times a week or no bathing at all. The frequency was not associated with an increased risk of sudden cardiac death.
 
 ##### 6.2.5. Housework(for aging males)
 
 * [Housework Reduces All-Cause and Cancer Mortality in Chinese Men](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0061529)
-  * 72岁之后男性每周做重型家务可以减少29%平均死亡率
-  * 重型家务: 吸尘, 擦地板, 拖地, 擦洗窗户, 洗车, 搬动家具, 搬煤气罐等等. 
-  * 轻型家务: 掸灰尘, 洗碗, 手洗衣服, 熨烫, 晾衣服, 做饭, 买日用品等等. 
+  * Weekly heavy housework for men after age 72 can reduce the average mortality rate by 29%.
+    > Heavy housework: vacuuming, mopping floors, mopping floors, scrubbing windows, washing cars, moving furniture, moving gas tanks, etc.
+    > Light housework: dusting, washing dishes, hand washing clothes, ironing, drying clothes, cooking, shopping for daily necessities, etc.
 
 ##### 6.2.6. Sleep
 
 * [超30万亚洲人数据: 每天睡几个小时最有益长寿？](https://med.sina.com/article_detail_103_1_105491.html)
-  * 在男性中, 与睡眠时长为7小时相比: 睡眠持续时间≥10小时与全因死亡风险增加34%相关；
+  * For men, a sleep duration of ≥10 hours was associated with a 34% increased risk of all-cause mortality compared with a sleep duration of 7 hours.
   * ![睡眠-男](https://user-images.githubusercontent.com/2707039/163704166-226b7ebb-92ce-4753-a3e7-77a87652a104.jpg)
-  * 在女性中, 与睡眠持续时间7小时相比: 睡眠持续时间≥10小时与全因死亡风险增加48%相关；
+  * For women, a sleep duration of ≥10 hours was associated with a 48% increased risk of all-cause mortality compared with a sleep duration of 7 hours.
   * ![睡眠-女](https://user-images.githubusercontent.com/2707039/163704169-c5c715aa-7130-403b-b0d1-ec34fab094d8.png)
 * [颠覆认知！加拿大研究发现: 早睡比熬夜或许更伤身, 几点睡才好？](https://www.thepaper.cn/newsDetail_forward_14461799)
-  * 其中一个结论为, 就寝时间与全因死亡率的关联性强, 过早睡觉和过晚睡觉都会影响健康, 但是早睡增加的全因死亡率比晚睡增加的死亡率高, 早睡增加了43%的死亡风险, 而晚睡增加了15%的死亡风险. 
-  * 这项调查研究, 还存在很多局限性, 比如没有直接证明就寝时间与死亡的关系, 仅仅说明相关性, 通过参与人群自我报告统计睡眠时间, 数据不够客观
+  * One conclusion is that bedtime is strongly associated with all-cause mortality, and that going to bed too early and going to bed too late can affect health. But going to bed early was associated with higher all-cause mortality than going to bed late, with an increased risk of death by 43 percent and going to bed late by 15 percent.
+  * There are still many limitations in this research study. For example, it does not directly prove the relationship between bedtime and death, only shows the correlation, and the data obtained by using the self-reports of the participants to count sleep time are not objective enough.
 
 #### 6.3. Other
 
 ##### 6.3.1. Emotion
 
 * [悲观情绪与更高的全因死亡率和心血管疾病死亡率有关, 但乐观情绪并不能起到保护作用](https://www.x-mol.com/paper/1288184397379059712/t?recommendPaper=1263704526086578176)
-  * 在1993-1995年间, 一项针对50岁以上澳大利亚人健康的双胞胎研究中包括了生活取向测试(LOT), 其中包含乐观和悲观的项目. 平均20年后, 参与者与来自澳大利亚国家死亡指数的死亡信息相匹配. 在2,978名具有很多可用分数的参与者中, 有1,068人死亡. 生存分析测试了各种乐观因素和悲观情绪分数与任何原因, 癌症, 心血管疾病或其他已知原因的死亡率之间的关联. 年龄调整后的悲观量表上的核心与全因和心血管疾病死亡率相关(每1个标准差单位的危险比, 95％置信区间和p值1.134, 1.065–1.207, 8.85×10 –5和1.196, 1.045–1.368, 0.0093 ), 但不会因癌症死亡. 乐观得分与悲观得分之间的相关性很弱(年龄调整后的等级相关系数= − 0.176), 但与总死亡率或特定原因死亡率没有显着相关性. 反向因果关系(引起悲观情绪的疾病)是不可能的, 因为在那种情况下, 心血管疾病和癌症都会导致悲观情绪. 
+* [Pessimism is associated with greater all-cause and cardiovascular mortality, but optimism is not protective](https://www.nature.com/articles/s41598-020-69388-y?utm_source=xmol&utm_medium=affiliate&utm_content=meta&utm_campaign=DDCN_1_GL01_metadata_scirep)
+  * The Life Orientation Test (LOT), containing items for optimism and pessimism, was included in a twin study on health of Australians aged over 50 in 1993–1995. After a mean of 20 years, participants were matched against death information from the Australian National Death Index. 1,068 out of 2,978 participants with useable LOT scores had died. Survival analysis tested for associations between separate optimism and pessimism scores and mortality from any cause, and from cancers, cardiovascular diseases or other known causes. Age-adjusted scores on the pessimism scale were associated with all-cause and cardiovascular mortality (Hazard Ratios per 1 standard deviation unit, 95% confidence intervals and p-values 1.134, 1.065–1.207, 8.85 × 10–5 and 1.196, 1.045–1.368, 0.0093, respectively) but not with cancer deaths. Optimism scores, which were only weakly correlated with pessimism scores (age-adjusted rank correlation = − 0.176), did not show significant associations with overall or cause-specific mortality. Reverse causation (disease causing pessimism) is unlikely because in that case both cardiovascular diseases and cancers would be expected to lead to pessimism.
 
 ##### 6.3.2. Wealth
 
 * [JAMA子刊: 贫富差距真能影响寿命？这可能是真的！](https://www.cn-healthcare.com/articlewm/20210727/content-1246348.html)
-  * 该研究使用1994-1996年第一次收集的数据, 并通过生存模型来分析净资产和长寿之间的关联. 结果显示, 共收纳5414 名参与者, 平均年龄为 46.7岁, 包括 2766 名女性. 较高的净资产与较低的死亡风险相关. 特别是在兄弟姐妹和双胞胎中(n = 2490), 在较高的净资产和较低的死亡率之间观察到类似的关联, 表明拥有更多财富的兄弟姐妹或双胞胎比拥有更少财富的兄弟姐妹/双胞胎活得更久. 
+  * The study used data from wave 1 of the MIDUS study (MIDUS 1), which were collected in 1994 to 1996.  Survival models tested the association between net worth and all-cause mortality. The full sample comprised 5414 participants, who had a mean (SD) age of 46.7 (12.7) years and included 2766 women (51.1%). Higher net worth was associated with lower mortality risk (hazard ratio [HR], 0.95; 95% CI, 0.94-0.97; P<.001). Among siblings and twin pairs specifically (n=2490), a similar within-family association was observed between higher net worth and lower mortality (HR, 0.94; 95% CI, 0.91-0.97; P=.001), suggesting that the sibling or twin with more wealth tended to live longer than their co-sibling or co-twin with less wealth.
 
 ##### 6.3.3. Weight
 
 * [JAMA子刊: 减肥要趁早, 才能有效降低死亡率风险](https://www.chinacdc.cn/gwxx/202009/t20200904_218959.html)
-  * 对体重减轻的死亡率风险评估发现, 体重从肥胖减轻到超重的成年人与稳定肥胖人群相比, 全因死亡率降低了54％(危险比为0.46), 然而从成年初期的超重减轻到中年以前的正常体重的人群的死亡率风险并未降低(风险比为1.12). 
+  * Adults who lost weight from obese to overweight by midlife had a 54% lower risk of all-cause mortality (HR, 0.46; 95% CI, 0.27-0.77) compared with adults who were stable obese. Adults who lost weight from overweight in early adulthood to normal weight by midlife did not have reduced mortality risk (HR, 1.12; 95% CI, 0.86-1.45).
+  * ![Table3](https://raw.githubusercontent.com/qhy040404/Image-Resources-Repo/master/zoi200509t3_1596761185.02415.png)
 
 ##### 6.3.4. 2019-nCov
 
 * [Magnitude, demographics and dynamics of the effect of the first wave of the COVID-19 pandemic on all-cause mortality in 21 industrialized countries](https://www.nature.com/articles/s41591-020-1112-0.pdf)
-  * 目前来看, 新冠死亡率(美国)在1.5%左右, 人均预期寿命减少了2年
+  * At present, the death rate of 2019-nCov (US) is around 1.5%, and the average life expectancy has been reduced by 2 years
 * [如何看待美国CDC宣称新冠死亡人数被高估？](https://www.zhihu.com/question/510943670/answer/2308499719)
 * [NVSS deaths](https://www.cdc.gov/nchs/nvss/deaths.htm)
