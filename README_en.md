@@ -99,7 +99,7 @@
   * [每天多吃半个蛋, 增加7%的全因和心血管死亡风险？](https://m.thepaper.cn/baijiahao_11540780)
     * Reference: [NIH-AARP Diet and Health Study](https://dietandhealth.cancer.gov/), [Egg and cholesterol consumption and mortality from cardiovascular and different causes in the United States: A population-based cohort study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7872242/)
     * Each additional half a whole egg/day was associated with a 7% (HR 1.07; 95% CI 1.06–1.08; P < 0.001) higher risk of all-cause mortality.In hypothetical substitution analyses, we found 6%, 8%, 9%, 7%, 13%, and 10% lower all-cause mortality when replacing half a whole egg (25 g/day) with equivalent amounts of egg whites/substitutes, poultry, fish, dairy products, nuts, and legumes, respectively.
-	* [Egg](https://raw.githubusercontent.com/qhy040404/Image-Resources-Repo/master/pmed.1003508.g002.jpg)
+	* ![Egg](https://raw.githubusercontent.com/qhy040404/Image-Resources-Repo/master/pmed.1003508.g002.jpg)
 * Nuts
   * [哈佛20年研究: 吃核桃的人更长寿, 显著减少全因死亡, 延长寿命](https://www.163.com/dy/article/GKVOMMMF05148PF4.html)
     * Reference: [Association of Walnut Consumption with Total and Cause-Specific Mortality and Life Expectancy in US Adults](https://www.mdpi.com/2072-6643/13/8/2699/pdf)
