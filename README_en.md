@@ -205,7 +205,7 @@
     * Metformin not only plays a protective role in various tumors, cardiovascular diseases and diabetes, but also plays a role in obesity, liver disease, kidney disease and aging.
   * [二甲双胍2020最值得了解的“吃瓜”大新闻——护胃, 健脑, 抗衰, 防癌还是致癌？](https://zhuanlan.zhihu.com/p/357807109)(Mandarin, Use Chrome's Translator)
   * [二甲双胍真的那么神吗？美研究: 父亲服用二甲双胍或致子女有缺陷](https://baijiahao.baidu.com/s?id=1729999374705305768)(Mandarin, Use Chrome's Translator)
-  * ![二甲双胍](https://user-images.githubusercontent.com/2707039/163702325-5d427542-9ae5-4311-8979-d0d326a9832f.jpg)(Mandarin, Use Chrome's Translator)
+  * ![二甲双胍](https://user-images.githubusercontent.com/2707039/163702325-5d427542-9ae5-4311-8979-d0d326a9832f.jpg)
   * Adverse reactions
     * As a drug that has been used for nearly a hundred years, the adverse reactions of metformin have been very clear. The common ones are: vitamin B12 deficiency (7%-17.4%), gastrointestinal adverse reactions (up to 53%), fatigue (9%), headache (6%). 
 	* Serious but infrequent adverse reactions include lactic acidosis, liver damage. 
