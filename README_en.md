@@ -254,6 +254,7 @@
 * [Housework Reduces All-Cause and Cancer Mortality in Chinese Men](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0061529)
   * Weekly heavy housework for men after age 72 can reduce the average mortality rate by 29%.
     > Heavy housework: vacuuming, mopping floors, mopping floors, scrubbing windows, washing cars, moving furniture, moving gas tanks, etc.
+	>
     > Light housework: dusting, washing dishes, hand washing clothes, ironing, drying clothes, cooking, shopping for daily necessities, etc.
 
 ##### 6.2.6. Sleep
