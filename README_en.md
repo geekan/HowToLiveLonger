@@ -25,7 +25,7 @@
     - [6.3.1. Emotion](#631-Emotion)
     - [6.3.2. Wealth](#632-Wealth)
     - [6.3.3. Weight](#633-Weight)
-    - [6.3.4. 2019-nCov](#634-2019-nCov)
+    - [6.3.4. COVID-19](#634-COVID-19)
 
 ---
 
@@ -287,9 +287,9 @@
   * Adults who lost weight from obese to overweight by midlife had a 54% lower risk of all-cause mortality (HR, 0.46; 95% CI, 0.27-0.77) compared with adults who were stable obese. Adults who lost weight from overweight in early adulthood to normal weight by midlife did not have reduced mortality risk (HR, 1.12; 95% CI, 0.86-1.45).
   * ![Table3](https://raw.githubusercontent.com/qhy040404/Image-Resources-Repo/master/zoi200509t3_1596761185.02415.png)
 
-##### 6.3.4. 2019-nCov
+##### 6.3.4. COVID-19
 
 * [Magnitude, demographics and dynamics of the effect of the first wave of the COVID-19 pandemic on all-cause mortality in 21 industrialized countries](https://www.nature.com/articles/s41591-020-1112-0.pdf)
-  * At present, the death rate of 2019-nCov (US) is around 1.5%, and the average life expectancy has been reduced by 2 years
+  * At present, the death rate of COVID-19 (US) is around 1.5%, and the average life expectancy has been reduced by 2 years
 * [如何看待美国CDC宣称新冠死亡人数被高估？](https://www.zhihu.com/question/510943670/answer/2308499719)*(Mandarin, Use Chrome's Translator)*
 * [NVSS deaths](https://www.cdc.gov/nchs/nvss/deaths.htm)
