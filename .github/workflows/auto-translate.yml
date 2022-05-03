@@ -86,14 +86,18 @@ jobs:
           
           result = list(d.compare(parent_md, new_md))
           newlines = []
+          del_list = []
           
           for i,item in enumerate(result):
             if '+' in item:
                 newlines.append(item)
                 
           for j,jtem in enumerate(newlines):
-            if jtem[0] != '+':
-                newlines.pop(j)
+            if newlines[j][0] != '+' || newlines[j] == '\n':
+                del_list.append(j)
+          
+          for a,atem in enumerate(del_list):
+            newlines.pop(atem - a)
           
           for k,ktem in enumerate(newlines):
             newlines[k] = tl.translate(ktem).text
