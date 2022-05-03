@@ -90,7 +90,7 @@ jobs:
           
           for i,item in enumerate(result):
             if '+' in item:
-                newlines.append(item)
+                newlines.append(item.strip('\n'))
                 
           for j,jtem in enumerate(newlines):
             if newlines[j][0] != '+' or newlines[j] == '\n':
