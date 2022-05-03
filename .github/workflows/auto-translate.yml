@@ -78,15 +78,16 @@ jobs:
       - name: Compare and translate(Google)
         shell: python
         run: |
+          #-*- coding: UTF-8 -*-
           import difflib
           from googletrans import Translator
           
           d = difflib.Differ()
           tl = Translator()
           
-          with open("parent/README.md","r") as parent:
+          with open("parent/README.md","r",encoding='utf-8') as parent:
             parent_md = parent.readlines()
-          with open("README.md","r") as new:
+          with open("README.md","r",encoding='utf-8') as new:
             new_md = new.readlines()
           
           result = list(d.compare(parent_md, new_md))
@@ -107,7 +108,7 @@ jobs:
           
           for k,ktem in enumerate(newlines):
             ktem = ktem.lstrip('+ ').lstrip('# ')
-            print(ktem)
+            print(ktem,)
             newlines[k] = tl.translate(ktem, src='zh-cn', dest='en').text
             
           tlr = '\n\n'.join(newlines)
