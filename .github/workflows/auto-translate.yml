@@ -107,7 +107,7 @@ jobs:
           
           
           for k,ktem in enumerate(newlines):
-            ktem = ktem.lstrip('+ ').lstrip('# ')
+            # ktem = ktem.lstrip('+ ').lstrip('# ')
             print(ktem)
             newlines[k] = tl.translate(text=ktem, src='zh-cn', dest='en').text
             
