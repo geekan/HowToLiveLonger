@@ -48,7 +48,7 @@ jobs:
           
           parent_sha = commit_response.split('"parents":[{"sha":"')[1].split('","')[0]
           
-          os.system("git clone https://github.com/geekan/HowToLiveLonger.git && git checkout {}".format(parent_sha))
+          os.system("cd parent && git clone --depth=3 https://github.com/geekan/HowToLiveLonger.git && git checkout {}".format(parent_sha))
           
       - name: Compare and tranlate(Google)
         shell: python
