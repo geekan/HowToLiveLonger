@@ -48,9 +48,9 @@ jobs:
           
           parent_sha = commit_response.split('"parents":[{"sha":"')[1].split('","')[0]
           
-          os.system("cd parent && git clone --depth=3 https://github.com/geekan/HowToLiveLonger.git && git checkout {}".format(parent_sha))
+          os.system("cd parent && git clone --depth=3 https://github.com/geekan/HowToLiveLonger.git && git log && git checkout {}".format(parent_sha))
           
-      - name: Compare and tranlate(Google)
+      - name: Compare and translate(Google)
         shell: python
         run: |
           import difflib
