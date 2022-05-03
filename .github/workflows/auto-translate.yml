@@ -21,12 +21,72 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v3.0.2
+        
+      - name: Verify Python and pip packages
+        shell: sh
+        run: |
+          python --version
+          pip install googletrans
+          pip install requests
+        
+      - name: mkdir and cd
+        shell: sh
+        run: |
+          mkdir parent
+          
+      - name: Checkout parent commit
+        shell: python
+        run: |
+          import requests
+          import os
+          
+          s = requests.Session()
+          
+          commit_response = s.get(https://api.github.com/repos/geekan/HowToLiveLonger/commits?per_page=1).text
+          
+          parent_sha = commit_response.split('"parents":[{"sha":"')[1].split('","')[0]
+          
+          os.system("git clone https://github.com/geekan/HowToLiveLonger.git && git checkout {}".format(parent_sha))
+          
+      - name: Compare and tranlate(Google)
+        shell: python
+        run: |
+          import difflib
+          from googletrans import Translator
+          
+          d = difflib.Differ()
+          tl = Translator()
+          
+          with open("parent/README.md","r") as parent:
+            parent_md = parent.readlines()
+          with open("README.md","r") as new:
+            new_md = new.readlines()
+          
+          result = list(d.compare(parent_md, new_md))
+          newlines = []
+          
+          for i,item in enumerate(result):
+            if '+' in item:
+                newlines.append(item)
+                
+          for j,jtem in enumerate(newlines):
+            if item[0] != '+':
+                newlines.pop(j)
+          
+          for k,ktem in enumerate(newlines):
+            newlines[k] = tl.translate(ktem).text
+            
+          tlr = '\n'.join(newlines)
+          
+          with open("README_en.md","a") as tlf:
+            tlf.write("\n\n> The following content is translated by machine, and can be merged after manual modification\n")
+            tlf.write(tlr)
       
       - name: Upload translation
         uses: actions/upload-artifact@v3.0.0
         with:
           name: temp_trans_file
-          path: temp-translation.md
+          path: README_en.md
   
   push-and-PR:
     if: ${{ github.event.pull_request.merged == true || github.event_name == 'push' }}
@@ -36,8 +96,12 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v3.0.2
-        with:
-          ref: auto-translation
+        
+      - name: Checkout new branch
+        shell: sh
+        run: |
+          git checkout -b auto-translation
+          git push origin auto-translation
       
       - name: Download translation
         uses: actions/download-artifact@v3.0.0
@@ -47,7 +111,7 @@ jobs:
       - name: Commit translation to review branch
         shell: sh
         run: |
-          git add temp-translation.md
+          git add .
           git commit -m "Auto translation for new lines"
           git push origin auto-translation
           
