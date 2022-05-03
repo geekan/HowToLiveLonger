@@ -103,7 +103,7 @@ jobs:
             print(newlines[b])
           
           for k,ktem in enumerate(newlines):
-            newlines[k] = tl.translate(ktem.lstrip('+ '), src='zh-cn, dest='en').text
+            newlines[k] = tl.translate(ktem.lstrip('+ '), src='zh-cn', dest='en').text
             
           tlr = '\n'.join(newlines)
           
