@@ -100,7 +100,7 @@ jobs:
             newlines.pop(atem - a)
           
           for k,ktem in enumerate(newlines):
-            newlines[k] = tl.translate(ktem).text
+            newlines[k] = tl.translate(ktem, dest='en').text
             
           tlr = '\n'.join(newlines)
           
