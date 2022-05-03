@@ -46,7 +46,7 @@ jobs:
           import zipfile
           
           def un_zip(file_name):
-            zip_file = zipfile.Zipfile(file_name)
+            zip_file = zipfile.ZipFile(file_name)
             for names in zip_file.namelist():
                 zip_file.extract(names, 'parent/')
             zip_file.close()
