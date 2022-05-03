@@ -18,7 +18,7 @@ on:
       
 jobs:
   translate:
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
     
     steps:
       - name: Checkout code
@@ -73,7 +73,7 @@ jobs:
           un_zip('temp.zip')
           os.remove('temp.zip')
           
-          os.system("cp parent/HowToLiveLonger-{}/README.md parent/README.md".format(parent_sha))
+          os.system("xcopy parent/HowToLiveLonger-{}/README.md parent/README.md".format(parent_sha))
           
       - name: Compare and translate(Google)
         shell: python
