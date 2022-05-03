@@ -1,0 +1,62 @@
+name: Auto-Translate
+
+on: 
+  push:
+    branches:
+      - 'main'
+    paths:
+      - 'README.md'
+  pull_request:
+    types:
+      - closed
+    branches:
+      - 'main'
+    paths:
+      - "README.md"
+      
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3.0.2
+      
+      - name: Upload translation
+        uses: actions/upload-artifact@v3.0.0
+        with:
+          name: temp_trans_file
+          path: temp-translation.md
+  
+  push-and-PR:
+    if: ${{ github.event.pull_request.merged == true || github.event_name == 'push' }}
+    needs: translate
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3.0.2
+        with:
+          ref: auto-translation
+      
+      - name: Download translation
+        uses: actions/download-artifact@v3.0.0
+        with:
+          name: temp_trans_file
+          
+      - name: Commit translation to review branch
+        shell: sh
+        run: |
+          git add temp-translation.md
+          git commit -m "Auto translation for new lines"
+          git push origin auto-translation
+          
+      - name: Open PR and request reviews
+        uses: repo-sync/pull-request@master
+        with:
+          source_branch: "auto-translation"
+          destination_branch: "main"
+          pr_title: "Auto Translation"
+          pr_body: "*Automated PR, submitting translation.*"
+          pr_reviewer: "qhy040404,geekan"
+          github_token: ${{ github.token }}

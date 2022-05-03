@@ -2,8 +2,8 @@
 
 ---
 
-- [1. Terminology](#1-Terminology)
-- [2. Goal](#2-Goal)
+- [1. Glossary](#1-Glossary)
+- [2. Objective](#2-Objective)
 - [3. Key Result](#3-Key-Result)
 - [4. Analysis](#4-Analysis)
 - [5. Action](#5-Action)
@@ -21,7 +21,7 @@
     - [6.2.4. Bath](#624-Bath)
     - [6.2.5. Housework(for aging males)](#625-Houseworkfor-aging-males)
     - [6.2.6. Sleep](#626-Sleep)
-  - [6.3. Other](#63-Other)
+  - [6.3. Context](#63-Context)
     - [6.3.1. Emotion](#631-Emotion)
     - [6.3.2. Wealth](#632-Wealth)
     - [6.3.3. Weight](#633-Weight)
@@ -29,11 +29,11 @@
 
 ---
 
-### 1. Terminology
+### 1. Glossary
 
 * ACM: All-Cause Mortality
 
-### 2. Goal
+### 2. Objective
 
 * Live longer
 
@@ -74,12 +74,12 @@
 ##### 6.1.1. Solid
 
 * Plain boiled pork
-  * [JAMA子刊: 食用红肉和加工肉类会增加心脏病和死亡风险！鱼肉和家禽肉则不会](https://zhuanlan.zhihu.com/p/268401670)*(Mandarin, Use Chrome's Translator)*
+  * [Meat Consumption Linked to Small Rises in CVD, All-Cause Mortality Risks](https://www.tctmd.com/news/meat-consumption-linked-small-rises-cvd-all-cause-mortality-risks)
     * Reference: [Associations of Processed Meat, Unprocessed Red Meat, Poultry, or Fish Intake With Incident Cardiovascular Disease and All-Cause Mortality](https://jamanetwork.com/journals/jamainternalmedicine/articlepdf/2759737/jamainternal_zhong_2020_oi_190112.pdf)
     * Increased red meat intake is associated with risk of death. Respondents who increased red meat intake by at least half a serving per day on average over eight years had a 10% increase in ACM over the next eight years. (HR, 1.10[95%CI, 1.04-1.17])
 	* Eating two servings of read or processed meat(excluding poultry or fish) per week increases ACM by 3%.
 	> P.S. Half serving of red meat is equivalent to 14g processed red meat or 40g unprocessed red meat
-    * ![红肉](https://user-images.githubusercontent.com/2707039/163703960-6f321de5-4daa-4ea5-95b9-af9c96f1c1bc.jpg)
+    * ![red_meat](https://user-images.githubusercontent.com/2707039/163703960-6f321de5-4daa-4ea5-95b9-af9c96f1c1bc.jpg)
   * [红肉和白肉最大的区别是什么？为啥要这么分呢？](https://www.zhihu.com/question/67223570/answer/809785380)*(Mandarin, Use Chrome's Translator)*
 * Fruits and vegetables
   * [每年54万人死亡, 竟是因为水果吃得少！？这已成十大死亡因素之一！](https://www.sohu.com/a/322360740_164924)*(Mandarin, Use Chrome's Translator)*
@@ -268,7 +268,7 @@
   * One conclusion is that bedtime is strongly associated with all-cause mortality, and that going to bed too early and going to bed too late can affect health. But going to bed early was associated with higher all-cause mortality than going to bed late, with an increased risk of death by 43 percent and going to bed late by 15 percent.
   * There are still many limitations in this research study. For example, it does not directly prove the relationship between bedtime and death, only shows the correlation, and the data obtained by using the self-reports of the participants to count sleep time are not objective enough.
 
-#### 6.3. Other
+#### 6.3. Context
 
 ##### 6.3.1. Emotion
 
