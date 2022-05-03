@@ -68,7 +68,7 @@ jobs:
           un_zip('temp.zip')
           os.remove('temp.zip')
           
-          os.system("cd parent && ls && cd ..")
+          os.system("cp parent/HowToLiveLonger-{}/README.md parent/README.md",format(parent_sha))
           
       - name: Compare and translate(Google)
         shell: python
