@@ -30,6 +30,7 @@ jobs:
           python --version
           pip install googletrans
           pip install requests
+          pip install wget
         
       - name: mkdir and cd
         shell: sh
@@ -41,6 +42,14 @@ jobs:
         run: |
           import requests
           import os
+          import wget
+          import zipfile
+          
+          def un_zip(file_name):
+            zip_file = zipfile.Zipfile(file_name)
+            for names in zip_file.namelist():
+                zip_file.extract(names, 'parent/')
+            zip_file.close()
           
           s = requests.Session()
           
@@ -48,7 +57,16 @@ jobs:
           
           parent_sha = commit_response.split('"parents":[{"sha":"')[1].split('","')[0]
           
-          os.system("cd parent && git clone --depth=3 https://github.com/geekan/HowToLiveLonger.git && git log && git checkout {}".format(parent_sha))
+          d_url = "https://github.com/geekan/HowToLiveLonger/archive/" + parent_sha + ".zip"
+          path = 'temp.zip'
+          try:
+            wget.download(d_url, path)
+          except Exception as e:
+            print('Error')
+            print(e)
+            
+          un_zip('temp.zip')
+          os.remove('temp.zip')
           
       - name: Compare and translate(Google)
         shell: python
