@@ -92,7 +92,7 @@ jobs:
                 newlines.append(item)
                 
           for j,jtem in enumerate(newlines):
-            if item[0] != '+':
+            if jtem[0] != '+':
                 newlines.pop(j)
           
           for k,ktem in enumerate(newlines):
