@@ -68,6 +68,8 @@ jobs:
           un_zip('temp.zip')
           os.remove('temp.zip')
           
+          os.system("cd parent && ls && cd ..")
+          
       - name: Compare and translate(Google)
         shell: python
         run: |
