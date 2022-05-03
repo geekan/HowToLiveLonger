@@ -78,7 +78,7 @@ jobs:
       - name: Compare and translate(Google)
         shell: python
         run: |
-          #-*- coding: UTF-8 -*-
+          # coding=utf-8
           import difflib
           from googletrans import Translator
           
@@ -113,7 +113,7 @@ jobs:
             
           tlr = '\n\n'.join(newlines)
           
-          with open("README_en.md","a") as tlf:
+          with open("README_en.md","a",encoding='utf-8') as tlf:
             tlf.write("\n\n> The following content is translated by machine, and can be merged after manual modification\n")
             tlf.write(tlr)
       
