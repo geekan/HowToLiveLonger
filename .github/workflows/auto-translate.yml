@@ -98,12 +98,11 @@ jobs:
           
           for a,atem in enumerate(del_list):
             newlines.pop(atem - a)
-            
-          for b,btem in enumerate(newlines):
-            print(newlines[b])
+          
           
           for k,ktem in enumerate(newlines):
             ktem = ktem.lstrip('+ ').lstrip('#')
+            print(ktem)
             newlines[k] = tl.translate(ktem, src='zh-cn', dest='en').text
             
           tlr = '\n\n'.join(newlines)
