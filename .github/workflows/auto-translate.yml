@@ -93,7 +93,7 @@ jobs:
                 newlines.append(item)
                 
           for j,jtem in enumerate(newlines):
-            if newlines[j][0] != '+' || newlines[j] == '\n':
+            if newlines[j][0] != '+' or newlines[j] == '\n':
                 del_list.append(j)
           
           for a,atem in enumerate(del_list):
