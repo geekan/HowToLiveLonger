@@ -98,6 +98,9 @@ jobs:
           
           for a,atem in enumerate(del_list):
             newlines.pop(atem - a)
+            
+          for b,btem in enumerate(newlines):
+            print(newlines[b])
           
           for k,ktem in enumerate(newlines):
             newlines[k] = tl.translate(ktem, dest='en').text
