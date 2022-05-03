@@ -84,9 +84,9 @@ jobs:
           d = difflib.Differ()
           tl = Translator()
           
-          with open("parent/README.md","r",encoding='utf-8') as parent:
+          with open("parent/README.md","r") as parent:
             parent_md = parent.readlines()
-          with open("README.md","r",encoding='utf-8') as new:
+          with open("README.md","r") as new:
             new_md = new.readlines()
           
           result = list(d.compare(parent_md, new_md))
