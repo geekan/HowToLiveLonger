@@ -18,7 +18,7 @@ on:
       
 jobs:
   translate:
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
     
     steps:
       - name: Checkout code
@@ -73,12 +73,12 @@ jobs:
           un_zip('temp.zip')
           os.remove('temp.zip')
           
-          os.system("xcopy parent\HowToLiveLonger-{}\README.md parent\ /y /e".format(parent_sha))
+          os.system("cp parent/HowToLiveLonger-{}/README.md parent/README.md".format(parent_sha))
           
       - name: Compare and translate(Google)
         shell: python
         run: |
-          # coding=utf-8
+          # -*- coding: utf-8 -*-
           import difflib
           from googletrans import Translator
           
@@ -108,12 +108,12 @@ jobs:
           
           for k,ktem in enumerate(newlines):
             ktem = ktem.lstrip('+ ').lstrip('# ')
-            # print(ktem)
+            print(ktem)
             newlines[k] = tl.translate(ktem, src='zh-cn', dest='en').text
             
           tlr = '\n\n'.join(newlines)
           
-          with open("README_en.md","a",encoding='utf-8') as tlf:
+          with open("README_en.md","a") as tlf:
             tlf.write("\n\n> The following content is translated by machine, and can be merged after manual modification\n")
             tlf.write(tlr)
       
