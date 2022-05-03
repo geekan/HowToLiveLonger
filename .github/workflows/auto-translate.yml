@@ -90,7 +90,7 @@ jobs:
           
           for i,item in enumerate(result):
             if '+' in item:
-                newlines.append(item.strip('\n').lstrip('+ '))
+                newlines.append(item.strip('\n'))
                 
           for j,jtem in enumerate(newlines):
             if newlines[j][0] != '+' or newlines[j] == '\n':
@@ -103,7 +103,7 @@ jobs:
             print(newlines[b])
           
           for k,ktem in enumerate(newlines):
-            newlines[k] = tl.translate(ktem, dest='en').text
+            newlines[k] = tl.translate(ktem.lstrip('+ '), src='zh-cn, dest='en').text
             
           tlr = '\n'.join(newlines)
           
