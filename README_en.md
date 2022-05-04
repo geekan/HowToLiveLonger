@@ -1,6 +1,7 @@
-<h1><center> A programmer's guide to live longer </center></h1>
+# A programmer's guide to live longer
 
----
+[![CN doc](https://img.shields.io/badge/文档-中文版-blue.svg)](README.md)
+[![EN doc](https://img.shields.io/badge/document-English-blue.svg)](README_en.md)
 
 - [1. Glossary](#1-Glossary)
 - [2. Objective](#2-Objective)

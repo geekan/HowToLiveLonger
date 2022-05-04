@@ -13,6 +13,8 @@ on:
       - 'main'
     paths:
       - "README.md"
+  
+  workflow_dispatch:
       
 jobs:
   translate:
@@ -21,12 +23,105 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v3.0.2
+        
+      - name: Install Python 3.10
+        uses: actions/setup-python@v3.1.2
+        with:
+          python-version: '3.10'
+        
+      - name: Verify Python and pip packages
+        shell: sh
+        run: |
+          python --version
+          pip install googletrans==4.0.0-rc1
+          pip install requests
+          pip install wget
+        
+      - name: mkdir and cd
+        shell: sh
+        run: |
+          mkdir parent
+          
+      - name: Checkout parent commit
+        shell: python
+        run: |
+          import requests
+          import os
+          import wget
+          import zipfile
+          
+          def un_zip(file_name):
+            zip_file = zipfile.ZipFile(file_name)
+            for names in zip_file.namelist():
+                zip_file.extract(names, 'parent/')
+            zip_file.close()
+          
+          s = requests.Session()
+          
+          commit_response = s.get("https://api.github.com/repos/geekan/HowToLiveLonger/commits?per_page=1").text
+          
+          parent_sha = commit_response.split('"parents":[{"sha":"')[1].split('","')[0]
+          
+          d_url = "https://github.com/geekan/HowToLiveLonger/archive/" + parent_sha + ".zip"
+          path = 'temp.zip'
+          try:
+            wget.download(d_url, path)
+          except Exception as e:
+            print('Error')
+            print(e)
+            
+          un_zip('temp.zip')
+          os.remove('temp.zip')
+          
+          os.system("cp parent/HowToLiveLonger-{}/README.md parent/README.md".format(parent_sha))
+          
+      - name: Compare and translate(Google)
+        shell: python
+        run: |
+          # -*- coding: utf-8 -*-
+          import difflib
+          from googletrans import Translator
+          
+          d = difflib.Differ()
+          tl = Translator()
+          
+          with open("parent/README.md","r",encoding='utf-8') as parent:
+            parent_md = parent.readlines()
+          with open("README.md","r",encoding='utf-8') as new:
+            new_md = new.readlines()
+          
+          result = list(d.compare(parent_md, new_md))
+          newlines = []
+          del_list = []
+          
+          for i,item in enumerate(result):
+            if '+' in item:
+                newlines.append(item.strip('\n'))
+                
+          for j,jtem in enumerate(newlines):
+            if newlines[j][0] != '+' or newlines[j] == '\n':
+                del_list.append(j)
+          
+          for a,atem in enumerate(del_list):
+            newlines.pop(atem - a)
+          
+          
+          for k,ktem in enumerate(newlines):
+            # ktem = ktem.lstrip('+ ').lstrip('# ')
+            print(ktem)
+            newlines[k] = tl.translate(text=ktem, src='zh-cn', dest='en').text
+            
+          tlr = '\n\n'.join(newlines)
+          
+          with open("README_en.md","a") as tlf:
+            tlf.write("\n\n> The following content is translated by machine, and can be merged after manual modification\n")
+            tlf.write(tlr)
       
       - name: Upload translation
         uses: actions/upload-artifact@v3.0.0
         with:
           name: temp_trans_file
-          path: temp-translation.md
+          path: README_en.md
   
   push-and-PR:
     if: ${{ github.event.pull_request.merged == true || github.event_name == 'push' }}
@@ -36,8 +131,12 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v3.0.2
-        with:
-          ref: auto-translation
+        
+      - name: Checkout new branch
+        shell: sh
+        run: |
+          git checkout -b auto-translation
+          git push origin auto-translation
       
       - name: Download translation
         uses: actions/download-artifact@v3.0.0
@@ -47,7 +146,7 @@ jobs:
       - name: Commit translation to review branch
         shell: sh
         run: |
-          git add temp-translation.md
+          git add .
           git commit -m "Auto translation for new lines"
           git push origin auto-translation
           
