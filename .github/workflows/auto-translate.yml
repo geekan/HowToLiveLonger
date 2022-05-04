@@ -1,6 +1,6 @@
 name: Auto-Translate
 
-on: 
+on:
   push:
     branches:
       - 'main'
@@ -15,7 +15,7 @@ on:
       - "README.md"
   
   workflow_dispatch:
-      
+
 jobs:
   translate:
     runs-on: ubuntu-latest
@@ -41,7 +41,7 @@ jobs:
         shell: sh
         run: |
           mkdir parent
-          
+        
       - name: Download parent commit
         shell: python
         run: |
@@ -69,12 +69,12 @@ jobs:
           except Exception as e:
             print('Error')
             print(e)
-            
+          
           un_zip('temp.zip')
           os.remove('temp.zip')
           
           os.system("cp parent/HowToLiveLonger-{}/README.md parent/README.md".format(parent_sha))
-          
+      
       - name: Compare and translate(Google)
         shell: python
         run: |
@@ -97,7 +97,7 @@ jobs:
           for i,item in enumerate(result):
             if '+' in item:
                 newlines.append(item.strip('\n'))
-                
+          
           for j,jtem in enumerate(newlines):
             if newlines[j][0] != '+' or newlines[j] == '\n':
                 del_list.append(j)
@@ -105,12 +105,11 @@ jobs:
           for a,atem in enumerate(del_list):
             newlines.pop(atem - a)
           
-          
           for k,ktem in enumerate(newlines):
             # ktem = ktem.lstrip('+ ').lstrip('# ')
             print(ktem)
             newlines[k] = tl.translate(text=ktem, src='zh-cn', dest='en').text
-            
+          
           tlr = '\n\n'.join(newlines)
           
           with open("README_en.md","a") as tlf:
@@ -131,7 +130,7 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v3.0.2
-        
+      
       - name: Checkout new branch
         shell: sh
         run: |
@@ -142,17 +141,17 @@ jobs:
         uses: actions/download-artifact@v3.0.0
         with:
           name: temp_trans_file
-          
+      
       - name: Git as GitHub Actions Bot
         uses: Lucky3028/git-as-gha@v1.0.0
-          
+      
       - name: Commit translation to review branch
         shell: sh
         run: |
           git add .
           git commit -m "Auto translation for new lines"
           git push origin auto-translation
-          
+      
       - name: Open PR and request reviews
         uses: repo-sync/pull-request@master
         with:
