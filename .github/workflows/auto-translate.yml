@@ -42,7 +42,7 @@ jobs:
         run: |
           mkdir parent
           
-      - name: Checkout parent commit
+      - name: Download parent commit
         shell: python
         run: |
           import requests
@@ -142,6 +142,9 @@ jobs:
         uses: actions/download-artifact@v3.0.0
         with:
           name: temp_trans_file
+          
+      - name: Git as GitHub Actions Bot
+        uses: Lucky3028/git-as-gha@v1.0.0
           
       - name: Commit translation to review branch
         shell: sh
