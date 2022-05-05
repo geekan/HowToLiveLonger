@@ -1,4 +1,4 @@
-# 程序员延寿指南
+# 人类延寿指南
 
 [![CN doc](https://img.shields.io/badge/文档-中文版-blue.svg)](README.md)
 [![EN doc](https://img.shields.io/badge/document-English-blue.svg)](README_en.md)
