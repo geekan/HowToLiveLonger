@@ -56,7 +56,7 @@
 ### 5. Action
 
 * Input
-  * Solid: Plain boiled pork(-11%\~-3% ACM), Fruits and vegetables(-26%\~-17% ACM), Spicy food(-23% ACM), Nuts(-27%\~-4% ACM), *less egg yolk(otherwise +7% ACM per 0.5 pieces per day)(controversial)*, moderate carbs, Vegetable protein(-10% ACM), less ultra-processed foods(-62%\~-18%)
+  * Solid: Plain boiled pork(-11%\~-3% ACM), Fruits and vegetables(-26%\~-17% ACM), Spicy food(-23% ACM), Nuts(-27%\~-4% ACM), *less egg yolk(otherwise +7% ACM per 0.5 pieces per day)(controversial)*, moderate carbs, vegetable protein(-10% ACM), less ultra-processed foods(-62%\~-18%)
   * Liquid: Coffee(-22%\~-12% ACM), Milk(-17%\~-10% ACM), Tea(-15%\~-8% ACM), Limit or avoid sweetened beverages(Otherwise +7% ACM per cup per day, +dopamine), Give up alcohol or less than 100g per week(pure alcohol(g)=alcohol consumption(ml)×Alcohol concentration(%)×(Alcohol density)0.8g/ml)(Otherwise +\~50% ACM, unlimited)
   * Gas: No smoking(Otherwise +~50% ACM, -12\~-11 years lifespan)
   * Illumination: Sunbathe(-~40% ACM)
