@@ -49,14 +49,14 @@
 * Main reference: There are relatively many academic papers related to ACM, which can be used as the main reference.
 * The relationship between lifespan and ACM is nonlinear: Obviously, the relationship between lifespan and ACM is a nonlinear function. Assumption:`DeltaLifeSpan=(1/(1+DeltaACM)-1)*10` (DeltaACM is ACM's change value. Welcome to optimize this formula)
 * Variables cannot be simply superimposed: Variables do not meet the IID assumption, and the actual effect between the variables is also unclear.
-* Conflicting views: All references have literature/study counterparts, but there are significant conflicting views between some of the literature(e.g. Carbohtdrate intake retio), and some of the literature are controversial(e.g. Sleep before 22:00 increases ACM by 43%)
-* Research only shows correlation: Research shows more correlation than causation. Confirm whether the research adequately proves causation. 
+* Conflicting views: All references have literature/study counterparts, but there are significant conflicting views between some of the literature (e.g. carbohydrate intake ratio), and some of the literature is controversial (e.g. Sleep before 22:00 increases ACM by 43%)
+* Research only shows correlation: Research shows more correlation than causation. Confirm whether the research adequately proves causation.
   * e.g. A research shows that people with an average of 7000 or more steps per day have a significantly lower ACM rate. However, people with fewer steps may include more long-term patients. If this part of data is not reasonably excluded, the result is distorted.
 
 ### 5. Action
 
 * Input
-  * Solid: Plain boiled pork(-11%\~-3% ACM), Fruits and vegetables(-26%\~-17% ACM), Spicy food(-23% ACM), Nuts(-27%\~-4% ACM), *less egg yolk(otherwise +7% ACM per 0.5 pieces per day)(controversial)*, moderate carbs, Vegetable protein(-10% ACM), less ultra-processed foods(-62%\~-18%)
+  * Solid: Plain boiled pork(-11%\~-3% ACM), Fruits and vegetables(-26%\~-17% ACM), Spicy food(-23% ACM), Nuts(-27%\~-4% ACM), *less egg yolk(otherwise +7% ACM per 0.5 pieces per day)(controversial)*, moderate carbs, vegetable protein(-10% ACM), less ultra-processed foods(-62%\~-18%)
   * Liquid: Coffee(-22%\~-12% ACM), Milk(-17%\~-10% ACM), Tea(-15%\~-8% ACM), Limit or avoid sweetened beverages(Otherwise +7% ACM per cup per day, +dopamine), Give up alcohol or less than 100g per week(pure alcohol(g)=alcohol consumption(ml)×Alcohol concentration(%)×(Alcohol density)0.8g/ml)(Otherwise +\~50% ACM, unlimited)
   * Gas: No smoking(Otherwise +~50% ACM, -12\~-11 years lifespan)
   * Illumination: Sunbathe(-~40% ACM)
@@ -78,7 +78,7 @@
   * [Meat Consumption Linked to Small Rises in CVD, All-Cause Mortality Risks](https://www.tctmd.com/news/meat-consumption-linked-small-rises-cvd-all-cause-mortality-risks)
     * Reference: [Associations of Processed Meat, Unprocessed Red Meat, Poultry, or Fish Intake With Incident Cardiovascular Disease and All-Cause Mortality](https://jamanetwork.com/journals/jamainternalmedicine/articlepdf/2759737/jamainternal_zhong_2020_oi_190112.pdf)
     * Increased red meat intake is associated with risk of death. Respondents who increased red meat intake by at least half a serving per day on average over eight years had a 10% increase in ACM over the next eight years. (HR, 1.10[95%CI, 1.04-1.17])
-	* Eating two servings of read or processed meat(excluding poultry or fish) per week increases ACM by 3%.
+	* Eating two servings of red or processed meat (excluding poultry or fish) per week increases ACM by 3%.
 	> P.S. Half serving of red meat is equivalent to 14g processed red meat or 40g unprocessed red meat
     * ![red_meat](https://user-images.githubusercontent.com/2707039/163703960-6f321de5-4daa-4ea5-95b9-af9c96f1c1bc.jpg)
   * [红肉和白肉最大的区别是什么？为啥要这么分呢？](https://www.zhihu.com/question/67223570/answer/809785380)*(Mandarin, Use Chrome's Translator)*
@@ -158,7 +158,7 @@
   * [10万中国人随访7年发现, 每周喝三次茶与全因死亡风险降低15%, 预期寿命增加1.26年相关 ](https://www.jianshu.com/p/5461a205cf95?utm_campaign=hugo)*(Mandarin, Use Chrome's Translator)*
   * Reference: [Tea consumption and the risk of atherosclerotic cardiovascular disease and all-cause mortality: The China-PAR project](https://www.researchgate.net/profile/Fangchao-Liu-4/publication/338483323_Tea_consumption_and_the_risk_of_atherosclerotic_cardiovascular_disease_and_all-cause_mortality_The_China-PAR_project/links/5e55e5e94585152ce8efe511/Tea-consumption-and-the-risk-of-atherosclerotic-cardiovascular-disease-and-all-cause-mortality-The-China-PAR-project.pdf)
   * [中国成年人饮茶与死亡风险的前瞻性关联研究](http://rs.yiigle.com/CN112338202202/1351516.htm)*(Mandarin, Use Chrome's Translator)*
-  * A total of 34,661 deaths occurred in the 438,443 subjects included in the analysis during 11.1 years of follow-up.Compared with never tea drinkers, current non-daily tea drinkers and daily tea drinkers had HR values (95%CI) of all-cause mortality of 0.89 (0.86-0.91) and 0.92 (0.88-0.95), respectively. By gender The analysis showed that the protective effect of tea drinking on the risk of all-cause mortality was mainly seen in males (P<0.05 for interaction).
+  * A total of 34,661 deaths occurred in the 438,443 subjects included in the analysis during 11.1 years of follow-up. Compared with people who had never consumed tea, current non-daily tea drinkers and daily tea drinkers had HR values (95%CI) of all-cause mortality of 0.89 (0.86-0.91) and 0.92 (0.88-0.95), respectively. By gender The analysis showed that the protective effect of tea drinking on the risk of all-cause mortality was mainly seen in males (P<0.05 for interaction).
 * Sugar-free (sweet) beverages
   * [「无糖饮料使死亡风险增加 26 %」, 是真的吗？](https://www.zhihu.com/question/418598272/answer/1450648364)*(Mandarin, Use Chrome's Translator)*
     * Participants who consumed ≥1 cup/day of mixed soft drinks had an 18% increased risk of death compared with those who consumed <1 cup/month. **Consumption of sugar-sweetened soft drinks or sugar-free soft drinks was associated with an 11% and 27% increased risk of death, respectively.**
@@ -178,7 +178,7 @@
   * [重磅！多篇研究证实喝咖啡与人群全因死亡率降低直接相关](https://news.bioon.com/article/6725420.html)*(Mandarin, Use Chrome's Translator)*
   * [科普 | 喝咖啡又多了一个新理由: 降低死亡率！ ](https://www.sohu.com/a/439412995_100003595)*(Mandarin, Use Chrome's Translator)*
   * [地中海成年人咖啡消耗量及全因, 心血管疾病和癌症的死亡率](https://fanyi.pdf365.cn/help/249)*(Mandarin, Use Chrome's Translator)*
-    * In the most recent meta-analysis, the study included 40 studies and 3,852,651 subjects from different countries.In this meta-analysis, non-linear relationships between coffee intake and all-cause mortality, CVD and cancer mortality were shown. Two cups of coffee per day were associated with the lowest cancer mortality (RR = 0.96), 2.5 cups per day for CVD mortality (RR = 0.83), and 3.5 cups per day for all-day mortality (RR = 0.85). And as coffee consumption increased, mortality did not further decrease or increase.
+    * In the most recent meta-analysis, the study included 40 studies and 3,852,651 subjects from different countries. In this meta-analysis, non-linear relationships between coffee intake and all-cause mortality, CVD and cancer mortality were shown. Two cups of coffee per day were associated with the lowest cancer mortality (RR = 0.96), 2.5 cups per day for CVD mortality (RR = 0.83), and 3.5 cups per day for all-day mortality (RR = 0.85). And as coffee consumption increased, mortality did not further decrease or increase.
 * Spermidine
   * [Science: 科学背书！从精液中发现的亚精胺, 竟然有着抗衰老, 抗癌, 保护心血管和神经, 改善肥胖和2型糖尿病等逆天神效](https://www.medsci.cn/article/show_article.do?id=420d12904103)*(Mandarin, Use Chrome's Translator)*
   * [饮食中亚精胺摄入量高会降低死亡率](https://zhuanlan.zhihu.com/p/388942219)*(Mandarin, Use Chrome's Translator)*
@@ -187,7 +187,7 @@
 
 * Smoking
   * [即使是低强度吸烟, 也增加死亡风险！](https://www.medsci.cn/article/show_article.do?id=02ca2083319b)*(Mandarin, Use Chrome's Translator)*
-    * Among the 42,416 men and 86,735 women(aged 35-89 years with no previous disease), 18,985 men (45%) and 18,072 women (21%) were current smokers, with 33% of men and 39% of women not smoking daily. 8866 men (21%) and 53 912 women (62%) never smoked. During follow-up, the hazard ratios for all-cause mortality compared with never smoking were 1.17 (95% CI 1.10-1.25) and 1.54 (1.42-1.67) for <10 cigarettes per day or ≥10 cigarettes per day, respectively. Hazard ratios were similar regardless of age or gender. The diseases most closely associated with daily smoking are respiratory cancers, chronic obstructive pulmonary disease, and gastrointestinal and vascular diseases. People who quit smoking at the time of recruitment had lower mortality rates than current daily smokers.
+    * Among the 42,416 men and 86,735 women (aged 35-89 years with no previous disease), 18,985 men (45%) and 18,072 women (21%) were current smokers, with 33% of men and 39% of women not smoking daily. 8,866 men (21%) and 53,912 women (62%) never smoked. During follow-up, the hazard ratios for all-cause mortality compared with never smoking were 1.17 (95% CI 1.10-1.25) and 1.54 (1.42-1.67) for <10 cigarettes per day or ≥10 cigarettes per day, respectively. Hazard ratios were similar regardless of age or gender. The diseases most closely associated with daily smoking are respiratory cancers, chronic obstructive pulmonary disease, and gastrointestinal and vascular diseases. People who quit smoking at the time of recruitment had lower mortality rates than current daily smokers.
     * Smokers lose 11-12 years of life on average.
   * [吸烟让人过瘾是什么原理？有节制的吸烟依旧有害吗？](https://www.zhihu.com/question/24846224/answer/1719798177)*(Mandarin, Use Chrome's Translator)*
 
@@ -208,8 +208,8 @@
   * [二甲双胍真的那么神吗？美研究: 父亲服用二甲双胍或致子女有缺陷](https://baijiahao.baidu.com/s?id=1729999374705305768)*(Mandarin, Use Chrome's Translator)*
   * ![二甲双胍](https://user-images.githubusercontent.com/2707039/163702325-5d427542-9ae5-4311-8979-d0d326a9832f.jpg)
   * Adverse reactions
-    * As a drug that has been used for nearly a hundred years, the adverse reactions of metformin have been very clear. The common ones are: vitamin B12 deficiency (7%-17.4%), gastrointestinal adverse reactions (up to 53%), fatigue (9%), headache (6%). 
-	* Serious but infrequent adverse reactions include lactic acidosis, liver damage. 
+    * As a drug that has been used for nearly a hundred years, the adverse reactions of metformin have been very clear. The common ones are: vitamin B12 deficiency (7%-17.4%), gastrointestinal adverse reactions (up to 53%), fatigue (9%), headache (6%).
+	* Serious but infrequent adverse reactions include lactic acidosis, liver damage.
 	* Studies have also shown that it may be teratogenic to the fetus
 * Multi-vitamins
   * [服用复合维生素可降低癌症危险8%, 其他效果并不显著](https://health.qq.com/a/20121023/000026.htm)*(Mandarin, Use Chrome's Translator)*
@@ -280,7 +280,7 @@
 ##### 6.3.2. Wealth
 
 * [JAMA子刊: 贫富差距真能影响寿命？这可能是真的！](https://www.cn-healthcare.com/articlewm/20210727/content-1246348.html)*(Mandarin, Use Chrome's Translator)*
-  * The study used data from wave 1 of the MIDUS study (MIDUS 1), which were collected in 1994 to 1996.  Survival models tested the association between net worth and all-cause mortality. The full sample comprised 5414 participants, who had a mean (SD) age of 46.7 (12.7) years and included 2766 women (51.1%). Higher net worth was associated with lower mortality risk (hazard ratio [HR], 0.95; 95% CI, 0.94-0.97; P<.001). Among siblings and twin pairs specifically (n=2490), a similar within-family association was observed between higher net worth and lower mortality (HR, 0.94; 95% CI, 0.91-0.97; P=.001), suggesting that the sibling or twin with more wealth tended to live longer than their co-sibling or co-twin with less wealth.
+  * The study used data from wave 1 of the MIDUS study (MIDUS 1), which were collected in 1994 to 1996.  Survival models tested the association between net worth and all-cause mortality. The full sample comprised 5414 participants, who had a mean (SD) age of 46.7 (12.7) years and included 2,766 women (51.1%). Higher net worth was associated with lower mortality risk (hazard ratio [HR], 0.95; 95% CI, 0.94-0.97; P<.001). Among siblings and twin pairs specifically (n=2490), a similar within-family association was observed between higher net worth and lower mortality (HR, 0.94; 95% CI, 0.91-0.97; P=.001), suggesting that the sibling or twin with more wealth tended to live longer than their co-sibling or co-twin with less wealth.
 
 ##### 6.3.3. Weight
 
