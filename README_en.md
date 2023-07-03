@@ -39,6 +39,7 @@
 ### 2. Objective
 
 * Live longer
+* Work lesser: check [MetaGPT](https://github.com/geekan/MetaGPT/blob/main/README_EN.md)
 
 ### 3. Key Result
 
