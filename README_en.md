@@ -17,12 +17,13 @@
     - [6.1.5. Medicine](#615-Medicine)
   - [6.2. Output](#62-Output)
     - [6.2.1. Racquet Sports](#621-Racquet-Sports)
-    - [6.2.2. Sitting for a long time](#622-Sitting-for-a-long-time)
+    - [6.2.2. High-intensity Exercise](#622-High-intensity-Exercise)
     - [6.2.3. Walk](#623-Walk)
     - [6.2.4. Tooth brushing](#624-Tooth-brushing)
     - [6.2.5. Bath](#625-Bath)
     - [6.2.6. Housework(for aging males)](#626-Houseworkfor-aging-males)
     - [6.2.7. Sleep](#627-Sleep)
+    - [6.2.8. Sitting for a long time](#628-Sitting-for-a-long-time)
   - [6.3. Context](#63-Context)
     - [6.3.1. Emotion](#631-Emotion)
     - [6.3.2. Wealth](#632-Wealth)
@@ -234,11 +235,10 @@
   * Three times a week, 45-60 minutes of racquet sports, reduces all-cause mortality by ~47%
   * Badminton, table tennis, tennis, etc. are all racquet sports. But due to the westernized research background, it may refer to tennis more. This implicitly expresses that the whole body exercise is more important. (Translator's Note: pickleball)
 
-##### 6.2.2. Sitting for a long time
+##### 6.2.2. High-intensity Exercise
 
-* [Scientific Research Report of Chinese Resident Dietary Guidelines (2021)] (https://www.chinanutri.cn/yyjkzxpt/yyjkkpzx/yytsg/zgjm/202103/p02021031148670527.pdf)
-* Sedentary and watching TV time is related to the high risk of death, cardiovascular disease, cancer, and 2 diabetes. It is an independent risk factor.For a long time, every 1 hour is increased every day, the risk of cardiovascular disease increases by 4%, and cancer increases by 1%, and the risk of death increases by 3%.The long -seated time threshold with increased risk of death and CVD death is 6 \ ~ 8H/d, and the time threshold for watching the TV is 3 \ ~ 4H/D.
-* [Guide to the WHO on physical activity and sedentary behavior] (https://apps.who.int/iris/bitstream/handle/10665/337001/978924947- chi.pdf))
+* [New Study: 8 minutes of high-intensity exercise per day can reduce all-cause mortality and risk of heart disease](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehac572/6771381)
+  * 15-20 minutes of high-intensity exercise per week reduces all-cause mortality by 16-40%, and by spending 50-57 minutes/week on high-intensity exercise, you can further decrease your all-cause mortality rate. These findings suggest that by accumulating a relatively small amount of high-intensity exercise over a short time during the week, health risks can be reduced.
 
 ##### 6.2.3. Walk
 
@@ -275,6 +275,13 @@
 * [颠覆认知！加拿大研究发现: 早睡比熬夜或许更伤身, 几点睡才好？](https://www.thepaper.cn/newsDetail_forward_14461799)*(Mandarin, Use Chrome's Translator)*
   * One conclusion is that bedtime is strongly associated with all-cause mortality, and that going to bed too early and going to bed too late can affect health. But going to bed early was associated with higher all-cause mortality than going to bed late, with an increased risk of death by 43 percent and going to bed late by 15 percent.
   * There are still many limitations in this research study. For example, it does not directly prove the relationship between bedtime and death, only shows the correlation, and the data obtained by using the self-reports of the participants to count sleep time are not objective enough.
+
+##### 6.2.8. Sitting for a long time
+
+* [Scientific Research Report of Chinese Resident Dietary Guidelines (2021)] (https://www.chinanutri.cn/yyjkzxpt/yyjkkpzx/yytsg/zgjm/202103/p02021031148670527.pdf)
+* Sedentary and watching TV time is related to the high risk of death, cardiovascular disease, cancer, and 2 diabetes. It is an independent risk factor.For a long time, every 1 hour is increased every day, the risk of cardiovascular disease increases by 4%, and cancer increases by 1%, and the risk of death increases by 3%.The long -seated time threshold with increased risk of death and CVD death is 6 \ ~ 8H/d, and the time threshold for watching the TV is 3 \ ~ 4H/D.
+* [Guide to the WHO on physical activity and sedentary behavior] (https://apps.who.int/iris/bitstream/handle/10665/337001/978924947- chi.pdf))
+
 
 #### 6.3. Context
 
