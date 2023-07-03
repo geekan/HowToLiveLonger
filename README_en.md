@@ -294,3 +294,19 @@
   * At present, the death rate of COVID-19 (US) is around 1.5%, and the average life expectancy has been reduced by 2 years
 * [如何看待美国CDC宣称新冠死亡人数被高估？](https://www.zhihu.com/question/510943670/answer/2308499719)*(Mandarin, Use Chrome's Translator)*
 * [NVSS deaths](https://www.cdc.gov/nchs/nvss/deaths.htm)
+
+
+> The following content is translated by machine, and can be merged after manual modification
++ ##### 6.2.7. Sitting for a long time
+
++
+
++ * [Scientific Research Report of Chinese Resident Dietary Guidelines (2021)] (https://www.chinanutri.cn/yyjkzxpt/yyjkkpzx/yytsg/zgjm/202103/p02021031148670527.pdf)
+
++ * Sedentary and watching TV time is related to the high risk of death, cardiovascular disease, cancer, and 2 diabetes. It is an independent risk factor.For a long time, every 1 hour is increased every day, the risk of cardiovascular disease increases by 4%, and cancer increases by 1%, and the risk of death increases by 3%.The long -seated time threshold with increased risk of death and CVD death is 6 \ ~ 8H/d, and the time threshold for watching the TV is 3 \ ~ 4H/D.
+
++
+
++ * [Guide to the WHO on physical activity and sedentary behavior] (https://apps.who.int/iris/bitstream/handle/10665/337001/978924947- chi.pdf))
+
++
