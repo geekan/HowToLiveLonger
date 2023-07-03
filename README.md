@@ -39,7 +39,7 @@
 ### 2. 目标
 
 * 稳健地活得更久
-* 让自己不用忙于工作：[MetaGPT项目](https://github.com/geekan/MetaGPT)
+* 让自己不用工作：见[MetaGPT](https://github.com/geekan/MetaGPT)
 
 ### 3. 关键结果
 
