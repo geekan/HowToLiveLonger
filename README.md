@@ -38,8 +38,8 @@
 
 ### 2. 目标
 
-* 活得更久
-* 更少工作：见[MetaGPT](https://github.com/geekan/MetaGPT)
+* 稳健的活得更久
+* 花更少时间工作：见[MetaGPT](https://github.com/geekan/MetaGPT)
 
 ### 3. 关键结果
 
