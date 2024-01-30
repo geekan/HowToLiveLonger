@@ -1,4 +1,4 @@
-# A programmer's guide to live longer
+# A programmer's guide to living longer
 
 [![CN doc](https://img.shields.io/badge/文档-中文版-blue.svg)](README.md)
 [![EN doc](https://img.shields.io/badge/document-English-blue.svg)](README_en.md)
@@ -40,7 +40,7 @@
 ### 2. Objective
 
 * Live longer
-* Less work time: check [MetaGPT](https://github.com/geekan/MetaGPT/blob/main/README_EN.md)
+* Less work time: check [MetaGPT](https://github.com/geekan/MetaGPT)
 
 ### 3. Key Result
 
@@ -53,9 +53,9 @@
 * Main reference: There are relatively many academic papers related to ACM, which can be used as the main reference.
 * The relationship between lifespan and ACM is nonlinear: Obviously, the relationship between lifespan and ACM is a nonlinear function. Assumption:`DeltaLifeSpan=(1/(1+DeltaACM)-1)*10` (DeltaACM is ACM's change value. Welcome to optimize this formula)
 * Variables cannot be simply superimposed: Variables do not meet the IID assumption, and the actual effect between the variables is also unclear.
-* Conflicting views: All references have literature/study counterparts, but there are significant conflicting views between some of the literature(e.g. Carbohtdrate intake retio), and some of the literature are controversial(e.g. Sleep before 22:00 increases ACM by 43%)
+* Conflicting views: All references have literature/study counterparts, but there are significant conflicting views between some of the literature(e.g. Carbohydrate intake ratio), and some of the literature are controversial(e.g. Sleep before 22:00 increases ACM by 43%)
 * Research only shows correlation: Research shows more correlation than causation. Confirm whether the research adequately proves causation. 
-  * e.g. A research shows that people with an average of 7000 or more steps per day have a significantly lower ACM rate. However, people with fewer steps may include more long-term patients. If this part of data is not reasonably excluded, the result is distorted.
+  * e.g. A research shows that people with an average of 7000 or more steps per day have a significantly lower ACM rate. However, people with fewer steps may include more long-term patients. If this part of the data is not reasonably excluded, the result is distorted.
 
 ### 5. Action
 
@@ -81,9 +81,9 @@
 * Plain boiled pork
   * [Meat Consumption Linked to Small Rises in CVD, All-Cause Mortality Risks](https://www.tctmd.com/news/meat-consumption-linked-small-rises-cvd-all-cause-mortality-risks)
     * Reference: [Associations of Processed Meat, Unprocessed Red Meat, Poultry, or Fish Intake With Incident Cardiovascular Disease and All-Cause Mortality](https://jamanetwork.com/journals/jamainternalmedicine/articlepdf/2759737/jamainternal_zhong_2020_oi_190112.pdf)
-    * Increased red meat intake is associated with risk of death. Respondents who increased red meat intake by at least half a serving per day on average over eight years had a 10% increase in ACM over the next eight years. (HR, 1.10[95%CI, 1.04-1.17])
-	* Eating two servings of read or processed meat(excluding poultry or fish) per week increases ACM by 3%.
-	> P.S. Half serving of red meat is equivalent to 14g processed red meat or 40g unprocessed red meat
+    * Increased red meat intake is associated with a risk of death. Respondents who increased red meat intake by at least half a serving per day on average over eight years had a 10% increase in ACM over the next eight years. (HR, 1.10[95%CI, 1.04-1.17])
+	* Eating two servings of red or processed meat(excluding poultry or fish) per week increases ACM by 3%.
+	> P.S. Half serving of red meat is equivalent to 14g of processed red meat or 40g of unprocessed red meat
     * ![red_meat](https://user-images.githubusercontent.com/2707039/163703960-6f321de5-4daa-4ea5-95b9-af9c96f1c1bc.jpg)
   * [红肉和白肉最大的区别是什么？为啥要这么分呢？](https://www.zhihu.com/question/67223570/answer/809785380)*(Mandarin, Use Chrome's Translator)*
 * Fruits and vegetables
@@ -92,7 +92,7 @@
 	* A daily intake of 200g fresh fruit can reduce ACM by 17%, the risk of diabetic macrovascular complications (e.g. stroke, ischemic heart disease, etc.) by 13%, and the risk of diabetic small blood vessel complications (e.g. diabetic nephropathy, diabetic eye disease, diabetic foot disease, etc.) by 28%.
   * [《自然》子刊: 每天二两西兰花, 健康长寿都有啦！分析近6万人23年的数据发现, 吃含黄酮类食物与死亡风险降低20%相关丨临床大发现](https://mp.weixin.qq.com/s/E6BAi-Vnhr1jXBm0Pys2ZQ)*(Mandarin, Use Chrome's Translator)*
     * Reference: [Flavonoid intake is associated with lower mortality in the Danish Diet Cancer and Health Cohort](https://www.nature.com/articles/s41467-019-11622-x)
-    * Eating flavonoid-rich foods linked to 20% lower risk of death
+    * Eating flavonoid-rich foods is linked to a 20% lower risk of death
     * ![Flavonoid](https://user-images.githubusercontent.com/2707039/163703969-42e64f88-e727-4e7d-85f2-07a92e29b613.jpg)
     * "Interestingly, these threshold levels exist well within daily dietary achievable limits: one cup of tea, one apple, one orange, 100g of blueberries, and 100g of broccoli would provide most of the flavonoid subclasses and over 500mg of total flavonoids."says Dr. Bondonno.
 * Chili
@@ -126,7 +126,7 @@
 * Carbohydrates(Seriously controversial)
   * [低碳生酮饮食(四)碳水化合物与长期死亡率](https://zhuanlan.zhihu.com/p/137815934)*(Mandarin, Use Chrome's Translator)*
     * Reference: The Lancet Public Health - [Dietary carbohydrate intake and mortality: a prospective cohort study and meta-analysis](https://www.sciencedirect.com/science/article/pii/S246826671830135X)
-    * The less carbs, the shorter the lifespan. However, more carbs also slightly shorten lifespan. 50% carbs are associated with the longest lifespan.
+    * The less carbs, the shorter the lifespan. However, more carbs also slightly shorten lifespan. 50% of carbs are associated with the longest lifespan.
     * ![Carbs](https://user-images.githubusercontent.com/2707039/163703985-a2e2f8ac-101a-4f3c-903b-6850507f144b.jpg)
   * [最强营养搭配！BMJ: 这么吃, 心血管疾病和死亡风险更低](https://www.chinacdc.cn/gwxx/202003/t20200323_214639.html)*(Mandarin, Use Chrome's Translator)*
 * Betel nut
@@ -182,7 +182,7 @@
   * [重磅！多篇研究证实喝咖啡与人群全因死亡率降低直接相关](https://news.bioon.com/article/6725420.html)*(Mandarin, Use Chrome's Translator)*
   * [科普 | 喝咖啡又多了一个新理由: 降低死亡率！ ](https://www.sohu.com/a/439412995_100003595)*(Mandarin, Use Chrome's Translator)*
   * [地中海成年人咖啡消耗量及全因, 心血管疾病和癌症的死亡率](https://fanyi.pdf365.cn/help/249)*(Mandarin, Use Chrome's Translator)*
-    * In the most recent meta-analysis, the study included 40 studies and 3,852,651 subjects from different countries.In this meta-analysis, non-linear relationships between coffee intake and all-cause mortality, CVD and cancer mortality were shown. Two cups of coffee per day were associated with the lowest cancer mortality (RR = 0.96), 2.5 cups per day for CVD mortality (RR = 0.83), and 3.5 cups per day for all-day mortality (RR = 0.85). And as coffee consumption increased, mortality did not further decrease or increase.
+    * In the most recent meta-analysis, the study included 40 studies and 3,852,651 subjects from different countries.In this meta-analysis, non-linear relationships between coffee intake and all-cause mortality, CVD, and cancer mortality were shown. Two cups of coffee per day were associated with the lowest cancer mortality (RR = 0.96), 2.5 cups per day for CVD mortality (RR = 0.83), and 3.5 cups per day for all-day mortality (RR = 0.85). And as coffee consumption increased, mortality did not further decrease or increase.
 * Spermidine
   * [Science: 科学背书！从精液中发现的亚精胺, 竟然有着抗衰老, 抗癌, 保护心血管和神经, 改善肥胖和2型糖尿病等逆天神效](https://www.medsci.cn/article/show_article.do?id=420d12904103)*(Mandarin, Use Chrome's Translator)*
   * [饮食中亚精胺摄入量高会降低死亡率](https://zhuanlan.zhihu.com/p/388942219)*(Mandarin, Use Chrome's Translator)*
@@ -212,8 +212,8 @@
   * [二甲双胍真的那么神吗？美研究: 父亲服用二甲双胍或致子女有缺陷](https://baijiahao.baidu.com/s?id=1729999374705305768)*(Mandarin, Use Chrome's Translator)*
   * ![二甲双胍](https://user-images.githubusercontent.com/2707039/163702325-5d427542-9ae5-4311-8979-d0d326a9832f.jpg)
   * Adverse reactions
-    * As a drug that has been used for nearly a hundred years, the adverse reactions of metformin have been very clear. The common ones are: vitamin B12 deficiency (7%-17.4%), gastrointestinal adverse reactions (up to 53%), fatigue (9%), headache (6%). 
-	* Serious but infrequent adverse reactions include lactic acidosis, liver damage. 
+    * As a drug that has been used for nearly a hundred years, the adverse reactions of metformin have been very clear. The common ones are: vitamin B12 deficiency (7%-17.4%), gastrointestinal adverse reactions (up to 53%), fatigue (9%), and headache (6%). 
+	* Serious but infrequent adverse reactions include lactic acidosis and liver damage. 
 	* Studies have also shown that it may be teratogenic to the fetus
 * Multi-vitamins
   * [服用复合维生素可降低癌症危险8%, 其他效果并不显著](https://health.qq.com/a/20121023/000026.htm)*(Mandarin, Use Chrome's Translator)*
@@ -223,7 +223,7 @@
   * The study used National Health and Nutrition Examination (NHANES) data from 16,686 adults from 1999 to 2010. Participants were followed for a median of 107 months, and 648 of them took 500-1000 mg of glucosamine/chondroitin daily for more than one year on a regular basis.
 * Spermidine
   * [Science: 科学背书！从精液中发现的亚精胺, 竟然有着抗衰老, 抗癌, 保护心血管和神经, 改善肥胖和2型糖尿病等逆天神效](https://www.medsci.cn/article/show_article.do?id=420d12904103)*(Mandarin, Use Chrome's Translator)*
-  * Spermidine is the most easily absorbed polyamine from the human gut. Spermidine is found in high amounts in many foods, such as fresh green peppers, wheat germ, cauliflower, broccoli, mushrooms and various cheeses, especially in soy products such as natto, shiitake mushrooms and durian. In this experiment, the researchers selected 829 participants aged 45-84 for a 20-year follow-up to analyze the potential association between dietary spermidine intake and human mortality.
+  * Spermidine is the most easily absorbed polyamine from the human gut. Spermidine is found in high amounts in many foods, such as fresh green peppers, wheat germ, cauliflower, broccoli, mushrooms, and various cheeses, especially in soy products such as natto, shiitake mushrooms, and durian. In this experiment, the researchers selected 829 participants aged 45-84 for a 20-year follow-up to analyze the potential association between dietary spermidine intake and human mortality.
   * The study found that women's spermidine intake was higher than men's, and the intake decreased with age. The main sources of spermidine were whole grains (13.4%), apples and pears (13.3%), salads (9.8%), sprouts (7.3%) and potatoes (6.4%). The study divided the population into three groups based on spermidine intake, low intake (<62.2 µmol/d), moderate intake (62.2–79.8 µmol/d), and high intake (>79.8 µmol/d). A total of 341 deaths were recorded during follow-up, including 137 from vascular disease, 94 from cancer, and 110 from other causes. The crude mortality rates for the low, middle, and high groups were calculated to be 40.5%, 23.7%, and 15.1%, respectively. These data indicate a significant inverse relationship between spermidine intake and all-cause mortality. The relationship remained significant with gradual adjustment for age, sex, and calorie ratios.
 * Complex
   * [《自然》子刊深度综述: 如何开发抗衰老药](https://zhuanlan.zhihu.com/p/145495570)*(Mandarin, Use Chrome's Translator)*
@@ -252,7 +252,7 @@
 ##### 6.2.4. Tooth brushing
 
 * [50万国人研究证实: 不好好刷牙, 致癌！血管疾病也会增多！](https://www.cn-healthcare.com/articlewm/20211209/content-1293760.html)*(Mandarin, Use Chrome's Translator)*
-  * People who don't brush their teeth regularly: increased risk of cancer, chronic obstructive pulmonary disease and cirrhosis by 9%, 12% and 25%, respectively, and increased risk of premature death by 25%.
+  * People who don't brush their teeth regularly: increased risk of cancer, chronic obstructive pulmonary disease, and cirrhosis by 9%, 12%, and 25%, respectively, and increased risk of premature death by 25%.
 
 ##### 6.2.5. Bath
 
@@ -281,7 +281,7 @@
 ##### 6.2.8. Sitting for a long time
 
 * [Scientific Research Report of Chinese Resident Dietary Guidelines (2021)] (https://www.chinanutri.cn/yyjkzxpt/yyjkkpzx/yytsg/zgjm/202103/p02021031148670527.pdf)
-* Sedentary and watching TV time is related to the high risk of death, cardiovascular disease, cancer, and 2 diabetes. It is an independent risk factor.For a long time, every 1 hour is increased every day, the risk of cardiovascular disease increases by 4%, and cancer increases by 1%, and the risk of death increases by 3%.The long -seated time threshold with increased risk of death and CVD death is 6 \ ~ 8H/d, and the time threshold for watching the TV is 3 \ ~ 4H/D.
+* Sedentary and watching TV time is related to the high risk of death, cardiovascular disease, cancer, and 2 diabetes. It is an independent risk factor. For a long time, every 1 hour is increased every day, the risk of cardiovascular disease increases by 4%, cancer increases by 1%, and the risk of death increases by 3%. The long-seated time threshold with increased risk of death and CVD death is 6 \ ~ 8H/d, and the time threshold for watching TV is 3 \ ~ 4H/D.
 * [Guide to the WHO on physical activity and sedentary behavior] (https://apps.who.int/iris/bitstream/handle/10665/337001/978924947- chi.pdf))
 
 
@@ -291,7 +291,7 @@
 
 * [悲观情绪与更高的全因死亡率和心血管疾病死亡率有关, 但乐观情绪并不能起到保护作用](https://www.x-mol.com/paper/1288184397379059712/t?recommendPaper=1263704526086578176)*(Mandarin, Use Chrome's Translator)*
 * [Pessimism is associated with greater all-cause and cardiovascular mortality, but optimism is not protective](https://www.nature.com/articles/s41598-020-69388-y?utm_source=xmol&utm_medium=affiliate&utm_content=meta&utm_campaign=DDCN_1_GL01_metadata_scirep)
-  * The Life Orientation Test (LOT), containing items for optimism and pessimism, was included in a twin study on health of Australians aged over 50 in 1993–1995. After a mean of 20 years, participants were matched against death information from the Australian National Death Index. 1,068 out of 2,978 participants with useable LOT scores had died. Survival analysis tested for associations between separate optimism and pessimism scores and mortality from any cause, and from cancers, cardiovascular diseases or other known causes. Age-adjusted scores on the pessimism scale were associated with all-cause and cardiovascular mortality (Hazard Ratios per 1 standard deviation unit, 95% confidence intervals and p-values 1.134, 1.065–1.207, 8.85 × 10–5 and 1.196, 1.045–1.368, 0.0093, respectively) but not with cancer deaths. Optimism scores, which were only weakly correlated with pessimism scores (age-adjusted rank correlation = − 0.176), did not show significant associations with overall or cause-specific mortality. Reverse causation (disease causing pessimism) is unlikely because in that case both cardiovascular diseases and cancers would be expected to lead to pessimism.
+  * The Life Orientation Test (LOT), containing items for optimism and pessimism, was included in a twin study on the health of Australians aged over 50 in 1993–1995. After a mean of 20 years, participants were matched against death information from the Australian National Death Index. 1,068 out of 2,978 participants with useable LOT scores had died. Survival analysis tested for associations between separate optimism and pessimism scores and mortality from any cause, and from cancers, cardiovascular diseases, or other known causes. Age-adjusted scores on the pessimism scale were associated with all-cause and cardiovascular mortality (Hazard Ratios per 1 standard deviation unit, 95% confidence intervals, and p-values 1.134, 1.065–1.207, 8.85 × 10–5 and 1.196, 1.045–1.368, 0.0093, respectively) but not with cancer deaths. Optimism scores, which were only weakly correlated with pessimism scores (age-adjusted rank correlation = − 0.176), did not show significant associations with overall or cause-specific mortality. Reverse causation (disease causing pessimism) is unlikely because in that case both cardiovascular diseases and cancers would be expected to lead to pessimism.
 
 ##### 6.3.2. Wealth
 
@@ -306,7 +306,7 @@
 
 ##### 6.3.4. COVID-19
 
-* [Magnitude, demographics and dynamics of the effect of the first wave of the COVID-19 pandemic on all-cause mortality in 21 industrialized countries](https://www.nature.com/articles/s41591-020-1112-0.pdf)
+* [Magnitude, demographics, and dynamics of the effect of the first wave of the COVID-19 pandemic on all-cause mortality in 21 industrialized countries](https://www.nature.com/articles/s41591-020-1112-0.pdf)
   * At present, the death rate of COVID-19 (US) is around 1.5%, and the average life expectancy has been reduced by 2 years
 * [如何看待美国CDC宣称新冠死亡人数被高估？](https://www.zhihu.com/question/510943670/answer/2308499719)*(Mandarin, Use Chrome's Translator)*
 * [NVSS deaths](https://www.cdc.gov/nchs/nvss/deaths.htm)
