@@ -1,6 +1,7 @@
 # 程序员延寿指南
 
 [![CN doc](https://img.shields.io/badge/文档-中文版-blue.svg)](README.md)
+[![TW doc](https://img.shields.io/badge/文件-繁體中文版-blue.svg)](README_tw.md)
 [![EN doc](https://img.shields.io/badge/document-English-blue.svg)](README_en.md)
 [![MetaGPT](https://img.shields.io/badge/减少工作时间-MetaGPT-blue)](https://github.com/geekan/MetaGPT)
 
