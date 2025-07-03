@@ -47,7 +47,7 @@
 
 * 降低66.67%全因死亡率
 * 增加\~20年预期寿命
-* ~~维持多巴胺于中轴~~
+* ~~维持多巴胺于中枢~~
 
 ### 4. 分析
 
@@ -62,8 +62,8 @@
 * 输入
   * 固体：吃白肉（-11%\~-3% ACM）、蔬果为主（-26%\~-17% ACM），多吃辣（-23% ACM），多吃坚果（-27%\~-4% ACM），中量碳水、多吃植物蛋白（-10% ACM），少吃超加工食物（-62%\~-18%）
   * 液体：喝咖啡（-22%\~-12% ACM），喝牛奶（-17%\~-10% ACM），喝茶（-15%\~-8% ACM），少喝或不喝甜味饮料（否则每天一杯+7% ACM，+多巴胺），戒酒（否则+\~50% ACM，无上限）
-  * 气体：不吸烟（否则+~50% ACM，-12\~-11年寿命）
-  * 光照：晒太阳（-~40% ACM）
+  * 气体：不吸烟（否则~+50% ACM，-12\~-11年寿命）
+  * 光照：晒太阳（~-40% ACM）
   * 药物：二甲双胍（糖尿病人相比正常人可以+3年）、复合维生素（-8%癌症风险）、亚精胺（-60%\~-30% ACM）、葡萄糖胺（-39% ACM）
 * 输出
   * 运动：每周3次45分钟挥拍运动（-47% ACM）
@@ -112,7 +112,7 @@
     * 出处2：[APG_Health-&-Nutrition-Research-Brochure_DEC-19-18](https://americanpistachios.cn/sites/china/files/inline-files/APG_Health-%26-Nutrition-Research-Brochure_DEC-19-18.pdf)
     * 研究人员发现，每周吃树坚果低于1盎司份量的人，死亡率降低7％。而每周吃了1盎司份量的人，减少11％的死亡率；每周吃2份量的人，减低13％；每周5至6份量者，减少了15％；一周7份以上的人，死亡率则减少20％。
     * 另外两篇发表在《公共科学图书馆在线期刊》(Public Library of Science Online Journal)和《生物医学中心》(BioMed Central)上的医学预科研究论文，展示了试验开始时的横断面数据。这两项研究都评估了7,216名对象，以及他们食用坚果的频率和数量之间的关系。那些每周食用三份以上坚果(包括开心果)的研究对象的死亡率降低39%。
-* 钠（存有大量争议）
+* 钠（存在大量争议）
   * [Eur Heart J：钠摄入量与预期寿命、全因死亡率的关系](https://nursing.medsci.cn/article/show_article.do;jsessionid=A34E8A33918A152CB55BDD2E5FB1798D?id=afe720486ee7)
     * 出处：[Messerli F H, Hofstetter L, Syrogiannouli L, et al. Sodium intake, life expectancy, and all-cause mortality[J]. European heart journal, 2021, 42(21): 2103-2112.](https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC8169157&blobtype=pdf)
     * ![ehaa947f6](https://user-images.githubusercontent.com/2707039/164894778-9710f18d-e055-4f62-bdcb-618687771d77.jpeg)
@@ -121,7 +121,7 @@
     * [针对该论文的延伸解读和讨论：A Fresh Foray in the Salt Wars: Life Expectancy Higher With Greater Sodium Intake](https://www.tctmd.com/news/fresh-foray-salt-wars-life-expectancy-higher-greater-sodium-intake)
   * [NEJM/Lancet：不要吃太多盐，中国饮食所致心血管病和癌症死亡全球第一，吃低钠盐可降低全因死亡率](https://ibook.antpedia.com/x/669028.html)
     * 但也有多项研究认为用低钠盐可以降低一系列疾病的发生概率，对全因死亡率的减少有积极影响
-* 碳水（存有大量争议）
+* 碳水（存在大量争议）
   * [低碳生酮饮食（四）碳水化合物与长期死亡率](https://zhuanlan.zhihu.com/p/137815934)
     * 出处：The Lancet Public Health - [Dietary carbohydrate intake and mortality: a prospective cohort study and meta-analysis](https://www.sciencedirect.com/science/article/pii/S246826671830135X)
     * 碳水越低，寿命越短；碳水越高，寿命也轻微缩短；碳水50%左右（其实按照一般的说法，这也算高碳水）是最长寿命区间 
