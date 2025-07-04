@@ -47,7 +47,7 @@
 
 * 降低66.67%全因死亡率
 * 增加\~20年预期寿命
-* ~~维持多巴胺于中轴~~
+* ~~维持多巴胺于中枢~~
 
 ### 4. 分析
 
@@ -62,8 +62,8 @@
 * 输入
   * 固体：吃白肉（-11%\~-3% ACM）、蔬果为主（-26%\~-17% ACM），多吃辣（-23% ACM），多吃坚果（-27%\~-4% ACM），中量碳水、多吃植物蛋白（-10% ACM），少吃超加工食物（-62%\~-18%）
   * 液体：喝咖啡（-22%\~-12% ACM），喝牛奶（-17%\~-10% ACM），喝茶（-15%\~-8% ACM），少喝或不喝甜味饮料（否则每天一杯+7% ACM，+多巴胺），戒酒（否则+\~50% ACM，无上限）
-  * 气体：不吸烟（否则+~50% ACM，-12\~-11年寿命）
-  * 光照：晒太阳（-~40% ACM）
+  * 气体：不吸烟（否则~+50% ACM，-12\~-11年寿命）
+  * 光照：晒太阳（~-40% ACM）
   * 药物：二甲双胍（糖尿病人相比正常人可以+3年）、复合维生素（-8%癌症风险）、亚精胺（-60%\~-30% ACM）、葡萄糖胺（-39% ACM）
 * 输出
   * 运动：每周3次45分钟挥拍运动（-47% ACM）
@@ -112,7 +112,7 @@
     * 出处2：[APG_Health-&-Nutrition-Research-Brochure_DEC-19-18](https://americanpistachios.cn/sites/china/files/inline-files/APG_Health-%26-Nutrition-Research-Brochure_DEC-19-18.pdf)
     * 研究人员发现，每周吃树坚果低于1盎司份量的人，死亡率降低7％。而每周吃了1盎司份量的人，减少11％的死亡率；每周吃2份量的人，减低13％；每周5至6份量者，减少了15％；一周7份以上的人，死亡率则减少20％。
     * 另外两篇发表在《公共科学图书馆在线期刊》(Public Library of Science Online Journal)和《生物医学中心》(BioMed Central)上的医学预科研究论文，展示了试验开始时的横断面数据。这两项研究都评估了7,216名对象，以及他们食用坚果的频率和数量之间的关系。那些每周食用三份以上坚果(包括开心果)的研究对象的死亡率降低39%。
-* 钠（存有大量争议）
+* 钠（存在大量争议）
   * [Eur Heart J：钠摄入量与预期寿命、全因死亡率的关系](https://nursing.medsci.cn/article/show_article.do;jsessionid=A34E8A33918A152CB55BDD2E5FB1798D?id=afe720486ee7)
     * 出处：[Messerli F H, Hofstetter L, Syrogiannouli L, et al. Sodium intake, life expectancy, and all-cause mortality[J]. European heart journal, 2021, 42(21): 2103-2112.](https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC8169157&blobtype=pdf)
     * ![ehaa947f6](https://user-images.githubusercontent.com/2707039/164894778-9710f18d-e055-4f62-bdcb-618687771d77.jpeg)
@@ -121,7 +121,7 @@
     * [针对该论文的延伸解读和讨论：A Fresh Foray in the Salt Wars: Life Expectancy Higher With Greater Sodium Intake](https://www.tctmd.com/news/fresh-foray-salt-wars-life-expectancy-higher-greater-sodium-intake)
   * [NEJM/Lancet：不要吃太多盐，中国饮食所致心血管病和癌症死亡全球第一，吃低钠盐可降低全因死亡率](https://ibook.antpedia.com/x/669028.html)
     * 但也有多项研究认为用低钠盐可以降低一系列疾病的发生概率，对全因死亡率的减少有积极影响
-* 碳水（存有大量争议）
+* 碳水（存在大量争议）
   * [低碳生酮饮食（四）碳水化合物与长期死亡率](https://zhuanlan.zhihu.com/p/137815934)
     * 出处：The Lancet Public Health - [Dietary carbohydrate intake and mortality: a prospective cohort study and meta-analysis](https://www.sciencedirect.com/science/article/pii/S246826671830135X)
     * 碳水越低，寿命越短；碳水越高，寿命也轻微缩短；碳水50%左右（其实按照一般的说法，这也算高碳水）是最长寿命区间 
@@ -269,9 +269,9 @@
   * ![睡眠-男](https://user-images.githubusercontent.com/2707039/163704166-226b7ebb-92ce-4753-a3e7-77a87652a104.jpg)
   * 在女性中，与睡眠持续时间7小时相比：睡眠持续时间≥10小时与全因死亡风险增加48%相关；
   * ![睡眠-女](https://user-images.githubusercontent.com/2707039/163704169-c5c715aa-7130-403b-b0d1-ec34fab094d8.png)
-* [颠覆认知！加拿大研究发现：早睡比熬夜或许更伤身，几点睡才好？](https://www.thepaper.cn/newsDetail_forward_14461799)
-  * 其中一个结论为，就寝时间与全因死亡率的关联性强，过早睡觉和过晚睡觉都会影响健康，但是早睡增加的全因死亡率比晚睡增加的死亡率高，早睡增加了43%的死亡风险，而晚睡增加了15%的死亡风险。
-  * 这项调查研究，还存在很多局限性，比如没有直接证明就寝时间与死亡的关系，仅仅说明相关性，通过参与人群自我报告统计睡眠时间，数据不够客观
+* [加拿大研究发现：早睡与熬夜伤身程度相差不大](https://www.sciencedirect.com/science/article/abs/pii/S1389945721000745)
+  * 研究发现，就寝时间与综合结局呈 U 型关联。以 10 点至午夜就寝者为参照组，调整年龄和性别后，早睡者和晚睡者综合结局的风险均较高（HR 分别为 1.29 [1.22, 1.35]和 1.11 [1.03, 1.20]）。在纳入人口统计学因素、生活方式行为（包括总睡眠时长）和疾病史等全部调整因素后，结果显著减弱，但估计值仍显示早睡者和晚睡者的风险略有升高（早睡者 HR 为 1.09 [1.03–1.16]，晚睡者 HR 为 1.10 [1.02–1.20]）。
+  * [加拿大研究发现：早睡比熬夜或许更伤身，几点睡才好？](https://mp.weixin.qq.com/s/2WBUh85Jr78aaQkzAu-XJg) 这篇 39 健康网的文章实属标题党，实际的数据如上。 
 
 ##### 6.2.8. 久坐
 
