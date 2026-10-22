@@ -1,6 +1,6 @@
 # Contributing / 贡献指南
 
-[中文入口](README.md) · [English entry](README_en.md)
+[English](README.md) · [简体中文](docs/readme/zh-CN.md)
 
 ## Evidence changes / 证据变更
 

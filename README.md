@@ -1,23 +1,23 @@
-# 程序员延寿指南 · HowToLiveLonger
+# A Programmer’s Guide to Longevity · HowToLiveLonger
 
-**帮助每个人健康快乐地活得更久。**
+**Helping everyone live a longer, healthier, happier life.**
 
-[**在线阅读 →**](https://geekan.github.io/HowToLiveLonger/) · [English](README_en.md) · [参与贡献](CONTRIBUTING.md)
+[**Read online →**](https://geekan.github.io/HowToLiveLonger/) · [Contribute](CONTRIBUTING.md)
 
-[![程序员延寿指南](assets/cover-social-v3.png)](https://geekan.github.io/HowToLiveLonger/)
+[English](README.md) · [简体中文](docs/readme/zh-CN.md) · [Español](docs/readme/es.md) · [Français](docs/readme/fr.md) · [Deutsch](docs/readme/de.md) · [Português](docs/readme/pt.md) · [日本語](docs/readme/ja.md) · [العربية](docs/readme/ar.md)
 
-从饮食、运动、睡眠到日常习惯，看看研究发现了什么，找到适合自己的改变。
+[![A Programmer’s Guide to Longevity](assets/cover-social-v3.png)](https://geekan.github.io/HowToLiveLonger/)
 
-- **八种语言**：中文、英语、西班牙语、法语、德语、葡萄牙语、日语、阿拉伯语。
-- **好找、好读**：搜索主题，按分类和证据等级筛选，点击列名排序；手机上以卡片阅读。
-- **有据可查**：61 条研究记录，每条都有研究发现、日常参考和原始来源；HR 等术语可悬停或点按查看解释。
-- **随时带走**：导出 CSV、完整 JSON 或分享卡片。下载仓库后，双击 `index.html` 也能离线浏览。
+Explore research on food, movement, sleep and everyday habits, and find changes that fit your life.
 
-[中文](https://geekan.github.io/HowToLiveLonger/#lang=zh&view=table) · [English](https://geekan.github.io/HowToLiveLonger/#lang=en&view=table) · [Español](https://geekan.github.io/HowToLiveLonger/#lang=es&view=table) · [Français](https://geekan.github.io/HowToLiveLonger/#lang=fr&view=table) · [Deutsch](https://geekan.github.io/HowToLiveLonger/#lang=de&view=table) · [Português](https://geekan.github.io/HowToLiveLonger/#lang=pt&view=table) · [日本語](https://geekan.github.io/HowToLiveLonger/#lang=ja&view=table) · [العربية](https://geekan.github.io/HowToLiveLonger/#lang=ar&view=table)
+- **Eight languages:** Chinese, English, Spanish, French, German, Portuguese, Japanese and Arabic.
+- **Easy to explore:** search topics, filter by category or evidence level, and sort by column heading. Read cards on your phone.
+- **Research you can follow:** 61 records with plain-language findings, everyday takeaways and original sources. Hover over terms such as HR, or tap them, for an explanation.
+- **Keep a copy:** export CSV, complete JSON or a share card. Download the repository and open `index.html` to browse offline.
 
-## 本地开发
+## Develop locally
 
-只需 Python 3.10+，无需安装依赖或运行后端。
+Use Python 3.10 or newer. No packages or backend are required.
 
 ```sh
 git clone https://github.com/geekan/HowToLiveLonger.git
@@ -27,24 +27,24 @@ python3 scripts/validate.py --check-build
 python3 -m http.server 8000
 ```
 
-访问 <http://localhost:8000>。修改模板或数据后，重新构建并检查，再提交生成的 `index.html`。
+Visit <http://localhost:8000>. After editing the template or data, rebuild, validate and commit the generated `index.html`.
 
-## 文件入口
+## Project map
 
-| 目录 | 职责 |
+| Directory | Purpose |
 | --- | --- |
-| [`src/`](src/) | 页面源码：`index.template.html` |
-| [`data/`](data/) | 研究记录、来源和术语解释 |
-| [`locales/`](locales/) | 八语界面、研究译文，以及 `readers/` 中的读者卡片 |
-| [`scripts/`](scripts/) | `build.py` 构建页面，`validate.py` 检查数据和构建一致性 |
-| [`assets/`](assets/) | 标志、封面及其源文件 |
-| [`docs/`](docs/) | [原始中文文章](docs/original-readme.zh.md)、[英文文章](docs/original-readme.en.md)与历史核对记录 |
-| [`index.html`](index.html) | 自动生成的单文件网站，供 GitHub Pages 和离线阅读使用 |
+| [`src/`](src/) | Page source: `index.template.html` |
+| [`data/`](data/) | Research records, sources and glossary |
+| [`locales/`](locales/) | Interface and research translations, with reader cards in `readers/` |
+| [`scripts/`](scripts/) | `build.py` generates the site; `validate.py` checks data and reproducibility |
+| [`assets/`](assets/) | Logo, artwork and their source files |
+| [`docs/`](docs/) | Original articles, historical review records and translated READMEs |
+| [`index.html`](index.html) | Generated standalone website for GitHub Pages and offline reading |
 
-## 托管与更新
+## Hosting and updates
 
-网站由 GitHub Pages 从 `main` 分支根目录发布，`.nojekyll` 让已构建的静态文件直接上线。仓库不使用 workflow；构建、校验在本地完成，推送后由 Pages 发布。
+GitHub Pages publishes the root of `main`. The `.nojekyll` file serves the already-built static files directly. Build and validate locally, then push the updated site. No custom workflow files are needed.
 
-欢迎补充研究、纠正内容、润色翻译和改进阅读体验。具体方法见[贡献指南](CONTRIBUTING.md)。
+Contributions to research, translations and the reading experience are welcome. See the [contribution guide](CONTRIBUTING.md).
 
-由 [geekan 与贡献者](https://github.com/geekan/HowToLiveLonger/graphs/contributors)共同维护，使用 [Unlicense](LICENSE)。研究论文及其他链接材料遵循各自的使用条款。
+Created by [geekan and contributors](https://github.com/geekan/HowToLiveLonger/graphs/contributors) under the [Unlicense](LICENSE). Papers and other linked materials retain their own terms.
