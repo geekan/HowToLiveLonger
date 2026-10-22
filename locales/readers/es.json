@@ -248,6 +248,21 @@
       "summary": "La metformina puede causar diarrea y otras molestias digestivas, y bajar vitamina B12; la acidosis láctica es otro riesgo importante. Las reacciones varían con formulación, dosis y salud.",
       "takeaway": "Úsala según receta, vigila tolerancia, riñón y vitamina B12, y comunica pronto las molestias.",
       "title": "Efectos adversos de la metformina"
+    },
+    "waist-circumference": {
+      "title": "Cintura y grasa abdominal",
+      "summary": "La cintura aporta información útil además del peso. Los estudios de seguimiento prolongado relacionan una cintura mayor con mayor riesgo de muerte, por lo que la báscula por sí sola puede pasar por alto parte del riesgo.",
+      "takeaway": "Registra tu cintura además del peso e incorpora actividad física regular y comidas equilibradas a tu rutina."
+    },
+    "obstructive-sleep-apnoea": {
+      "title": "Ronquidos y apnea del sueño",
+      "summary": "Pasar toda la noche en la cama no siempre significa dormir bien. La apnea del sueño grave se relaciona con mayor riesgo de muerte; los ronquidos persistentes, las pausas respiratorias y la somnolencia diurna merecen atención.",
+      "takeaway": "Solicita una evaluación del sueño si roncas fuerte a menudo, dejas de respirar mientras duermes o tienes somnolencia durante el día; si se confirma el diagnóstico, consulta el tratamiento adecuado."
+    },
+    "hepatitis-c-treatment": {
+      "title": "Detectar y tratar la hepatitis C",
+      "summary": "La hepatitis C puede pasar inadvertida durante años. Un estudio de seguimiento de personas con infección crónica relacionó el tratamiento antiviral con menor mortalidad, lo que refuerza la importancia del diagnóstico y la atención a tiempo.",
+      "takeaway": "Tras una prueba positiva de anticuerpos, confirma si hay infección actual. Si se confirma, solicita una evaluación hepática y consulta pronto el tratamiento antiviral."
     }
   }
 }

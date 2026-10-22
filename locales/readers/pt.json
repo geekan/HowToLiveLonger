@@ -248,6 +248,21 @@
       "summary": "A metformina pode causar diarreia e outros sintomas digestivos e reduzir os níveis de vitamina B12. A acidose láctica também é um risco importante. As reações variam com a formulação, a dose e a saúde.",
       "takeaway": "Use conforme a prescrição, acompanhe tolerância, função renal e vitamina B12 e comunique sintomas prontamente.",
       "title": "Reações adversas da metformina"
+    },
+    "waist-circumference": {
+      "title": "Cintura e gordura abdominal",
+      "summary": "A cintura traz informações úteis além do peso. Estudos de longo prazo associam uma cintura maior a maior risco de morte, por isso a balança sozinha pode deixar parte do risco passar despercebida.",
+      "takeaway": "Acompanhe a cintura além do peso e inclua atividade física regular e refeições equilibradas na rotina."
+    },
+    "obstructive-sleep-apnoea": {
+      "title": "Ronco e apneia do sono",
+      "summary": "Passar a noite inteira na cama nem sempre significa dormir bem. A apneia do sono grave se associa a maior risco de morte; ronco persistente, pausas respiratórias e sonolência diurna merecem atenção.",
+      "takeaway": "Peça uma avaliação do sono se você costuma roncar alto, parar de respirar durante o sono ou sentir sonolência durante o dia; se houver diagnóstico, discuta o tratamento adequado."
+    },
+    "hepatitis-c-treatment": {
+      "title": "Diagnosticar e tratar a hepatite C",
+      "summary": "A hepatite C pode passar despercebida por anos. Um estudo de acompanhamento de pessoas com infecção crônica associou o tratamento antiviral a menor mortalidade, reforçando a importância do diagnóstico e do cuidado em tempo oportuno.",
+      "takeaway": "Após um teste positivo de anticorpos, confirme se há infecção atual; se houver, faça uma avaliação do fígado e discuta prontamente o tratamento antiviral."
     }
   }
 }

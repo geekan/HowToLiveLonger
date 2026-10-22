@@ -75,6 +75,16 @@
       "section": "Abstract Methods: supplementary randomized trial",
       "clarification": "补充试验是在原有磺脲治疗上加用二甲双胍，不是反向加用磺脲。仅澄清来源说明，不改变主试验效应、CI、等级或行动。",
       "boundary": "内部多语言语义复核，不是截至2026的新系统综述。"
+    },
+    "additions20261022": {
+      "date": "2026-10-22",
+      "recordIds": [
+        "waist-circumference",
+        "obstructive-sleep-apnoea",
+        "hepatitis-c-treatment"
+      ],
+      "review": "docs/review-2026-10-22.json",
+      "scope": "Three selected additions; primary paper abstracts, PAP full-text key results and official symptom/testing guidance. Not an exhaustive current systematic review."
     }
   },
   "records": [
@@ -2113,6 +2123,123 @@
           "year": 2026,
           "readLevel": "全文（说明书相关段）",
           "evidence": "2026-06更新标签：Table 1 腹泻53%/12%、无力9%/6%、头痛6%/5%；5.2节约7%血清B12变低。6.2节肝损伤来自自发报告。",
+          "status": "已核验"
+        }
+      ]
+    },
+    {
+      "id": "waist-circumference",
+      "category": "上下文",
+      "subcategory": "体重",
+      "origin": "新增",
+      "verdict": "支持但需限定",
+      "grade": "B",
+      "factor": "腰围与腹型肥胖",
+      "originalClaim": "新增：关注体重之外的腹部脂肪分布。",
+      "finding": "成人前瞻性队列汇总发现，腰围每增加10 cm，与全因死亡风险约高11%相关。考虑BMI后，腹部脂肪指标仍有额外的风险信息。",
+      "effect": "HR 1.11 / 腰围每增加10 cm",
+      "ci": "95%CI 1.08–1.13",
+      "comparison": "腰围每增加10 cm；比较不同腰围的成年人",
+      "population": "综述共72项前瞻性队列、2,528,297人；腰围分析含50项研究",
+      "design": "前瞻性队列的系统综述与剂量反应荟萃分析",
+      "gradeReason": "多队列直接评估ACM；观察性研究，不能据此量化减腰围的个人治疗收益。",
+      "limitations": "研究间异质性较高；腰围测量方法、基础疾病和生活方式不同。腰围是风险指标，不是直接测得的内脏脂肪量；本次结论不设统一减重目标。",
+      "action": "体重之外，也留意腰围的长期变化；腹部脂肪增加时，结合饮食、运动和健康评估逐步改善。",
+      "sources": [
+        {
+          "title": "Central fatness and risk of all cause mortality: systematic review and dose-response meta-analysis of 72 prospective cohort studies.",
+          "url": "https://www.bmj.com/content/370/bmj.m3324",
+          "doi": "10.1136/bmj.m3324",
+          "year": 2020,
+          "readLevel": "摘要",
+          "evidence": "摘要Results：共72队列；腰围分析50项，每增加10 cm的HR 1.11（95%CI 1.08–1.13）；考虑BMI后仍有正向关联。",
+          "status": "已核验"
+        }
+      ]
+    },
+    {
+      "id": "obstructive-sleep-apnoea",
+      "category": "上下文",
+      "subcategory": "睡眠",
+      "origin": "新增",
+      "verdict": "支持但需限定",
+      "grade": "B",
+      "factor": "阻塞性睡眠呼吸暂停",
+      "originalClaim": "新增：关注睡眠中反复呼吸暂停及其健康影响。",
+      "finding": "前瞻性观察研究汇总中，重度阻塞性睡眠呼吸暂停与更高全因死亡风险相关。2025年治疗综述中，气道正压治疗的随机试验汇总未显示明确的ACM降低，非随机研究则观察到较低风险。",
+      "effect": "重度 vs 无睡眠呼吸暂停：HR 1.90",
+      "ci": "95%CI 1.29–2.81",
+      "comparison": "重度阻塞性睡眠呼吸暂停 vs 无该病；不是治疗 vs 不治疗",
+      "population": "风险综述共6项前瞻性观察研究、11,932人；按呼吸暂停严重度分组",
+      "design": "前瞻性观察研究的荟萃分析；另参考气道正压治疗的综合研究",
+      "gradeReason": "直接ACM的多队列关联；本等级针对患病风险，不代表已证明治疗的死亡率降幅。",
+      "limitations": "基础疾病和治疗选择可能影响结果；治疗综述混合随机和非随机研究，不能把综合结果都视为随机试验证据。打鼾本身不等于确诊。",
+      "action": "长期大声打鼾、睡中憋气或白天总犯困时，做睡眠评估；确诊后与医生选择治疗。",
+      "sources": [
+        {
+          "title": "Is obstructive sleep apnea associated with cardiovascular and all-cause mortality?",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/23936014/",
+          "doi": "10.1371/journal.pone.0069432",
+          "year": 2013,
+          "readLevel": "摘要",
+          "evidence": "摘要Results：6研究、11,932人；重度OSA的全因死亡HR 1.90（95%CI 1.29–2.81）。",
+          "status": "已核验"
+        },
+        {
+          "title": "Positive airway pressure therapy and all-cause and cardiovascular mortality in people with obstructive sleep apnoea: a systematic review and meta-analysis of randomised controlled trials and confounder-adjusted, non-randomised controlled studies.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40118084/",
+          "doi": "10.1016/S2213-2600(25)00002-5",
+          "year": 2025,
+          "readLevel": "全文（关键结果段）",
+          "evidence": "全文Results：共30研究，含10项随机和20项非随机研究；仅随机研究ACM HR 0.87（95%CI 0.65–1.16），仅非随机研究HR 0.60（0.52–0.70）。",
+          "status": "已核验"
+        },
+        {
+          "title": "Sleep Apnea — Symptoms (NHLBI, NIH)",
+          "url": "https://www.nhlbi.nih.gov/health/sleep-apnea/symptoms",
+          "doi": "",
+          "year": 2025,
+          "readLevel": "全文",
+          "evidence": "症状页：呼吸反复停止、大声打鼾和白天嗜睡；出现这些症状应与医疗人员讨论。",
+          "status": "已核验"
+        }
+      ]
+    },
+    {
+      "id": "hepatitis-c-treatment",
+      "category": "输入",
+      "subcategory": "药物",
+      "origin": "新增",
+      "verdict": "支持但需限定",
+      "grade": "C",
+      "factor": "慢性丙肝的发现与治疗",
+      "originalClaim": "新增：关注慢性丙型肝炎感染者的检测及抗病毒治疗。",
+      "finding": "法国慢性丙肝患者的前瞻性队列中，接受直接抗病毒治疗与调整后全因死亡风险约低52%相关。该比较针对已感染患者，治疗分配并非随机。",
+      "effect": "调整后 HR 0.48",
+      "ci": "95%CI 0.33–0.70",
+      "comparison": "慢性丙肝患者接受直接抗病毒治疗 vs 未治疗；按时间变化的治疗暴露分析",
+      "population": "法国32个肝病中心、9,895名慢性丙肝成人；中位随访33.4个月",
+      "design": "前瞻性多中心观察队列，采用时间依赖模型并调整混杂因素",
+      "gradeReason": "直接ACM结局，但来自单项观察队列；调整后仍可能存在治疗选择等混杂。",
+      "limitations": "研究排除了既往失代偿肝硬化、肝癌或肝移植等患者；不能外推未感染者，也不是某种方案的随机比较。抗体阳性本身不能确认当前感染。",
+      "action": "丙肝抗体阳性后，进一步检测病毒是否仍存在；确诊当前感染后，接受肝脏评估并与医生选择抗病毒治疗。",
+      "sources": [
+        {
+          "title": "Clinical outcomes in patients with chronic hepatitis C after direct-acting antiviral treatment: a prospective cohort study.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/30765123/",
+          "doi": "10.1016/S0140-6736(18)32111-1",
+          "year": 2019,
+          "readLevel": "摘要",
+          "evidence": "摘要：9,895人，中位随访33.4个月；抗病毒治疗暴露的调整后全因死亡HR 0.48（95%CI 0.33–0.70）。",
+          "status": "已核验"
+        },
+        {
+          "title": "Testing for Hepatitis C (CDC)",
+          "url": "https://www.cdc.gov/hepatitis-c/testing/index.html",
+          "doi": "",
+          "year": 2025,
+          "readLevel": "全文",
+          "evidence": "检测指导：抗体阳性后需检测HCV RNA以确认当前感染；RNA阳性者应衔接诊疗。",
           "status": "已核验"
         }
       ]

@@ -8,7 +8,7 @@
 
 [![プログラマーの長寿ガイド](../../assets/cover-social-v3.png)](https://geekan.github.io/HowToLiveLonger/#lang=ja&view=table)
 
-食事、運動、睡眠、日々の習慣に関する61件の研究紹介を、実生活のヒントや原典へのリンクとともに読めます。
+食事、運動、睡眠、日々の習慣に関する64件の研究紹介を、実生活のヒントや原典へのリンクとともに読めます。
 
 オフラインで読むには、[リポジトリをダウンロード](https://github.com/geekan/HowToLiveLonger/archive/refs/heads/main.zip)して解凍し、`index.html` を開いてください。
 

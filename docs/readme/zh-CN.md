@@ -8,7 +8,7 @@
 
 [![程序员延寿指南](../../assets/cover-social-v3.png)](https://geekan.github.io/HowToLiveLonger/#lang=zh&view=table)
 
-整理饮食、运动、睡眠等方面的 61 条研究记录，附日常参考和原始论文。
+整理饮食、运动、睡眠等方面的 64 条研究记录，附日常参考和原始论文。
 
 离线阅读：[下载仓库](https://github.com/geekan/HowToLiveLonger/archive/refs/heads/main.zip)，解压后打开 `index.html`。
 

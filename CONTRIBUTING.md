@@ -16,7 +16,7 @@ Start with a stable record ID in `data/evidence.json`. Provide the original pape
 
 ## Translation / 翻译
 
-English records live in `locales/en.json`; Spanish, French, German, Portuguese, Japanese and Arabic live in `locales/{es,fr,de,pt,ja,ar}.json`. Every finished language covers the same 61 stable IDs, all 11 core fields and the source notes in their original order. UI and term keys must match `locales/interface.json`; missing languages or fields fail a strict build, and copying English text does not complete another translation.
+English records live in `locales/en.json`; Spanish, French, German, Portuguese, Japanese and Arabic live in `locales/{es,fr,de,pt,ja,ar}.json`. Every finished language covers the same stable record IDs, all 11 core fields and the source notes in their original order. UI and term keys must match `locales/interface.json`; missing languages or fields fail a strict build, and copying English text does not complete another translation.
 
 A medical change must update Chinese, English and all six additional locales together. Preserve effect type, estimates, confidence levels, comparison direction, population, negation and limitations. Keep the historical `originalClaim` separate from the current finding. Original paper titles and explicitly labeled Chinese archives may retain their original language.
 

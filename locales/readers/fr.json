@@ -248,6 +248,21 @@
       "summary": "La metformine peut causer diarrhée et autres troubles digestifs, et abaisser la vitamine B12 ; l'acidose lactique est aussi un risque important. Les réactions varient selon formulation, dose et santé.",
       "takeaway": "Suivez la prescription, surveillez votre tolérance au traitement, votre fonction rénale et votre taux de vitamine B12, et signalez rapidement les symptômes.",
       "title": "Effets indésirables de la metformine"
+    },
+    "waist-circumference": {
+      "title": "Tour de taille et graisse abdominale",
+      "summary": "Le tour de taille apporte des informations utiles en plus du poids. Les études à long terme associent un tour de taille plus élevé à un risque de décès accru : la balance seule ne montre donc pas tout.",
+      "takeaway": "Suivez votre tour de taille en plus de votre poids et faites une place à l’activité physique régulière et aux repas équilibrés dans votre quotidien."
+    },
+    "obstructive-sleep-apnoea": {
+      "title": "Ronflements et apnée du sommeil",
+      "summary": "Une nuit entière au lit ne garantit pas un sommeil de qualité. L’apnée du sommeil sévère est associée à un risque de décès accru ; ronflements persistants, pauses respiratoires et somnolence diurne méritent votre attention.",
+      "takeaway": "Demandez un bilan du sommeil si vous ronflez souvent fort, avez des pauses respiratoires en dormant ou somnolez dans la journée ; si le diagnostic est confirmé, discutez d’un traitement adapté."
+    },
+    "hepatitis-c-treatment": {
+      "title": "Dépister et traiter l’hépatite C",
+      "summary": "L’hépatite C peut passer inaperçue pendant des années. Un suivi de personnes ayant une infection chronique a associé le traitement antiviral à une mortalité plus faible, ce qui souligne l’intérêt du diagnostic et d’une prise en charge rapide.",
+      "takeaway": "Après un test d’anticorps positif, vérifiez s’il existe une infection actuelle. Si elle est confirmée, faites un bilan hépatique et discutez rapidement du traitement antiviral."
     }
   }
 }

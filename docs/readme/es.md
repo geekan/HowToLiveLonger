@@ -8,7 +8,7 @@
 
 [![Guía de longevidad para programadores](../../assets/cover-social-v3.png)](https://geekan.github.io/HowToLiveLonger/#lang=es&view=table)
 
-Explora 61 resúmenes de estudios sobre alimentación, ejercicio, sueño y hábitos cotidianos, con ideas prácticas y enlaces a las investigaciones originales.
+Explora 64 resúmenes de estudios sobre alimentación, ejercicio, sueño y hábitos cotidianos, con ideas prácticas y enlaces a las investigaciones originales.
 
 Para leer sin conexión, [descarga el repositorio](https://github.com/geekan/HowToLiveLonger/archive/refs/heads/main.zip), descomprímelo y abre `index.html`.
 

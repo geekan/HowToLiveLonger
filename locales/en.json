@@ -1152,6 +1152,69 @@
           "evidence": "Label updated 2026-06: Table 1, diarrhea 53%/12%, asthenia 9%/6%, headache 6%/5%; section 5.2, about 7% developed low serum B12. Section 6.2 liver injury is from spontaneous reports."
         }
       ]
+    },
+    "waist-circumference": {
+      "factor": "Waist size and abdominal fat",
+      "originalClaim": "Added: consider abdominal fat distribution alongside body weight.",
+      "finding": "Pooled prospective adult cohorts associated each 10 cm larger waist with about 11% higher all-cause mortality risk. Central fat measures provided additional risk information after accounting for BMI.",
+      "effect": "HR 1.11 per 10 cm larger waist",
+      "ci": "95% CI 1.08–1.13",
+      "comparison": "Per 10 cm larger waist; comparison across adults with different waist sizes",
+      "population": "Review: 72 prospective cohorts, 2,528,297 participants; waist analysis: 50 studies",
+      "design": "Systematic review and dose-response meta-analysis of prospective cohorts",
+      "gradeReason": "Direct ACM evidence across multiple cohorts; observational studies do not quantify a personal treatment benefit from reducing waist size.",
+      "limitations": "Substantial between-study heterogeneity; differences in waist measurement, existing illness and lifestyle. Waist size is a risk marker, not a direct measurement of visceral fat; this finding does not define a universal weight-loss target.",
+      "action": "Track waist changes alongside weight; if abdominal fat is increasing, work on food, activity and a health assessment.",
+      "sources": [
+        {
+          "evidence": "Abstract Results: 72 cohorts overall; waist analysis included 50 studies, with HR 1.11 (95% CI 1.08–1.13) per 10 cm larger waist; associations persisted after accounting for BMI."
+        }
+      ]
+    },
+    "obstructive-sleep-apnoea": {
+      "factor": "Obstructive sleep apnoea",
+      "originalClaim": "Added: consider repeated pauses in breathing during sleep and their health effects.",
+      "finding": "Pooled prospective observational studies linked severe obstructive sleep apnoea with higher all-cause mortality. In a 2025 treatment review, pooled randomised trials did not show a clear reduction in ACM with positive airway pressure, while non-randomised studies found lower risk.",
+      "effect": "Severe vs no sleep apnoea: HR 1.90",
+      "ci": "95% CI 1.29–2.81",
+      "comparison": "Severe obstructive sleep apnoea vs no disease; not treatment vs no treatment",
+      "population": "Risk review: 6 prospective observational studies, 11,932 people, grouped by apnoea severity",
+      "design": "Meta-analysis of prospective observational studies; additional synthesis of positive airway pressure treatment studies",
+      "gradeReason": "Direct ACM association across multiple cohorts; this grade concerns disease-related risk, not a proven mortality reduction from treatment.",
+      "limitations": "Existing illness and treatment selection may influence results. The treatment review combines randomised and non-randomised studies, so its pooled result is not wholly randomised evidence. Snoring alone is not a diagnosis.",
+      "action": "Seek a sleep assessment for persistent loud snoring, breathing pauses during sleep or ongoing daytime sleepiness; discuss treatment if diagnosed.",
+      "sources": [
+        {
+          "evidence": "Abstract Results: 6 studies, 11,932 participants; severe OSA all-cause mortality HR 1.90 (95% CI 1.29–2.81)."
+        },
+        {
+          "evidence": "Full-text Results: 30 studies, including 10 randomised and 20 non-randomised studies; RCT-only ACM HR 0.87 (95% CI 0.65–1.16), non-randomised-only HR 0.60 (0.52–0.70)."
+        },
+        {
+          "evidence": "Symptoms page: breathing that starts and stops, frequent loud snoring and daytime sleepiness; these warrant discussion with a health professional."
+        }
+      ]
+    },
+    "hepatitis-c-treatment": {
+      "factor": "Finding and treating chronic hepatitis C",
+      "originalClaim": "Added: consider testing and antiviral treatment for people with chronic hepatitis C infection.",
+      "finding": "In a French prospective cohort of people with chronic hepatitis C, direct-acting antiviral treatment was associated with about 52% lower adjusted all-cause mortality risk. Participants had established infection, and treatment was not randomly assigned.",
+      "effect": "Adjusted HR 0.48",
+      "ci": "95% CI 0.33–0.70",
+      "comparison": "Direct-acting antiviral treatment vs no treatment in chronic hepatitis C; time-varying treatment exposure",
+      "population": "9,895 adults with chronic hepatitis C at 32 French liver centres; median follow-up 33.4 months",
+      "design": "Prospective multicentre observational cohort with time-dependent modelling and adjustment for confounders",
+      "gradeReason": "Direct ACM outcome from a single observational cohort; treatment-selection and other confounding may remain after adjustment.",
+      "limitations": "The study excluded people with prior decompensated cirrhosis, liver cancer or liver transplantation, among others. It does not apply to uninfected people and is not a randomised comparison of regimens. A positive antibody test alone does not confirm current infection.",
+      "action": "After a positive hepatitis C antibody test, check whether the virus is still present. If current infection is confirmed, get a liver assessment and discuss antiviral treatment.",
+      "sources": [
+        {
+          "evidence": "Abstract: 9,895 participants; median follow-up 33.4 months; adjusted all-cause mortality HR 0.48 (95% CI 0.33–0.70) for antiviral exposure."
+        },
+        {
+          "evidence": "Testing guidance: a reactive antibody test needs an HCV RNA test to identify current infection; positive RNA results should lead to care and treatment."
+        }
+      ]
     }
   }
 }

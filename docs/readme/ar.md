@@ -8,7 +8,7 @@
 
 [![دليل المبرمج لطول العمر](../../assets/cover-social-v3.png)](https://geekan.github.io/HowToLiveLonger/#lang=ar&view=table)
 
-تصفّح 61 ملخصاً بحثياً عن الغذاء والرياضة والنوم والعادات اليومية، مع أفكار عملية وروابط للدراسات الأصلية.
+تصفّح 64 ملخصاً بحثياً عن الغذاء والرياضة والنوم والعادات اليومية، مع أفكار عملية وروابط للدراسات الأصلية.
 
 للقراءة دون اتصال، [نزّل المستودع](https://github.com/geekan/HowToLiveLonger/archive/refs/heads/main.zip)، وفك ضغطه، ثم افتح `index.html`.
 

@@ -1,0 +1,63 @@
+{
+  "task": "HTLL-ADD3-20261022",
+  "date": "2026-10-22",
+  "records": [
+    "waist-circumference",
+    "obstructive-sleep-apnoea",
+    "hepatitis-c-treatment"
+  ],
+  "sources": [
+    {
+      "url": "https://www.bmj.com/content/370/bmj.m3324",
+      "readLevel": "摘要",
+      "role": "mortality research"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23936014/",
+      "readLevel": "摘要",
+      "role": "mortality research"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40118084/",
+      "readLevel": "全文（关键结果段）",
+      "role": "mortality research"
+    },
+    {
+      "url": "https://www.nhlbi.nih.gov/health/sleep-apnea/symptoms",
+      "readLevel": "全文",
+      "role": "clinical action guidance"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30765123/",
+      "readLevel": "摘要",
+      "role": "mortality research"
+    },
+    {
+      "url": "https://www.cdc.gov/hepatitis-c/testing/index.html",
+      "readLevel": "全文",
+      "role": "clinical action guidance"
+    }
+  ],
+  "checks": {
+    "diseaseRiskVersusTreatment": "OSA disease association kept distinct from PAP intervention results; RCT-only ACM CI includes no difference.",
+    "hcvPopulation": "Only established chronic HCV infection; adjusted non-randomised treatment association.",
+    "waistInterpretation": "Risk association per larger waist, not promised benefit per smaller waist."
+  },
+  "readingBoundary": "Original abstracts read via Europe PMC; PAP full-text Results read through PMC HTML; BMJ direct full text returned HTTP 403, so waist paper marked abstract. CDC and NHLBI pages read. No systematic search for all later research or all supplements.",
+  "independentReview": {
+    "status": "passed",
+    "scope": "All three additions: primary sources, eight research translations and eight reader-card translations; original 61 record values preserved.",
+    "revisions": "Two English reader titles shortened after mobile inspection; final titles reviewed.",
+    "browserChecks": {
+      "cases": 48,
+      "languages": 8,
+      "widths": [
+        1440,
+        390
+      ],
+      "htmlSHA256": "8ad7fbb895da9e6aa721a8aa419791e273311cc34d18d44ea5c0836200e5297e",
+      "binding": "Browser-received HTML matched the build; embedded dataset, reader and locale hashes matched for every case."
+    },
+    "boundary": "Focused evidence and translation review, not a comprehensive current systematic review or native-speaker clinical certification."
+  }
+}

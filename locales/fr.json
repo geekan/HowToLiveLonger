@@ -1327,6 +1327,69 @@
       "gradeReason": "Source claire de sécurité, mais indirecte pour longévité/ACM ; D ne conteste pas la fiabilité de la notice.",
       "effect": "Effet ACM non évalué ; diarrhée 53% contre 12%",
       "ci": "ACM non rapportée; intervalles des effets indésirables non listés"
+    },
+    "waist-circumference": {
+      "factor": "Tour de taille et graisse abdominale",
+      "originalClaim": "Ajout : tenir compte de la répartition de la graisse abdominale en plus du poids corporel.",
+      "finding": "L’analyse regroupant des cohortes prospectives d’adultes a associé chaque augmentation de 10 cm du tour de taille à un risque de mortalité toutes causes confondues supérieur d’environ 11%. Les mesures de graisse abdominale apportaient des informations supplémentaires sur le risque après prise en compte de l’IMC.",
+      "effect": "HR 1.11 pour chaque augmentation de 10 cm du tour de taille",
+      "ci": "95% CI 1.08–1.13",
+      "comparison": "Pour chaque augmentation de 10 cm du tour de taille ; comparaison entre adultes ayant des tours de taille différents",
+      "population": "Revue : 72 cohortes prospectives, 2,528,297 participants ; analyse du tour de taille : 50 études",
+      "design": "Revue systématique et méta-analyse dose-réponse de cohortes prospectives",
+      "gradeReason": "Données directes sur la mortalité toutes causes confondues dans plusieurs cohortes ; ces études observationnelles ne quantifient pas le bénéfice thérapeutique individuel d’une réduction du tour de taille.",
+      "limitations": "Forte hétérogénéité entre les études ; différences de mesure du tour de taille, de maladies préexistantes et de mode de vie. Le tour de taille est un marqueur de risque, pas une mesure directe de la graisse viscérale ; ce résultat ne définit pas d’objectif universel de perte de poids.",
+      "action": "Suivez l’évolution du tour de taille en plus du poids ; si la graisse abdominale augmente, améliorez progressivement l’alimentation et l’activité physique et faites le point sur votre santé.",
+      "sources": [
+        {
+          "evidence": "Résultats du résumé : 72 cohortes au total ; analyse du tour de taille portant sur 50 études, avec un HR de 1.11 (95% CI 1.08–1.13) pour chaque augmentation de 10 cm du tour de taille ; l’association persistait après prise en compte de l’IMC."
+        }
+      ]
+    },
+    "obstructive-sleep-apnoea": {
+      "factor": "Apnée obstructive du sommeil",
+      "originalClaim": "Ajout : tenir compte des arrêts respiratoires répétés pendant le sommeil et de leurs effets sur la santé.",
+      "finding": "L’analyse regroupant des études observationnelles prospectives a associé l’apnée obstructive du sommeil sévère à une mortalité toutes causes confondues plus élevée. Dans une revue des traitements de 2025, les essais randomisés regroupés n’ont pas montré de réduction claire de cette mortalité avec la pression positive des voies aériennes, tandis que les études non randomisées ont observé un risque plus faible.",
+      "effect": "Apnée sévère versus absence d’apnée du sommeil : HR 1.90",
+      "ci": "95% CI 1.29–2.81",
+      "comparison": "Apnée obstructive du sommeil sévère versus absence de la maladie ; il ne s’agit pas d’une comparaison entre traitement et absence de traitement",
+      "population": "Revue du risque : 6 études observationnelles prospectives, 11,932 personnes, regroupées selon la sévérité de l’apnée",
+      "design": "Méta-analyse d’études observationnelles prospectives ; synthèse complémentaire d’études du traitement par pression positive des voies aériennes",
+      "gradeReason": "Association directe avec la mortalité toutes causes confondues dans plusieurs cohortes ; ce niveau de preuve concerne le risque lié à la maladie, pas une réduction démontrée de la mortalité par le traitement.",
+      "limitations": "Les maladies préexistantes et le choix du traitement peuvent influencer les résultats. La revue des traitements combine des études randomisées et non randomisées : son résultat global ne provient donc pas entièrement d’essais randomisés. Le ronflement seul ne constitue pas un diagnostic.",
+      "action": "Demandez un bilan du sommeil en cas de ronflements forts et persistants, de pauses respiratoires pendant le sommeil ou de somnolence diurne persistante ; si le diagnostic est confirmé, discutez du traitement avec votre médecin.",
+      "sources": [
+        {
+          "evidence": "Résultats du résumé : 6 études, 11,932 participants ; mortalité toutes causes confondues en cas d’apnée obstructive du sommeil sévère : HR 1.90 (95% CI 1.29–2.81)."
+        },
+        {
+          "evidence": "Résultats du texte intégral : 30 études, dont 10 randomisées et 20 non randomisées ; essais randomisés seuls : mortalité toutes causes confondues HR 0.87 (95% CI 0.65–1.16) ; études non randomisées seules : HR 0.60 (0.52–0.70)."
+        },
+        {
+          "evidence": "Page sur les symptômes : respiration qui s’arrête et reprend, ronflements forts fréquents et somnolence diurne ; ces symptômes justifient d’en parler à un professionnel de santé."
+        }
+      ]
+    },
+    "hepatitis-c-treatment": {
+      "factor": "Dépistage et traitement de l’hépatite C chronique",
+      "originalClaim": "Ajout : envisager le dépistage et le traitement antiviral chez les personnes ayant une infection chronique par le virus de l’hépatite C.",
+      "finding": "Dans une cohorte prospective française de personnes atteintes d’hépatite C chronique, le traitement par antiviraux à action directe était associé à un risque ajusté de mortalité toutes causes confondues inférieur d’environ 52%. Les participants avaient une infection établie et le traitement n’était pas attribué au hasard.",
+      "effect": "HR ajusté 0.48",
+      "ci": "95% CI 0.33–0.70",
+      "comparison": "Antiviraux à action directe versus absence de traitement chez des patients atteints d’hépatite C chronique ; exposition au traitement variant au cours du temps",
+      "population": "9,895 adultes atteints d’hépatite C chronique dans 32 centres français d’hépatologie ; suivi médian de 33.4 mois",
+      "design": "Cohorte observationnelle prospective multicentrique avec modélisation dépendante du temps et ajustement sur les facteurs de confusion",
+      "gradeReason": "Critère direct de mortalité toutes causes confondues dans une seule cohorte observationnelle ; des facteurs de confusion, notamment liés au choix du traitement, peuvent persister après ajustement.",
+      "limitations": "L’étude excluait notamment les personnes ayant des antécédents de cirrhose décompensée, de cancer du foie ou de transplantation hépatique. Elle ne s’applique pas aux personnes non infectées et ne compare pas des schémas thérapeutiques de façon randomisée. Un test d’anticorps positif ne suffit pas à confirmer une infection actuelle.",
+      "action": "Après un test d’anticorps contre l’hépatite C positif, vérifiez si le virus est toujours présent. Si une infection actuelle est confirmée, faites un bilan hépatique et discutez du traitement antiviral avec votre médecin.",
+      "sources": [
+        {
+          "evidence": "Résumé : 9,895 participants ; suivi médian de 33.4 mois ; mortalité toutes causes confondues ajustée : HR 0.48 (95% CI 0.33–0.70) pour l’exposition aux antiviraux."
+        },
+        {
+          "evidence": "Recommandations de dépistage : un test d’anticorps réactif nécessite une recherche de l’ARN du VHC pour identifier une infection actuelle ; un résultat d’ARN positif doit conduire à une prise en charge et à un traitement."
+        }
+      ]
     }
   }
 }

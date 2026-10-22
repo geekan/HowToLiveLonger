@@ -8,7 +8,7 @@
 
 [![Guide de longévité pour les développeurs](../../assets/cover-social-v3.png)](https://geekan.github.io/HowToLiveLonger/#lang=fr&view=table)
 
-Découvrez 61 synthèses de recherches sur l’alimentation, l’exercice, le sommeil et les habitudes quotidiennes, avec des pistes pratiques et des liens vers les études originales.
+Découvrez 64 synthèses de recherches sur l’alimentation, l’exercice, le sommeil et les habitudes quotidiennes, avec des pistes pratiques et des liens vers les études originales.
 
 Pour lire hors ligne, [téléchargez le dépôt](https://github.com/geekan/HowToLiveLonger/archive/refs/heads/main.zip), décompressez-le et ouvrez `index.html`.
 

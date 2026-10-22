@@ -248,6 +248,21 @@
       "summary": "Metformin kann Durchfall und andere Verdauungsbeschwerden verursachen und den Vitamin-B12-Spiegel senken. Auch Laktatazidose ist ein wichtiges Risiko. Reaktionen hängen von Präparat, Dosis und Gesundheit ab.",
       "takeaway": "Nach Verordnung einnehmen, Verträglichkeit, Nierenfunktion und Vitamin B12 beobachten und Beschwerden zeitnah melden.",
       "title": "Nebenwirkungen von Metformin"
+    },
+    "waist-circumference": {
+      "title": "Taillenumfang und Bauchfett",
+      "summary": "Der Taillenumfang liefert neben dem Gewicht weitere nützliche Informationen. Langzeitstudien verbinden einen größeren Taillenumfang mit höherem Sterberisiko; die Waage allein erfasst daher nicht das ganze Bild.",
+      "takeaway": "Neben dem Gewicht auch den Taillenumfang verfolgen und regelmäßige Bewegung sowie ausgewogene Mahlzeiten in den Alltag einbauen."
+    },
+    "obstructive-sleep-apnoea": {
+      "title": "Schnarchen und Schlafapnoe",
+      "summary": "Eine ganze Nacht im Bett bedeutet nicht immer erholsamen Schlaf. Schwere Schlafapnoe ist mit höherem Sterberisiko verbunden; anhaltendes Schnarchen, Atemaussetzer und Tagesschläfrigkeit verdienen Aufmerksamkeit.",
+      "takeaway": "Bei häufigem lautem Schnarchen, Atemaussetzern im Schlaf oder Tagesschläfrigkeit eine Schlafuntersuchung veranlassen und nach gesicherter Diagnose eine passende Behandlung besprechen."
+    },
+    "hepatitis-c-treatment": {
+      "title": "Hepatitis C erkennen und behandeln",
+      "summary": "Hepatitis C kann jahrelang unbemerkt bleiben. Eine Verlaufsstudie bei Menschen mit chronischer Infektion verband antivirale Behandlung mit geringerer Sterblichkeit; das spricht dafür, die Infektion abzuklären und rechtzeitig behandeln zu lassen.",
+      "takeaway": "Nach positivem Antikörpertest auf eine aktuelle Infektion prüfen lassen. Bei Bestätigung die Leber untersuchen lassen und zeitnah eine antivirale Behandlung besprechen."
     }
   }
 }

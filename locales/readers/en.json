@@ -248,6 +248,21 @@
       "summary": "Metformin can cause diarrhea and other digestive symptoms and may lower vitamin B12 levels; lactic acidosis is also an important risk. Reactions vary with formulation, dose and health.",
       "takeaway": "Use it as prescribed, monitor tolerance, kidney function and vitamin B12, and report symptoms promptly.",
       "title": "Metformin side effects"
+    },
+    "waist-circumference": {
+      "title": "Waist size and belly fat",
+      "summary": "Waist size adds useful information beyond weight. Long-term studies link a larger waist with higher mortality risk, so the scale alone can miss part of the picture.",
+      "takeaway": "Track your waist as well as your weight, and make regular activity and balanced meals part of your routine."
+    },
+    "obstructive-sleep-apnoea": {
+      "title": "Snoring and sleep apnoea",
+      "summary": "A full night in bed does not always mean good sleep. Severe sleep apnoea is linked to higher mortality risk; persistent snoring, breathing pauses and daytime sleepiness deserve attention.",
+      "takeaway": "Ask for a sleep assessment if you often snore loudly, stop breathing during sleep or feel sleepy in the daytime; discuss suitable treatment if diagnosed."
+    },
+    "hepatitis-c-treatment": {
+      "title": "Hepatitis C: testing and treatment",
+      "summary": "Hepatitis C can go unnoticed for years. A follow-up study of people with chronic infection linked antiviral treatment with lower mortality, making diagnosis and timely care worthwhile.",
+      "takeaway": "After a positive antibody test, check for current infection. If confirmed, get a liver assessment and discuss antiviral treatment promptly."
     }
   }
 }

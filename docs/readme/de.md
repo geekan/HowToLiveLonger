@@ -8,7 +8,7 @@
 
 [![Leitfaden zur Langlebigkeit für Programmierer](../../assets/cover-social-v3.png)](https://geekan.github.io/HowToLiveLonger/#lang=de&view=table)
 
-Entdecken Sie 61 Forschungszusammenfassungen zu Ernährung, Bewegung, Schlaf und Alltagsgewohnheiten – mit praktischen Anregungen und Links zu den Originalstudien.
+Entdecken Sie 64 Forschungszusammenfassungen zu Ernährung, Bewegung, Schlaf und Alltagsgewohnheiten – mit praktischen Anregungen und Links zu den Originalstudien.
 
 Zum Offline-Lesen das [Repository herunterladen](https://github.com/geekan/HowToLiveLonger/archive/refs/heads/main.zip), entpacken und `index.html` öffnen.
 

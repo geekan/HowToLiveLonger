@@ -1327,6 +1327,69 @@
           "evidence": "Fachinformation aktualisiert 2026-06: Tabelle 1 Durchfall 53%/12%, Asthenie 9%/6%, Kopfschmerz 6%/5%; Abschnitt 5.2 etwa 7% mit niedrigem Serum-B12. Abschnitt 6.2 Leberschäden aus Spontanmeldungen."
         }
       ]
+    },
+    "waist-circumference": {
+      "factor": "Taillenumfang und Bauchfett",
+      "originalClaim": "Ergänzung: Neben dem Körpergewicht auch die Verteilung des Bauchfetts berücksichtigen.",
+      "finding": "Die zusammengefassten prospektiven Kohortenstudien mit Erwachsenen verbanden einen um jeweils 10 cm größeren Taillenumfang mit einem etwa 11% höheren Gesamtsterberisiko. Maße für Bauchfett lieferten auch nach Berücksichtigung des BMI zusätzliche Informationen über das Risiko.",
+      "effect": "HR 1.11 pro 10 cm größerem Taillenumfang",
+      "ci": "95% CI 1.08–1.13",
+      "comparison": "Pro 10 cm größerem Taillenumfang; Vergleich zwischen Erwachsenen mit unterschiedlichem Taillenumfang",
+      "population": "Übersicht: 72 prospektive Kohorten, 2,528,297 Teilnehmende; Analyse des Taillenumfangs: 50 Studien",
+      "design": "Systematische Übersicht und Dosis-Wirkungs-Metaanalyse prospektiver Kohortenstudien",
+      "gradeReason": "Direkte Belege zur Gesamtmortalität aus mehreren Kohorten; Beobachtungsstudien erlauben keine Bezifferung des persönlichen Behandlungsnutzens durch eine Verringerung des Taillenumfangs.",
+      "limitations": "Erhebliche Unterschiede zwischen den Studien; unterschiedliche Messmethoden, Vorerkrankungen und Lebensweisen. Der Taillenumfang ist ein Risikomarker und keine direkte Messung des viszeralen Fetts; aus diesem Ergebnis ergibt sich kein allgemeingültiges Ziel für eine Gewichtsabnahme.",
+      "action": "Neben dem Gewicht auch Veränderungen des Taillenumfangs verfolgen; bei zunehmendem Bauchfett Ernährung und Bewegung schrittweise verbessern und die Gesundheit ärztlich beurteilen lassen.",
+      "sources": [
+        {
+          "evidence": "Ergebnisse des Abstracts: insgesamt 72 Kohorten; Analyse des Taillenumfangs mit 50 Studien, HR 1.11 (95% CI 1.08–1.13) pro 10 cm größerem Taillenumfang; der Zusammenhang blieb nach Berücksichtigung des BMI bestehen."
+        }
+      ]
+    },
+    "obstructive-sleep-apnoea": {
+      "factor": "Obstruktive Schlafapnoe",
+      "originalClaim": "Ergänzung: Wiederholte Atemaussetzer im Schlaf und ihre gesundheitlichen Folgen berücksichtigen.",
+      "finding": "Zusammengefasste prospektive Beobachtungsstudien verbanden schwere obstruktive Schlafapnoe mit höherer Gesamtmortalität. In einer Behandlungsübersicht von 2025 zeigten die zusammengefassten randomisierten Studien keine eindeutige Verringerung der Gesamtmortalität durch eine Überdrucktherapie der Atemwege, während nicht randomisierte Studien ein niedrigeres Risiko beobachteten.",
+      "effect": "Schwere Schlafapnoe gegenüber keiner Schlafapnoe: HR 1.90",
+      "ci": "95% CI 1.29–2.81",
+      "comparison": "Schwere obstruktive Schlafapnoe gegenüber keiner Erkrankung; kein Vergleich von Behandlung und Nichtbehandlung",
+      "population": "Risikoübersicht: 6 prospektive Beobachtungsstudien, 11,932 Personen, nach Schweregrad der Apnoe gruppiert",
+      "design": "Metaanalyse prospektiver Beobachtungsstudien; ergänzende Zusammenfassung von Studien zur Überdrucktherapie der Atemwege",
+      "gradeReason": "Direkter Zusammenhang mit der Gesamtmortalität in mehreren Kohorten; diese Evidenzstufe betrifft das mit der Erkrankung verbundene Risiko, keine nachgewiesene Senkung der Sterblichkeit durch Behandlung.",
+      "limitations": "Vorerkrankungen und die Auswahl der Behandlung können die Ergebnisse beeinflussen. Die Behandlungsübersicht kombiniert randomisierte und nicht randomisierte Studien; ihr Gesamtergebnis beruht daher nicht vollständig auf randomisierten Belegen. Schnarchen allein ist keine Diagnose.",
+      "action": "Bei anhaltendem lautem Schnarchen, Atemaussetzern im Schlaf oder ständiger Tagesschläfrigkeit eine Schlafuntersuchung veranlassen; nach gesicherter Diagnose die Behandlung ärztlich besprechen.",
+      "sources": [
+        {
+          "evidence": "Ergebnisse des Abstracts: 6 Studien, 11,932 Teilnehmende; Gesamtmortalität bei schwerer obstruktiver Schlafapnoe: HR 1.90 (95% CI 1.29–2.81)."
+        },
+        {
+          "evidence": "Ergebnisse im Volltext: 30 Studien, davon 10 randomisierte und 20 nicht randomisierte; nur randomisierte Studien: Gesamtmortalität HR 0.87 (95% CI 0.65–1.16); nur nicht randomisierte Studien: HR 0.60 (0.52–0.70)."
+        },
+        {
+          "evidence": "Symptomseite: wiederholt aussetzende Atmung, häufiges lautes Schnarchen und Tagesschläfrigkeit; diese Symptome sollten mit medizinischem Fachpersonal besprochen werden."
+        }
+      ]
+    },
+    "hepatitis-c-treatment": {
+      "factor": "Chronische Hepatitis C erkennen und behandeln",
+      "originalClaim": "Ergänzung: Tests und antivirale Behandlung bei Menschen mit chronischer Hepatitis-C-Infektion berücksichtigen.",
+      "finding": "In einer französischen prospektiven Kohorte von Menschen mit chronischer Hepatitis C war eine Behandlung mit direkt wirkenden antiviralen Medikamenten mit einem etwa 52% niedrigeren adjustierten Gesamtsterberisiko verbunden. Bei den Teilnehmenden lag eine Infektion vor; die Behandlung wurde nicht zufällig zugeteilt.",
+      "effect": "Adjustierte HR 0.48",
+      "ci": "95% CI 0.33–0.70",
+      "comparison": "Direkt wirkende antivirale Behandlung gegenüber keiner Behandlung bei chronischer Hepatitis C; im Zeitverlauf veränderliche Behandlungsexposition",
+      "population": "9,895 Erwachsene mit chronischer Hepatitis C an 32 französischen Leberzentren; mediane Nachbeobachtung 33.4 Monate",
+      "design": "Prospektive multizentrische Beobachtungskohorte mit zeitabhängiger Modellierung und Adjustierung für Störfaktoren",
+      "gradeReason": "Direkter Endpunkt Gesamtmortalität aus einer einzelnen Beobachtungskohorte; auch nach Adjustierung können Störfaktoren wie die Auswahl der Behandlung verbleiben.",
+      "limitations": "Die Studie schloss unter anderem Menschen mit früherer dekompensierter Leberzirrhose, Leberkrebs oder Lebertransplantation aus. Die Ergebnisse gelten nicht für nicht infizierte Menschen und stammen nicht aus einem randomisierten Vergleich von Behandlungsschemata. Ein positiver Antikörpertest allein bestätigt keine aktuelle Infektion.",
+      "action": "Nach einem positiven Hepatitis-C-Antikörpertest prüfen lassen, ob das Virus noch vorhanden ist. Bei bestätigter aktueller Infektion die Leber untersuchen lassen und eine antivirale Behandlung ärztlich besprechen.",
+      "sources": [
+        {
+          "evidence": "Abstract: 9,895 Teilnehmende; mediane Nachbeobachtung 33.4 Monate; adjustierte Gesamtmortalität HR 0.48 (95% CI 0.33–0.70) bei antiviraler Behandlungsexposition."
+        },
+        {
+          "evidence": "Testempfehlung: Ein reaktiver Antikörpertest erfordert einen HCV-RNA-Test zum Nachweis einer aktuellen Infektion; bei positivem RNA-Ergebnis sollen Versorgung und Behandlung folgen."
+        }
+      ]
     }
   }
 }

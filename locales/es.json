@@ -1327,6 +1327,69 @@
       "gradeReason": "Fuente clara de seguridad, pero indirecta para longevidad/ACM; D no cuestiona fiabilidad de ficha.",
       "effect": "Efecto ACM no evaluado; diarrea 53% frente a 12%",
       "ci": "ACM no comunicada; intervalos de reacciones adversas no enumerados"
+    },
+    "waist-circumference": {
+      "factor": "Cintura y grasa abdominal",
+      "originalClaim": "Añadido: considerar la distribución de la grasa abdominal junto con el peso corporal.",
+      "finding": "El análisis conjunto de cohortes prospectivas de adultos asoció cada 10 cm más de cintura con un riesgo de mortalidad por todas las causas aproximadamente un 11% mayor. Las medidas de grasa abdominal aportaron información adicional sobre el riesgo tras tener en cuenta el IMC.",
+      "effect": "HR 1.11 por cada 10 cm más de cintura",
+      "ci": "95% CI 1.08–1.13",
+      "comparison": "Por cada 10 cm más de cintura; comparación entre adultos con distintos perímetros de cintura",
+      "population": "Revisión: 72 cohortes prospectivas, 2,528,297 participantes; análisis de cintura: 50 estudios",
+      "design": "Revisión sistemática y metaanálisis de dosis-respuesta de cohortes prospectivas",
+      "gradeReason": "Evidencia directa sobre mortalidad por todas las causas en varias cohortes; los estudios observacionales no permiten cuantificar el beneficio terapéutico individual de reducir la cintura.",
+      "limitations": "Heterogeneidad considerable entre estudios; diferencias en la medición de la cintura, las enfermedades previas y el estilo de vida. La cintura es un indicador de riesgo, no una medición directa de la grasa visceral; este resultado no establece un objetivo universal de pérdida de peso.",
+      "action": "Registra los cambios de cintura además del peso; si aumenta la grasa abdominal, mejora gradualmente la alimentación y la actividad física y solicita una evaluación de salud.",
+      "sources": [
+        {
+          "evidence": "Resultados del resumen: 72 cohortes en total; el análisis de cintura incluyó 50 estudios, con HR 1.11 (95% CI 1.08–1.13) por cada 10 cm más de cintura; la asociación persistió tras tener en cuenta el IMC."
+        }
+      ]
+    },
+    "obstructive-sleep-apnoea": {
+      "factor": "Apnea obstructiva del sueño",
+      "originalClaim": "Añadido: considerar las pausas respiratorias repetidas durante el sueño y sus efectos en la salud.",
+      "finding": "El análisis conjunto de estudios observacionales prospectivos relacionó la apnea obstructiva del sueño grave con mayor mortalidad por todas las causas. En una revisión de tratamientos de 2025, el conjunto de ensayos aleatorizados no mostró una reducción clara de esta mortalidad con presión positiva en las vías respiratorias, mientras que los estudios no aleatorizados observaron un riesgo menor.",
+      "effect": "Apnea grave frente a ausencia de apnea del sueño: HR 1.90",
+      "ci": "95% CI 1.29–2.81",
+      "comparison": "Apnea obstructiva del sueño grave frente a ausencia de la enfermedad; no es una comparación entre tratar y no tratar",
+      "population": "Revisión del riesgo: 6 estudios observacionales prospectivos, 11,932 personas, agrupadas por gravedad de la apnea",
+      "design": "Metaanálisis de estudios observacionales prospectivos; síntesis adicional de estudios sobre tratamiento con presión positiva en las vías respiratorias",
+      "gradeReason": "Asociación directa con la mortalidad por todas las causas en varias cohortes; este nivel de evidencia se refiere al riesgo de la enfermedad, no a una reducción demostrada de la mortalidad con el tratamiento.",
+      "limitations": "Las enfermedades previas y la selección del tratamiento pueden influir en los resultados. La revisión de tratamientos combina estudios aleatorizados y no aleatorizados, por lo que su resultado conjunto no procede íntegramente de ensayos aleatorizados. Roncar por sí solo no constituye un diagnóstico.",
+      "action": "Solicita una evaluación del sueño si roncas fuerte de forma persistente, tienes pausas respiratorias al dormir o somnolencia diurna continua; si se confirma el diagnóstico, consulta las opciones de tratamiento.",
+      "sources": [
+        {
+          "evidence": "Resultados del resumen: 6 estudios, 11,932 participantes; mortalidad por todas las causas en apnea obstructiva del sueño grave: HR 1.90 (95% CI 1.29–2.81)."
+        },
+        {
+          "evidence": "Resultados del texto completo: 30 estudios, incluidos 10 aleatorizados y 20 no aleatorizados; solo ensayos aleatorizados: mortalidad por todas las causas HR 0.87 (95% CI 0.65–1.16); solo estudios no aleatorizados: HR 0.60 (0.52–0.70)."
+        },
+        {
+          "evidence": "Página de síntomas: respiración que se detiene y se reanuda, ronquidos fuertes frecuentes y somnolencia diurna; conviene consultar estos síntomas con un profesional sanitario."
+        }
+      ]
+    },
+    "hepatitis-c-treatment": {
+      "factor": "Detección y tratamiento de la hepatitis C crónica",
+      "originalClaim": "Añadido: considerar las pruebas y el tratamiento antiviral en personas con infección crónica por hepatitis C.",
+      "finding": "En una cohorte prospectiva francesa de personas con hepatitis C crónica, el tratamiento con antivirales de acción directa se asoció con un riesgo ajustado de mortalidad por todas las causas aproximadamente un 52% menor. Los participantes tenían una infección establecida y el tratamiento no se asignó al azar.",
+      "effect": "HR ajustada 0.48",
+      "ci": "95% CI 0.33–0.70",
+      "comparison": "Tratamiento con antivirales de acción directa frente a ausencia de tratamiento en hepatitis C crónica; exposición al tratamiento variable en el tiempo",
+      "population": "9,895 adultos con hepatitis C crónica en 32 centros de hepatología franceses; mediana de seguimiento de 33.4 meses",
+      "design": "Cohorte observacional prospectiva multicéntrica con modelos dependientes del tiempo y ajuste por factores de confusión",
+      "gradeReason": "Desenlace directo de mortalidad por todas las causas en una sola cohorte observacional; pueden persistir factores de confusión, como la selección del tratamiento, después del ajuste.",
+      "limitations": "El estudio excluyó, entre otras, a personas con antecedentes de cirrosis descompensada, cáncer de hígado o trasplante hepático. No se aplica a personas sin infección ni es una comparación aleatorizada de pautas terapéuticas. Un resultado positivo de anticuerpos no confirma por sí solo una infección actual.",
+      "action": "Tras una prueba positiva de anticuerpos contra la hepatitis C, comprueba si el virus sigue presente. Si se confirma una infección actual, solicita una evaluación hepática y consulta el tratamiento antiviral.",
+      "sources": [
+        {
+          "evidence": "Resumen: 9,895 participantes; mediana de seguimiento de 33.4 meses; mortalidad por todas las causas ajustada: HR 0.48 (95% CI 0.33–0.70) para la exposición a antivirales."
+        },
+        {
+          "evidence": "Guía de pruebas: un resultado reactivo de anticuerpos requiere una prueba de ARN del VHC para identificar una infección actual; un resultado positivo de ARN debe dar paso a la atención y el tratamiento."
+        }
+      ]
     }
   }
 }
