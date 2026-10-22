@@ -4,7 +4,7 @@
 
 ## Evidence changes / 证据变更
 
-Start with a stable record ID in `evidence-data.json`. Provide the original paper URL/DOI, study design, population, comparison, outcome, estimate and interval, and what you actually read: relevant full-text sections, abstract, metadata, or unread. State the date and limits of the check. For inaccessible sources, record the failure rather than claiming verification.
+Start with a stable record ID in `data/evidence.json`. Provide the original paper URL/DOI, study design, population, comparison, outcome, estimate and interval, and what you actually read: relevant full-text sections, abstract, metadata, or unread. State the date and limits of the check. For inaccessible sources, record the failure rather than claiming verification.
 
 修改现有记录时沿用 ID；保留 `originalClaim` 与 `originalClaimRaw` 的历史身份。核验结论写入 `finding`，不能通过改写原话消除错误。新增记录先检查是否已由其他因素覆盖；不要把同一研究拆成多个可相加的“延寿收益”。
 
@@ -16,7 +16,7 @@ Start with a stable record ID in `evidence-data.json`. Provide the original pape
 
 ## Translation / 翻译
 
-English records live in `evidence-i18n.en.json`; Spanish, French, German, Portuguese, Japanese and Arabic live in `locales/{es,fr,de,pt,ja,ar}.json`. Every finished language covers the same 61 stable IDs, all 11 core fields and the source notes in their original order. UI and term keys must match `locale-interface.json`; missing languages or fields fail a strict build, and copying English text does not complete another translation.
+English records live in `locales/en.json`; Spanish, French, German, Portuguese, Japanese and Arabic live in `locales/{es,fr,de,pt,ja,ar}.json`. Every finished language covers the same 61 stable IDs, all 11 core fields and the source notes in their original order. UI and term keys must match `locales/interface.json`; missing languages or fields fail a strict build, and copying English text does not complete another translation.
 
 A medical change must update Chinese, English and all six additional locales together. Preserve effect type, estimates, confidence levels, comparison direction, population, negation and limitations. Keep the historical `originalClaim` separate from the current finding. Original paper titles and explicitly labeled Chinese archives may retain their original language.
 
@@ -26,17 +26,17 @@ Keep reviewed translations under version control. After validation, inspect ever
 
 ## Reader copy and terminology
 
-The public cards use `readers/{zh,en,es,fr,de,pt,ja,ar}.json`. Each study needs a concise `summary` and a practical `takeaway`; an optional `title` can replace an editorial or audit-style source title. Write for the reader, preserve the comparison, population and uncertainty, and keep the detailed source record intact. Update all eight languages together. Original claim archives are not shown in the reader interface.
+The public cards use `locales/readers/{zh,en,es,fr,de,pt,ja,ar}.json`. Each study needs a concise `summary` and a practical `takeaway`; an optional `title` can replace an editorial or audit-style source title. Write for the reader, preserve the comparison, population and uncertainty, and keep the detailed source record intact. Update all eight languages together. Original claim archives are not shown in the reader interface.
 
-`glossary.json` explains technical abbreviations in all eight languages. Keep HR, RR, OR and survival-time ratios distinct. Verify desktop hover, keyboard focus and mobile touch, including Escape dismissal, modal layering and viewport fit. The original vector mark is `assets/logo.svg`.
+`data/glossary.json` explains technical abbreviations in all eight languages. Keep HR, RR, OR and survival-time ratios distinct. Verify desktop hover, keyboard focus and mobile touch, including Escape dismissal, modal layering and viewport fit. The original vector mark is `assets/logo.svg`.
 
 ## Build and check / 构建与检查
 
 From the repository root, with Python 3.10+:
 
 ```sh
-python3 build_evidence.py
-python3 validate_evidence.py --check-build
+python3 scripts/build.py
+python3 scripts/validate.py --check-build
 ```
 
 The validator checks schema, IDs, source fields, all eight languages, effect/CI types and numeric tokens, archived provenance and reproducible output. It cannot establish clinical validity, translation nuance, URL availability or visual quality. Investigate every failure rather than weakening a check to make validation pass.

@@ -22,8 +22,8 @@
 ```sh
 git clone https://github.com/geekan/HowToLiveLonger.git
 cd HowToLiveLonger
-python3 build_evidence.py
-python3 validate_evidence.py --check-build
+python3 scripts/build.py
+python3 scripts/validate.py --check-build
 python3 -m http.server 8000
 ```
 
@@ -31,15 +31,15 @@ python3 -m http.server 8000
 
 ## 文件入口
 
-| 内容 | 位置 |
+| 目录 | 职责 |
 | --- | --- |
-| 网站 | [`index.html`](index.html)；修改 [`evidence-browser.template.html`](evidence-browser.template.html) 后构建 |
-| 研究与来源 | [`evidence-data.json`](evidence-data.json) |
-| 八语卡片 | [`readers/`](readers/) |
-| 界面与研究译文 | [`locale-interface.json`](locale-interface.json)、[`evidence-i18n.en.json`](evidence-i18n.en.json)、[`locales/`](locales/) |
-| 术语解释 | [`glossary.json`](glossary.json) |
-| 封面与标志 | [`assets/`](assets/) |
-| 原始文章 | [中文](docs/original-readme.zh.md) · [English](docs/original-readme.en.md) |
+| [`src/`](src/) | 页面源码：`index.template.html` |
+| [`data/`](data/) | 研究记录、来源和术语解释 |
+| [`locales/`](locales/) | 八语界面、研究译文，以及 `readers/` 中的读者卡片 |
+| [`scripts/`](scripts/) | `build.py` 构建页面，`validate.py` 检查数据和构建一致性 |
+| [`assets/`](assets/) | 标志、封面及其源文件 |
+| [`docs/`](docs/) | [原始中文文章](docs/original-readme.zh.md)、[英文文章](docs/original-readme.en.md)与历史核对记录 |
+| [`index.html`](index.html) | 自动生成的单文件网站，供 GitHub Pages 和离线阅读使用 |
 
 ## 托管与更新
 

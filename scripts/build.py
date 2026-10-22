@@ -7,7 +7,7 @@ import json
 import re
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent
+ROOT = Path(__file__).resolve().parents[1]
 TRANSLATED_FIELDS = ('factor', 'originalClaim', 'finding', 'effect', 'ci', 'comparison',
                      'population', 'design', 'gradeReason', 'limitations', 'action')
 LANGUAGES = {'zh': ('简体中文', 'ltr'), 'en': ('English', 'ltr'),
@@ -21,8 +21,8 @@ def encode(value):
 
 
 def load_locales(records, english=None, allow_incomplete=False):
-    interface = json.loads((ROOT / 'locale-interface.json').read_text(encoding='utf-8'))
-    english = english if english is not None else json.loads((ROOT / 'evidence-i18n.en.json').read_text(encoding='utf-8'))
+    interface = json.loads((ROOT / 'locales/interface.json').read_text(encoding='utf-8'))
+    english = english if english is not None else json.loads((ROOT / 'locales/en.json').read_text(encoding='utf-8'))
     locales, problems = {}, []
     for code, (name, direction) in LANGUAGES.items():
         if code == 'zh':
@@ -63,7 +63,7 @@ def load_readers(records):
     readers = {}
     ids = {record['id'] for record in records}
     for code in LANGUAGES:
-        payload = json.loads((ROOT / 'readers' / (code + '.json')).read_text(encoding='utf-8'))
+        payload = json.loads((ROOT / 'locales/readers' / (code + '.json')).read_text(encoding='utf-8'))
         if payload.get('language') != code or set(payload.get('records', {})) != ids:
             raise ValueError(f'{code}: reader record IDs must exactly match')
         for key, entry in payload['records'].items():
@@ -75,7 +75,7 @@ def load_readers(records):
 
 
 def load_glossary():
-    glossary = json.loads((ROOT / 'glossary.json').read_text(encoding='utf-8'))
+    glossary = json.loads((ROOT / 'data/glossary.json').read_text(encoding='utf-8'))
     required = {'HR', 'RR', 'OR', 'CI', 'ACM', 'RCT', 'CVD', 'DOI', 'MET', 'SD',
                 'LDL-C', 'PM2.5', 'BMI', 'CKD'}
     if set(glossary.get('languages', {})) != set(LANGUAGES):
@@ -90,8 +90,8 @@ def load_glossary():
 
 def build():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument('--data', type=Path, default=ROOT / 'evidence-data.json')
-    parser.add_argument('--i18n', type=Path, default=ROOT / 'evidence-i18n.en.json')
+    parser.add_argument('--data', type=Path, default=ROOT / 'data/evidence.json')
+    parser.add_argument('--i18n', type=Path, default=ROOT / 'locales/en.json')
     parser.add_argument('--readme', type=Path, help='Frozen original Chinese README')
     parser.add_argument('--output', type=Path, default=ROOT / 'index.html')
     parser.add_argument('--allow-incomplete-i18n', action='store_true', help='Development only; missing translations remain explicitly incomplete')
@@ -115,7 +115,7 @@ def build():
     values = {'__DATA__': records, '__CITATIONS__': data['citations'], '__META__': data['metadata'],
               '__README__': readme.read_text(encoding='utf-8'), '__I18N__': english, '__LOCALES__': locales,
               '__READERS__': load_readers(records), '__GLOSSARY__': load_glossary()}
-    html = (ROOT / 'evidence-browser.template.html').read_text(encoding='utf-8')
+    html = (ROOT / 'src/index.template.html').read_text(encoding='utf-8')
     html = re.sub(r'__(?:DATA|CITATIONS|META|README|I18N|LOCALES|READERS|GLOSSARY|COVER_URI|LOGO_URI|ORIGIN_OPTIONS)__',
                   lambda m: '' if m[0] == '__ORIGIN_OPTIONS__' else cover_uri if m[0] == '__COVER_URI__'
                   else logo_uri if m[0] == '__LOGO_URI__' else encode(values[m[0]]), html)

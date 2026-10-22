@@ -12,9 +12,9 @@ import subprocess
 import sys
 import tempfile
 from urllib.parse import urlparse
-from build_evidence import LANGUAGES, load_locales, load_readers, load_glossary
+from build import LANGUAGES, load_locales, load_readers, load_glossary
 
-ROOT = Path(__file__).resolve().parent
+ROOT = Path(__file__).resolve().parents[1]
 FIELDS = (
     "factor", "originalClaim", "finding", "effect", "ci", "comparison",
     "population", "design", "gradeReason", "limitations", "action",
@@ -65,8 +65,8 @@ def numeric_tokens(value):
 
 
 def validate(check_build=False):
-    data = json.loads((ROOT / "evidence-data.json").read_text(encoding="utf-8"))
-    locale = json.loads((ROOT / "evidence-i18n.en.json").read_text(encoding="utf-8"))
+    data = json.loads((ROOT / "data/evidence.json").read_text(encoding="utf-8"))
+    locale = json.loads((ROOT / "locales/en.json").read_text(encoding="utf-8"))
     errors = []
 
     def require(condition, message):
@@ -173,10 +173,10 @@ def validate(check_build=False):
     if check_build and not errors:
         with tempfile.TemporaryDirectory(prefix="htll-check-") as tmp:
             artifact = Path(tmp) / "index.html"
-            subprocess.run([sys.executable, str(ROOT / "build_evidence.py"), "--output", str(artifact)],
+            subprocess.run([sys.executable, str(ROOT / "scripts/build.py"), "--output", str(artifact)],
                            check=True, cwd=ROOT, stdout=subprocess.DEVNULL)
             require(artifact.read_bytes() == (ROOT / "index.html").read_bytes(),
-                    "index.html differs from a clean rebuild; run python3 build_evidence.py")
+                    "index.html differs from a clean rebuild; run python3 scripts/build.py")
             parser = EmbeddedJSON()
             parser.feed(artifact.read_text(encoding="utf-8"))
             expected = {"dataset": records, "citations": citations, "metadata": data["metadata"],

@@ -22,8 +22,8 @@ Use Python 3.10 or newer. No packages or backend are required.
 ```sh
 git clone https://github.com/geekan/HowToLiveLonger.git
 cd HowToLiveLonger
-python3 build_evidence.py
-python3 validate_evidence.py --check-build
+python3 scripts/build.py
+python3 scripts/validate.py --check-build
 python3 -m http.server 8000
 ```
 
@@ -31,15 +31,15 @@ Visit <http://localhost:8000>. After editing the template or data, rebuild, vali
 
 ## Project map
 
-| Content | Location |
+| Directory | Purpose |
 | --- | --- |
-| Website | [`index.html`](index.html); edit [`evidence-browser.template.html`](evidence-browser.template.html) and rebuild |
-| Research and sources | [`evidence-data.json`](evidence-data.json) |
-| Reader cards in eight languages | [`readers/`](readers/) |
-| Interface and research translations | [`locale-interface.json`](locale-interface.json), [`evidence-i18n.en.json`](evidence-i18n.en.json), [`locales/`](locales/) |
-| Term explanations | [`glossary.json`](glossary.json) |
-| Artwork and logo | [`assets/`](assets/) |
-| Original articles | [中文](docs/original-readme.zh.md) · [English](docs/original-readme.en.md) |
+| [`src/`](src/) | Page source: `index.template.html` |
+| [`data/`](data/) | Research records, sources and glossary |
+| [`locales/`](locales/) | Interface and research translations, with reader cards in `readers/` |
+| [`scripts/`](scripts/) | `build.py` generates the site; `validate.py` checks data and reproducibility |
+| [`assets/`](assets/) | Logo, artwork and their source files |
+| [`docs/`](docs/) | [Original Chinese article](docs/original-readme.zh.md), [English article](docs/original-readme.en.md) and historical review records |
+| [`index.html`](index.html) | Generated standalone website for GitHub Pages and offline reading |
 
 ## Hosting and updates
 
