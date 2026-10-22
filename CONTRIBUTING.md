@@ -32,12 +32,17 @@ The public cards use `locales/readers/{zh,en,es,fr,de,pt,ja,ar}.json`. Each stud
 
 ## Build and check / 构建与检查
 
-From the repository root, with Python 3.10+:
+Use Python 3.10+. Clone the repository, then build, validate and preview:
 
 ```sh
+git clone https://github.com/geekan/HowToLiveLonger.git
+cd HowToLiveLonger
 python3 scripts/build.py
 python3 scripts/validate.py --check-build
+python3 -m http.server 8000
 ```
+
+Visit <http://localhost:8000>. After editing the template or data, rebuild and commit the generated `index.html`.
 
 The validator checks schema, IDs, source fields, all eight languages, effect/CI types and numeric tokens, archived provenance and reproducible output. It cannot establish clinical validity, translation nuance, URL availability or visual quality. Investigate every failure rather than weakening a check to make validation pass.
 
@@ -56,3 +61,16 @@ The repository retains its existing [Unlicense](LICENSE). Preserve author and so
 Build and validate locally before pushing. Commit both the source changes and the generated `index.html`. GitHub Pages serves `main` from the repository root; `.nojekyll` bypasses Jekyll processing. Keep workflow files out of this repository.
 
 The public entry is <https://geekan.github.io/HowToLiveLonger/>. The page embeds its data, translations, logo and cover; the social preview image is served from `assets/cover-social-v3.png`.
+
+## Project map / 目录
+
+| Path | Purpose |
+| --- | --- |
+| `src/` | HTML template and page interactions |
+| `data/` | Research records, sources and glossary |
+| `locales/` | Interface and research translations; reader cards in `readers/` |
+| `scripts/` | Build and validation tools |
+| `skills/howtolivelonger/` | Installable agent skill; fetches the public JSON |
+| `assets/` | Logo, cover and source artwork |
+| `docs/` | Original articles, review records and translated READMEs |
+| `index.html` | Generated website for Pages and offline use |
