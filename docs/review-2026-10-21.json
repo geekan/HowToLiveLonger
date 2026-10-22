@@ -1,0 +1,494 @@
+{
+  "date": "2026-10-21",
+  "scope": {
+    "records": 63,
+    "sources": 81,
+    "citations": 74,
+    "actuallyReviewedRecords": 14,
+    "actuallyReadSourceAbstracts": 24,
+    "actuallyReadFullTextKeySections": 4,
+    "changedRecords": 2
+  },
+  "method": "Selective follow-up of the original evidence. Reading levels describe the material actually inspected; this is not an exhaustive systematic review.",
+  "records": [
+    {
+      "id": "calorie-restriction",
+      "conclusion": "动物正文区分年龄相关与全因死亡；1.78(1.04–3.04)为猴对照/CR，非人类干预疗效。",
+      "changes": {},
+      "sources": [
+        {
+          "sourceIndex": 0,
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2812811/",
+          "requestedUrl": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1126%2Fscience.1173635&format=json&resultType=core",
+          "httpStatus": 200,
+          "date": "2026-10-21T14:16:41.689174+00:00",
+          "readLevel": "摘要",
+          "locator": "resultList.result[0].abstractText",
+          "pmid": "19590001",
+          "doi": "10.1126/science.1173635",
+          "title": "Caloric restriction delays disease onset and mortality in rhesus monkeys."
+        },
+        {
+          "sourceIndex": 1,
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3988801/",
+          "requestedUrl": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1038%2Fncomms4557&format=json&resultType=core",
+          "httpStatus": 200,
+          "date": "2026-10-21T14:16:41.689851+00:00",
+          "readLevel": "全文（关键结果段）",
+          "locator": "resultList.result[0].abstractText",
+          "pmid": "24691430",
+          "doi": "10.1038/ncomms4557",
+          "title": "Caloric restriction reduces age-related and all-cause mortality in rhesus monkeys.",
+          "fullTextRead": {
+            "requestedUrl": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3988801/fullTextXML",
+            "date": "2026-10-21T14:17:08.592308+00:00",
+            "httpStatus": 200,
+            "readLevel": "全文（关键结果段）",
+            "locator": "Results > CR reduces age-related and all-cause mortality; text lines 12–13"
+          }
+        }
+      ]
+    },
+    {
+      "id": "spermidine-diet",
+      "conclusion": "原论文摘要已足够核对每千人年与百分比之别，充分校正0.76(0.67–0.86)；认知RCT非ACM。PDF下载成功但本轮未读正文，不将历史全文级别计入本轮全文阅读。",
+      "changes": {},
+      "sources": [
+        {
+          "sourceIndex": 0,
+          "sourceUrl": "https://www.vascular-proteomics.com/pub/2018/KiechlS_AJCN_108_371.pdf",
+          "requestedUrl": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1093%2Fajcn%2Fnqy102&format=json&resultType=core",
+          "httpStatus": 200,
+          "date": "2026-10-21T14:16:41.690009+00:00",
+          "readLevel": "摘要",
+          "locator": "resultList.result[0].abstractText",
+          "pmid": "29955838",
+          "doi": "10.1093/ajcn/nqy102",
+          "title": "Higher spermidine intake is linked to lower mortality: a prospective population-based study."
+        },
+        {
+          "sourceIndex": 1,
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/35616942/",
+          "requestedUrl": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1001%2Fjamanetworkopen.2022.13875&format=json&resultType=core",
+          "httpStatus": 200,
+          "date": "2026-10-21T14:16:41.690174+00:00",
+          "readLevel": "摘要",
+          "locator": "resultList.result[0].abstractText",
+          "pmid": "35616942",
+          "doi": "10.1001/jamanetworkopen.2022.13875",
+          "title": "Effects of Spermidine Supplementation on Cognition and Biomarkers in Older Adults With Subjective Cognitive Decline: A Randomized Clinical Trial."
+        }
+      ]
+    },
+    {
+      "id": "smoking",
+      "conclusion": "墨西哥低强度基线类别与RR匹配；美国99%CI不是95%；不把统一寿命数字归给墨西哥研究。",
+      "changes": {},
+      "sources": [
+        {
+          "sourceIndex": 0,
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/33659992/",
+          "requestedUrl": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1093%2Fije%2Fdyab013&format=json&resultType=core",
+          "httpStatus": 200,
+          "date": "2026-10-21T14:16:41.690316+00:00",
+          "readLevel": "摘要",
+          "locator": "resultList.result[0].abstractText",
+          "pmid": "33659992",
+          "doi": "10.1093/ije/dyab013",
+          "title": "Low-intensity daily smoking and cause-specific mortality in Mexico: prospective study of 150 000 adults."
+        },
+        {
+          "sourceIndex": 1,
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/23343063/",
+          "requestedUrl": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1056%2Fnejmsa1211128&format=json&resultType=core",
+          "httpStatus": 200,
+          "date": "2026-10-21T14:16:41.690487+00:00",
+          "readLevel": "摘要",
+          "locator": "resultList.result[0].abstractText",
+          "pmid": "23343063",
+          "doi": "10.1056/nejmsa1211128",
+          "title": "21st-century hazards of smoking and benefits of cessation in the United States."
+        }
+      ]
+    },
+    {
+      "id": "sun-exposure",
+      "conclusion": "丹麦皮肤癌代理日晒及瑞典寿命关联均为观察研究；不支持6年延寿或可执行UV剂量处方。",
+      "changes": {},
+      "sources": [
+        {
+          "sourceIndex": 0,
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/24038635/",
+          "requestedUrl": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1093%2Fije%2Fdyt168&format=json&resultType=core",
+          "httpStatus": 200,
+          "date": "2026-10-21T14:16:44.200842+00:00",
+          "readLevel": "摘要",
+          "locator": "resultList.result[0].abstractText",
+          "pmid": "24038635",
+          "doi": "10.1093/ije/dyt168",
+          "title": "Skin cancer as a marker of sun exposure associates with myocardial infarction, hip fracture and death from any cause."
+        },
+        {
+          "sourceIndex": 1,
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/26992108/",
+          "requestedUrl": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1111%2Fjoim.12496&format=json&resultType=core",
+          "httpStatus": 200,
+          "date": "2026-10-21T14:16:44.739076+00:00",
+          "readLevel": "摘要",
+          "locator": "resultList.result[0].abstractText",
+          "pmid": "26992108",
+          "doi": "10.1111/joim.12496",
+          "title": "Avoidance of sun exposure as a risk factor for major causes of death: a competing risk analysis of the Melanoma in Southern Sweden cohort."
+        }
+      ]
+    },
+    {
+      "id": "nmn",
+      "conclusion": "10周代谢替代终点及8项短期RCT代谢综述；无ACM疗效终点，不等同证明延寿无效。",
+      "changes": {},
+      "sources": [
+        {
+          "sourceIndex": 0,
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/33888596/",
+          "requestedUrl": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1126%2Fscience.abe9985&format=json&resultType=core",
+          "httpStatus": 200,
+          "date": "2026-10-21T14:16:44.908547+00:00",
+          "readLevel": "摘要",
+          "locator": "resultList.result[0].abstractText",
+          "pmid": "33888596",
+          "doi": "10.1126/science.abe9985",
+          "title": "Nicotinamide mononucleotide increases muscle insulin sensitivity in prediabetic women."
+        },
+        {
+          "sourceIndex": 1,
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/39531138/",
+          "requestedUrl": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1007%2Fs11892-024-01557-z&format=json&resultType=core",
+          "httpStatus": 200,
+          "date": "2026-10-21T14:16:45.556637+00:00",
+          "readLevel": "摘要",
+          "locator": "resultList.result[0].abstractText",
+          "pmid": "39531138",
+          "doi": "10.1007/s11892-024-01557-z",
+          "title": "Effects of Nicotinamide Mononucleotide on Glucose and Lipid Metabolism in Adults: A Systematic Review and Meta-analysis of Randomised Controlled Trials."
+        }
+      ]
+    },
+    {
+      "id": "metformin-diabetes",
+      "conclusion": "UKPDS34的超重新诊断糖尿病患者36%降低及CI吻合；13RCT汇总不精确，保留B及人群限制。",
+      "changes": {},
+      "sources": [
+        {
+          "sourceIndex": 0,
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/9742977/",
+          "requestedUrl": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1016%2Fs0140-6736%2898%2907037-8&format=json&resultType=core",
+          "httpStatus": 200,
+          "date": "2026-10-21T14:16:46.313372+00:00",
+          "readLevel": "摘要",
+          "locator": "fallback.resultList.result[0].abstractText",
+          "pmid": "9742977",
+          "doi": null,
+          "title": null
+        },
+        {
+          "sourceIndex": 1,
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/22509138/",
+          "requestedUrl": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1371%2Fjournal.pmed.1001204&format=json&resultType=core",
+          "httpStatus": 200,
+          "date": "2026-10-21T14:16:46.701696+00:00",
+          "readLevel": "摘要",
+          "locator": "resultList.result[0].abstractText",
+          "pmid": "22509138",
+          "doi": "10.1371/journal.pmed.1001204",
+          "title": "Reappraisal of metformin efficacy in the treatment of type 2 diabetes: a meta-analysis of randomised controlled trials."
+        }
+      ]
+    },
+    {
+      "id": "metformin-longevity",
+      "conclusion": "回顾队列STR非HR、不能转成固定+3年；DPP/DPPOS高风险者21年ACM未显著下降，不能视为全部健康人的无效证明；父亲暴露研究非ACM。",
+      "changes": {},
+      "sources": [
+        {
+          "sourceIndex": 0,
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/25041462/",
+          "requestedUrl": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1111%2Fdom.12354&format=json&resultType=core",
+          "httpStatus": 200,
+          "date": "2026-10-21T14:16:47.075599+00:00",
+          "readLevel": "摘要",
+          "locator": "resultList.result[0].abstractText",
+          "pmid": "25041462",
+          "doi": "10.1111/dom.12354",
+          "title": "Can people with type 2 diabetes live longer than those without? A comparison of mortality in people initiated with metformin or sulphonylurea monotherapy and matched, non-diabetic controls."
+        },
+        {
+          "sourceIndex": 1,
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/34697033/",
+          "requestedUrl": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.2337%2Fdc21-1046&format=json&resultType=core",
+          "httpStatus": 200,
+          "date": "2026-10-21T14:16:47.405885+00:00",
+          "readLevel": "摘要",
+          "locator": "resultList.result[0].abstractText",
+          "pmid": "34697033",
+          "doi": "10.2337/dc21-1046",
+          "title": "Effect of Metformin and Lifestyle Interventions on Mortality in the Diabetes Prevention Program and Diabetes Prevention Program Outcomes Study."
+        },
+        {
+          "sourceIndex": 2,
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/39414354/",
+          "requestedUrl": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1136%2Fbmj-2024-080127&format=json&resultType=core",
+          "httpStatus": 200,
+          "date": "2026-10-21T14:16:48.012846+00:00",
+          "readLevel": "摘要",
+          "locator": "resultList.result[0].abstractText",
+          "pmid": "39414354",
+          "doi": "10.1136/bmj-2024-080127",
+          "title": "Paternal metformin use and risk of congenital malformations in offspring in Norway and Taiwan: population based, cross national cohort study."
+        }
+      ]
+    },
+    {
+      "id": "multivitamins",
+      "conclusion": "癌症发病与ACM分开，COSMOS ACM0.93(0.81–1.08)与2024观察队列数字吻合；不证明补充剂必有害。",
+      "changes": {},
+      "sources": [
+        {
+          "sourceIndex": 0,
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/23162860/",
+          "requestedUrl": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1001%2Fjama.2012.14641&format=json&resultType=core",
+          "httpStatus": 200,
+          "date": "2026-10-21T14:16:48.761786+00:00",
+          "readLevel": "摘要",
+          "locator": "resultList.result[0].abstractText",
+          "pmid": "23162860",
+          "doi": "10.1001/jama.2012.14641",
+          "title": "Multivitamins in the prevention of cancer in men: the Physicians' Health Study II randomized controlled trial."
+        },
+        {
+          "sourceIndex": 1,
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/35294969/",
+          "requestedUrl": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1093%2Fajcn%2Fnqac056&format=json&resultType=core",
+          "httpStatus": 200,
+          "date": "2026-10-21T14:16:49.108378+00:00",
+          "readLevel": "摘要",
+          "locator": "resultList.result[0].abstractText",
+          "pmid": "35294969",
+          "doi": "10.1093/ajcn/nqac056",
+          "title": "Multivitamins in the prevention of cancer and cardiovascular disease: the COcoa Supplement and Multivitamin Outcomes Study (COSMOS) randomized clinical trial."
+        },
+        {
+          "sourceIndex": 2,
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/38922615/",
+          "requestedUrl": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1001%2Fjamanetworkopen.2024.18729&format=json&resultType=core",
+          "httpStatus": 200,
+          "date": "2026-10-21T14:16:50.118069+00:00",
+          "readLevel": "摘要",
+          "locator": "resultList.result[0].abstractText",
+          "pmid": "38922615",
+          "doi": "10.1001/jamanetworkopen.2024.18729",
+          "title": "Multivitamin Use and Mortality Risk in 3 Prospective US Cohorts."
+        }
+      ]
+    },
+    {
+      "id": "glucosamine-chondroitin",
+      "conclusion": "原期刊正文确认不同校正模型数值均正确；补入≥40岁、排除CVD、比较组包含使用不足365天，及未追踪依从性；本轮来源阅读升为关键正文，医学证据等级C不变。",
+      "changes": {
+        "comparison": {
+          "before": "≥1年使用葡萄糖胺/软骨素 vs 未使用",
+          "after": "基线报告使用葡萄糖胺/软骨素≥365天 vs 未使用或使用不足365天"
+        },
+        "population": {
+          "before": "NHANES 1999–2010，16,686人；658使用；中位107个月；3,366死亡",
+          "after": "NHANES 1999–2010，16,686名≥40岁成人，排除基线CVD及生命状态缺失者；658使用≥1年；中位107个月；3,366死亡"
+        },
+        "limitations": {
+          "before": "年龄校正与多变量校正不得混用；联用补剂暴露不能拆成氨糖独有效果；自报用药和共病、健康行为残余混杂。",
+          "after": "年龄校正与多变量校正不得混用；联用补剂暴露不能拆成氨糖独有效果；基线自报使用，随访未追踪用量与持续依从性；使用者更常运动、不吸烟、受教育较多，调整不能消除健康使用者及其他补剂混杂。"
+        },
+        "sources": {
+          "before": [
+            {
+              "title": "Glucosamine/Chondroitin and Mortality in a US NHANES Cohort.",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/33219063/",
+              "doi": "10.3122/jabfm.2020.06.200110",
+              "year": 2020,
+              "readLevel": "摘要",
+              "evidence": "摘要Results：658人≥1年使用；年龄校正ACM0.61(0.49–0.77)、CVD0.35(0.20–0.61)；充分校正ACM0.73(0.57–0.93)、CVD0.42(0.23–0.75)",
+              "status": "已核验"
+            }
+          ],
+          "after": [
+            {
+              "title": "Glucosamine/Chondroitin and Mortality in a US NHANES Cohort.",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/33219063/",
+              "doi": "10.3122/jabfm.2020.06.200110",
+              "year": 2020,
+              "readLevel": "全文（关键结果段）",
+              "evidence": "本轮读取原期刊Methods（Study Participants / Glucosamine/Chondroitin Use）、Results及Discussion：≥40岁，≥365天使用对未使用或不足365天；658使用者；年龄校正ACM0.61(0.49–0.77)、CVD0.35(0.20–0.61)；多变量校正ACM0.73(0.57–0.93)、CVD0.42(0.23–0.75)；未追踪随访中的剂量和依从性。",
+              "status": "已核验"
+            }
+          ]
+        }
+      },
+      "sources": [
+        {
+          "sourceIndex": 0,
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/33219063/",
+          "requestedUrl": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.3122%2Fjabfm.2020.06.200110&format=json&resultType=core",
+          "httpStatus": 200,
+          "date": "2026-10-21T14:16:50.776558+00:00",
+          "readLevel": "全文（关键结果段）",
+          "locator": "resultList.result[0].abstractText",
+          "pmid": "33219063",
+          "doi": "10.3122/jabfm.2020.06.200110",
+          "title": "Glucosamine/Chondroitin and Mortality in a US NHANES Cohort.",
+          "fullTextRead": {
+            "requestedUrl": "https://www.jabfm.org/content/33/6/842.full",
+            "date": "2026-10-21T14:17:49.196328+00:00",
+            "httpStatus": 200,
+            "readLevel": "全文（关键结果段）",
+            "locator": "Methods > Study Participants / Glucosamine/Chondroitin Use; Results; Discussion > Limitations"
+          }
+        }
+      ]
+    },
+    {
+      "id": "alcohol",
+      "conclusion": "实际正文Table2核实充分校正RR及CI；研究层面的meta回归不能当戒酒干预效果或安全剂量证明。",
+      "changes": {},
+      "sources": [
+        {
+          "sourceIndex": 0,
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/37000449/",
+          "requestedUrl": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1001%2Fjamanetworkopen.2023.6185&format=json&resultType=core",
+          "httpStatus": 200,
+          "date": "2026-10-21T14:16:50.941456+00:00",
+          "readLevel": "全文（关键结果段）",
+          "locator": "resultList.result[0].abstractText",
+          "pmid": "37000449",
+          "doi": "10.1001/jamanetworkopen.2023.6185",
+          "title": "Association Between Daily Alcohol Intake and Risk of All-Cause Mortality: A Systematic Review and Meta-analyses.",
+          "fullTextRead": {
+            "requestedUrl": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10066463/fullTextXML",
+            "date": "2026-10-21T14:17:08.599738+00:00",
+            "httpStatus": 200,
+            "readLevel": "全文（关键结果段）",
+            "locator": "Results > All-Cause Mortality Risk Estimates; Table 2 fully adjusted vs lifetime nondrinkers; text lines 91–92"
+          }
+        }
+      ]
+    },
+    {
+      "id": "statins-indicated-patients",
+      "conclusion": "原摘要无既往血管病亚群每降低1mmol/L LDL的ACM RR0.91(0.85–0.97)正确；不替代个体用药阈值。",
+      "changes": {},
+      "sources": [
+        {
+          "sourceIndex": 0,
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/22607822/",
+          "requestedUrl": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1016%2Fs0140-6736%2812%2960367-5&format=json&resultType=core",
+          "httpStatus": 200,
+          "date": "2026-10-21T14:16:51.164390+00:00",
+          "readLevel": "摘要",
+          "locator": "fallback.resultList.result[0].abstractText",
+          "pmid": "22607822",
+          "doi": null,
+          "title": null
+        }
+      ]
+    },
+    {
+      "id": "vitamin-d-general-population",
+      "conclusion": "VITAL ACM HR0.99(0.87–1.12)吻合；无按严重缺乏筛选，阴性非所有适应证/剂量无效。",
+      "changes": {},
+      "sources": [
+        {
+          "sourceIndex": 0,
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/30415629/",
+          "requestedUrl": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1056%2Fnejmoa1809944&format=json&resultType=core",
+          "httpStatus": 200,
+          "date": "2026-10-21T14:16:51.673617+00:00",
+          "readLevel": "摘要",
+          "locator": "resultList.result[0].abstractText",
+          "pmid": "30415629",
+          "doi": "10.1056/nejmoa1809944",
+          "title": "Vitamin D Supplements and Prevention of Cancer and Cardiovascular Disease."
+        }
+      ]
+    },
+    {
+      "id": "sleep-duration",
+      "conclusion": "正文发现跨队列时长口径不统一且仅基线一次测量；补入暴露口径及人群排除，保留原HR/CI、B级和谨慎行动。",
+      "changes": {
+        "comparison": {
+          "before": "自报≥10小时 vs 7小时/日",
+          "after": "自报≥10小时 vs 7小时；各队列有夜间睡眠或含午睡的全天睡眠两种口径"
+        },
+        "population": {
+          "before": "日本、中国、新加坡、韩国9队列322,721人，平均54.5岁；男性19,419例、女性13,768例死亡",
+          "after": "日本、中国、新加坡、韩国9队列322,721人，平均54.5岁；排除基线自报CVD/癌症及随访前5年死亡者；男性19,419例、女性13,768例死亡"
+        },
+        "limitations": {
+          "before": "时长自报、残余混杂、潜在疾病和睡眠质量；已排除前5年死亡仍无法完全消除反向因果。",
+          "after": "时长仅在基线自报一次，各队列问卷未标准化（夜间睡眠或含午睡的全天时长）；残余混杂，未掌握睡眠质量、抑郁及社会经济等信息；排除基线CVD/癌症和前5年死亡仍无法完全消除反向因果。"
+        }
+      },
+      "sources": [
+        {
+          "sourceIndex": 0,
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8417759/",
+          "requestedUrl": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1001%2Fjamanetworkopen.2021.22837&format=json&resultType=core",
+          "httpStatus": 200,
+          "date": "2026-10-21T14:16:52.133887+00:00",
+          "readLevel": "全文（关键结果段）",
+          "locator": "resultList.result[0].abstractText",
+          "pmid": "34477853",
+          "doi": "10.1001/jamanetworkopen.2021.22837",
+          "title": "Association of Sleep Duration With All- and Major-Cause Mortality Among Adults in Japan, China, Singapore, and Korea.",
+          "fullTextRead": {
+            "requestedUrl": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8417759/fullTextXML",
+            "date": "2026-10-21T14:17:08.597266+00:00",
+            "httpStatus": 200,
+            "readLevel": "全文（关键结果段）",
+            "locator": "Methods > Study Population; Results > All-Cause Mortality; Discussion > Strengths and Limitations; text lines 51,79,101"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bedtime",
+      "conclusion": "摘要复合终点1.09/1.10吻合；未读到独立ACM43%/15%的原始结果，继续保留未核实，不补CI。",
+      "changes": {},
+      "sources": [
+        {
+          "sourceIndex": 0,
+          "sourceUrl": "https://europepmc.org/article/MED/33610073",
+          "requestedUrl": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1016%2Fj.sleep.2021.01.057&format=json&resultType=core",
+          "httpStatus": 200,
+          "date": "2026-10-21T14:16:52.583904+00:00",
+          "readLevel": "摘要",
+          "locator": "resultList.result[0].abstractText",
+          "pmid": "33610073",
+          "doi": "10.1016/j.sleep.2021.01.057",
+          "title": "Association of bedtime with mortality and major cardiovascular events: an analysis of 112,198 individuals from 21 countries in the PURE study."
+        }
+      ]
+    }
+  ],
+  "postEvaluationClarification": {
+    "recordId": "sleep-duration",
+    "field": "limitations",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8417759/",
+    "section": "Exposure Assessment",
+    "change": "一次自报；多数队列在基线、上海女性健康研究在第三次随访测量。中英文同步修正，不改变效应、CI、等级或行动。"
+  },
+  "multilingualClarification": {
+    "recordId": "metformin-diabetes",
+    "field": "sources[0].evidence",
+    "source": "https://pubmed.ncbi.nlm.nih.gov/9742977/",
+    "doi": "10.1016/s0140-6736(98)07037-8",
+    "section": "Abstract Methods, supplementary randomized trial",
+    "clarification": "Adding metformin to existing sulfonylurea treatment, not adding sulfonylurea. Clarifies the source note; main trial effect, CI, grade and action unchanged."
+  }
+}

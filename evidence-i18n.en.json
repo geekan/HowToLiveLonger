@@ -1,0 +1,1157 @@
+{
+  "language": "en",
+  "records": {
+    "poultry-fish": {
+      "factor": "White meat, red meat and processed meat",
+      "originalClaim": "Original action section: white meat −11% to −3% ACM; evidence section: increasing red meat by ≥half a serving/day increases ACM by 10%; two servings of red/processed meat per week increases it by 3%.",
+      "finding": "The original paragraph combines two papers: JAMA on an additional 2 servings of meat per week and BMJ on eight-year changes in red meat intake. No significant white-meat association with ACM does not establish absence of risk; poultry was associated with higher CVD risk in JAMA.",
+      "effect": "Processed meat HR 1.03; red meat HR 1.03; poultry HR 0.99; fish HR 0.99; red meat increase ≥half a serving/day HR 1.10",
+      "ci": "Respective 95% CIs: 1.02–1.05; 1.01–1.05; 0.97–1.02; 0.97–1.01; 1.04–1.17",
+      "comparison": "JAMA: each additional 2 servings/week; BMJ: increase ≥half a serving/day over eight years versus stable intake",
+      "population": "JAMA: 29,682 participants in 6 US cohorts, 8,875 deaths; BMJ: 81,469 participants, 14,019 deaths",
+      "design": "Prospective analysis of multiple cohorts",
+      "gradeReason": "Direct ACM associations from pooled cohorts or a large, high-quality cohort; not proof of causation",
+      "limitations": "Food questionnaires and residual confounding; different exposure time windows in the two studies",
+      "action": "Limit processed meat; replace some red meat with legumes, nuts, fish and similar foods. Consider cooking methods and the overall diet.",
+      "sources": [
+        {
+          "evidence": "Abstract, Results: ACM estimates for processed meat 1.03 (1.02–1.05), red meat 1.03 (1.01–1.05), poultry 0.99 (0.97–1.02), fish 0.99 (0.97–1.01)."
+        },
+        {
+          "evidence": "Abstract, Results: eight-year intake changes and deaths over the following eight years; HR 1.10 (1.04–1.17)."
+        }
+      ]
+    },
+    "fresh-fruit-diabetes": {
+      "factor": "Fresh fruit (people with diabetes)",
+      "originalClaim": "Eating 200 g of fresh fruit daily can reduce mortality by 17%, diabetic macrovascular complications by 13% and microvascular complications by 28%.",
+      "finding": "The originally cited conference abstract on global CVD-attributable burden is not the source of this ACM figure. The actual source is the CKB diabetes population: per additional 100 g/day, rather than 200 g, ACM HR 0.83; macrovascular 0.87 and microvascular 0.72 also refer to each 100 g/day. This cannot be generalized to a 17% reduction from 200 g/day for everyone.",
+      "effect": "HR 0.83",
+      "ci": "95% CI 0.74–0.93",
+      "comparison": "Each additional 100 g/day of fresh fruit in people with diabetes",
+      "population": "China CKB: 30,300 participants with diabetes at baseline, 3,389 deaths, about 7 years",
+      "design": "Single large prospective cohort",
+      "gradeReason": "Single cohort or substantial confounding/heterogeneity; limited direct ACM evidence",
+      "limitations": "Specific diabetes population; nonrandomized; mismatch between the cited endpoint and dose",
+      "action": "Replace desserts with moderate amounts of whole fruit, adjusted to blood glucose and the individual treatment plan; do not substitute fruit juice.",
+      "sources": [
+        {
+          "evidence": "Abstract, Methods and findings: 30,300 participants with diabetes at baseline; per 100 g/day, ACM HR 0.83 (0.74–0.93), microvascular 0.72 (0.61–0.87), macrovascular 0.87 (0.82–0.93)."
+        },
+        {
+          "evidence": "Bibliographic details checked only: conference abstract on global/regional/national cardiovascular disease burden related to fruit and vegetables. Main text not obtained; not used as quantitative ACM evidence."
+        }
+      ]
+    },
+    "flavonoid-foods": {
+      "factor": "Flavonoid-containing foods",
+      "originalClaim": "Eating flavonoid-containing foods is associated with 20% lower mortality risk; examples include a cup of tea, an apple, an orange, 100 g of blueberries or 100 g of broccoli.",
+      "finding": "The direction of association is supported, but this was not a trial of 100 g of broccoli daily. The association levels off around total flavonoid intake of 500 mg/day. After further dietary adjustment, Q3 HR was 0.88 and Q5 HR 0.92; a blanket 20% reduction ignores model differences.",
+      "effect": "Q3 HR 0.88; Q5 HR 0.92",
+      "ci": "95% CIs 0.84–0.91; 0.88–0.97",
+      "comparison": "Total flavonoid intake quintiles 3/5 versus quintile 1, Table 2 Model 3",
+      "population": "Denmark: 56,048 participants, 14,083 deaths, 23 years",
+      "design": "Prospective cohort",
+      "gradeReason": "Single cohort or substantial confounding/heterogeneity; limited direct ACM evidence",
+      "limitations": "Confounding by healthy diet and socioeconomic factors; single FFQ; supplement effects cannot be inferred",
+      "action": "Obtain plant nutrients from varied vegetables, fruit, legumes and similar foods; do not rely on flavonoid supplements or use them to offset smoking or alcohol.",
+      "sources": [
+        {
+          "evidence": "Full text, Table 2, total flavonoids: Model 2 Q3/Q5 both about 0.83; Model 3 Q3 0.88 (0.84–0.91), Q5 0.92 (0.88–0.97). Results: plateau around 500 mg/day."
+        }
+      ]
+    },
+    "chili-us": {
+      "factor": "Hot red chili peppers (US)",
+      "originalClaim": "US study of 16,179 people followed for about 19 years: deaths in 21.6% of chili consumers versus 33.6% of nonconsumers; the original paragraph then claims 23% lower ACM with >4 times/week.",
+      "finding": "The 16,179 participants, 4,946 deaths and 21.6% versus 33.6% are from the US study. Adjusted ACM was 13% lower, distinct from the crude risk difference and the Italian 23% estimate.",
+      "effect": "HR 0.87",
+      "ci": "95% CI 0.77–0.97",
+      "comparison": "Hot red chili pepper consumption versus none",
+      "population": "US NHANES III: 16,179 adults, median 18.9 years",
+      "design": "Prospective cohort",
+      "gradeReason": "Single cohort or substantial confounding/heterogeneity; limited direct ACM evidence",
+      "limitations": "Crude death proportions are confounded by age and other factors; single dietary measurement",
+      "action": "Use as seasoning if enjoyed and tolerated; people with gastrointestinal discomfort need not force an increase.",
+      "sources": [
+        {
+          "evidence": "Abstract, Results: US NHANES III, 16,179 participants, 4,946 deaths, median 18.9 years; consumers versus nonconsumers, adjusted HR 0.87 (0.77–0.97); crude death proportions 21.6% versus 33.6%."
+        }
+      ]
+    },
+    "chili-italy": {
+      "factor": "Chili peppers (Italy)",
+      "originalClaim": "Eating chili >4 times/week reduces ACM by 23% and cardiovascular mortality by 34%; a secondary headline claims “61% lower risk of illness-related death.”",
+      "finding": "The associations of >4 times/week with 23% lower ACM and 34% lower CVD mortality come from the Italian cohort. The 61% refers to a relative reduction in cerebrovascular mortality, not overall illness-related mortality. The reference was never/rare consumption, not everyone consuming chili fewer than 2 times/week.",
+      "effect": "ACM HR 0.77",
+      "ci": "95% CI 0.66–0.90",
+      "comparison": ">4 times/week versus never/rarely",
+      "population": "Italian Moli-sani cohort: 22,811 participants, 1,236 deaths, median 8.2 years",
+      "design": "Prospective cohort",
+      "gradeReason": "Single cohort or substantial confounding/heterogeneity; limited direct ACM evidence",
+      "limitations": "Residual dietary/lifestyle confounding; does not establish efficacy of a capsaicin intervention",
+      "action": "Eat according to tolerance; this cannot replace blood pressure control or other treatment.",
+      "sources": [
+        {
+          "evidence": "Abstract, Results: Italian Moli-sani, 22,811 participants, 1,236 deaths, median 8.2 years; >4 times/week versus never/rarely: ACM HR 0.77 (0.66–0.90), CVD mortality 0.66 (0.50–0.86), cerebrovascular mortality 0.39 (0.20–0.75)."
+        }
+      ]
+    },
+    "eggs": {
+      "factor": "Eggs",
+      "originalClaim": "An additional half an egg daily increases all-cause and cardiovascular mortality risk by 7%; replacing half a whole egg with egg whites, poultry, fish, dairy, nuts or legumes gives modeled ACM reductions of 6%, 8%, 9%, 7%, 13% and 10%.",
+      "finding": "The original 7% and substitution-model figures were verified. These are observational results in middle-aged and older US adults and hypothetical equivalent-amount substitutions, not mortality reductions caused by randomized dietary changes, nor a fixed 7% increase from eggs for everyone.",
+      "effect": "HR 1.07 per additional half a whole egg/day",
+      "ci": "95% CI 1.06–1.08",
+      "comparison": "Each additional 25 g/day of whole egg; substitution model, not an actual intervention",
+      "population": "NIH-AARP: 521,120 participants, 129,328 deaths, median 16 years",
+      "design": "Large prospective cohort",
+      "gradeReason": "Direct ACM associations from pooled cohorts or a large, high-quality cohort; not proof of causation",
+      "limitations": "Self-report, single baseline diet measurement, residual confounding; results may differ across regions",
+      "action": "Choose egg intake in the context of overall diet and blood lipids; legumes or nuts can replace some animal protein. Do not eliminate eggs solely on one study.",
+      "sources": [
+        {
+          "evidence": "Full-text abstract and Results/Hypothetical substitution: half an egg/day, ACM 1.07 (1.06–1.08); replacement with egg whites/poultry/fish/dairy/nuts/legumes respectively gave modeled ACM reductions of 6/8/9/7/13/10%."
+        }
+      ]
+    },
+    "walnuts": {
+      "factor": "Walnuts",
+      "originalClaim": "≥5 servings of walnuts/week (28 g/serving): 1.3 more years of healthy life expectancy, 14% lower ACM and 25% lower cardiovascular mortality.",
+      "finding": "14% lower ACM with ≥5 servings/week is supported. The 1.30/1.26 years are modeled total life expectancy at age 60, not healthy life expectancy or a guarantee of longer life.",
+      "effect": "HR 0.86",
+      "ci": "95% CI 0.79–0.93",
+      "comparison": "≥5 servings/week versus none; 28 g per serving",
+      "population": "NHS/HPFS: 93,340 participants, 30,263 deaths, up to 20 years",
+      "design": "Analysis of two cohorts",
+      "gradeReason": "Direct ACM associations from pooled cohorts or a large, high-quality cohort; not proof of causation",
+      "limitations": "Healthy-user bias; modeled life expectancy; industry funding warrants attention",
+      "action": "If not allergic to nuts, replace snacks with moderate amounts of unsalted nuts, accounting for total energy intake.",
+      "sources": [
+        {
+          "evidence": "Abstract, Results: ≥5 servings/week HR 0.86 (0.79–0.93); life expectancy at age 60 was 1.30 years longer for women and 1.26 for men, not healthy life expectancy."
+        }
+      ]
+    },
+    "nuts-general": {
+      "factor": "Frequency of nut consumption",
+      "originalClaim": "The original describes weekly frequency using a 1-ounce serving, with mortality reductions of 7%, 11%, 13%, 15% and 20%; it also calls a 7,216-person study “cross-sectional,” reporting 39% lower mortality with >3 servings/week.",
+      "finding": "NEJM frequencies were <1, 1, 2–4, 5–6 and ≥7 times/week, corresponding to 7/11/13/15/20% lower mortality, not groups based on total weekly weight; these data do not establish that nuts must be eaten raw. The PREDIMED 39% comes from an observational analysis of nut intake, neither cross-sectional nor the ACM effect of separately randomized nut intake.",
+      "effect": "NEJM ≥7 times/week HR 0.80; PREDIMED >3 servings/week HR 0.61",
+      "ci": "95% CIs 0.73–0.86; 0.45–0.83",
+      "comparison": "Both versus no nut consumption",
+      "population": "NEJM: 118,962 participants, 27,429 deaths; PREDIMED: 7,216 adults at high CVD risk, 323 deaths",
+      "design": "Prospective cohorts and observational analysis within an RCT",
+      "gradeReason": "Direct ACM associations from pooled cohorts or a large, high-quality cohort; not proof of causation",
+      "limitations": "Intake groups were not randomized; raw versus roasted nuts not directly tested",
+      "action": "Avoid if allergic; choose unsalted nuts with little added sugar to replace other energy-dense snacks.",
+      "sources": [
+        {
+          "evidence": "Abstract, Results: frequencies <1/1/2–4/5–6/≥7 times/week, respective HRs 0.93/0.89/0.87/0.85/0.80; highest-group CI 0.73–0.86."
+        },
+        {
+          "evidence": "Abstract, Methods/Results: baseline intake and repeated annual measurements associated with mortality; >3 servings/week HR 0.61 (0.45–0.83), 323 deaths."
+        }
+      ]
+    },
+    "sodium-ecological": {
+      "factor": "Cross-country ecological association with sodium intake",
+      "originalClaim": "Ecological study of 181 countries: per additional 1 g/day of sodium, healthy life expectancy at birth β=2.6 years and at age 60 β=0.3 years; ACM β=−131; in 46 high-income countries, β=3.4 years and ACM β=−168.",
+      "finding": "The original β values agree with the abstract, but country-level ecological correlations cannot justify individuals eating more salt. The authors explicitly state these data should not be used for nutritional interventions.",
+      "effect": "β −131 death events per 1 g/day higher sodium intake (country-level regression)",
+      "ci": "Not reported",
+      "comparison": "Mean sodium intake versus age-standardized mortality measures across 181 countries; not an individual HR",
+      "population": "Aggregated 2010 data from 181 countries; sensitivity analysis in 46 high-income countries",
+      "design": "Cross-sectional ecological analysis",
+      "gradeReason": "Animal, ecological or non-ACM outcomes cannot directly establish individual human ACM effects",
+      "limitations": "Ecological fallacy; confounding by national income and health care; errors in estimated intake",
+      "action": "Do not increase sodium to extend life; manage salt according to personal blood pressure, diseases and diet.",
+      "sources": [
+        {
+          "evidence": "Abstract, Methods and results: 181 countries; ACM β −131, R² 0.60, P<0.001; final conclusion states that these observational data should not be used as a basis for nutritional interventions."
+        }
+      ]
+    },
+    "potassium-salt": {
+      "factor": "Lower-sodium, potassium-enriched salt substitution",
+      "originalClaim": "Multiple studies suggest low-sodium salt can reduce disease occurrence and have a positive effect on reducing ACM.",
+      "finding": "SSaSS directly supports lower ACM when specific high-risk rural adults replace regular salt with 75% NaCl/25% KCl salt; the separate contributions of sodium reduction and potassium supplementation cannot be isolated.",
+      "effect": "Mortality rate ratio 0.88",
+      "ci": "95% CI 0.82–0.95",
+      "comparison": "75% NaCl + 25% KCl versus 100% NaCl; 39.28 versus 44.61 per 1,000 person-years",
+      "population": "20,995 people in 600 Chinese villages; history of stroke or age ≥60 with hypertension; mean follow-up 4.74 years",
+      "design": "Open-label cluster-randomized trial; ACM was a secondary endpoint",
+      "gradeReason": "Large randomized trial with a direct ACM endpoint; clearly bounded population applicability",
+      "limitations": "Specific high-risk population; open-label; limited applicability in kidney disease or risk of hyperkalemia",
+      "action": "Suitable people, including those with hypertension, may substitute potassium-enriched lower-sodium salt after confirmation by a health professional. With impaired kidney function, hyperkalemia or potassium-raising medicines, seek advice first rather than changing salt independently.",
+      "sources": [
+        {
+          "evidence": "Abstract, Methods/Results: 20,995 participants, 4.74 years; ACM rates 39.28 versus 44.61 per 1,000 person-years, rate ratio 0.88 (0.82–0.95); clinical hyperkalemia 1.04 (0.80–1.37)."
+        }
+      ]
+    },
+    "carbohydrate-share": {
+      "factor": "Carbohydrate share of energy intake",
+      "originalClaim": "Lower carbohydrate intake means shorter life; higher intake also slightly shortens life; about 50% of energy is the longest-life range.",
+      "finding": "The 2018 study supports a U-shaped observational association, lowest around 50–55% of energy. This does not mean low carbohydrate intake inevitably shortens an individual’s life; the sources of fat/protein replacing carbohydrate matter.",
+      "effect": "Low carbohydrate HR 1.20; high carbohydrate HR 1.23",
+      "ci": "95% CIs 1.09–1.32; 1.11–1.36",
+      "comparison": "<40% and >70% of energy from carbohydrate, each versus moderate intake (meta-analysis categories); ARIC minimum at 50–55%",
+      "population": "ARIC: 15,428 participants; meta-analysis total: 432,179",
+      "design": "Prospective cohort plus cohort meta-analysis",
+      "gradeReason": "Direct ACM associations from pooled cohorts or a large, high-quality cohort; not proof of causation",
+      "limitations": "Observational and self-reported; differences in intake categories and replacement foods; life expectancy estimates are not interventions",
+      "action": "Prioritize carbohydrate quality and increase whole grains and legumes; diabetes or therapeutic ketogenic diets require individualization.",
+      "sources": [
+        {
+          "evidence": "Abstract, Findings: ARIC 15,428 participants and synthesis totaling 432,179; lowest ACM around 50%–55% of energy from carbohydrate; low-carbohydrate HR 1.20 (1.09–1.32), high-carbohydrate 1.23 (1.11–1.36); animal versus plant replacement sources differed in direction."
+        }
+      ]
+    },
+    "betel-quid": {
+      "factor": "Areca nut / betel quid",
+      "originalClaim": "Chewing areca nut increases all-cause mortality by 21%.",
+      "finding": "The 21% higher ACM is a pooled relative risk from observational studies. Heterogeneity is high; quid ingredients and co-exposure to tobacco and alcohol affect interpretation.",
+      "effect": "RR 1.21",
+      "ci": "95% CI 1.04–1.42",
+      "comparison": "Areca/betel-quid chewers versus nonchewers",
+      "population": "ACM analysis: 179,582 participants, 5 comparison categories in Asian studies",
+      "design": "Systematic review/meta-analysis of observational studies",
+      "gradeReason": "Single cohort or substantial confounding/heterogeneity; limited direct ACM evidence",
+      "limitations": "I² 85%; product formulations and residual confounding by smoking/alcohol; nonrandomized",
+      "action": "Avoid or stop areca/betel-quid use; absence of tobacco does not make it safe. Seek cessation support for dependence.",
+      "sources": [
+        {
+          "evidence": "Full text, All-cause mortality: 5 comparison categories, N=179,582, RR 1.21 (1.04–1.42), I² 85%, heterogeneity P<0.001."
+        }
+      ]
+    },
+    "calorie-restriction": {
+      "factor": "Calorie restriction (nonhuman primates)",
+      "originalClaim": "Calorie restriction in rhesus monkeys: normally fed controls had 2.9-fold disease risk and 3.0-fold mortality risk.",
+      "finding": "The original threefold mortality figure concerned age-related deaths in an earlier rhesus-monkey study, not human ACM. The 2014 update from the same project reported all-cause control/CR HR 1.78 and age-related mortality HR 2.89. The magnitude of human life extension is unproven.",
+      "effect": "Monkey all-cause HR 1.78 (control/CR)",
+      "ci": "95% CI 1.04–3.04",
+      "comparison": "Normal feeding versus approximately 30% calorie restriction",
+      "population": "UW: 76 rhesus monkeys; the separate NIA monkey study initially found no significant survival difference",
+      "design": "Long-term animal intervention",
+      "gradeReason": "Animal, ecological or non-ACM outcomes cannot directly establish individual human ACM effects",
+      "limitations": "Animal results cannot be extrapolated to humans; centers differed in feed, age and control intake",
+      "action": "Avoid overeating while maintaining adequate nutrition. People who are underweight, pregnant/breastfeeding, minors, frail older adults or those with eating disorders should not restrict calories independently.",
+      "sources": [
+        {
+          "evidence": "Europe PMC original-study abstract (Methods/Results/Findings); original JSON saved: 2009 abstract describes a 20-year animal study with fewer age-related deaths, not human ACM."
+        },
+        {
+          "evidence": "Full text, Results: ACM control/CR HR 1.78 (1.04–3.04), P=0.037; age-related HR 2.89 (1.34–6.25); Introduction distinguishes the earlier 3.0-fold mortality figure."
+        }
+      ]
+    },
+    "macronutrient-pattern": {
+      "factor": "Overall nutrition and macronutrient proportions",
+      "originalClaim": "The original claims universally optimal proportions: <24% starch, 15%–17% protein, >15% monounsaturated fat, <15% sugar, 6% saturated and 6% polyunsaturated fat, and 30 g+ fiber; it also describes a linear association between total fat and ACM.",
+      "finding": "Total fat was not significantly associated with ACM in the paper; it did not show all fat to be linearly harmful. The risk matrix describes combinations in observational data, not a universal optimum. Minima on individual nutrient curves included fiber 15–30 g/day, protein 14–18% and starch 20–30%, differing from several original ranges and the precise “optimal proportions.”",
+      "effect": "Examples: fiber 15–30 g/day HR 0.68; protein 14–18% HR 0.73",
+      "ci": "95% CIs 0.65–0.72; 0.70–0.75",
+      "comparison": "Fiber versus 5 g/day; protein versus 10% of energy; each nutrient has its own reference",
+      "population": "UK Biobank: 195,658 participants, 4,780 deaths, mean 10.6 years",
+      "design": "Large prospective cohort with nonlinear modeling",
+      "gradeReason": "Direct ACM associations from pooled cohorts or a large, high-quality cohort; not proof of causation",
+      "limitations": "Self-reported 24-hour recalls, selection bias and residual confounding; combining the minima of separate curves does not create a validated prescription",
+      "action": "Build a diet around overall food quality rather than exact macronutrient ratios; follow medical nutrition plans for kidney disease, diabetes and similar conditions.",
+      "sources": [
+        {
+          "evidence": "Full text, Results/Fig 1: total fat not significant; fiber 15–30 g/day versus 5 g/day HR 0.68 (0.65–0.72); protein 14–18% versus 10% HR 0.73 (0.70–0.75). Methods: risk-matrix categories were not randomized dietary comparisons."
+        }
+      ]
+    },
+    "ultraprocessed-acm": {
+      "factor": "Ultra-processed foods and ACM",
+      "originalClaim": "Original action section: eat fewer ultra-processed foods, −62% to −18%; cited headline claims frequent consumers of chips, burgers and chocolate have an “average age at death of only 58.”",
+      "finding": "SUN supports an association of the highest consumption group with 62% higher ACM. The 58 years is the sample’s mean age among those who died; it does not mean frequent consumers have a life expectancy of 58 or that UPF caused their deaths.",
+      "effect": "HR 1.62; per additional 1 serving/day HR 1.18",
+      "ci": "95% CIs 1.13–2.33; 1.05–1.33",
+      "comparison": "Highest versus lowest quartile; highest group >4 servings/day",
+      "population": "Spanish SUN university graduates: 19,899 participants, 335 deaths, 200,432 person-years",
+      "design": "Prospective cohort",
+      "gradeReason": "Single cohort or substantial confounding/heterogeneity; limited direct ACM evidence",
+      "limitations": "Only 335 deaths; selected highly educated sample; dietary confounding; wide CI",
+      "action": "Replace some UPF with less processed whole foods while preserving adequate nutrition and affordability.",
+      "sources": [
+        {
+          "evidence": "Full text, Results: 335 deaths; mean age at death 58.0 (SD 15.6); highest/lowest group HR 1.62 (1.13–2.33); per serving HR 1.18 (1.05–1.33)."
+        }
+      ]
+    },
+    "ultraprocessed-cvd": {
+      "factor": "Ultra-processed foods (endpoint limits of CVD sources)",
+      "originalClaim": "The ultra-processed food entry lists the SUN all-cause mortality study, the NutriNet-Santé cardiovascular incidence study and a commentary together.",
+      "finding": "The NutriNet-Santé study examined incident CVD, not ACM. Lawrence/Baker is a commentary with no independent quantitative ACM evidence. These should not be counted with SUN as three mortality studies.",
+      "effect": "CVD HR 1.12; ACM not assessed",
+      "ci": "CVD 95% CI 1.05–1.20; ACM not reported",
+      "comparison": "Each 10-percentage-point increase in the dietary share of UPF",
+      "population": "France: 105,159 adults, 1,409 CVD events, median 5.2 years",
+      "design": "Prospective cohort (CVD); commentary",
+      "gradeReason": "Animal, ecological or non-ACM outcomes cannot directly establish individual human ACM effects",
+      "limitations": "Non-ACM endpoint; original commentary PDF could not be accessed, bibliographic details only checked",
+      "action": "These may support an overall dietary direction of reducing UPF, but cannot be used to calculate mortality risk from this paper.",
+      "sources": [
+        {
+          "evidence": "Abstract, Main outcome/Results: incident CVD, HR 1.12 (1.05–1.20) per 10-percentage-point increase in UPF share; no ACM reported."
+        },
+        {
+          "evidence": "Europe PMC bibliographic record PMID 31142449: Ultra-processed food and adverse health outcomes, 2019, BMJ l2289; no abstract, original RG link returned 403; commentary full text not read."
+        }
+      ]
+    },
+    "whole-grains": {
+      "factor": "Whole grains",
+      "originalClaim": "This factor was not in the original repository.",
+      "finding": "Higher whole-grain intake is associated with lower ACM. The study measures the weight of whole-grain foods; 90 g does not mean 90 g of dry grain or fiber.",
+      "effect": "RR 0.83",
+      "ci": "95% CI 0.77–0.90",
+      "comparison": "Each additional 90 g/day of whole-grain foods (about 3 servings)",
+      "population": "11 prospective studies pooled for ACM; 45 studies in the overall review",
+      "design": "Dose-response meta-analysis of prospective studies",
+      "gradeReason": "Direct ACM associations from pooled cohorts or a large, high-quality cohort; not proof of causation",
+      "limitations": "ACM I² 83%; observational; heterogeneous food-serving definitions",
+      "action": "Gradually replace refined grains with whole grains. People with celiac disease should choose gluten-free whole grains; adjust to digestive tolerance.",
+      "sources": [
+        {
+          "evidence": "Abstract, Results: ACM per 90 g/day RR 0.83 (0.77–0.90), I² 83%, 11 studies; the 90 g example is two slices of bread and a bowl of cereal."
+        }
+      ]
+    },
+    "dietary-fiber": {
+      "factor": "Dietary fiber",
+      "originalClaim": "This factor was not in the original repository.",
+      "finding": "The review supports an association between higher fiber intake and lower ACM. The abstract’s 15–30% range covers multiple outcomes, not a precise ACM-specific effect. RCTs demonstrated improvements in risk factors rather than reduced deaths.",
+      "effect": "Direction of ACM association: lower; the abstract gives no separate precise pooled ACM estimate",
+      "ci": "Not reported",
+      "comparison": "Highest versus lowest fiber consumption; 15–30% lower risk across several outcomes",
+      "population": "185 prospective studies and 58 trials; 4,635 trial participants",
+      "design": "Systematic reviews and meta-analyses (ACM from cohorts)",
+      "gradeReason": "Direct ACM associations from pooled cohorts or a large, high-quality cohort; not proof of causation",
+      "limitations": "Nonrandomized ACM evidence; do not derive an ACM CI from the overall range",
+      "action": "Gradually increase fiber from whole grains, legumes, vegetables and fruit, with attention to fluid intake; follow medical advice for intestinal narrowing or acute gastrointestinal disease.",
+      "sources": [
+        {
+          "evidence": "Abstract, Findings: 185 cohorts, 58 clinical trials; observational data showed 15–30% reductions across several outcomes, with greater benefits around 25–29 g/day. Trials reported weight/blood pressure/cholesterol, not ACM."
+        }
+      ]
+    },
+    "plant-protein": {
+      "factor": "Plant protein sources",
+      "originalClaim": "This factor was not in the original repository.",
+      "finding": "Higher plant protein intake is associated with lower ACM. The foods being replaced matter; this cannot be interpreted as an intervention effect of adding protein powder.",
+      "effect": "Pooled effect size 0.92",
+      "ci": "95% CI 0.87–0.97",
+      "comparison": "Highest versus lowest plant protein intake",
+      "population": "32 cohorts reviewed, 31 pooled; 715,128 participants, 113,039 deaths",
+      "design": "Systematic review/dose-response meta-analysis of prospective cohorts",
+      "gradeReason": "Direct ACM associations from pooled cohorts or a large, high-quality cohort; not proof of causation",
+      "limitations": "Heterogeneity I² 57.5%; residual confounding; difficult to separate whole-food effects from protein components",
+      "action": "Replace some red/processed meat with legumes, soy foods and nuts; adjust for allergies or kidney disease according to individual needs.",
+      "sources": [
+        {
+          "evidence": "Abstract, Results: plant protein and ACM, pooled effect size 0.92 (0.87–0.97), I² 57.5%; each additional 3% of energy was associated with 5% lower ACM; the abstract gives no CI for that dose estimate."
+        }
+      ]
+    },
+    "dairy": {
+      "factor": "Dairy / milk",
+      "originalClaim": "* Milk\n  * [The Lancet study of 130,000 people in 21 countries: 500 g of milk or yogurt daily lowers cardiovascular mortality risk by 23%](https://www.sohu.com/a/253940257_419768)\n  * Source: [Association of dairy intake with cardiovascular disease and mortality in 21 countries from five continents (PURE): a prospective cohort study](http://mdrf-eprints.in/1114/1/Association_of_dietary_patterns_and_dietary_diversity_with_cardiometabolic_disease_risk_factors.pdf)\n  * Compared with people consuming no dairy, those consuming two servings daily (a serving means 244 g of milk/yogurt, 15 g of cheese or 5 g of butter) had **17% lower all-cause mortality risk**, 23% lower cardiovascular mortality risk and 33% lower stroke risk\nOriginal action section: drink milk (−17% to −10% ACM)",
+      "finding": "The PURE 17% is an ACM association for >2 servings/day of total dairy versus none, not the effect of milk alone or exactly 2 servings. The 95% CI for cardiovascular mortality HR 0.77 crosses 1, so a 23% decrease cannot be stated as an established benefit. Other reviews found no consistent ACM association for total dairy or milk; milk should not be promised to extend life. The original PDF was inaccessible, and its filename does not match the cited title, suggesting an incorrect link.",
+      "effect": "HR 0.83",
+      "ci": "95% CI 0.72–0.96",
+      "comparison": "Total dairy >2 servings/day versus 0; not milk alone",
+      "population": "136,384 people in 21 countries, ages 35–70; median follow-up 9.1 years; 6,796 deaths",
+      "design": "PURE prospective cohort; additionally checked a review of 8 meta-analyses",
+      "gradeReason": "Large multinational cohort with a direct ACM endpoint; inconsistent results across other pooled cohorts preclude causal inference",
+      "limitations": "FFQ error and residual confounding by income and dietary patterns; dairy types and replacement foods matter. HR 0.90 for >1 serving of milk concerns the death/CVD composite, not milk-specific ACM.",
+      "action": "Choose milk or yogurt without added sugar according to nutritional needs; use suitable alternatives for lactose intolerance or milk allergy rather than forcing higher intake for longevity.",
+      "sources": [
+        {
+          "evidence": "Abstract, Methods/Findings: total dairy >2 servings/day versus none, ACM 0.83 (0.72–0.96); cardiovascular mortality 0.77 (0.58–1.01)."
+        },
+        {
+          "evidence": "Abstract: 8 meta-analyses; RR range 0.99–1.01 per 200–244 g of milk; conclusion found no ACM association."
+        }
+      ]
+    },
+    "tea-china-par": {
+      "factor": "Tea (China-PAR)",
+      "originalClaim": "* Tea\n  * [Following 100,000 Chinese people for 7 years found tea three times/week associated with 15% lower all-cause mortality risk and 1.26 years longer life expectancy ](https://www.jianshu.com/p/5461a205cf95?utm_campaign=hugo)\n  * Source: [Tea consumption and the risk of atherosclerotic cardiovascular disease and all-cause mortality: The China-PAR project](https://www.researchgate.net/profile/Fangchao-Liu-4/publication/338483323_Tea_consumption_and_the_risk_of_atherosclerotic_cardiovascular_disease_and_all-cause_mortality_The_China-PAR_project/links/5e55e5e94585152ce8efe511/Tea-consumption-and-the-risk-of-atherosclerotic-cardiovascular-disease-and-all-cause-mortality-The-China-PAR-project.pdf)\n  * [Prospective study of tea consumption and mortality risk in Chinese adults](http://rs.yiigle.com/CN112338202202/1351516.htm)\n  * Among 438,443 participants analyzed, 34,661 deaths occurred over 11.1 years. Compared with never tea drinkers, current nondaily and daily drinkers had respective all-cause mortality HRs (95% CIs) of 0.89 (0.86–0.91) and 0.92 (0.88–0.95). Sex-stratified analysis showed the protective association mainly in men (interaction P<0.05).\nOriginal action section: drink tea (−15% to −8% ACM)",
+      "finding": "Habitual tea drinking is associated with lower ACM; the ≥3 times/week definition comes from the main text. The 1.26-year longer life expectancy at age 50 is modeled, not an intervention showing everyone lives 1.26 years longer by drinking tea.",
+      "effect": "HR 0.85",
+      "ci": "95% CI 0.79–0.90",
+      "comparison": "≥3 times/week versus never or <3 times/week",
+      "population": "China: 100,902 adults; median 7.3 years; 5,479 deaths",
+      "design": "Pooling of three China-PAR prospective cohorts",
+      "gradeReason": "Multiple cohorts and a large sample with direct ACM; direction similar to CKB, but observational",
+      "limitations": "Self-reported tea intake; residual confounding by smoking, alcohol, socioeconomic status and health behaviors; cup sizes, strength and tea types are not equivalent; life expectancy difference is modeled.",
+      "action": "If enjoyed and tolerated, choose unsweetened tea that is not scalding hot. Reduce intake with insomnia, palpitations or a need to limit caffeine; tea does not replace smoking cessation or treatment.",
+      "sources": [
+        {
+          "evidence": "Abstract, Results: ACM 0.85 (0.79–0.90), life expectancy difference at age 50 of 1.26 years; main-text Methods define tea drinking as ≥3 times/week (web-jama-tea-extract.json)."
+        }
+      ]
+    },
+    "tea-ckb": {
+      "factor": "Tea (CKB)",
+      "originalClaim": "* Tea\n  * [Following 100,000 Chinese people for 7 years found tea three times/week associated with 15% lower all-cause mortality risk and 1.26 years longer life expectancy ](https://www.jianshu.com/p/5461a205cf95?utm_campaign=hugo)\n  * Source: [Tea consumption and the risk of atherosclerotic cardiovascular disease and all-cause mortality: The China-PAR project](https://www.researchgate.net/profile/Fangchao-Liu-4/publication/338483323_Tea_consumption_and_the_risk_of_atherosclerotic_cardiovascular_disease_and_all-cause_mortality_The_China-PAR_project/links/5e55e5e94585152ce8efe511/Tea-consumption-and-the-risk-of-atherosclerotic-cardiovascular-disease-and-all-cause-mortality-The-China-PAR-project.pdf)\n  * [Prospective study of tea consumption and mortality risk in Chinese adults](http://rs.yiigle.com/CN112338202202/1351516.htm)\n  * Among 438,443 participants analyzed, 34,661 deaths occurred over 11.1 years. Compared with never tea drinkers, current nondaily and daily drinkers had respective all-cause mortality HRs (95% CIs) of 0.89 (0.86–0.91) and 0.92 (0.88–0.95). Sex-stratified analysis showed the protective association mainly in men (interaction P<0.05).\nOriginal action section: drink tea (−15% to −8% ACM)",
+      "finding": "The original sample, death count and two HRs are accurate; the protective association was mainly in men. Daily drinking did not show superiority over nondaily drinking; more frequent tea drinking cannot directly be taken to mean longer life.",
+      "effect": "HR 0.89 (nondaily); 0.92 (daily)",
+      "ci": "Respective 95% CIs 0.86–0.91; 0.88–0.95",
+      "comparison": "Current nondaily/daily tea drinking versus never",
+      "population": "China CKB: 438,443 people; median 11.1 years; 34,661 deaths",
+      "design": "Prospective cohort",
+      "gradeReason": "Large, high-quality Chinese cohort, supported in direction by another large cohort; nonrandomized",
+      "limitations": "Sex interaction P<0.05; smoking and alcohol may confound cancer outcomes; baseline self-reported tea intake; no proof of individual causal benefit.",
+      "action": "Choose unsweetened tea at a suitable temperature; tea cannot offset smoking or excessive alcohol risks.",
+      "sources": [
+        {
+          "evidence": "Abstract, Results and abstract in the journal full-text page: nondaily 0.89 (0.86–0.91), daily 0.92 (0.88–0.95); protective association mainly in men."
+        }
+      ]
+    },
+    "artificially-sweetened-drinks": {
+      "factor": "Artificially sweetened soft drinks",
+      "originalClaim": "* Sugar-free (sweetened) drinks\n  * [“Sugar-free drinks increase mortality risk by 26%”: is it true?](https://www.zhihu.com/question/418598272/answer/1450648364)\n    * Compared with participants consuming <1 cup/month of soft drinks, those consuming ≥1 cup/day of combined soft drinks had 18% higher mortality risk; **sugar-sweetened and sugar-free soft drinks increased mortality risk by 11% and 27%, respectively.**\n    * ![Drinks](https://user-images.githubusercontent.com/2707039/163704346-e7d92e7f-eba5-4673-8f15-3a96782c2e32.png)\n  * [Association Between Soft Drink Consumption and Mortality in 10 European Countries](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2749350)",
+      "finding": "The original 18%, 11% and 27% appear in the main text, but concern the BMI<25 subgroup and ≥1 cup/day versus <1 cup/month; the original omits this population restriction. In the full cohort, ACM HRs at ≥2 cups/day were 1.17, 1.08 and 1.26 for total, sugar-sweetened and artificially sweetened soft drinks. This observational study cannot establish that sweeteners cause death or be applied to water or unsweetened tea/coffee.",
+      "effect": "HR 1.26 (full cohort, artificially sweetened); 1.27 (BMI<25 subgroup)",
+      "ci": "95% CIs 1.16–1.35; 1.12–1.43",
+      "comparison": "Full cohort: ≥2 cups/day versus <1 cup/month; BMI<25 subgroup: ≥1 cup/day versus <1 cup/month; cup ≈250 mL",
+      "population": "EPIC: 451,743 people in 10 European countries; mean 16.4 years; 41,693 deaths",
+      "design": "Multinational prospective cohort",
+      "gradeReason": "Large multinational direct-ACM cohort, but substantial reverse causation and health-selection bias",
+      "limitations": "People with obesity or metabolic risk may switch to artificially sweetened drinks; single baseline FFQ; individual sweeteners cannot be separately implicated; not a randomized trial of replacing sugary drinks.",
+      "action": "Prefer water or unsweetened tea/coffee for routine hydration. People transitioning from sugary to artificially sweetened drinks should not return to sugary drinks on the basis of this cohort.",
+      "sources": [
+        {
+          "evidence": "Abstract, Results: artificially sweetened ≥2 cups/day HR 1.26 (1.16–1.35); main-text Results, All-Cause Mortality, paragraph 3: BMI<25 subgroup, ≥1 cup/day, three drink categories HR 1.18/1.11/1.27 (web-jama-tea-extract.json)."
+        }
+      ]
+    },
+    "sugar-sweetened-drinks": {
+      "factor": "Sugar-sweetened drinks",
+      "originalClaim": "* Sugar-sweetened drinks\n  * [Cola and milk tea increase all-cause mortality by as much as 62%! Juice lowers immunity and affects liver metabolism! About sugary drinks](https://zhuanlan.zhihu.com/p/400746073)\n    * One cup of sugary drinks daily increases all-cause mortality by 7%; two cups by 21%\n    * Over 34 years of follow-up, researchers found that compared with people drinking one cup or less per month, those drinking two cups daily had 21% higher overall mortality risk, 31% higher cardiovascular mortality risk and 16% higher cancer mortality risk.\n    * Each additional daily cup of sugary drinks increases overall mortality risk by 7%, cardiovascular disease risk by 10% and cancer-related mortality risk by 16%.\n    * A paper published in BMJ proved that sugary drinks increase cancer risk; it covered not only juice but milk tea too: overall cancer risk related to sugary drinks was 18% higher than usual, and 100% freshly squeezed juice also increased overall cancer risk by 12%.\nOriginal action section: limit or avoid sweetened drinks (otherwise one cup daily +7% ACM, +dopamine)",
+      "finding": "Two US cohorts support associations of ≥2 servings/day versus <1 serving/month with 21% higher ACM, 31% higher CVD mortality and 16% higher cancer mortality. The original paper PDF was read: the continuous model gives ACM HR 1.07 per additional 1 serving/day; the categorical HR for 1 to <2 servings/day is 1.14, and these cannot be interchanged. Cancer mortality was 5% higher per additional 1 serving/day; the original incorrectly states 16%, which belongs to the highest intake category comparison. The BMJ 18% and 12% concern cancer incidence, not ACM. No corresponding fully adjusted estimate was found for the headline “as much as 62%.”",
+      "effect": "HR 1.21 (≥2 servings/day); 1.14 (1 to <2 servings/day); 1.07 (per additional 1 serving/day)",
+      "ci": "Respective 95% CIs 1.13–1.28; 1.09–1.19; 1.05–1.09",
+      "comparison": "Sugar-sweetened drinks ≥2 servings/day versus <1 serving/month; separately, continuous model per additional 1 serving/day",
+      "population": "US NHS: 80,647 women; HPFS: 37,716 men; up to 34 years; 36,436 deaths",
+      "design": "Two prospective cohorts",
+      "gradeReason": "Large dual cohorts with repeated dietary measurements and direct ACM; still not a causal trial",
+      "limitations": "Mostly health professionals; self-reported intake; residual confounding; cups/servings are not interchangeable across studies; per-cup continuous and categorical models differ. BMJ cancer paper concerns incidence per 100 mL/day, not mortality.",
+      "action": "Reduce regular sugary soft drinks, sweetened milk tea and similar drinks, replacing them with water; study dose thresholds are not safety boundaries.",
+      "sources": [
+        {
+          "evidence": "Abstract and original-paper Results/Tables 2, 3 (PDF mirror sugar-drinks-mirror.pdf and text): ≥2 servings/day ACM 1.21 (1.13–1.28); per additional 1 serving/day ACM 1.07 (1.05–1.09), CVD mortality 1.10 (1.06–1.14), cancer mortality 1.05 (1.02–1.08). The mirror preserves the original paper; the mirror website’s reporting is not the evidentiary basis."
+        },
+        {
+          "evidence": "Abstract, Results: cancer incidence per 100 mL/day of sugary drinks, sHR 1.18 (1.10–1.27); pure juice 1.12 (1.03–1.23); not ACM."
+        }
+      ]
+    },
+    "fruit-juice": {
+      "factor": "100% fruit juice",
+      "originalClaim": "* Fruit juice\n  * [JAMA journal: 100% pure juice may be more dangerous than sugar-sweetened drinks](https://zhuanlan.zhihu.com/p/66513350)\n    * Each additional 12-ounce serving/day of sugary drinks increases all-cause mortality risk by 11%;\n    * Each additional 12-ounce serving/day of juice increases all-cause mortality risk by 24%.",
+      "finding": "REGARDS supports ACM HR 1.24 per additional 12 ounces/day of pure juice. The original “11% for sugar-sweetened drinks” actually concerns sugary beverages (added-sugar drinks plus 100% juice combined), not SSB alone. Point estimates from different models cannot establish that juice is more dangerous than sugary soft drinks.",
+      "effect": "HR 1.24 (pure juice); 1.11 (combined sugary beverages)",
+      "ci": "Respective 95% CIs 1.09–1.42; 1.03–1.19",
+      "comparison": "Per additional 12 US fluid ounces/day ≈355 mL; continuous model",
+      "population": "US REGARDS: 13,440 people aged ≥45, mean age 63.6; mean 6 years; 1,000 deaths",
+      "design": "Secondary analysis of an existing prospective cohort",
+      "gradeReason": "Single cohort, relatively few events, baseline self-reported diet; direct ACM but replication needed",
+      "limitations": "The abstract’s 1.11 exposure is the combined category; no direct juice-versus-SSB ranking across models; high versus low intake HR 1.14 (0.97–1.33) was nonsignificant; not applicable to whole fruit.",
+      "action": "Prefer whole fruit; keep juice to small amounts rather than using it as the main hydration source. Follow medical dietary plans for diabetes or sugar restriction.",
+      "sources": [
+        {
+          "evidence": "Abstract, Exposures/Results: sugary beverages defined as SSB + pure juice; per 12 oz, sugary-beverage ACM 1.11 (1.03–1.19), pure juice 1.24 (1.09–1.42)."
+        }
+      ]
+    },
+    "coffee": {
+      "factor": "Coffee",
+      "originalClaim": "* Coffee\n  * [Major news! Multiple studies confirm drinking coffee is directly associated with lower all-cause mortality](https://news.bioon.com/article/6725420.html)\n  * [Science explainer | Another reason to drink coffee: lower mortality! ](https://www.sohu.com/a/439412995_100003595)\n  * [Coffee consumption and all-cause, cardiovascular and cancer mortality in Mediterranean adults](https://fanyi.pdf365.cn/help/249)\n    * A recent meta-analysis included 40 studies from different countries and 3,852,651 participants. Coffee intake showed nonlinear relationships with all-cause, CVD and cancer mortality: the lowest cancer mortality at two cups/day (RR=0.96), CVD mortality at 2.5 cups/day (RR=0.83), and all-cause mortality at 3.5 cups/day (RR=0.85), with no further decrease or increase as consumption rose.\nOriginal action section: drink coffee (−22% to −12% ACM)",
+      "finding": "The original 40 studies, 3,852,651 participants and estimates of ACM RR 0.85 at 3.5 cups/day, CVD RR 0.83 at 2.5 cups and cancer mortality RR 0.96 at 2 cups match the meta-analysis. All are observational associations; 3.5 cups is the fitted curve’s minimum, not a precise personal longevity prescription. The action section’s −22% to −12% is not one uniform effect from this meta-analysis.",
+      "effect": "RR 0.85",
+      "ci": "95% CI 0.82–0.89",
+      "comparison": "Fitted 3.5 cups/day versus none; cup sizes vary across cohorts",
+      "population": "40 studies, 3,852,651 participants, 450,256 all-cause and cause-specific deaths",
+      "design": "Dose-response meta-analysis of observational cohorts",
+      "gradeReason": "Consistent ACM associations across multiple cohorts; not randomized causal evidence",
+      "limitations": "Illness may cause coffee cessation; smoking, alcohol and dietary confounding; preparation, cup size, added sugar and caffeine differ; no basis for directly converting risk ratios to life expectancy.",
+      "action": "If already accustomed to coffee and tolerant, drink moderately with little added sugar. Individualize when caffeine should be limited, including insomnia, palpitations or pregnancy; do not force yourself to start for longevity.",
+      "sources": [
+        {
+          "evidence": "Abstract, Results: 40 studies; ACM minimum at 3.5 cups/day RR 0.85 (0.82–0.89), CVD at 2.5 cups 0.83 (0.80–0.87), cancer mortality at 2 cups 0.96 (0.94–0.99)."
+        }
+      ]
+    },
+    "spermidine-diet": {
+      "factor": "Dietary spermidine (merged liquid and drug entries)",
+      "originalClaim": "* Spermidine\n  * [Science: scientific backing! Spermidine, discovered in semen, has extraordinary anti-aging, anticancer, cardiovascular and neural protection, obesity and type 2 diabetes benefits](https://www.medsci.cn/article/show_article.do?id=420d12904103)\n  * [High dietary spermidine intake lowers mortality](https://zhuanlan.zhihu.com/p/388942219)\n\n* Spermidine\n  * [Science: scientific backing! Spermidine, discovered in semen, has extraordinary anti-aging, anticancer, cardiovascular and neural protection, obesity and type 2 diabetes benefits](https://www.medsci.cn/article/show_article.do?id=420d12904103)\n  * Spermidine is the polyamine most readily absorbed through the human intestine. Many foods contain substantial amounts, including fresh green peppers, wheat germ, cauliflower, broccoli, mushrooms and various cheeses; levels are especially high in soy products such as natto, shiitake mushrooms and durian. Researchers followed 829 participants aged 45–84 for 20 years to analyze the potential association between dietary spermidine intake and human mortality.\n  * Women had higher spermidine intake than men, and intake declined with age. Main sources were whole grains (13.4%), apples and pears (13.3%), salads (9.8%), sprouts (7.3%) and potatoes (6.4%). Intake groups were low (<62.2 µmol/day), medium (62.2–79.8 µmol/day) and high (>79.8 µmol/day). During follow-up there were 341 deaths: 137 vascular, 94 cancer and 110 other causes. Calculated crude mortality in the low, medium and high groups was 40.5%, 23.7% and 15.1%, respectively, indicating a significant inverse association with all-cause mortality, which remained significant after progressive adjustment for age, sex and energy intake.\nOriginal action section: spermidine (−60% to −30% ACM)",
+      "finding": "The two duplicate original entries are merged. The exposure was dietary intake, not medication or a liquid; 40.5, 23.7 and 15.1 are deaths per 1,000 person-years, not percentages. Fully adjusted ACM HR was 0.76 per 1 SD higher intake; this cannot be stated as supplements reducing mortality by 30%–60%. The independent SAPHIR cohort supported the direction, but overall food quality cannot be separated from spermidine itself.",
+      "effect": "HR 0.76 per 1 SD higher dietary intake",
+      "ci": "95% CI 0.67–0.86",
+      "comparison": "Each additional 1 SD of continuous dietary intake; not a supplement RCT",
+      "population": "Bruneck: 829 people aged 45–84; 341 deaths in 1995–2015; independent SAPHIR validation",
+      "design": "Prospective nutritional cohort with external validation; supplement cognition RCT did not examine ACM",
+      "gradeReason": "Dietary observational ACM evidence with a small primary cohort and dietary confounding; no direct supplement longevity trial",
+      "limitations": "Original crude mortality denominator was misstated; age explains much of the crude association; adjusted 20-year cumulative mortality was 0.48/0.41/0.38. Trial registration does not change the cohort design; no extrapolation to supplements.",
+      "action": "Obtain it through ordinary balanced foods such as whole grains and legumes; do not buy or take spermidine on a “60% lower mortality” claim. People with medical conditions should check supplements with a clinician.",
+      "sources": [
+        {
+          "evidence": "Original-paper abstract and Table 2: fully adjusted per-1-SD HR 0.76 (0.67–0.86); crude mortality 40.5/23.7/15.1 per 1,000 person-years; SAPHIR adjusted for age, sex and energy, 0.71 (0.53–0.95); full PDF and text saved."
+        },
+        {
+          "evidence": "Abstract: 100 people with subjective cognitive decline, 12 months, 0.9 mg/day; primary cognitive outcome did not improve; ACM efficacy not assessed."
+        }
+      ]
+    },
+    "smoking": {
+      "factor": "Smoking and cessation",
+      "originalClaim": "* Smoking\n  * [Even low-intensity smoking increases mortality risk!](https://www.medsci.cn/article/show_article.do?id=02ca2083319b)\n    * Among 42,416 men and 86,735 women aged 35–89 without previous disease, 18,985 men (45%) and 18,072 women (21%) currently smoked; 33% of male smokers and 39% of female smokers did not smoke daily. Never smokers numbered 8,866 men (21%) and 53,912 women (62%). During follow-up, all-cause mortality hazard ratios versus never smoking were 1.17 (95% CI 1.10–1.25) for <10 cigarettes/day and 1.54 (1.42–1.67) for ≥10/day, similar across ages and sexes. Daily smoking was most strongly related to respiratory cancers, chronic obstructive pulmonary disease, and gastrointestinal and vascular diseases. People who had quit at recruitment had lower mortality than current daily smokers.\n    * Smokers lose an average of 11–12 years of life\n  * [Why is smoking addictive? Is smoking in moderation still harmful?](https://www.zhihu.com/question/24846224/answer/1719798177)\nOriginal action section: do not smoke (otherwise approximately +50% ACM, −12 to −11 years of life)",
+      "finding": "The Mexican low-intensity smoking sample and 1.17/1.54 risk figures match; the paper calls them RR, not a uniform +50% for all smokers. A large US cohort found approximately threefold ACM in current smokers and >10 years shorter life. The original 11–12 years was not verified from the Mexican paper; populations with differing smoking intensity cannot be combined into one uniform estimate.",
+      "effect": "RR 1.17 (<10 cigarettes/day); 1.54 (≥10/day)",
+      "ci": "Respective 95% CIs 1.10–1.25; 1.42–1.67",
+      "comparison": "Baseline daily smoking <10/≥10 cigarettes versus never smoking",
+      "population": "Mexico: 129,151 adults without previous chronic disease, aged 35–89; recruited 1998–2004, followed through 2018",
+      "design": "Prospective cohort, with additional US national cohort corroboration",
+      "gradeReason": "Consistent direct ACM findings in multiple large cohorts; grade B here reflects nonrandomization and does not dispute established causal tobacco harms",
+      "limitations": "Smoking intensity changes over time; the nonsignificant nondaily-smoking result in this cohort does not establish safety; US study CIs are 99%, not 95%.",
+      "action": "Do not start smoking; quit as early as possible. Seek cessation services and evidence-based medication support if needed; fewer cigarettes does not eliminate risk.",
+      "sources": [
+        {
+          "evidence": "Abstract, Methods/Results: RR 1.17 (1.10–1.25), 1.54 (1.42–1.67); quitters had lower risk than current daily smokers."
+        },
+        {
+          "evidence": "Abstract, Results: women HR 3.0 (99% CI 2.7–3.3), men 2.8 (99% CI 2.4–3.1); current smokers had >10 years shorter life; quitting at ages 25–34 gave about 10 more years versus continuing."
+        }
+      ]
+    },
+    "sun-exposure": {
+      "factor": "Sun exposure / ultraviolet radiation",
+      "originalClaim": "* Sun exposure\n  * [Sun exposure and mortality: how to get sunlight safely and scientifically?\n](https://zhuanlan.zhihu.com/p/76301306)\n    * A 26-year Danish study found that more sun exposure significantly extends life; even people with skin cancer induced by excessive exposure lived an average of 6 years longer than the general population.\nOriginal action section: sun exposure (approximately −40% ACM)",
+      "finding": "The Danish study used skin cancer diagnosis as a proxy for sun exposure; it did not randomize additional sunlight. Nonmelanoma skin cancer was associated with ACM HR 0.52 and melanoma with HR 0.89; the authors explicitly disallow causal conclusions. Neither “6 extra years from more sun” nor “about 40% lower ACM” follows. A Swedish sun-habit cohort modeled a life expectancy difference of 0.6–2.1 years, also not 6 years.",
+      "effect": "HR 0.52 (nonmelanoma skin cancer); 0.89 (melanoma)",
+      "ci": "95% CIs 0.52–0.53; 0.87–0.91",
+      "comparison": "Skin cancer diagnosis versus no diagnosis; not a sun-dose intervention",
+      "population": "Denmark: 4.4 million people aged >40, 1980–2006; Sweden: 29,518 women followed for 20 years",
+      "design": "National registry observational study; prospective sun-habit cohort",
+      "gradeReason": "Direct ACM outcome, but highly indirect inference from skin cancer as a sunlight proxy; cannot prescribe sun exposure",
+      "limitations": "Confounding from skin cancer diagnosis, survival selection, socioeconomic status, outdoor activity and health-care seeking; unreliable exposure proxy; sunburn increases skin cancer risk; no optimal duration/dose established by these studies.",
+      "action": "Regular outdoor activity and natural light are reasonable while avoiding sunburn and tanning beds. Follow medical sun-protection advice with photosensitive disease, relevant medicines or high skin cancer risk.",
+      "sources": [
+        {
+          "evidence": "Abstract, Results: nonmelanoma ACM HR 0.52 (0.52–0.53), melanoma 0.89 (0.87–0.91); Conclusion explicitly rules out causal conclusions."
+        },
+        {
+          "evidence": "Abstract, Results: sun avoiders had modeled life expectancy 0.6–2.1 years shorter than the highest-exposure group; 29,518 women, nonrandomized."
+        }
+      ]
+    },
+    "nmn": {
+      "factor": "NMN",
+      "originalClaim": "* NMN",
+      "finding": "The original only lists NMN, without citations or figures. The human RCT read examined muscle insulin sensitivity. A review of 8 RCTs totaling 342 people, lasting 14 days to 12 weeks, found no significant benefit on major metabolic measures. Neither establishes reduced ACM or longer human life.",
+      "effect": "ACM effect not reported",
+      "ci": "Not reported",
+      "comparison": "NMN versus placebo; metabolic surrogate endpoints",
+      "population": "Original RCT: overweight/obese postmenopausal women with prediabetes, 10 weeks; review: 8 trials, 342 people",
+      "design": "Short, small human RCT and review of metabolic measures",
+      "gradeReason": "Randomized design but no direct ACM efficacy endpoint; indirect evidence under the practical ACM grading system",
+      "limitations": "Very short follow-up; lack of long-term efficacy and safety evidence; baseline liver-fat differences in the original RCT are debated; changes in NAD or insulin signaling do not establish life extension.",
+      "action": "Do not treat NMN as a proven longevity drug; research participation should follow formal trial procedures and not replace chronic-disease treatment.",
+      "sources": [
+        {
+          "evidence": "Abstract: 10-week placebo-controlled trial; muscle insulin sensitivity/signaling measures; ACM efficacy not reported."
+        },
+        {
+          "evidence": "Abstract, Recent Findings: 8 RCTs, 342 people, 250–2,000 mg/day, 14 days–12 weeks; no significant overall metabolic benefit, not ACM."
+        }
+      ]
+    },
+    "metformin-diabetes": {
+      "factor": "Metformin (overweight people with newly diagnosed type 2 diabetes)",
+      "originalClaim": "* Metformin\n  * [For metformin enthusiasts | I am the miracle drug: metformin](https://zhuanlan.zhihu.com/p/419202902)\n    * Metformin has protective effects in many tumors, cardiovascular disease and diabetes, and also shines in obesity, liver disease, kidney disease and aging.\n  * [Major metformin news in 2020: stomach protection, brain health, anti-aging, cancer prevention or carcinogenesis?](https://zhuanlan.zhihu.com/p/357807109)\n  * [Is metformin really that miraculous? US study: fathers taking metformin may cause birth defects in their children](https://baijiahao.baidu.com/s?id=1729999374705305768)\n  * ![Metformin](https://user-images.githubusercontent.com/2707039/163702325-5d427542-9ae5-4311-8979-d0d326a9832f.jpg)\n  * Adverse reactions\n    * As a drug used for nearly a century, metformin has well-established adverse reactions: common ones include vitamin B12 deficiency (7%–17.4%), gastrointestinal reactions (up to 53%), fatigue (9%) and headache (6%); serious but uncommon reactions include lactic acidosis and liver injury; some studies also suggest possible fetal malformations\nOriginal action section: metformin (people with diabetes can gain +3 years compared with people without diabetes)",
+      "finding": "UKPDS 34 found a 36% relative ACM reduction with intensive glucose control using metformin versus conventional dietary management in overweight people with newly diagnosed diabetes, not healthy people. A later synthesis of 13 RCTs gave ACM RR 0.99 with a wide CI, so one trial does not establish a universal longevity drug.",
+      "effect": "ACM relative risk reduction 36% (original report); 13-RCT pooled RR 0.99",
+      "ci": "Original trial: 95% CI for reduction 9%–55%; pooled RR 95% CI 0.75–1.31",
+      "comparison": "Intensive glucose control with metformin versus conventional strategy primarily based on diet; not healthy versus diabetic people",
+      "population": "UKPDS primary randomized comparison: 753 overweight people with newly diagnosed type 2 diabetes, mean age 53; median 10.7 years",
+      "design": "Randomized open-label treatment-strategy trial; additional synthesis of 13 RCTs",
+      "gradeReason": "Direct randomized ACM evidence; downgraded to B for an older open-label trial, a single subgroup, and inconsistent/imprecise subsequent RCT pooling. One result cannot promise universal life extension.",
+      "limitations": "Control treatment in the older trial differs from modern standard care; do not extrapolate to people without diabetes. For applicability of original adverse-reaction figures, see the separate metformin adverse-events record.",
+      "action": "With a diabetes indication, a clinician should select treatment considering kidney function, tolerance and B12. Do not independently stop prescriptions or start metformin for anti-aging in healthy people.",
+      "sources": [
+        {
+          "evidence": "Abstract, Methods/Findings: 753 in randomized comparison, ACM relative reduction 36% (95% CI 9%–55%); a separate supplementary randomized trial adding metformin to existing sulfonylurea treatment gave different results."
+        },
+        {
+          "evidence": "Abstract: 13 RCTs, 13,110 people, ACM RR 0.99 (0.75–1.31), with heterogeneity."
+        }
+      ]
+    },
+    "metformin-longevity": {
+      "factor": "Metformin (healthy-person longevity and original safety claims)",
+      "originalClaim": "* Metformin\n  * [For metformin enthusiasts | I am the miracle drug: metformin](https://zhuanlan.zhihu.com/p/419202902)\n    * Metformin has protective effects in many tumors, cardiovascular disease and diabetes, and also shines in obesity, liver disease, kidney disease and aging.\n  * [Major metformin news in 2020: stomach protection, brain health, anti-aging, cancer prevention or carcinogenesis?](https://zhuanlan.zhihu.com/p/357807109)\n  * [Is metformin really that miraculous? US study: fathers taking metformin may cause birth defects in their children](https://baijiahao.baidu.com/s?id=1729999374705305768)\n  * ![Metformin](https://user-images.githubusercontent.com/2707039/163702325-5d427542-9ae5-4311-8979-d0d326a9832f.jpg)\n  * Adverse reactions\n    * As a drug used for nearly a century, metformin has well-established adverse reactions: common ones include vitamin B12 deficiency (7%–17.4%), gastrointestinal reactions (up to 53%), fatigue (9%) and headache (6%); serious but uncommon reactions include lactic acidosis and liver injury; some studies also suggest possible fetal malformations\nOriginal action section: metformin (people with diabetes can gain +3 years compared with people without diabetes)",
+      "finding": "A 2014 UK retrospective cohort reported an adjusted median survival-time ratio of 0.85 for nondiabetic controls relative to diabetic metformin users. This was not a randomized trial of medication in healthy people and did not establish a fixed 3-year extension. After randomized assignment in high-diabetes-risk DPP/DPPOS participants and median 21-year follow-up, metformin ACM HR was 0.99, with no benefit observed. A 2024 Norway/Taiwan study found no significant association between paternal use and birth defects after adequate control for paternal diabetes and other confounding; the original secondary headline is not an established teratogenicity conclusion.",
+      "effect": "Nondiabetic controls/metformin-treated patients STR 0.85; DPP/DPPOS metformin ACM HR 0.99",
+      "ci": "STR 95% CI 0.81–0.90 (not HR); DPP/DPPOS HR 95% CI 0.79–1.25",
+      "comparison": "Observational cohort: nondiabetic controls versus diabetic metformin users; DPP: original randomized metformin versus placebo assignment",
+      "population": "UK CPRD: 78,241 metformin users, 12,222 sulfonylurea users, 90,463 matched nondiabetic people; DPP/DPPOS: 3,234 high-diabetes-risk participants, median 21 years, 453 deaths",
+      "design": "Retrospective matched cohort; open long-term follow-up of a randomized trial; additional two-country safety cohort",
+      "gradeReason": "The original +3-year basis is a substantially biased observational survival comparison. Long-term DPP randomized assignment showed no ACM benefit, with intervention crossover; general healthy-person life extension is unestablished",
+      "limitations": "A survival-time ratio cannot be converted into fixed years gained; multiple anti-aging claims lack healthy-person ACM RCT confirmation; safety frequencies are covered in the separate metformin adverse-events record; congenital malformations are not ACM.",
+      "action": "Healthy people should not take metformin independently for longevity. Men with diabetes planning conception should discuss individual risks with a clinician rather than stop medication because of secondary reporting.",
+      "sources": [
+        {
+          "evidence": "Abstract, Results: metformin-treated patients are reference STR 1; nondiabetic controls STR 0.85 (0.81–0.90), retrospective observational analysis; no fixed +3 years."
+        },
+        {
+          "evidence": "Abstract, Methods/Results: 3,234 high-diabetes-risk adults randomized; median 21 years, 453 deaths; metformin ACM HR 0.99 (0.79–1.25), no significant reduction; interventions became open-label with crossover after 2001."
+        },
+        {
+          "evidence": "Abstract, Results: after restriction to fathers with diabetes and propensity-score weighting, pooled Norway/Taiwan birth-defect RR 0.89 (0.77–1.03); not ACM."
+        }
+      ]
+    },
+    "multivitamins": {
+      "factor": "Multivitamins",
+      "originalClaim": "* Multivitamins\n  * [Taking multivitamins can lower cancer risk by 8%; other effects are not significant](https://health.qq.com/a/20121023/000026.htm)\nOriginal action section: multivitamins (−8% cancer risk)",
+      "finding": "The PHS II trial in male physicians found cancer incidence HR 0.92, about 8% lower; this concerns incidence, not ACM, and cancer mortality was not significantly lower. COSMOS randomized ACM HR was 0.93 with a CI crossing 1; three US cohorts in 2024 also found no ACM benefit. Multivitamins have not been shown to extend life in generally healthy people.",
+      "effect": "ACM HR 0.93 (COSMOS); cancer incidence HR 0.92 (PHS II, not ACM)",
+      "ci": "ACM 95% CI 0.81–1.08; cancer incidence 0.86–0.998",
+      "comparison": "Daily multivitamin versus placebo; additional cohorts compare daily use versus nonuse",
+      "population": "PHS II: 14,641 male physicians, 11.2 years; COSMOS: 21,442 older adults, 3.6 years; 2024 cohorts: 390,124 people",
+      "design": "Double-blind placebo-controlled randomized trials; large multiple cohorts",
+      "gradeReason": "Direct large randomized ACM evidence; A reflects design quality, not established benefit; smaller effects cannot be excluded",
+      "limitations": "Shorter COSMOS follow-up, with ACM secondary; PHS II not applicable to every sex/age; formulations differ; slightly elevated cohort HRs do not prove drug harm; treatment of deficiency is a separate issue.",
+      "action": "Do not routinely take multivitamins for longevity; use targeted supplementation after assessment for deficiencies, specific life stages or malabsorption.",
+      "sources": [
+        {
+          "evidence": "Abstract: total cancer incidence HR 0.92 (0.86–0.998), cancer mortality 0.88 (0.77–1.01), 14,641 male physicians."
+        },
+        {
+          "evidence": "Abstract, Results: ACM HR 0.93 (0.81–1.08), cancer incidence 0.97 (0.86–1.09), 21,442 people, 3.6 years."
+        },
+        {
+          "evidence": "Abstract, Results: 390,124 people, 164,762 deaths; daily use ACM HR 1.04 (1.02–1.07) in the first follow-up period and 1.04 (0.99–1.08) in the second; no benefit."
+        }
+      ]
+    },
+    "glucosamine-chondroitin": {
+      "factor": "Glucosamine / chondroitin",
+      "originalClaim": "* Glucosamine\n  * [Amazing! Glucosamine lowers cardiovascular mortality by 65%, comparable to regular exercise](https://www.sohu.com/a/436372221_120873241)\n  * A new West Virginia University study found glucosamine (chondroitin) can lower cardiovascular mortality by 65% and overall mortality by 39%, comparable to regular exercise\n  * The study used 1999–2010 NHANES data on 16,686 adults, with median follow-up of 107 months; 648 participants regularly took 500–1,000 mg/day of glucosamine/chondroitin for over one year.\nOriginal action section: glucosamine (−39% ACM)",
+      "finding": "The original 39% lower ACM and 65% lower CVD mortality are age-adjusted only. Fully adjusted HRs were 0.73 for ACM (27% lower) and 0.42 for CVD (58% lower). Persistent users numbered 658, not 648. These are observational associations, not direct proof of efficacy “equivalent to exercise” or an effective longevity dose of 500–1,000 mg.",
+      "effect": "HR 0.73 (multivariable-adjusted ACM)",
+      "ci": "95% CI 0.57–0.93",
+      "comparison": "Baseline reported glucosamine/chondroitin use for ≥365 days versus nonuse or <365 days",
+      "population": "NHANES 1999–2010: 16,686 adults aged ≥40, excluding baseline CVD and missing vital status; 658 users for ≥1 year; median 107 months; 3,366 deaths",
+      "design": "Mortality follow-up analysis of a national cohort",
+      "gradeReason": "Small exposed group with substantial healthy-user bias and confounding; no longevity RCT",
+      "limitations": "Age-adjusted and multivariable-adjusted estimates cannot be interchanged; combined supplements cannot establish a glucosamine-only effect; baseline self-reported use, with no follow-up dose or adherence tracking. Users exercised more, smoked less and were more educated; adjustment cannot eliminate healthy-user or other-supplement confounding.",
+      "action": "Do not start glucosamine/chondroitin for longevity. With joint symptoms or anticoagulant treatment, discuss suitability and interactions with a clinician; continue regular exercise.",
+      "sources": [
+        {
+          "evidence": "This round read the original journal Methods (Study Participants / Glucosamine/Chondroitin Use), Results and Discussion: age ≥40; ≥365 days of use versus nonuse or <365 days; 658 users; age-adjusted ACM 0.61 (0.49–0.77), CVD 0.35 (0.20–0.61); multivariable-adjusted ACM 0.73 (0.57–0.93), CVD 0.42 (0.23–0.75); dose and adherence during follow-up were not tracked."
+        }
+      ]
+    },
+    "anti-aging-drugs-review": {
+      "factor": "Anti-aging drug candidates (review)",
+      "originalClaim": "* Overview\n  * [Nature-family in-depth review: developing anti-aging drugs](https://zhuanlan.zhihu.com/p/145495570)\n  * ![Developing anti-aging drugs](https://user-images.githubusercontent.com/2707039/163702474-205baeec-f0ce-4e8d-96a4-36efe47534de.jpg)",
+      "finding": "The corresponding 2020 Nature Reviews Drug Discovery review discusses rapamycin, senolytics, metformin, acarbose, spermidine, NAD enhancers, lithium and others. Its tiers primarily reflect preclinical and some clinical findings; it is not a meta-analysis demonstrating reduced ACM in healthy people.",
+      "effect": "No pooled ACM effect applicable to healthy people reported",
+      "ci": "Not reported",
+      "comparison": "Mechanistic, animal and early clinical studies of different candidates; no common randomized ACM comparator",
+      "population": "Mainly animal models and limited human studies; not a mortality-intervention population of healthy people",
+      "design": "Narrative drug-development review",
+      "gradeReason": "Only indirect evidence for healthy-person ACM; journal prestige does not raise the grade",
+      "limitations": "Different molecules, doses and indications cannot be combined as an “anti-aging drug regimen”; disease-indication benefit does not mean healthy-person life extension. Review dates to 2020, not a comprehensive search of all new drugs through 2026.",
+      "action": "Do not independently combine anti-aging drugs. Treat clear disease indications under specialist care; experimental anti-aging interventions belong in properly conducted research.",
+      "sources": [
+        {
+          "evidence": "Abstract: candidates divided into two tiers based on preclinical and some clinical evidence, aiming to extend healthspan; no human healthy-person ACM efficacy reported."
+        }
+      ]
+    },
+    "alcohol": {
+      "factor": "Alcohol / drinking",
+      "originalClaim": "Original action section: quit alcohol (otherwise approximately +50% ACM, with no upper limit); section 6 has no corresponding evidence entry.",
+      "finding": "An original systematic review was added to address the action section’s missing citation. After adjustment for former-drinker bias and other factors, low-volume drinking had no significant protective ACM association. At 45 to <65 g ethanol/day RR was 1.19, and at ≥65 g/day 1.35. Any alcohol consumption cannot uniformly be described as “about +50% with no upper limit”; no significant low-volume ACM benefit also does not establish any dose as absolutely safe.",
+      "effect": "RR 0.93 (1.3 to <25 g/day); 1.19 (45 to <65 g/day); 1.35 (≥65 g/day)",
+      "ci": "Respective 95% CIs 0.85–1.01; 1.07–1.32; 1.23–1.47",
+      "comparison": "Categories of mean daily ethanol grams versus lifetime nondrinkers",
+      "population": "107 cohorts, 4,838,825 people, 425,564 deaths",
+      "design": "ACM systematic review and meta-regression",
+      "gradeReason": "Multiple cohorts with direct ACM; addresses some key biases but cannot eliminate confounding",
+      "limitations": "Underreported intake, illness among former drinkers, binge patterns, sex differences and study-level meta-regression limits; risk appeared at lower intake in women. Not a cessation intervention trial, so it cannot directly quantify cessation benefit.",
+      "action": "Nondrinkers should not start for health. Drinkers should reduce total intake and binge drinking. With alcohol dependence or withdrawal history, seek medical support and avoid abrupt unsupported cessation.",
+      "sources": [
+        {
+          "evidence": "Full text, Results and Table 2, fully adjusted: low-volume 0.93 (0.85–1.01), 45–<65 g/day 1.19 (1.07–1.32), ≥65 g/day 1.35 (1.23–1.47); XML and text saved."
+        }
+      ]
+    },
+    "ambient-air-pollution": {
+      "factor": "Long-term ambient PM2.5 pollution",
+      "originalClaim": "Not listed in the original repository; added in this round.",
+      "finding": "In a large Medicare cohort, each 10 μg/m³ higher long-term PM2.5 was associated with 7.3% higher ACM; each 10 ppb higher ozone with 1.1% higher ACM. These are environmental exposure associations, not equivalent mortality reductions from using a particular air purifier.",
+      "effect": "ACM risk increase 7.3% per 10 μg/m³ PM2.5",
+      "ci": "95% CI for increase 7.1%–7.5%",
+      "comparison": "Each 10 μg/m³ higher residentially estimated annual PM2.5; two-pollutant model",
+      "population": "US: 60,925,443 Medicare beneficiaries; 2000–2012; 460,310,521 person-years",
+      "design": "National open cohort",
+      "gradeReason": "High-quality, exceptionally large direct-ACM cohort; nonrandomized, with exposure-estimation and individual-confounding limits",
+      "limitations": "Older US population; ZIP-code exposure is not individual inhalation; lacks detailed individual smoking and similar data; association does not directly quantify a personal air-cleaning intervention effect.",
+      "action": "Monitor local air quality; during high pollution, reduce strenuous outdoor activity at high-exposure times and improve indoor air where feasible. Balance ventilation with pollution and infection conditions.",
+      "sources": [
+        {
+          "evidence": "Abstract, Results: per 10 μg/m³ PM2.5, ACM increase 7.3% (7.1%–7.5%); per 10 ppb ozone, increase 1.1% (1.0%–1.2%)."
+        }
+      ]
+    },
+    "statins-indicated-patients": {
+      "factor": "Statins (according to cardiovascular risk and indications)",
+      "originalClaim": "Not listed in the original repository; added in this round.",
+      "finding": "Individual-participant-data meta-analysis of 27 randomized trials found ACM RR 0.91 per 1 mmol/L lower LDL-C among people without prior vascular disease. This applies to trial participants suitable for lipid-lowering treatment, not medication for every healthy person; absolute benefit depends on baseline risk.",
+      "effect": "RR 0.91 per 1 mmol/L LDL-C reduction (no prior vascular disease)",
+      "ci": "95% CI 0.85–0.97",
+      "comparison": "Statin versus control or more versus less intensive treatment; standardized to LDL-C difference",
+      "population": "27 RCTs, 174,149 people; ACM figure is for the no-prior-vascular-disease subgroup; median 4.8–5.1 years",
+      "design": "Individual-participant-data meta-analysis of randomized trials",
+      "gradeReason": "Pooled randomized direct-ACM evidence; explicit subgroup, standardized exposure and clinically eligible population",
+      "limitations": "Includes primary and secondary prevention; 0.91 is the no-history subgroup. Absolute benefits differ by risk. Local 2026 prescribing thresholds were not separately checked; this entry is not a basis for self-prescribing.",
+      "action": "Discuss statins with a clinician if you have ASCVD or meet assessed lipid-lowering indications. Low-risk healthy people should not start solely for “longevity”; muscle symptoms, interactions and pregnancy require individual assessment.",
+      "sources": [
+        {
+          "evidence": "Abstract, Findings: without prior vascular disease, per 1 mmol/L lower LDL-C, ACM RR 0.91 (0.85–0.97); major vascular events RR 0.79 (0.77–0.81), a distinct endpoint."
+        }
+      ]
+    },
+    "vitamin-d-general-population": {
+      "factor": "Vitamin D supplementation (unselected older adults)",
+      "originalClaim": "Not listed in the original repository; added in this round.",
+      "finding": "VITAL found no ACM reduction with 2,000 IU/day vitamin D3: HR 0.99, CI crossing 1. This does not negate treatment of deficiency, bone disease or other clear indications, nor prove all doses completely safe long term.",
+      "effect": "HR 0.99",
+      "ci": "95% CI 0.87–1.12",
+      "comparison": "Vitamin D3 2,000 IU/day versus placebo",
+      "population": "US: 25,871 people, men ≥50 and women ≥55; median 5.3 years; 978 deaths",
+      "design": "Randomized double-blind placebo-controlled 2×2 factorial trial",
+      "gradeReason": "Direct large randomized ACM outcome; secondary ACM endpoint and smaller effects cannot be excluded; grade does not mean longevity efficacy",
+      "limitations": "Not selected for severe deficiency; most were not deficient, and results do not cover all doses/indications. Observational low-vitamin-D associations do not establish causal supplementation effects.",
+      "action": "Do not blindly take high doses for longevity; suspected deficiency or clear indications such as bone health warrant clinician-guided supplementation.",
+      "sources": [
+        {
+          "evidence": "Abstract, Results: 978 all-cause deaths; vitamin D versus placebo HR 0.99 (0.87–1.12); 25,871 randomized, median 5.3 years."
+        }
+      ]
+    },
+    "racquet-sports": {
+      "factor": "Racquet sports",
+      "originalClaim": "Racquet sports 3 times/week for 45–60 minutes/session reduce ACM by about 47%; the cited headline attributes this to The Lancet.",
+      "finding": "47% corresponds to the adjusted ACM hazard ratio in racquet-sport participants, not a randomized intervention effect. The abstract does not support the exact prescription of three 45–60-minute sessions/week or establish the best value among all sports. The paper appeared in the British Journal of Sports Medicine, not The Lancet.",
+      "effect": "HR 0.53",
+      "ci": "95% CI 0.40–0.69",
+      "comparison": "Racquet-sport participation versus no participation in that sport category",
+      "population": "80,306 British adults; mean age 52±14",
+      "design": "Pooled population-cohort analysis from England/Scotland",
+      "gradeReason": "Large population cohort with direct ACM; still a noncausal association",
+      "limitations": "Self-reported activity, healthy-participant and socioeconomic confounding; cannot unconditionally extrapolate to table tennis or every age.",
+      "action": "Choose enjoyable racquet activities compatible with your physical condition and increase gradually; seek assessment for joint injuries or cardiovascular symptoms.",
+      "sources": [
+        {
+          "evidence": "Abstract, Methods/Results: n=80,306; racquet sports ACM HR 0.53 (0.40–0.69), CVD mortality HR 0.44 (0.24–0.83)."
+        }
+      ]
+    },
+    "vigorous-activity": {
+      "factor": "Vigorous physical activity",
+      "originalClaim": "15–20 minutes/week of vigorous activity reduces ACM by 16%–40%; reaching 50–57 minutes can reduce it further.",
+      "finding": "The original labels the paper’s 16–40% range across mortality endpoints as all ACM. About 15 minutes/week corresponds to 18% lower ACM, about 19.2 minutes to 40% lower cardiovascular mortality, and about 53.6 minutes/week to 36% lower ACM. These are modeled associations relative to 2.2 minutes/week, not guaranteed benefits from 8 minutes daily.",
+      "effect": "ACM HR 0.82 (about 15 minutes/week); 0.64 (53.6 minutes/week)",
+      "ci": "Respective 95% CIs 0.75–0.89; 0.54–0.77",
+      "comparison": "VPA about 15 or 53.6 minutes/week versus 2.2 minutes/week",
+      "population": "71,893 UK Biobank adults; median age 62.5, mean follow-up 5.9 years",
+      "design": "Wrist-accelerometer prospective cohort with dose-response modeling",
+      "gradeReason": "Large cohort with objective activity measurement and direct ACM endpoint",
+      "limitations": "Nonrandomized; selection bias and residual confounding; the curve minimum is not an optimal prescription for everyone.",
+      "action": "With an exercise foundation and no contraindications, gradually add brief higher-intensity activity. Seek assessment first for symptoms or unstable chronic disease.",
+      "sources": [
+        {
+          "evidence": "Full-text Abstract and Results, “VPA volume dose–response association”/Figure 4: 1,927 ACM deaths; about 15 minutes HR 0.82, 53.6 minutes HR 0.64; 19.2 minutes HR 0.60 (0.50–0.72) concerns CVD mortality."
+        }
+      ]
+    },
+    "walking-steps": {
+      "factor": "Walking / daily steps",
+      "originalClaim": "Walking reduces all-cause mortality by over 50%; mean participant age was 45.2, and the original notes that this indicates correlation only.",
+      "finding": "Both 7,000–9,999 and ≥10,000 steps/day were associated with lower ACM, by about 72% and 55%. This does not establish that a walking intervention inevitably reduces mortality by over 50%, that more steps are always better, or an independent cadence benefit.",
+      "effect": "HR 0.28; 0.45",
+      "ci": "Respective 95% CIs 0.15–0.54; 0.25–0.81",
+      "comparison": "7,000–9,999 and ≥10,000 steps/day versus <7,000 steps/day",
+      "population": "CARDIA: 2,110 Black/White US adults, mean age 45.2; 10.8 years follow-up, 72 deaths",
+      "design": "Single prospective cohort with accelerometer measurements",
+      "gradeReason": "Direct ACM, but few deaths and unstable single-cohort estimates",
+      "limitations": "Short-term activity measurement; residual confounding and reverse causation; 7,000 steps is not a universal threshold.",
+      "action": "Gradually increase walking from your own baseline; individualize for mobility limitations, fall risk or cardiopulmonary disease.",
+      "sources": [
+        {
+          "evidence": "Full text, Abstract Results: n=2,110, 72 deaths; moderate HR 0.28 (0.15–0.54), high HR 0.45 (0.25–0.81); cadence was not significantly associated after adjustment."
+        }
+      ]
+    },
+    "toothbrushing": {
+      "factor": "Toothbrushing",
+      "originalClaim": "People who rarely brush have 9%, 12% and 25% higher risks of cancer, COPD and cirrhosis, and 25% higher premature mortality; the action section states brushing gives −25% ACM.",
+      "finding": "Rarely/never brushing versus regular brushing had ACM HR 1.25; the cancer, COPD and cirrhosis figures mainly concern incidence. This observation does not mean starting to brush reduces ACM by 25%, nor establish a causal effect of the toothbrush itself.",
+      "effect": "HR 1.25",
+      "ci": "95% CI 1.21–1.28",
+      "comparison": "Rarely/never brushing versus regular brushing",
+      "population": "China Kadoorie Biobank: 512,715 people aged 30–79",
+      "design": "Large prospective cohort",
+      "gradeReason": "Large cohort with direct ACM and adjustment for multiple confounders; not intervention evidence",
+      "limitations": "Self-reported brushing; related to smoking, poverty, prior health and access to care.",
+      "action": "Brush regularly with fluoride toothpaste and obtain dental care; this does not replace smoking control, blood pressure management or similar measures.",
+      "sources": [
+        {
+          "evidence": "Full text, Abstract Results: 9.3% rarely/never brushed; ACM 1.25 (1.21–1.28), cancer 1.09 (1.04–1.14), COPD 1.12 (1.05–1.20), cirrhosis 1.25 (1.09–1.44)."
+        }
+      ]
+    },
+    "tub-bathing": {
+      "factor": "Tub bathing",
+      "originalClaim": "Daily tub bathing versus 1–2 times/week or none: 28% lower CVD risk, 26% lower stroke risk, 46% lower intracerebral hemorrhage risk; no association with increased sudden death.",
+      "finding": "The original 28%, 26% and 46% correspond to incident CVD, stroke and intracerebral hemorrhage; the figures are verifiable but do not concern ACM. No significant sudden-death association does not establish complete bathing safety.",
+      "effect": "ACM not reported; incident CVD HR 0.72",
+      "ci": "ACM not reported; incident CVD 95% CI 0.62–0.84",
+      "comparison": "Almost daily/daily tub bathing versus 0–2 times/week",
+      "population": "30,076 Japanese people aged 40–59, no baseline CVD or cancer; follow-up 1990–2009",
+      "design": "Japanese prospective cohort; cardiovascular/cerebrovascular event endpoints",
+      "gradeReason": "Indirect evidence with non-ACM endpoints for this entry",
+      "limitations": "Nonrandomized; Japanese tub-bathing habits cannot directly be generalized to showers; a nonsignificant sudden-death finding does not exclude drowning, heat stress or other risks.",
+      "action": "Bathe in comfortably warm water with safe habits. Avoid prolonged hot or solitary baths with fainting tendency, acute illness, alcohol use or unstable cardiovascular disease.",
+      "sources": [
+        {
+          "evidence": "Abstract, Results: 2,097 CVD events; CVD HR 0.72 (0.62–0.84), stroke 0.74 (0.62–0.87), intracerebral hemorrhage 0.54 (0.40–0.73); no sudden-death association found."
+        }
+      ]
+    },
+    "heavy-housework": {
+      "factor": "Heavy housework (older men)",
+      "originalClaim": "Men doing heavy housework weekly after age 72 can reduce average mortality by 29%.",
+      "finding": "Heavy-housework participation in men was associated with 29% lower ACM, but 72 was the sample mean age; eligibility was age ≥65. This does not mean benefits begin only after 72 or represent a trial reducing “average mortality.” Results in women were nonsignificant.",
+      "effect": "HR 0.71",
+      "ci": "95% CI 0.56–0.91",
+      "comparison": "Heavy-housework participation versus none",
+      "population": "Community-dwelling Hong Kong adults aged ≥65; 2,867 after excluding specified chronic diseases, mean age 72; 452 deaths",
+      "design": "Single prospective cohort, about 9 years follow-up",
+      "gradeReason": "Direct ACM but single cohort and sex stratification; substantial confounding by physical capability",
+      "limitations": "People able to do housework may already be healthier; moving furniture/gas cylinders is not a longevity prescription. The 2013 correction only fixes male/female housework participation proportions.",
+      "action": "Do suitable housework within your capacity; avoid heavy lifting with frailty, osteoporosis, back problems or fall risk.",
+      "sources": [
+        {
+          "evidence": "Full text, Abstract/Results: after further adjustment for BMI, frailty, living arrangement and leisure activity, male ACM HR 0.71 (0.56–0.91); no significant association in women. Correction PMC3825706 revises housework participation to 52–81% for men and 64–93% for women."
+        }
+      ]
+    },
+    "sleep-duration": {
+      "factor": "Sleep duration",
+      "originalClaim": "Mortality is lowest at 7 hours; compared with 7 hours, ≥10 hours gives 34% higher ACM in men and 48% in women.",
+      "finding": "The figures match: versus self-reported 7 hours, ≥10 hours was associated with 34% higher ACM in men and 48% in women. Long sleep may reflect underlying disease; this does not justify forcing long sleepers down to 7 hours or asserting that changing duration inevitably changes mortality.",
+      "effect": "Men HR 1.34; women HR 1.48",
+      "ci": "Respective 95% CIs 1.26–1.44; 1.36–1.61",
+      "comparison": "Self-reported ≥10 hours versus 7 hours; cohorts measured either nighttime sleep or total daily sleep including naps",
+      "population": "9 cohorts in Japan, China, Singapore and Korea: 322,721 people, mean age 54.5; excluded baseline self-reported CVD/cancer and deaths within the first 5 years; 19,419 male and 13,768 female deaths",
+      "design": "Pooled individual-participant data from multiple cohorts; prospective follow-up about 13–14 years",
+      "gradeReason": "Direct ACM across multiple cohorts with a consistent J-shaped association; noncausal",
+      "limitations": "Sleep duration was self-reported once: at baseline in most cohorts and at the third follow-up in the Shanghai Women’s Health Study; questionnaires not standardized across cohorts (nighttime or total daily sleep including naps); residual confounding and no information on sleep quality, depression, socioeconomic status and similar factors. Excluding baseline CVD/cancer and early 5-year deaths cannot fully eliminate reverse causation.",
+      "action": "Maintain sufficient, regular and restorative sleep. Persistent long sleep with fatigue, snoring or sleepiness warrants investigation.",
+      "sources": [
+        {
+          "evidence": "Full text, Abstract/All-Cause Mortality: ≥10 hours, multivariable-adjusted men 1.34 (1.26–1.44), women 1.48 (1.36–1.61); reference 7 hours; Methods exclude deaths within the first 5 years."
+        }
+      ]
+    },
+    "bedtime": {
+      "factor": "Bedtime",
+      "originalClaim": "22:00–24:00 is best; early bedtime increases ACM by 43%, late bedtime by 15%; the original notes controversy.",
+      "finding": "The original study verifies associations of early/late bedtime with adverse outcomes, but the original-paper abstract read does not give separate effects and CIs for “43%/15% higher ACM.” Secondary figures cannot be copied as fully adjusted ACM. Fully adjusted abstract results are HR 1.09 and 1.10 for the death + nonfatal cardiovascular event composite, not pure ACM.",
+      "effect": "Separate ACM figures unverified; composite endpoint HR 1.09/1.10",
+      "ci": "ACM unverified; composite endpoint 95% CIs 1.03–1.16/1.02–1.20",
+      "comparison": "Before about 22:00 or after midnight versus 22:00 to midnight",
+      "population": "PURE: 112,198 people in 21 countries; 9.2 years; 5,633 deaths, 5,346 major cardiovascular events",
+      "design": "Multinational prospective cohort; self-reported bedtime",
+      "gradeReason": "Original paper includes mortality follow-up, but only the abstract was read this round and separate ACM estimates were not rechecked; composite endpoints cannot be upgraded to ACM evidence",
+      "limitations": "Social schedules and disease confounding; full adjustment markedly attenuated associations. Exact boundaries differ slightly between Methods and Conclusion and should not be hard thresholds.",
+      "action": "Keep regular, adequate sleep according to your own rhythm; this association does not justify deliberately delaying an otherwise suitable early bedtime.",
+      "sources": [
+        {
+          "evidence": "Abstract, Results: age/sex-adjusted composite endpoint 1.29 (1.22–1.35), 1.11 (1.03–1.20); fully adjusted 1.09 (1.03–1.16), 1.10 (1.02–1.20). Original secondary 43%/15% retained as unverified ACM."
+        }
+      ]
+    },
+    "sedentary-time": {
+      "factor": "Sedentary time and television viewing",
+      "originalClaim": "Each additional sedentary hour increases CVD incidence risk by 4%, cancer by 1% and ACM by 3%; thresholds are 6–8 hours/day for total sitting and 3–4 hours/day for TV.",
+      "finding": "Higher sedentary time is associated with higher ACM, but a fixed 3% per additional hour does not apply at every level. The corresponding systematic review found nonlinearity: about 1% per hour at total sedentary time ≤8 hours and about 4% above 8 hours; television viewing also has different slopes. The 6–8-hour and 3–4-hour points are observational-model inflections, not safety limits.",
+      "effect": "RR per additional 1 hour of total sedentary time 1.01 (≤8 h/day); 1.04 (>8 h/day)",
+      "ci": "Respective 95% CIs 1.00–1.01; 1.03–1.05",
+      "comparison": "An additional 1 hour/day of total sedentary time within each exposure interval",
+      "population": "34 prospective studies; 1,331,468 unique participants across different outcomes",
+      "design": "Systematic review and dose-response meta-analysis, adjusted for physical activity",
+      "gradeReason": "Pooled direct ACM from multiple cohorts; not a randomized intervention",
+      "limitations": "Mostly self-reported sitting, heterogeneity and residual confounding. Cancer mortality was not significantly associated in this review and must not be confused with cancer incidence. Original Chinese report PDF and old WHO PDF were inaccessible.",
+      "action": "Replace some sitting with movement or activity within your abilities and exercise regularly. If unable to stand, follow rehabilitation guidance; no unproven universal break frequency is prescribed.",
+      "sources": [
+        {
+          "evidence": "Full text, Abstract: PA-adjusted total sedentary ACM RR/hour 1.01 (1.00–1.01) at ≤8 h and 1.04 (1.03–1.05) at >8 h; TV 1.03 (1.01–1.04) at ≤3.5 h and 1.06 (1.05–1.08) at >3.5 h."
+        }
+      ]
+    },
+    "pessimism": {
+      "factor": "Pessimism / optimism",
+      "originalClaim": "Each 1 SD of pessimism is associated with ACM HR 1.134 and cardiovascular mortality HR 1.196; optimism was not significantly associated. The original calls reverse causation “impossible.”",
+      "finding": "The original HR 1.134 and related figures match the paper and refer to each 1 SD higher pessimism score. Nonsignificant optimism findings do not prove optimism is unhelpful; the paper’s description of reverse causation as “unlikely” does not exclude it.",
+      "effect": "ACM HR 1.134 per 1 SD of pessimism; further-adjusted HR 1.160",
+      "ci": "Respective 95% CIs 1.065–1.207; 1.083–1.242",
+      "comparison": "Each 1 SD higher pessimism score",
+      "population": "Australian twin-related sample aged ≥50: 2,978 people, 1,068 deaths after about 20 years; model samples smaller owing to missing data",
+      "design": "Single prospective cohort; survival models account for family clustering",
+      "gradeReason": "Direct ACM but single cohort with substantial personality/health confounding",
+      "limitations": "Psychological traits not randomized; reverse causation not excluded; no direct trial evidence of emotional treatment reducing ACM.",
+      "action": "Seek support or professional help when persistent pessimism or low mood affects life; forced optimism does not replace treatment.",
+      "sources": [
+        {
+          "evidence": "Full text, Abstract and Table 1: age-adjusted score with sex in the model, ACM HR 1.134 (1.065–1.207); adding BMI, alcohol and smoking, HR 1.160 (1.083–1.242); optimism not significantly associated."
+        }
+      ]
+    },
+    "wealth": {
+      "factor": "Net worth / financial resources",
+      "originalClaim": "5,414 middle-aged adults (mean 46.7 years): higher net worth is associated with longevity, with a similar direction among 2,490 siblings and twins.",
+      "finding": "The original sample and direction match. Per additional US$50,000 net worth, ACM HR was 0.95 and within-family HR 0.94, but the twin-only subgroup CI crossed 1. This does not show that a particular investment extends life proportionally through wealth gains, nor describe an ecological effect of wealth inequality.",
+      "effect": "HR 0.95 per additional US$50,000 net worth; within-family HR 0.94",
+      "ci": "Respective 95% CIs 0.94–0.97; 0.91–0.97",
+      "comparison": "Each additional US$50,000 in self-reported 1994–1996 net worth (study unit)",
+      "population": "US MIDUS: 5,414 people, mean age 46.7, nearly 24 years follow-up; 1,010 deaths; 2,490 siblings/twins",
+      "design": "Single cohort and within-family comparisons",
+      "gradeReason": "Direct ACM and family comparisons, but single cohort with incompletely controlled economic/health confounding",
+      "limitations": "Self-reported net worth; limited demographic representation; individual nonshared confounding and health-related wealth loss; no income-improvement intervention tested.",
+      "action": "Prioritize stable housing, access to care and basic financial security; high-risk investment is not a health intervention.",
+      "sources": [
+        {
+          "evidence": "Author research-project archived full text, Results/Table 2: full sample HR 0.95 (0.94–0.97) per $50,000; within-family 0.94 (0.91–0.97); identical twins alone 0.95 (0.87–1.04)."
+        }
+      ]
+    },
+    "weight-change": {
+      "factor": "Weight change from early adulthood to midlife",
+      "originalClaim": "Obesity to overweight versus persistent obesity gives 54% lower ACM (HR 0.46); overweight to normal showed no decrease (HR 1.12). The action section abbreviates this as weight loss −54%.",
+      "finding": "Obesity to overweight versus persistent obesity HR 0.46 matches. Overweight to normal versus persistent overweight HR 1.12 has a CI crossing 1: no significant difference, not proof that reaching normal weight is unhelpful or harmful. Weight loss occurred between age 25 and midlife, not involuntary weight loss in old age.",
+      "effect": "Obese→overweight HR 0.46; overweight→normal HR 1.12",
+      "ci": "Respective 95% CIs 0.27–0.77; 0.86–1.45",
+      "comparison": "Versus persistent obesity and persistent overweight, respectively",
+      "population": "NHANES: 24,205 US adults aged 40–74; recalled weights at age 25 and 10 years before baseline; 10.7 years follow-up, 5,846 deaths",
+      "design": "Observational recalled weight history linked to prospective mortality",
+      "gradeReason": "Direct ACM but recall bias, small weight-loss sample and inability to distinguish intention or causes",
+      "limitations": "Only 214 people changed from obese to overweight; nonrandomized; no proof of a causal 54% benefit from intentional loss.",
+      "action": "People with obesity should plan long-term weight and muscle-strength management with health professionals. Do not transfer these conclusions to older age, pregnancy or involuntary weight loss.",
+      "sources": [
+        {
+          "evidence": "Full text, Abstract and Table 3: obese-overweight versus obese-obese 0.46 (0.27–0.77); overweight-normal versus overweight-overweight 1.12 (0.86–1.45); Table 1: 214 obese→overweight participants."
+        }
+      ]
+    },
+    "covid-pandemic": {
+      "factor": "COVID-19 pandemic and all-cause excess deaths",
+      "originalClaim": "US COVID mortality is about 1.5%, with a 2-year reduction in life expectancy; the cited paper’s title concerns first-wave ACM in 21 industrialized countries.",
+      "finding": "The original paper supports first-wave all-cause excess deaths, but its 21 countries comprise 19 European countries plus Australia and New Zealand, excluding the US. It cannot support the original “1.5% US COVID mortality” or “2-year life expectancy reduction”; the former also lacks a date, denominator and case/infection fatality definition. Pandemic excess deaths include indirect effects such as disrupted care.",
+      "effect": "206,000 excess deaths in 21 countries from mid-February to late May 2020; not an individual HR",
+      "ci": "95% Bayesian credible interval 178,100–231,000; not a 95% confidence interval",
+      "comparison": "Observed all-cause deaths versus modeled counterfactual without the pandemic",
+      "population": "National death registries in 21 industrialized countries, first wave of 2020; excludes the US",
+      "design": "Population time-series/ecological study using an ensemble of 16 Bayesian models",
+      "gradeReason": "Direct ACM totals, but ecological data cannot estimate an individual infection’s ACM effect",
+      "limitations": "Counterfactual models and registration delays; the 2020 setting cannot be extrapolated to current variants, immunity and care. Original CDC link is a general mortality-data portal, not direct support for the original figures.",
+      "action": "Reduce infection exposure and maintain chronic-disease care and timely medical access. Follow currently applicable prevention/treatment guidance rather than estimating personal risk from fixed 2020 percentages.",
+      "sources": [
+        {
+          "evidence": "Original PDF full text, Abstract, Results and Table 1: 206,000 excess deaths in 21 countries (95% credible interval 178,100–231,000); Introduction specifies 19 European countries + Australia/New Zealand; not US infection fatality or life expectancy estimates."
+        }
+      ]
+    },
+    "resistance-training": {
+      "factor": "Resistance / muscle-strengthening training",
+      "originalClaim": "New factor; the original repository had no corresponding figures.",
+      "finding": "A meta-analysis of prospective cohorts associated any muscle-strengthening activity versus none with about 15% lower ACM. The curve suggested larger benefits around 30–60 minutes/week, but high-dose effects are uncertain; this is not an optimal dose confirmed by randomized trials.",
+      "effect": "RR 0.85",
+      "ci": "95% CI 0.79–0.93",
+      "comparison": "Any muscle-strengthening activity versus none, adjusting for aerobic activity where possible",
+      "population": "Binary ACM synthesis: 7 studies, 263,058 people, 42,133 deaths; 16 studies in the overall review",
+      "design": "Systematic review/meta-analysis of prospective cohorts",
+      "gradeReason": "Direct ACM synthesis with consistent direction across cohorts; project grade B is not the paper’s GRADE, which rated ACM certainty very low",
+      "limitations": "I²=83%; self-report, healthy-participant bias and confounding; the J-shaped curve does not establish that more training is harmful.",
+      "action": "If physically able, gradually train major muscle groups alongside aerobic activity. Pain, recent surgery or unstable chronic disease require prior assessment and adjustment.",
+      "sources": [
+        {
+          "evidence": "Full text, Table 1 and All-cause mortality: 7 studies, 42,133/263,058 deaths/participants, RR 0.85 (0.79–0.93), I² 83%; each study RR<1; original GRADE: very low."
+        }
+      ]
+    },
+    "social-isolation": {
+      "factor": "Social isolation, loneliness and living alone",
+      "originalClaim": "New factor; the original repository had no corresponding figures.",
+      "finding": "Adjusted meta-analytic results associate social isolation, loneliness and living alone with mortality odds ratios of 1.29, 1.26 and 1.32, respectively. These are distinct exposures; OR cannot be rewritten as HR or an increase in individual absolute mortality. It is unproven that increased social contact necessarily reverses risk by the same magnitude.",
+      "effect": "Social isolation OR 1.29; loneliness OR 1.26; living alone OR 1.32",
+      "ci": "Not reported (the original abstract read gives no 95% CI; none added from secondary sources)",
+      "comparison": "Social isolation/loneliness/living alone versus the corresponding lower-exposure group in each study",
+      "population": "Mortality follow-up studies through February 2014; populations and adjustments differ across studies",
+      "design": "Systematic review and meta-analysis of original studies",
+      "gradeReason": "Multiple-study synthesis with direct mortality endpoints; noninterventional and noncausal",
+      "limitations": "Baseline health affects results; heterogeneous exposure definitions; living alone is not loneliness; abstract only in this review round.",
+      "action": "Maintain reliable contacts and ways to seek help according to personal wishes; address hearing, mobility, depression and similar barriers. Not everyone living alone needs to cohabit.",
+      "sources": [
+        {
+          "evidence": "Abstract reports adjusted social isolation OR 1.29, loneliness OR 1.26 and living alone OR 1.32; baseline health affects results; no CIs listed."
+        }
+      ]
+    },
+    "intensive-bp-control": {
+      "factor": "Intensive blood pressure control in eligible people",
+      "originalClaim": "New factor; the original repository had no corresponding figures.",
+      "finding": "In SPRINT participants without diabetes and at increased cardiovascular risk, a systolic target <120 versus <140 mmHg reduced ACM by about 27%. This is a treatment-strategy trial, not evidence that antihypertensives extend life in every healthy person; CVD composite HR 0.75 and ACM HR 0.73 are separately reported.",
+      "effect": "ACM HR 0.73",
+      "ci": "95% CI 0.60–0.90",
+      "comparison": "Intensive systolic target <120 versus standard target <140 mmHg",
+      "population": "9,361 adults with SBP ≥130 mmHg, increased cardiovascular risk and no diabetes",
+      "design": "SPRINT randomized controlled trial; median follow-up 3.26 years, stopped early",
+      "gradeReason": "Direct randomized ACM comparison; clearly defined applicability, retaining early-stopping and adverse-event limitations",
+      "limitations": "Early stopping may overestimate benefit; hypotension, syncope, electrolyte abnormalities and acute kidney injury were more common; not generalizable to diabetes or low-risk normotensive people.",
+      "action": "With diagnosed hypertension and higher risk, discuss targets with a clinician and monitor kidney function, electrolytes and postural symptoms. Do not independently add medication or pursue the trial target.",
+      "sources": [
+        {
+          "evidence": "Abstract, Methods/Results: n=9,361; ACM HR 0.73 (0.60–0.90), P=.003; primary CVD composite 0.75 (0.64–0.89); more serious hypotension, syncope, electrolyte and renal adverse events in the intensive group."
+        }
+      ]
+    },
+    "cardiorespiratory-fitness": {
+      "factor": "Cardiorespiratory fitness (CRF)",
+      "originalClaim": "New entry; the original repository did not separately list cardiorespiratory fitness.",
+      "finding": "Each 1 MET higher cardiorespiratory fitness measured by exercise testing is associated with lower ACM. This is an observational association with physical capacity, not a guaranteed benefit of “exercising 1 MET more.”",
+      "effect": "RR 0.88 per 1 MET higher CRF",
+      "ci": "0.83–0.93",
+      "comparison": "Each 1 MET higher CRF; not a comparison of exercise minutes",
+      "population": "34 adult cohorts in the review; continuous-dose ACM analysis uses a subset",
+      "design": "Dose-response meta-analysis of cohort studies",
+      "gradeReason": "Pooled cohorts with relatively objective measurement, but association alone cannot establish the causal effect of changing fitness.",
+      "limitations": "Very high heterogeneity; prior disease, genetics and test protocols affect CRF; search through 2019-12-26.",
+      "action": "Use fitness as a clue in physical-capacity assessment and train gradually according to baseline health; do not directly use RR to estimate personal life extension.",
+      "sources": [
+        {
+          "evidence": "Europe PMC abstract, Results: ACM RR 0.88 (0.83–0.93) per 1 MET; original-text search excerpt indicates I²=99.4% for this analysis."
+        }
+      ]
+    },
+    "dapagliflozin-ckd": {
+      "factor": "Dapagliflozin (specific chronic kidney disease)",
+      "originalClaim": "New entry; the original repository did not list SGLT2 inhibitors.",
+      "finding": "In people with CKD meeting DAPA-CKD eligibility, the randomized treatment group had lower ACM. This is not evidence for anti-aging medication in healthy people.",
+      "effect": "HR 0.69; deaths 4.7% versus 6.8%",
+      "ci": "0.53–0.88",
+      "comparison": "Dapagliflozin 10 mg/day versus placebo, both on standard care",
+      "population": "4,304 adults with CKD; eGFR 25–75, UACR 200–5,000 mg/g; median follow-up 2.4 years; with/without type 2 diabetes",
+      "design": "Double-blind randomized placebo-controlled trial; ACM a prespecified key secondary endpoint",
+      "gradeReason": "Random allocation and direct ACM recording; main limits are population applicability and early stopping.",
+      "limitations": "Stopped early for efficacy; not generalizable to healthy people without CKD, type 1 diabetes or excluded kidney diseases. The 4.7%/6.8% are trial-period death proportions, not lifetime risk.",
+      "action": "A clinician should assess CKD and other indications, considering volume depletion, infection, ketoacidosis and other risks. Dose describes the trial regimen only.",
+      "sources": [
+        {
+          "evidence": "Abstract/Methods/Results and Table 2: ACM prespecified secondary endpoint, 101/2,152 versus 146/2,152; HR 0.69 (0.53–0.88); median 2.4 years."
+        }
+      ]
+    },
+    "semaglutide-select": {
+      "factor": "Semaglutide (SELECT-eligible population)",
+      "originalClaim": "New entry; the original repository did not list GLP-1 receptor agonists.",
+      "finding": "SELECT’s ACM estimate favored lower mortality, but the main trial’s hierarchical testing did not pass cardiovascular death. ACM therefore cannot be treated as confirmatory superiority under multiplicity control.",
+      "effect": "HR 0.81 (exploratory interpretation)",
+      "ci": "0.71–0.93",
+      "comparison": "Subcutaneous semaglutide 2.4 mg weekly versus placebo, on standard care",
+      "population": "17,604 people; age ≥45, BMI ≥27, established cardiovascular disease, no diabetes; mean follow-up 39.8 months",
+      "design": "Randomized double-blind trial and its mortality-outcome analysis",
+      "gradeReason": "Randomized evidence, downgraded because the ACM hierarchical test was not completed; grade B here does not mean observational research.",
+      "limitations": "Not generalizable to younger people, those without cardiovascular disease or those with normal BMI; manufacturer funded; adverse-event discontinuation in the main trial 16.6% versus 8.2%.",
+      "action": "Assess only under relevant clinical indications; exploratory ACM findings are not a longevity promise for healthy people.",
+      "sources": [
+        {
+          "evidence": "Results: ACM HR 0.81 (0.71–0.93); CV death 0.85 (0.71–1.01)."
+        },
+        {
+          "evidence": "Efficacy End Points: CV death did not meet the hierarchical threshold, so subsequent ACM superiority testing was not performed; Europe PMC abstract reports discontinuation 16.6% versus 8.2%. Original-site full-text request returned 403; full-text reading is not claimed."
+        }
+      ]
+    },
+    "aspirin-primary-prevention": {
+      "factor": "Aspirin (primary prevention in older adults)",
+      "originalClaim": "New counterexample; preventive medication cannot be assumed to extend life.",
+      "finding": "ASPREE did not support starting daily aspirin for longevity in older people without prior cardiovascular disease. The secondary ACM endpoint signaled higher mortality, but without multiple-comparison adjustment and requiring cautious interpretation.",
+      "effect": "HR 1.14; 12.7 versus 11.1 per 1,000 person-years",
+      "ci": "1.01–1.29 (not adjusted for multiple comparisons)",
+      "comparison": "Aspirin 100 mg/day versus placebo",
+      "population": "19,114 community-dwelling older adults, generally ≥70 (Black/Hispanic US participants ≥65), without cardiovascular disease, dementia or disability; median 4.7 years",
+      "design": "Randomized double-blind trial; ACM secondary endpoint",
+      "gradeReason": "Randomized direct ACM evidence, but secondary-outcome multiplicity and an unexpected cancer-death signal limit certainty.",
+      "limitations": "Not fully consistent with previous studies; not applicable to secondary prevention after myocardial infarction/stroke; does not mean aspirin raises ACM at every age.",
+      "action": "Do not independently start aspirin solely for longevity. If taking it for a clear indication, discuss with a clinician rather than stopping on the basis of this trial.",
+      "sources": [
+        {
+          "evidence": "Results: 1,052 deaths; ACM 12.7 versus 11.1 per 1,000 person-years, HR 1.14 (1.01–1.29)."
+        },
+        {
+          "evidence": "Discussion explicitly states that CIs were not adjusted for multiple secondary endpoints; the authors urge cautious interpretation of higher ACM."
+        }
+      ]
+    },
+    "walking-steps-2025": {
+      "factor": "Daily steps (2025 review update)",
+      "originalClaim": "Adds pooled multiple-cohort evidence beyond the original single-cohort step-count entry.",
+      "finding": "The 2025 review abstract associates 7,000 versus 2,000 steps/day with lower ACM. The between-group association cannot directly be treated as a personal intervention benefit of increasing from 2,000 to 7,000 steps.",
+      "effect": "HR 0.53 (reported in abstract)",
+      "ci": "0.46–0.60",
+      "comparison": "Device-measured 7,000 versus 2,000 steps/day, dose-response model",
+      "population": "Adult prospective cohorts; 14 studies in this ACM comparison; review search through 2025-02-14",
+      "design": "Systematic review and dose-response meta-analysis",
+      "gradeReason": "Device-measured direct ACM synthesis across multiple cohorts; authors’ GRADE moderate certainty is not the project’s causal certainty.",
+      "limitations": "Residual confounding; no age-stratified conclusions; differences in devices, measurement periods and prior disease. Based on abstract figures this round, without table-by-table full-text review.",
+      "action": "Increase steps within your ability; 7,000 can be a gradual target for some people, not a mandatory threshold for everyone.",
+      "sources": [
+        {
+          "evidence": "Findings: 14 ACM studies; 7,000 versus 2,000 steps HR 0.53 (0.46–0.60), I²=36.3%; authors’ ACM GRADE: moderate."
+        }
+      ]
+    },
+    "metformin-adverse-events": {
+      "factor": "Metformin adverse reactions (checking denominators and definitions)",
+      "originalClaim": "Vitamin B12 deficiency 7%–17.4%; gastrointestinal adverse reactions up to 53%; fatigue 9%, headache 6%; rare serious lactic acidosis and liver injury.",
+      "finding": "The US label’s 53% refers to diarrhea in a specific trial; 9% asthenia and 6% headache also come from that trial, not general rates in everyone taking metformin. About 7% in a 29-week trial developed below-normal serum B12, not necessarily symptomatic deficiency; the 17.4% upper value was not verified from this label. Lactic acidosis has a boxed warning; liver injury is a postmarketing report, and spontaneous reports cannot estimate frequency.",
+      "effect": "ACM effect not assessed; diarrhea 53% versus 12%",
+      "ci": "ACM not reported; adverse-reaction intervals not listed",
+      "comparison": "Immediate-release metformin tablets versus placebo; up to 2,550 mg/day",
+      "population": "US type 2 diabetes trial in the label: 141 treated, 145 placebo; B12 data from a 29-week trial",
+      "design": "Official drug-label adverse-reaction trial data and postmarketing reports; not an ACM intervention study",
+      "gradeReason": "Clear safety source, but only indirect for longevity/ACM; D does not dispute drug-label reliability.",
+      "limitations": "Reaction rates across formulations, titration, doses, follow-up and populations are not directly comparable; no uniform definition supplied for 17.4%; adverse-reaction frequencies are not mortality risks.",
+      "action": "Use according to clinical indications and monitor kidney function and B12; this entry corrects frequency definitions and denominators, not a basis for independently starting or stopping treatment.",
+      "sources": [
+        {
+          "evidence": "Label updated 2026-06: Table 1, diarrhea 53%/12%, asthenia 9%/6%, headache 6%/5%; section 5.2, about 7% developed low serum B12. Section 6.2 liver injury is from spontaneous reports."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,683 @@
+{
+  "sources": [
+    "https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-06",
+    "https://training.cochrane.org/handbook/current/chapter-15",
+    "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/hazard-ratio",
+    "https://www.cancer.gov/publications/dictionaries/cancer-terms/",
+    "https://www.cancer.gov/about-cancer/screening/hp-screening-overview-pdq",
+    "https://www.cancer.gov/publications/pdq/levels-evidence/treatment",
+    "https://www.cdc.gov/physical-activity-basics/measuring/",
+    "https://www.cdc.gov/cholesterol/about/ldl-and-hdl-cholesterol-and-triglycerides.html",
+    "https://www.who.int/en/news-room/fact-sheets/detail/cardiovascular-diseases-%28cvds%29",
+    "https://www.who.int/teams/environment-climate-change-and-health/air-quality-and-health/health-impacts/types-of-pollutants",
+    "https://www.who.int/health-topics/obesity",
+    "https://www.niddk.nih.gov/health-information/kidney-disease/chronic-kidney-disease-ckd",
+    "https://www.crossref.org/documentation/member-setup/constructing-your-dois/",
+    "https://archive.cdc.gov/www_cdc_gov/csels/dsepd/ss1978/glossary.html",
+    "https://www.who.int/data/nutrition/nlis/info/malnutrition-in-women",
+    "https://pubmed.ncbi.nlm.nih.gov/25041462/",
+    "https://professional.heart.org/en/science-news/importance-of-assessing-cardiorespiratory-fitness-in-clinical-practice-a-case-for-fitness",
+    "https://www.niddk.nih.gov/health-information/professionals/advanced-search/quick-reference-uacr-gfr",
+    "https://medlineplus.gov/ency/article/007847.htm",
+    "https://www.cdc.gov/nutrition/php/data-research/sugar-sweetened-beverages.html",
+    "https://www.who.int/en/news-room/fact-sheets/detail/chronic-obstructive-pulmonary-disease-%28copd%29"
+  ],
+  "languages": {
+    "zh": {
+      "HR": {
+        "name": "危险比",
+        "description": "比较随访中两组在某一时刻发生事件的快慢。以死亡为例，HR 小于 1 表示研究组比参照组死亡发生得慢；1 表示两组相同。"
+      },
+      "RR": {
+        "name": "风险比",
+        "description": "比较同一观察期内，两组发生某件事的概率。RR 为 0.8，表示研究组的发生概率是参照组的 80%；先看研究比较的是谁、发生的是什么。"
+      },
+      "OR": {
+        "name": "比值比",
+        "description": "先看每组“发生”与“未发生”某件事的人数之比，再比较两组。OR 为 1 表示两组相同；OR 不是直接比较发生概率的 RR。"
+      },
+      "CI": {
+        "name": "置信区间",
+        "description": "研究估计值旁的一段范围，用来呈现估计的不确定程度。同样条件下，范围越窄通常表示估计越精确；若 HR、RR 或 OR 的区间跨过 1，数据仍容许两组没有差别。"
+      },
+      "ACM": {
+        "name": "全因死亡率",
+        "description": "把所有死因合在一起，观察一段时间内有多少人死亡。读比较结果时，要一起看研究人群和随访时间。"
+      },
+      "RCT": {
+        "name": "随机对照试验",
+        "description": "研究者随机把参与者分配到不同组，例如一种治疗组和对照组，再比较结果。随机分组有助于分清差异是否来自干预。"
+      },
+      "CVD": {
+        "name": "心血管疾病",
+        "description": "影响心脏或血管的一类疾病，包括冠心病和卒中。论文可能研究其中一种，也可能把多种心血管事件合在一起。"
+      },
+      "DOI": {
+        "name": "数字对象标识符",
+        "description": "论文等资料的固定标识，像一张长期有效的地址卡。点击 DOI 链接可以找到对应的论文页面。"
+      },
+      "MET": {
+        "name": "代谢当量",
+        "description": "描述活动耗能相对安静休息的倍数：3 MET 的活动耗能约为休息时的 3 倍。运动能力研究里的“提高 1 MET”通常指体能测试能力的提升，要看该项研究的测量方式。"
+      },
+      "SD": {
+        "name": "标准差",
+        "description": "描述一组数值有多分散。若研究按“每增加 1 SD”报告结果，指增加一个标准差的分量，不是增加 1 分或 1 个原始单位。"
+      },
+      "LDL-C": {
+        "name": "低密度脂蛋白胆固醇",
+        "description": "血液中由低密度脂蛋白携带的胆固醇，也是血脂检查的一项。水平偏高会增加动脉粥样硬化、心脏病和卒中的风险。"
+      },
+      "PM2.5": {
+        "name": "细颗粒物",
+        "description": "空气中直径不超过 2.5 微米的微小颗粒，能够进入肺部深处。研究中的浓度通常用微克每立方米表示。"
+      },
+      "BMI": {
+        "name": "身体质量指数",
+        "description": "用体重（千克）除以身高（米）的平方，粗略描述体重与身高的关系。它不区分脂肪和肌肉。"
+      },
+      "CKD": {
+        "name": "慢性肾脏病",
+        "description": "肾脏结构或功能长期出现异常，可能影响过滤血液的能力。研究中的 CKD 人群通常指已符合相应诊断标准的人。"
+      },
+      "STR": {
+        "name": "生存时间比",
+        "description": "比较模型估计的生存时间：参照组设为 1，低于 1 表示所比较组的估计生存时间更短。它不是死亡危险比 HR，阅读时先确认哪一组是参照。"
+      },
+      "CRF": {
+        "name": "心肺适能",
+        "description": "心脏、肺和循环系统在持续运动中向肌肉供氧的能力，常通过运动测试来测量或估计。"
+      },
+      "UACR": {
+        "name": "尿白蛋白与肌酐比值",
+        "description": "比较同一份尿液中的白蛋白和肌酐含量，帮助判断是否有过多白蛋白漏入尿液，是评估肾脏的一项指标。"
+      },
+      "UPF": {
+        "name": "超加工食品",
+        "description": "按 NOVA 分类，指以工业配方和加工制成、常含调味或质地添加剂的食品，如部分包装零食和即食餐。它不等于所有经过加工的食物。"
+      },
+      "SSB": {
+        "name": "含糖饮料",
+        "description": "加入糖或糖浆的饮料，例如普通汽水、加糖茶和部分果味饮料。研究的具体范围要看其饮料分类。"
+      },
+      "COPD": {
+        "name": "慢性阻塞性肺疾病",
+        "description": "一种使肺部气流受限、呼吸变得困难的慢性肺病，常伴长期咳嗽或咳痰，简称慢阻肺。"
+      }
+    },
+    "en": {
+      "HR": {
+        "name": "Hazard ratio",
+        "description": "Compares how quickly an event occurs at a given moment during follow-up. For death, an HR below 1 means a lower instantaneous death rate in the study group than in the reference group; 1 means equal rates."
+      },
+      "RR": {
+        "name": "Risk ratio",
+        "description": "Compares the chance of an event in two groups over the same period. An RR of 0.8 means the study group has 80% of the reference group’s risk; check which groups and outcome are being compared."
+      },
+      "OR": {
+        "name": "Odds ratio",
+        "description": "Compares each group’s odds: the number with an event relative to the number without it. An OR of 1 means equal odds; it is different from an RR, which compares probabilities."
+      },
+      "CI": {
+        "name": "Confidence interval",
+        "description": "The range beside an estimate shows its uncertainty; a narrower range usually means greater precision under similar conditions. If an HR, RR or OR interval crosses 1, the data remain compatible with no difference between groups."
+      },
+      "ACM": {
+        "name": "All-cause mortality",
+        "description": "Counts deaths from every cause during a given period. Read the comparison alongside the study population and length of follow-up."
+      },
+      "RCT": {
+        "name": "Randomized controlled trial",
+        "description": "Researchers randomly assign participants to groups, such as a treatment group and a comparison group, then compare outcomes. Random assignment helps isolate the effect of the intervention."
+      },
+      "CVD": {
+        "name": "Cardiovascular disease",
+        "description": "Conditions affecting the heart or blood vessels, including coronary heart disease and stroke. A study may examine one condition or combine several cardiovascular events."
+      },
+      "DOI": {
+        "name": "Digital object identifier",
+        "description": "A lasting identifier for a paper or other work, like a permanent address card. A DOI link takes you to the corresponding publication page."
+      },
+      "MET": {
+        "name": "Metabolic equivalent",
+        "description": "Expresses an activity’s energy use relative to resting: a 3 MET activity uses roughly three times the energy of rest. In fitness studies, a 1 MET improvement usually refers to exercise-test capacity; check how the study measured it."
+      },
+      "SD": {
+        "name": "Standard deviation",
+        "description": "Describes how spread out a set of values is. A result reported “per 1 SD increase” uses that amount of variation as its step, rather than one score point or one original unit."
+      },
+      "LDL-C": {
+        "name": "Low-density lipoprotein cholesterol",
+        "description": "Cholesterol carried in the blood by low-density lipoproteins, measured in a blood lipid test. Higher levels increase the risk of atherosclerosis, heart disease and stroke."
+      },
+      "PM2.5": {
+        "name": "Fine particulate matter",
+        "description": "Tiny airborne particles no more than 2.5 micrometres across that can reach deep into the lungs. Studies usually report their concentration in micrograms per cubic metre."
+      },
+      "BMI": {
+        "name": "Body mass index",
+        "description": "Weight in kilograms divided by height in metres squared, a rough measure of weight relative to height. It does not distinguish fat from muscle."
+      },
+      "CKD": {
+        "name": "Chronic kidney disease",
+        "description": "Long-term abnormalities of kidney structure or function that can affect blood filtering. A study’s CKD group generally consists of people meeting its diagnostic criteria."
+      },
+      "STR": {
+        "name": "Survival time ratio",
+        "description": "Compares survival times estimated by a model: the reference group is set to 1, and a value below 1 means a shorter estimated time in the group being compared. This is different from an HR; first check which group is the reference."
+      },
+      "CRF": {
+        "name": "Cardiorespiratory fitness",
+        "description": "The ability of the heart, lungs and circulation to supply oxygen to muscles during sustained activity, often measured or estimated using an exercise test."
+      },
+      "UACR": {
+        "name": "Urine albumin-to-creatinine ratio",
+        "description": "Compares albumin with creatinine in the same urine sample to assess whether too much albumin is leaking into urine; it is one measure used to assess kidney health."
+      },
+      "UPF": {
+        "name": "Ultra-processed foods",
+        "description": "In the NOVA classification, industrial formulations often containing additives for flavour or texture, such as some packaged snacks and ready meals. The term does not cover every food that has been processed."
+      },
+      "SSB": {
+        "name": "Sugar-sweetened beverages",
+        "description": "Drinks with added sugar or syrup, such as regular soda, sweetened tea and some fruit-flavoured drinks. Check which drinks a particular study includes."
+      },
+      "COPD": {
+        "name": "Chronic obstructive pulmonary disease",
+        "description": "A long-term lung disease that restricts airflow and makes breathing difficult, often with a persistent cough or phlegm."
+      }
+    },
+    "es": {
+      "HR": {
+        "name": "Razón de riesgos instantáneos",
+        "description": "Compara la rapidez con la que ocurre un evento en un momento del seguimiento. Para la muerte, un HR menor de 1 indica una tasa instantánea menor en el grupo estudiado que en el de referencia; 1 indica tasas iguales."
+      },
+      "RR": {
+        "name": "Riesgo relativo",
+        "description": "Compara la probabilidad de un evento entre dos grupos durante el mismo periodo. Un RR de 0,8 indica que el riesgo del grupo estudiado es el 80 % del riesgo del grupo de referencia; conviene mirar qué grupos y qué evento se comparan."
+      },
+      "OR": {
+        "name": "Razón de momios",
+        "description": "Compara, entre dos grupos, la relación entre quienes presentan un evento y quienes no. Un OR de 1 indica la misma relación; no equivale al RR, que compara probabilidades."
+      },
+      "CI": {
+        "name": "Intervalo de confianza",
+        "description": "El rango que acompaña a una estimación muestra su incertidumbre; en condiciones similares, un intervalo más estrecho suele indicar mayor precisión. Si el intervalo de un HR, RR u OR cruza el 1, los datos siguen siendo compatibles con que no haya diferencia entre grupos."
+      },
+      "ACM": {
+        "name": "Mortalidad por todas las causas",
+        "description": "Cuenta las muertes por cualquier causa durante un periodo determinado. Para interpretar la comparación, hay que mirar también la población y la duración del seguimiento."
+      },
+      "RCT": {
+        "name": "Ensayo controlado aleatorizado",
+        "description": "Se asigna a los participantes al azar a distintos grupos, por ejemplo, uno con tratamiento y otro de comparación, y se observan los resultados. La asignación aleatoria ayuda a identificar el efecto de la intervención."
+      },
+      "CVD": {
+        "name": "Enfermedad cardiovascular",
+        "description": "Enfermedades del corazón o de los vasos sanguíneos, como la cardiopatía coronaria y el ictus. Un estudio puede analizar una sola enfermedad o agrupar varios eventos cardiovasculares."
+      },
+      "DOI": {
+        "name": "Identificador de objeto digital",
+        "description": "Identificador permanente de un artículo u otro documento, parecido a una dirección estable. El enlace DOI lleva a la página de la publicación correspondiente."
+      },
+      "MET": {
+        "name": "Equivalente metabólico",
+        "description": "Expresa el gasto energético de una actividad en relación con el reposo: una actividad de 3 MET consume aproximadamente tres veces esa energía. En estudios de condición física, mejorar 1 MET suele referirse a la capacidad medida en una prueba de esfuerzo; hay que mirar cómo se midió."
+      },
+      "SD": {
+        "name": "Desviación estándar",
+        "description": "Indica cuánto se dispersan los valores de un grupo. Un resultado “por cada aumento de 1 SD” usa esa cantidad de variación como unidad, no un punto de una escala ni una unidad de la medida original."
+      },
+      "LDL-C": {
+        "name": "Colesterol de lipoproteínas de baja densidad",
+        "description": "Colesterol transportado en la sangre por las lipoproteínas de baja densidad, medido en un análisis de lípidos. Los niveles altos aumentan el riesgo de aterosclerosis, enfermedad cardiaca e ictus."
+      },
+      "PM2.5": {
+        "name": "Partículas finas",
+        "description": "Partículas del aire de hasta 2,5 micrómetros de diámetro que pueden llegar a zonas profundas de los pulmones. Su concentración suele expresarse en microgramos por metro cúbico."
+      },
+      "BMI": {
+        "name": "Índice de masa corporal",
+        "description": "Peso en kilogramos dividido por la altura en metros al cuadrado: una medida aproximada del peso en relación con la estatura. No distingue entre grasa y músculo."
+      },
+      "CKD": {
+        "name": "Enfermedad renal crónica",
+        "description": "Alteraciones duraderas de la estructura o la función de los riñones que pueden afectar a la filtración de la sangre. En un estudio, el grupo con CKD suele reunir a quienes cumplen sus criterios diagnósticos."
+      },
+      "STR": {
+        "name": "Razón de tiempos de supervivencia",
+        "description": "Compara los tiempos de supervivencia estimados por un modelo: el grupo de referencia toma el valor 1 y un valor menor indica un tiempo estimado más corto en el grupo comparado. Es distinto del HR; primero hay que identificar el grupo de referencia."
+      },
+      "CRF": {
+        "name": "Capacidad cardiorrespiratoria",
+        "description": "Capacidad del corazón, los pulmones y la circulación para suministrar oxígeno a los músculos durante una actividad sostenida; suele medirse o estimarse mediante una prueba de esfuerzo."
+      },
+      "UACR": {
+        "name": "Cociente albúmina/creatinina en orina",
+        "description": "Compara la albúmina y la creatinina de una misma muestra de orina para valorar si se está perdiendo demasiada albúmina por la orina; es un indicador de la salud renal."
+      },
+      "UPF": {
+        "name": "Alimentos ultraprocesados",
+        "description": "Según la clasificación NOVA, son formulaciones industriales que suelen llevar aditivos de sabor o textura, como algunos aperitivos envasados y platos preparados. No incluye todos los alimentos que han pasado por algún procesamiento."
+      },
+      "SSB": {
+        "name": "Bebidas azucaradas",
+        "description": "Bebidas con azúcar o jarabe añadidos, como los refrescos convencionales, el té azucarado y algunas bebidas con sabor a fruta. Cada estudio puede incluir categorías diferentes."
+      },
+      "COPD": {
+        "name": "Enfermedad pulmonar obstructiva crónica",
+        "description": "Enfermedad pulmonar crónica que limita el paso del aire y dificulta la respiración, a menudo acompañada de tos persistente o flemas; también se conoce como EPOC."
+      }
+    },
+    "fr": {
+      "HR": {
+        "name": "Rapport des risques instantanés",
+        "description": "Compare la vitesse à laquelle un événement survient à un moment donné du suivi. Pour les décès, un HR inférieur à 1 indique un taux instantané plus faible dans le groupe étudié que dans le groupe de référence ; 1 indique des taux égaux."
+      },
+      "RR": {
+        "name": "Risque relatif",
+        "description": "Compare la probabilité d’un événement dans deux groupes sur une même période. Un RR de 0,8 signifie que le risque du groupe étudié vaut 80 % de celui du groupe de référence ; regardez quels groupes et quel événement sont comparés."
+      },
+      "OR": {
+        "name": "Rapport des cotes",
+        "description": "Compare entre deux groupes le rapport entre le nombre de personnes avec l’événement et le nombre sans l’événement. Un OR de 1 indique des cotes égales ; ce n’est pas un RR, qui compare des probabilités."
+      },
+      "CI": {
+        "name": "Intervalle de confiance",
+        "description": "La plage autour d’une estimation en montre l’incertitude ; à conditions comparables, un intervalle plus étroit indique généralement plus de précision. Si l’intervalle d’un HR, RR ou OR comprend des valeurs de part et d’autre de 1, les données restent compatibles avec une absence de différence entre groupes."
+      },
+      "ACM": {
+        "name": "Mortalité toutes causes confondues",
+        "description": "Compte les décès, quelle qu’en soit la cause, sur une période donnée. Lisez la comparaison en tenant compte de la population et de la durée du suivi."
+      },
+      "RCT": {
+        "name": "Essai contrôlé randomisé",
+        "description": "Les participants sont répartis au hasard entre plusieurs groupes, par exemple un groupe traité et un groupe de comparaison, puis les résultats sont comparés. Le tirage au sort aide à isoler l’effet de l’intervention."
+      },
+      "CVD": {
+        "name": "Maladie cardiovasculaire",
+        "description": "Maladies du cœur ou des vaisseaux sanguins, dont les maladies coronariennes et les AVC. Une étude peut porter sur une maladie ou regrouper plusieurs événements cardiovasculaires."
+      },
+      "DOI": {
+        "name": "Identifiant numérique d’objet",
+        "description": "Identifiant durable d’un article ou d’un autre document, comme une adresse permanente. Le lien DOI mène à la page de la publication correspondante."
+      },
+      "MET": {
+        "name": "Équivalent métabolique",
+        "description": "Exprime la dépense énergétique d’une activité par rapport au repos : une activité de 3 MET dépense environ trois fois cette énergie. Dans les études sur la condition physique, gagner 1 MET désigne généralement une amélioration de la capacité mesurée lors d’un test d’effort ; regardez la méthode utilisée."
+      },
+      "SD": {
+        "name": "Écart type",
+        "description": "Décrit la dispersion des valeurs dans un groupe. Un résultat donné « par augmentation de 1 SD » utilise cet écart comme unité, plutôt qu’un point de score ou une unité de la mesure initiale."
+      },
+      "LDL-C": {
+        "name": "Cholestérol des lipoprotéines de basse densité",
+        "description": "Cholestérol transporté dans le sang par les lipoprotéines de basse densité, mesuré dans le bilan lipidique. Un taux élevé augmente le risque d’athérosclérose, de maladie cardiaque et d’AVC."
+      },
+      "PM2.5": {
+        "name": "Particules fines",
+        "description": "Particules de l’air mesurant au plus 2,5 micromètres de diamètre, capables de pénétrer profondément dans les poumons. Leur concentration est généralement exprimée en microgrammes par mètre cube."
+      },
+      "BMI": {
+        "name": "Indice de masse corporelle",
+        "description": "Poids en kilogrammes divisé par la taille en mètres au carré : un indicateur approximatif du poids par rapport à la taille. Il ne distingue pas la graisse des muscles."
+      },
+      "CKD": {
+        "name": "Maladie rénale chronique",
+        "description": "Anomalies durables de la structure ou du fonctionnement des reins, pouvant altérer la filtration du sang. Le groupe CKD d’une étude réunit généralement les personnes répondant à ses critères diagnostiques."
+      },
+      "STR": {
+        "name": "Rapport des temps de survie",
+        "description": "Compare les temps de survie estimés par un modèle : le groupe de référence vaut 1 et une valeur inférieure indique un temps estimé plus court dans le groupe comparé. Ce n’est pas un HR ; identifiez d’abord le groupe de référence."
+      },
+      "CRF": {
+        "name": "Capacité cardiorespiratoire",
+        "description": "Capacité du cœur, des poumons et de la circulation à apporter de l’oxygène aux muscles pendant un effort prolongé, souvent mesurée ou estimée par un test d’effort."
+      },
+      "UACR": {
+        "name": "Rapport albumine/créatinine urinaire",
+        "description": "Compare l’albumine et la créatinine dans un même échantillon d’urine pour évaluer si trop d’albumine passe dans les urines ; c’est un indicateur de la santé des reins."
+      },
+      "UPF": {
+        "name": "Aliments ultratransformés",
+        "description": "Dans la classification NOVA, ce sont des formulations industrielles contenant souvent des additifs de goût ou de texture, comme certains snacks emballés et plats préparés. Tous les aliments transformés ne sont pas concernés."
+      },
+      "SSB": {
+        "name": "Boissons sucrées",
+        "description": "Boissons avec ajout de sucre ou de sirop, comme les sodas classiques, le thé sucré et certaines boissons aromatisées aux fruits. Les catégories incluses varient selon les études."
+      },
+      "COPD": {
+        "name": "Bronchopneumopathie chronique obstructive",
+        "description": "Maladie pulmonaire chronique qui limite le passage de l’air et rend la respiration difficile, souvent avec une toux persistante ou des expectorations ; aussi appelée BPCO."
+      }
+    },
+    "de": {
+      "HR": {
+        "name": "Hazard Ratio",
+        "description": "Vergleicht, wie schnell ein Ereignis zu einem bestimmten Zeitpunkt der Nachbeobachtung eintritt. Bei Todesfällen bedeutet eine HR unter 1 eine niedrigere momentane Sterberate in der untersuchten Gruppe als in der Referenzgruppe; 1 bedeutet gleiche Raten."
+      },
+      "RR": {
+        "name": "Relatives Risiko",
+        "description": "Vergleicht die Wahrscheinlichkeit eines Ereignisses in zwei Gruppen über denselben Zeitraum. Eine RR von 0,8 bedeutet, dass das Risiko der untersuchten Gruppe 80 % des Risikos der Referenzgruppe beträgt; wichtig sind die verglichenen Gruppen und das untersuchte Ereignis."
+      },
+      "OR": {
+        "name": "Odds Ratio",
+        "description": "Vergleicht das Verhältnis von Personen mit einem Ereignis zu Personen ohne dieses Ereignis zwischen zwei Gruppen. Eine OR von 1 bedeutet gleiche Odds; anders als das relative Risiko vergleicht sie keine Wahrscheinlichkeiten direkt."
+      },
+      "CI": {
+        "name": "Konfidenzintervall",
+        "description": "Der Bereich um einen Schätzwert zeigt dessen Unsicherheit; unter ähnlichen Bedingungen bedeutet ein engerer Bereich meist höhere Genauigkeit. Reicht das Intervall einer HR, RR oder OR über 1 hinweg, sind die Daten auch mit keinem Unterschied zwischen den Gruppen vereinbar."
+      },
+      "ACM": {
+        "name": "Gesamtsterblichkeit",
+        "description": "Erfasst Todesfälle unabhängig von ihrer Ursache innerhalb eines bestimmten Zeitraums. Zur Einordnung gehören auch die untersuchte Bevölkerung und die Dauer der Nachbeobachtung."
+      },
+      "RCT": {
+        "name": "Randomisierte kontrollierte Studie",
+        "description": "Teilnehmende werden per Zufall Gruppen zugeteilt, etwa einer Behandlungsgruppe und einer Vergleichsgruppe; anschließend werden die Ergebnisse verglichen. Die zufällige Zuteilung hilft, den Einfluss der Intervention zu erkennen."
+      },
+      "CVD": {
+        "name": "Herz-Kreislauf-Erkrankungen",
+        "description": "Erkrankungen des Herzens oder der Blutgefäße, etwa koronare Herzkrankheit und Schlaganfall. Eine Studie kann eine einzelne Erkrankung untersuchen oder mehrere Herz-Kreislauf-Ereignisse zusammenfassen."
+      },
+      "DOI": {
+        "name": "Digitaler Objektidentifikator",
+        "description": "Eine dauerhafte Kennung für einen Artikel oder ein anderes Werk, ähnlich einer festen Adresse. Der DOI-Link führt zur Seite der jeweiligen Veröffentlichung."
+      },
+      "MET": {
+        "name": "Metabolisches Äquivalent",
+        "description": "Beschreibt den Energieverbrauch einer Aktivität im Verhältnis zur Ruhe: Eine Aktivität mit 3 MET verbraucht ungefähr das Dreifache. In Fitnessstudien meint eine Verbesserung um 1 MET meist die bei einem Belastungstest gemessene Leistungsfähigkeit; maßgeblich ist die Messmethode der Studie."
+      },
+      "SD": {
+        "name": "Standardabweichung",
+        "description": "Beschreibt, wie stark die Werte einer Gruppe streuen. Ein Ergebnis „pro Anstieg um 1 SD“ bezieht sich auf diese Streuungseinheit, nicht auf einen Skalenpunkt oder eine ursprüngliche Maßeinheit."
+      },
+      "LDL-C": {
+        "name": "LDL-Cholesterin",
+        "description": "Cholesterin, das im Blut von Lipoproteinen niedriger Dichte transportiert und im Blutfettprofil gemessen wird. Hohe Werte erhöhen das Risiko für Arteriosklerose, Herzkrankheiten und Schlaganfälle."
+      },
+      "PM2.5": {
+        "name": "Feinstaub",
+        "description": "Luftpartikel mit höchstens 2,5 Mikrometern Durchmesser, die tief in die Lunge gelangen können. Ihre Konzentration wird meist in Mikrogramm pro Kubikmeter angegeben."
+      },
+      "BMI": {
+        "name": "Body-Mass-Index",
+        "description": "Körpergewicht in Kilogramm geteilt durch die Körpergröße in Metern zum Quadrat: ein grobes Maß für das Gewicht im Verhältnis zur Größe. Es unterscheidet nicht zwischen Fett und Muskeln."
+      },
+      "CKD": {
+        "name": "Chronische Nierenkrankheit",
+        "description": "Dauerhafte Veränderungen der Nierenstruktur oder -funktion, die das Filtern des Blutes beeinträchtigen können. Die CKD-Gruppe einer Studie umfasst in der Regel Personen, die deren Diagnosekriterien erfüllen."
+      },
+      "STR": {
+        "name": "Verhältnis der Überlebenszeiten",
+        "description": "Vergleicht modellgeschätzte Überlebenszeiten: Die Referenzgruppe erhält den Wert 1; ein niedrigerer Wert bedeutet eine kürzere geschätzte Zeit in der verglichenen Gruppe. Das ist keine HR; achten Sie zuerst darauf, welche Gruppe die Referenz bildet."
+      },
+      "CRF": {
+        "name": "Kardiorespiratorische Fitness",
+        "description": "Die Fähigkeit von Herz, Lunge und Kreislauf, die Muskeln bei längerer körperlicher Aktivität mit Sauerstoff zu versorgen; sie wird häufig durch einen Belastungstest gemessen oder geschätzt."
+      },
+      "UACR": {
+        "name": "Albumin-Kreatinin-Quotient im Urin",
+        "description": "Setzt Albumin und Kreatinin aus derselben Urinprobe ins Verhältnis, um einen übermäßigen Albuminverlust im Urin zu erkennen; er dient zur Beurteilung der Nierengesundheit."
+      },
+      "UPF": {
+        "name": "Hochverarbeitete Lebensmittel",
+        "description": "Nach der NOVA-Klassifikation sind dies industrielle Rezepturen, oft mit Zusatzstoffen für Geschmack oder Konsistenz, etwa manche abgepackten Snacks und Fertiggerichte. Nicht jedes verarbeitete Lebensmittel fällt darunter."
+      },
+      "SSB": {
+        "name": "Zuckergesüßte Getränke",
+        "description": "Getränke mit zugesetztem Zucker oder Sirup, etwa herkömmliche Limonade, gesüßter Tee und manche Getränke mit Fruchtgeschmack. Welche Getränke dazugehören, hängt von der Studie ab."
+      },
+      "COPD": {
+        "name": "Chronisch obstruktive Lungenerkrankung",
+        "description": "Eine dauerhafte Lungenerkrankung, die den Luftstrom einschränkt und das Atmen erschwert, häufig mit anhaltendem Husten oder Auswurf."
+      }
+    },
+    "pt": {
+      "HR": {
+        "name": "Razão de riscos instantâneos",
+        "description": "Compara a velocidade com que um evento ocorre em determinado momento do acompanhamento. Para mortes, um HR abaixo de 1 indica uma taxa instantânea menor no grupo estudado do que no grupo de referência; 1 indica taxas iguais."
+      },
+      "RR": {
+        "name": "Risco relativo",
+        "description": "Compara a probabilidade de um evento em dois grupos ao longo do mesmo período. Um RR de 0,8 indica que o risco do grupo estudado corresponde a 80% do risco do grupo de referência; veja quais grupos e qual evento estão sendo comparados."
+      },
+      "OR": {
+        "name": "Razão de chances",
+        "description": "Compara, entre dois grupos, a relação entre o número de pessoas que tiveram um evento e o número das que não tiveram. Um OR de 1 indica chances iguais; ele difere do RR, que compara probabilidades."
+      },
+      "CI": {
+        "name": "Intervalo de confiança",
+        "description": "A faixa ao redor de uma estimativa mostra sua incerteza; em condições semelhantes, uma faixa mais estreita costuma indicar maior precisão. Se o intervalo de um HR, RR ou OR passa pelo 1, os dados ainda são compatíveis com nenhuma diferença entre os grupos."
+      },
+      "ACM": {
+        "name": "Mortalidade por todas as causas",
+        "description": "Conta as mortes por qualquer causa durante um período determinado. Leia a comparação junto com a população estudada e o tempo de acompanhamento."
+      },
+      "RCT": {
+        "name": "Ensaio clínico randomizado",
+        "description": "Os participantes são distribuídos ao acaso entre grupos, por exemplo, um grupo que recebe o tratamento e outro de comparação; depois, os resultados são comparados. O sorteio ajuda a identificar o efeito da intervenção."
+      },
+      "CVD": {
+        "name": "Doença cardiovascular",
+        "description": "Doenças do coração ou dos vasos sanguíneos, como doença coronariana e AVC. Um estudo pode analisar uma doença ou reunir vários eventos cardiovasculares."
+      },
+      "DOI": {
+        "name": "Identificador de objeto digital",
+        "description": "Identificador permanente de um artigo ou outro documento, como um endereço duradouro. O link DOI leva à página da publicação correspondente."
+      },
+      "MET": {
+        "name": "Equivalente metabólico",
+        "description": "Expressa o gasto de energia de uma atividade em relação ao repouso: uma atividade de 3 MET gasta aproximadamente três vezes essa energia. Em estudos de condicionamento físico, melhorar 1 MET costuma se referir à capacidade medida em um teste de esforço; confira como ela foi medida."
+      },
+      "SD": {
+        "name": "Desvio padrão",
+        "description": "Descreve quanto os valores de um grupo se espalham. Um resultado “a cada aumento de 1 SD” usa essa quantidade de variação como unidade, e não um ponto de uma escala ou uma unidade da medida original."
+      },
+      "LDL-C": {
+        "name": "Colesterol de lipoproteína de baixa densidade",
+        "description": "Colesterol transportado no sangue por lipoproteínas de baixa densidade e medido no exame de lipídios. Níveis elevados aumentam o risco de aterosclerose, doença cardíaca e AVC."
+      },
+      "PM2.5": {
+        "name": "Material particulado fino",
+        "description": "Partículas do ar com até 2,5 micrômetros de diâmetro, capazes de chegar às partes profundas dos pulmões. A concentração costuma ser expressa em microgramas por metro cúbico."
+      },
+      "BMI": {
+        "name": "Índice de massa corporal",
+        "description": "Peso em quilogramas dividido pela altura em metros ao quadrado: uma medida aproximada do peso em relação à altura. Não distingue gordura de músculo."
+      },
+      "CKD": {
+        "name": "Doença renal crônica",
+        "description": "Alterações duradouras na estrutura ou no funcionamento dos rins, que podem afetar a filtragem do sangue. Em um estudo, o grupo com CKD geralmente reúne pessoas que atendem aos critérios diagnósticos usados."
+      },
+      "STR": {
+        "name": "Razão de tempos de sobrevida",
+        "description": "Compara os tempos de sobrevida estimados por um modelo: o grupo de referência recebe o valor 1, e um valor menor indica um tempo estimado mais curto no grupo comparado. É diferente do HR; primeiro confira qual é o grupo de referência."
+      },
+      "CRF": {
+        "name": "Aptidão cardiorrespiratória",
+        "description": "Capacidade do coração, dos pulmões e da circulação de levar oxigênio aos músculos durante uma atividade prolongada, frequentemente medida ou estimada por um teste de esforço."
+      },
+      "UACR": {
+        "name": "Relação albumina/creatinina na urina",
+        "description": "Compara a albumina e a creatinina da mesma amostra de urina para avaliar se há perda excessiva de albumina pela urina; é um dos indicadores usados para avaliar os rins."
+      },
+      "UPF": {
+        "name": "Alimentos ultraprocessados",
+        "description": "Na classificação NOVA, são formulações industriais que costumam conter aditivos de sabor ou textura, como alguns salgadinhos embalados e refeições prontas. O termo não abrange todo alimento que passou por processamento."
+      },
+      "SSB": {
+        "name": "Bebidas açucaradas",
+        "description": "Bebidas com açúcar ou xarope adicionados, como refrigerantes comuns, chá adoçado e algumas bebidas com sabor de fruta. As categorias incluídas variam de um estudo para outro."
+      },
+      "COPD": {
+        "name": "Doença pulmonar obstrutiva crônica",
+        "description": "Doença pulmonar de longa duração que limita a passagem de ar e dificulta a respiração, muitas vezes acompanhada de tosse persistente ou catarro; também chamada DPOC."
+      }
+    },
+    "ja": {
+      "HR": {
+        "name": "ハザード比",
+        "description": "追跡中のある時点で、出来事が起こる速さを2群で比べます。死亡について HR が1未満なら、対象群のその時点の死亡率は比較群より低く、1なら同じです。"
+      },
+      "RR": {
+        "name": "相対リスク",
+        "description": "同じ観察期間に、出来事が起こる確率を2群で比べます。RR が0.8なら対象群の確率は比較群の80％に当たるので、何を、どの群と比べたかも確認します。"
+      },
+      "OR": {
+        "name": "オッズ比",
+        "description": "各群で「出来事が起きた人数」と「起きなかった人数」の比を求め、その比を2群で比較します。OR が1なら同じで、確率を直接比べる RR とは別の指標です。"
+      },
+      "CI": {
+        "name": "信頼区間",
+        "description": "推定値に添えられた幅は、推定の不確かさを表します。同じような条件なら狭いほど精度が高いのが一般的で、HR・RR・OR の区間が1をまたぐ場合は、群間に差がない可能性もデータと両立します。"
+      },
+      "ACM": {
+        "name": "全死因死亡率",
+        "description": "死因を問わず、ある期間にどれだけの人が亡くなったかを見ます。比較を読むときは、対象者と追跡期間も合わせて確認します。"
+      },
+      "RCT": {
+        "name": "ランダム化比較試験",
+        "description": "参加者を治療群と比較群などに無作為に分け、結果を比べる研究です。無作為に分けることで、介入そのものの影響を捉えやすくします。"
+      },
+      "CVD": {
+        "name": "心血管疾患",
+        "description": "冠動脈疾患や脳卒中など、心臓や血管の病気の総称です。研究によって、1つの病気を見る場合と複数の心血管イベントをまとめる場合があります。"
+      },
+      "DOI": {
+        "name": "デジタルオブジェクト識別子",
+        "description": "論文などの資料についた、変わらない住所のような識別番号です。DOI リンクから該当する論文のページへ進めます。"
+      },
+      "MET": {
+        "name": "メッツ（代謝当量）",
+        "description": "安静時と比べてどれだけエネルギーを使う活動かを表し、3 MET ならおよそ3倍です。体力の研究で「1 MET 向上」とある場合は通常、運動負荷試験で測った能力の向上を指すため、測定方法も確認します。"
+      },
+      "SD": {
+        "name": "標準偏差",
+        "description": "集団の数値がどれくらいばらついているかを表します。「1 SD 増加あたり」という結果は、そのばらつきの幅を単位にしており、得点の1点や元の測定単位の1とは異なります。"
+      },
+      "LDL-C": {
+        "name": "LDLコレステロール",
+        "description": "低密度リポタンパクによって血液中を運ばれるコレステロールで、脂質検査で測定します。高い状態は動脈硬化、心臓病、脳卒中のリスクを高めます。"
+      },
+      "PM2.5": {
+        "name": "微小粒子状物質",
+        "description": "直径2.5マイクロメートル以下の空気中の粒子で、肺の奥まで入り込むことがあります。研究では通常、空気1立方メートルあたりのマイクログラム数で濃度を示します。"
+      },
+      "BMI": {
+        "name": "体格指数",
+        "description": "体重をキログラム、身長をメートルで表し、体重を身長の2乗で割った値です。身長に対する体重の目安ですが、脂肪と筋肉は区別しません。"
+      },
+      "CKD": {
+        "name": "慢性腎臓病",
+        "description": "腎臓の構造や働きに異常が長く続き、血液をろ過する能力に影響することがある病気です。研究の CKD 群は通常、その研究の診断基準を満たす人を指します。"
+      },
+      "STR": {
+        "name": "生存時間比",
+        "description": "モデルで推定した生存時間を比べる指標で、基準群を1とし、1未満なら比較対象群の推定生存時間が短いことを示します。HR とは異なるため、どちらが基準群かを先に確認します。"
+      },
+      "CRF": {
+        "name": "心肺持久力",
+        "description": "長く体を動かしている間に、心臓・肺・循環系が筋肉へ酸素を届ける能力で、運動負荷試験などで測定または推定します。"
+      },
+      "UACR": {
+        "name": "尿中アルブミン・クレアチニン比",
+        "description": "同じ尿検体のアルブミン量とクレアチニン量を比べ、アルブミンが尿に漏れすぎていないかを見る指標で、腎臓の状態を調べるために使います。"
+      },
+      "UPF": {
+        "name": "超加工食品",
+        "description": "NOVA 分類で、工業的な配合・加工により作られ、風味や食感のための添加物を含むことが多い食品を指し、一部の袋菓子や調理済み食品などが該当します。加工をした食品すべてを指す言葉ではありません。"
+      },
+      "SSB": {
+        "name": "加糖飲料",
+        "description": "普通の炭酸飲料、加糖のお茶、一部の果実風味飲料など、砂糖やシロップを加えた飲み物です。何を含めるかは研究の分類で確認します。"
+      },
+      "COPD": {
+        "name": "慢性閉塞性肺疾患",
+        "description": "肺の空気の流れが制限され、息がしにくくなる慢性の病気で、長く続くせきやたんを伴うことがあります。"
+      }
+    },
+    "ar": {
+      "HR": {
+        "name": "نسبة المخاطر اللحظية",
+        "description": "تقارن سرعة وقوع حدث في لحظة معينة أثناء المتابعة بين مجموعتين. عند دراسة الوفاة، تعني قيمة HR الأقل من 1 أن معدل الوفاة اللحظي في المجموعة المدروسة أقل منه في المجموعة المرجعية؛ والقيمة 1 تعني تساوي المعدلين."
+      },
+      "RR": {
+        "name": "الخطر النسبي",
+        "description": "يقارن احتمال وقوع حدث في مجموعتين خلال الفترة نفسها. تعني قيمة RR البالغة 0.8 أن خطر المجموعة المدروسة يساوي 80% من خطر المجموعة المرجعية؛ لذا انظر إلى المجموعتين والحدث محل المقارنة."
+      },
+      "OR": {
+        "name": "نسبة الأرجحية",
+        "description": "تقارن بين المجموعتين نسبة عدد من وقع لديهم الحدث إلى عدد من لم يقع لديهم. تعني قيمة OR البالغة 1 تساوي الأرجحية؛ وهي تختلف عن RR الذي يقارن الاحتمالات."
+      },
+      "CI": {
+        "name": "فاصل الثقة",
+        "description": "يوضح النطاق المحيط بالتقدير مقدار عدم اليقين فيه؛ وعادة يدل النطاق الأضيق على دقة أعلى في ظروف متشابهة. إذا امتد فاصل HR أو RR أو OR إلى جانبي 1، تظل البيانات متوافقة مع عدم وجود فرق بين المجموعتين."
+      },
+      "ACM": {
+        "name": "معدل الوفيات لجميع الأسباب",
+        "description": "يحسب الوفيات أياً كان سببها خلال فترة محددة. اقرأ المقارنة مع الانتباه إلى المشاركين في الدراسة ومدة متابعتهم."
+      },
+      "RCT": {
+        "name": "تجربة عشوائية مضبوطة",
+        "description": "يوزع الباحثون المشاركين عشوائياً على مجموعات، مثل مجموعة علاج ومجموعة مقارنة، ثم يقارنون النتائج. يساعد التوزيع العشوائي على تمييز أثر التدخل نفسه."
+      },
+      "CVD": {
+        "name": "أمراض القلب والأوعية الدموية",
+        "description": "أمراض تصيب القلب أو الأوعية الدموية، ومنها مرض الشرايين التاجية والسكتة الدماغية. قد تتناول الدراسة مرضاً واحداً أو تجمع عدة أحداث قلبية ووعائية."
+      },
+      "DOI": {
+        "name": "معرّف الكائن الرقمي",
+        "description": "معرّف دائم لمقالة أو مادة منشورة، يشبه عنواناً ثابتاً لها. يوصلك رابط DOI إلى صفحة المنشور المقصود."
+      },
+      "MET": {
+        "name": "المكافئ الأيضي",
+        "description": "يعبّر عن استهلاك الطاقة أثناء النشاط مقارنة بالراحة؛ فنشاط بقيمة 3 MET يستهلك نحو ثلاثة أمثال طاقة الراحة. في دراسات اللياقة، يشير التحسن بمقدار 1 MET عادة إلى القدرة المقاسة باختبار الجهد؛ لذا راجع طريقة القياس."
+      },
+      "SD": {
+        "name": "الانحراف المعياري",
+        "description": "يصف مدى تشتت القيم داخل مجموعة. عندما تُعرض النتيجة «لكل زيادة بمقدار 1 SD»، تكون وحدة الزيادة هي هذا المقدار من التشتت، وليست نقطة واحدة في المقياس أو وحدة واحدة من القياس الأصلي."
+      },
+      "LDL-C": {
+        "name": "كوليسترول البروتين الدهني منخفض الكثافة",
+        "description": "كوليسترول تحمله البروتينات الدهنية منخفضة الكثافة في الدم، ويُقاس ضمن فحص دهون الدم. ارتفاعه يزيد خطر تصلب الشرايين وأمراض القلب والسكتة الدماغية."
+      },
+      "PM2.5": {
+        "name": "الجسيمات الدقيقة",
+        "description": "جسيمات عالقة في الهواء لا يتجاوز قطرها 2.5 ميكرومتر، ويمكن أن تصل إلى أعماق الرئتين. يُعبَّر عن تركيزها عادة بالميكروغرام لكل متر مكعب."
+      },
+      "BMI": {
+        "name": "مؤشر كتلة الجسم",
+        "description": "الوزن بالكيلوغرام مقسوماً على مربع الطول بالمتر، وهو مقياس تقريبي للوزن بالنسبة إلى الطول. لا يميز بين الدهون والعضلات."
+      },
+      "CKD": {
+        "name": "مرض الكلى المزمن",
+        "description": "تغيرات مستمرة في بنية الكلى أو وظائفها قد تؤثر في قدرتها على ترشيح الدم. تضم مجموعة CKD في الدراسة عادة من تنطبق عليهم معايير التشخيص المعتمدة فيها."
+      },
+      "STR": {
+        "name": "نسبة أزمنة البقاء",
+        "description": "تقارن أزمنة البقاء التي يقدرها نموذج إحصائي: تُعطى المجموعة المرجعية القيمة 1، وتشير القيمة الأقل إلى زمن مقدر أقصر في المجموعة المقارَنة. تختلف عن HR؛ لذا حدد أولاً أي مجموعة هي المرجع."
+      },
+      "CRF": {
+        "name": "اللياقة القلبية التنفسية",
+        "description": "قدرة القلب والرئتين والدورة الدموية على إيصال الأكسجين إلى العضلات أثناء النشاط المستمر، وغالباً ما تُقاس أو تُقدَّر باختبار جهد."
+      },
+      "UACR": {
+        "name": "نسبة الألبومين إلى الكرياتينين في البول",
+        "description": "تقارن كمية الألبومين بالكرياتينين في عينة البول نفسها لتقييم تسرب كميات زائدة من الألبومين إلى البول؛ وهي من مؤشرات تقييم صحة الكلى."
+      },
+      "UPF": {
+        "name": "الأغذية فائقة المعالجة",
+        "description": "وفق تصنيف NOVA، هي تركيبات صناعية غالباً ما تحتوي على إضافات للنكهة أو القوام، مثل بعض الوجبات الخفيفة المعبأة والوجبات الجاهزة. لا يشمل المصطلح كل طعام خضع لأي معالجة."
+      },
+      "SSB": {
+        "name": "المشروبات المحلاة بالسكر",
+        "description": "مشروبات أُضيف إليها السكر أو الشراب السكري، مثل المشروبات الغازية العادية والشاي المحلى وبعض المشروبات بنكهة الفاكهة. تختلف الأنواع المشمولة من دراسة إلى أخرى."
+      },
+      "COPD": {
+        "name": "مرض الانسداد الرئوي المزمن",
+        "description": "مرض رئوي طويل الأمد يحد من تدفق الهواء ويجعل التنفس صعباً، وغالباً ما يصاحبه سعال مستمر أو بلغم."
+      }
+    }
+  }
+}

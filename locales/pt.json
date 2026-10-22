@@ -1,0 +1,1332 @@
+{
+  "language": "pt",
+  "name": "Português",
+  "dir": "ltr",
+  "ui": {
+    "skip": "Ir para as evidências",
+    "repository": "Repositório original ↗",
+    "dark": "Escuro",
+    "light": "Claro",
+    "title": "Guia de longevidade para programadores",
+    "intro": "Mais energia para fazer o que você gosta. Mais tempo com quem importa. Conheça pesquisas sobre alimentação, movimento e sono e descubra hábitos para uma vida mais longa, saudável e feliz.",
+    "records": "registros de evidências",
+    "recordsShort": "registros",
+    "caution": "ACM significa mortalidade por todas as causas: mortes por qualquer causa durante um estudo. Veja primeiro quem foi comparado e depois a estimativa do efeito e seu intervalo. Abra um tema para conhecer a população estudada, os resultados e as fontes originais.",
+    "paths": "Temas",
+    "sideNote": "Comece pela população estudada e pela comparação. As letras indicam o nível de evidência.",
+    "methodLink": "Como ler as pesquisas ↓",
+    "explore": "Explore os estudos",
+    "table": "Tabela",
+    "tree": "Árvore",
+    "ledger": "Fontes",
+    "sort": "Ordenar",
+    "filterToggle": "Filtros",
+    "reset": "Limpar filtros",
+    "csv": "Exportar CSV atual ↓",
+    "json": "JSON completo ↓",
+    "scrollHint": " · Deslize a tabela na horizontal",
+    "methodTitle": "Entenda os resultados dos estudos",
+    "methodIntro": "Cada registro apresenta quem foi estudado, o que foi comparado, os resultados e as fontes. Comece avaliando se a situação estudada se aproxima da sua.",
+    "methodAssociation": "As estimativas de efeito descrevem diferenças entre grupos; os intervalos expressam a incerteza da estimativa. Considere também o grupo de comparação, o risco inicial e o tempo de acompanhamento.",
+    "methodNegative": "Mortalidade por todas as causas, ocorrência de doenças e biomarcadores respondem a perguntas diferentes. Confira primeiro o que o estudo mediu.",
+    "methodRead": "As fontes indicam o que foi lido: metadados, resumo ou trechos relevantes do texto completo. Siga os links para continuar a leitura da pesquisa original.",
+    "methodScope": "Temas como alimentação, movimento e sono continuam a receber novos conteúdos. Sugestões de estudos e correções são bem-vindas.",
+    "cochrane": "Referência de leitura: Manual Cochrane, capítulo 14 ↗",
+    "notes": "Notas originais de verificação (chinês)",
+    "archive": "README original congelado (chinês)",
+    "footerTitle": "Viver mais, com saúde e felicidade",
+    "footerNote": "Leia sem internet · Construído em conjunto, com código aberto",
+    "close": "Fechar ×",
+    "search": "Buscar fatores, estudos, conclusões ou DOI…",
+    "all": "Todos os fatores",
+    "allGrades": "Todos os níveis de evidência",
+    "allOrigins": "Originais + acrescentados",
+    "allVerdicts": "Todos os tipos de resultados",
+    "allSources": "Todos os níveis de leitura",
+    "category": "Categoria",
+    "subcategory": "Subcategoria",
+    "factor": "Fator",
+    "grade": "Nível de evidência",
+    "origin": "Origem do registro",
+    "verdict": "Tipo de conclusão",
+    "finding": "Resultados do estudo",
+    "effect": "Estimativa do efeito",
+    "ci": "Intervalo (CI de 95%, salvo indicação)",
+    "comparison": "Fator ou intervenção e grupo de comparação",
+    "population": "População e acompanhamento",
+    "design": "Desenho do estudo",
+    "gradeReason": "Base da classificação",
+    "limitations": "Aplicabilidade e limitações",
+    "action": "Para o dia a dia",
+    "originalClaim": "Afirmação original",
+    "raw": "Arquivo da alegação original (chinês, com links originais)",
+    "sources": "Fontes de pesquisa",
+    "sourceEvidence": "Trechos do estudo",
+    "originalUrl": "Entrada original",
+    "yearUnknown": "Ano não confirmado",
+    "unmarked": "Não informado",
+    "interval": "Intervalo",
+    "byCategory": "Ordem por categoria",
+    "byGrade": "Nível de evidência",
+    "byName": "Nome do fator",
+    "byYear": "Ano da publicação mais recente",
+    "empty": "Nenhum registro corresponde à busca. Remova um filtro ou tente outro termo.",
+    "expand": "Expandir ramos",
+    "collapse": "Recolher ramos",
+    "sourceLink": "fontes ↗",
+    "shown": "Exibindo",
+    "of": "/",
+    "openHint": "Abra um tema para conhecer o estudo e seus resultados",
+    "ledgerTitle": "Título da fonte",
+    "ledgerState": "Status de leitura",
+    "ledgerNote": "Notas sobre a fonte",
+    "ledgerIntro": "Encontre estudos e artigos relacionados. Clique no título para ler o original.",
+    "lines": "Números das linhas originais",
+    "resolved": "Substituição / estudo original ↗",
+    "copy": "Copiar resumo do estudo",
+    "png": "Baixar cartão PNG para compartilhar",
+    "link": "Copiar link",
+    "copied": "Resumo copiado.",
+    "linkCopied": "Link copiado. Ao compartilhar uma página local, envie também o arquivo.",
+    "manual": "O acesso automático à área de transferência estava indisponível. Selecione o texto abaixo e copie-o manualmente.",
+    "manualLabel": "Texto para cópia manual",
+    "shareWarning": "Leia a pesquisa original para conhecer os detalhes.",
+    "pngDone": "Cartão PNG gerado; download iniciado.",
+    "pngFail": "Exportação de imagem indisponível. Use o resumo do estudo.",
+    "translationMissing": "A tradução selecionada está incompleta. Os campos ausentes estão explicitamente marcados.",
+    "untranslated": "[Tradução pendente]",
+    "checked": "Revisão inicial",
+    "baseline": "Base original",
+    "readmeHash": "SHA-256 do README original",
+    "ledgerCount": "entradas originais de texto distintas",
+    "sourceColumn": "Fontes de pesquisa",
+    "rawColumn": "Arquivo original em chinês",
+    "jsonNotice": "Dados de pesquisa e traduções",
+    "gradeA": "Randomizada",
+    "gradeB": "Evidências mais robustas",
+    "gradeC": "Observacional limitada",
+    "gradeD": "Indireta",
+    "gradeU": "Informações insuficientes",
+    "guideA": "Estudos de intervenção randomizados que medem diretamente a mortalidade por todas as causas.",
+    "guideB": "Evidências diretas mais robustas de grandes coortes ou análises combinadas, ou de estudos randomizados com algumas limitações.",
+    "guideC": "Resultados observacionais diretos com limitações importantes na amostra, no número de estudos ou no desenho da pesquisa.",
+    "guideD": "Indícios indiretos de outras medidas de saúde, mecanismos ou estudos em animais.",
+    "guideU": "As informações disponíveis ainda não são suficientes para uma avaliação.",
+    "languageLabel": "Idioma",
+    "coverAlt": "Ilustração de anéis de crescimento e ramos com folhas, com uma pequena pessoa caminhando ao lado dos anéis.",
+    "coverCaption": "Os anéis da vida",
+    "visualGuide": "Como ler um resultado",
+    "visualIntro": "Identifique a população estudada, as condições de comparação e os resultados.",
+    "visualPopulation": "População",
+    "visualComparison": "Comparação",
+    "visualOutcome": "Desfecho",
+    "visualNote": "Idade, tabagismo e outros fatores podem influenciar tanto os hábitos de vida quanto os resultados de saúde.",
+    "visualConfounder": "Fatores compartilhados",
+    "visualExposure": "Exposição / intervenção",
+    "visualAssociation": "Associação observada",
+    "visualGrade": "Níveis de evidência dos estudos",
+    "visualGradeNote": "A classificação considera o desenho do estudo, os desfechos e as limitações.",
+    "auditTemplate": "Revisão {date}: {reviewed}/{total} registros, {abstracts} resumos originais e {full} textos completos relevantes.",
+    "exampleLabel": "Exemplo de comparação entre grupos",
+    "higherExposure": "Grupo com maior consumo",
+    "referenceGroup": "Grupo de referência",
+    "samePopulation": "Na mesma população de estudo",
+    "confounderExamples": "Por exemplo, idade ou tabagismo",
+    "studyDetails": "Detalhes do estudo",
+    "list": "Lista"
+  },
+  "terms": {
+    "输入": "Ingestão",
+    "输出": "Atividade",
+    "上下文": "Contexto",
+    "方法": "Métodos",
+    "固体": "Alimentos",
+    "液体": "Bebidas",
+    "气体": "Ar",
+    "药物": "Medicamentos",
+    "运动": "Exercício",
+    "日常": "Atividades diárias",
+    "睡眠": "Sono",
+    "久坐": "Tempo sedentário",
+    "体重": "Peso corporal",
+    "光照": "Luz",
+    "情绪": "Aspectos psicológicos e sociais",
+    "新冠": "COVID-19",
+    "贫富": "Riqueza",
+    "风险解释": "Interpretação do risco",
+    "原库": "Original",
+    "新增": "Acrescentado",
+    "支持但需限定": "Sustentada com ressalvas",
+    "无直接ACM证据": "Sem evidência direta sobre ACM",
+    "未能核实": "Não verificada",
+    "部分支持": "Parcialmente sustentada",
+    "需纠正": "Requer correção",
+    "元数据": "Apenas metadados",
+    "全文": "Texto completo",
+    "全文（关键结果段）": "Texto completo (resultados essenciais)",
+    "全文（说明书相关段）": "Texto completo (seções pertinentes da bula)",
+    "原文检索摘录": "Trechos da busca no original",
+    "摘要": "Resumo",
+    "摘要及原文检索摘录": "Resumo e trechos da busca no original",
+    "未读": "Não lida",
+    "二手报道": "Reportagem secundária",
+    "已核验": "Verificada",
+    "无法访问": "Inacessível",
+    "错链": "Link incorreto",
+    "非医学来源": "Fonte não médica"
+  },
+  "records": {
+    "poultry-fish": {
+      "factor": "Carne branca, carne vermelha e carne processada",
+      "originalClaim": "Seção original de ações: carne branca −11% a −3% de ACM; seção de evidências: aumentar a carne vermelha em ≥meia porção/dia aumenta a ACM em 10%; duas porções de carne vermelha/processada por semana a aumentam em 3%.",
+      "finding": "O parágrafo original combina dois artigos: JAMA sobre 2 porções adicionais de carne por semana e BMJ sobre mudanças no consumo de carne vermelha ao longo de oito anos. A ausência de associação significativa entre carne branca e ACM não demonstra ausência de risco; no JAMA, as aves se associaram a maior risco cardiovascular.",
+      "effect": "Carne processada HR 1.03; carne vermelha HR 1.03; aves HR 0.99; peixe HR 0.99; aumento de carne vermelha ≥meia porção/dia HR 1.10",
+      "ci": "Respectivos CI de 95%: 1.02–1.05; 1.01–1.05; 0.97–1.02; 0.97–1.01; 1.04–1.17",
+      "comparison": "JAMA: cada 2 porções adicionais/semana; BMJ: aumento ≥meia porção/dia ao longo de oito anos versus consumo estável",
+      "population": "JAMA: 29,682 participantes de 6 coortes dos EUA, 8,875 mortes; BMJ: 81,469 participantes, 14,019 mortes",
+      "design": "Análise prospectiva de várias coortes",
+      "gradeReason": "Associações diretas com ACM em coortes combinadas ou em uma grande coorte de alta qualidade; não provam causalidade",
+      "limitations": "Questionários alimentares e confundimento residual; as duas pesquisas usam janelas de exposição diferentes",
+      "action": "Limite a carne processada; substitua parte da carne vermelha por leguminosas, nozes, peixe e alimentos semelhantes. Considere o preparo e a alimentação como um todo.",
+      "sources": [
+        {
+          "evidence": "Resumo, Resultados: estimativas de ACM para carne processada 1.03 (1.02–1.05), carne vermelha 1.03 (1.01–1.05), aves 0.99 (0.97–1.02), peixe 0.99 (0.97–1.01)."
+        },
+        {
+          "evidence": "Resumo, Resultados: mudanças alimentares durante oito anos e mortes nos oito anos seguintes; HR 1.10 (1.04–1.17)."
+        }
+      ]
+    },
+    "fresh-fruit-diabetes": {
+      "factor": "Fruta fresca (pessoas com diabetes)",
+      "originalClaim": "Comer 200 g de fruta fresca diariamente pode reduzir a mortalidade em 17%, as complicações macrovasculares do diabetes em 13% e as microvasculares em 28%.",
+      "finding": "O resumo de congresso originalmente citado, sobre a carga global atribuível às doenças cardiovasculares, não é a fonte deste número de ACM. A fonte real é a população com diabetes do CKB: por 100 g/dia adicionais, e não 200 g, ACM HR 0.83; os valores macrovascular 0.87 e microvascular 0.72 também se referem a cada 100 g/dia. Não se pode generalizar isso como redução de 17% com 200 g/dia para todas as pessoas.",
+      "effect": "HR 0.83",
+      "ci": "CI de 95% 0.74–0.93",
+      "comparison": "Cada 100 g/dia adicionais de fruta fresca em pessoas com diabetes",
+      "population": "CKB, China: 30,300 participantes com diabetes no início, 3,389 mortes, cerca de 7 anos",
+      "design": "Uma única grande coorte prospectiva",
+      "gradeReason": "Coorte única ou confundimento/heterogeneidade substancial; evidências diretas limitadas sobre ACM",
+      "limitations": "População específica com diabetes; estudo não randomizado; divergência entre o desfecho e a dose citados",
+      "action": "Substitua sobremesas por quantidades moderadas de fruta inteira, ajustadas à glicemia e ao plano individual de tratamento; não a substitua por suco.",
+      "sources": [
+        {
+          "evidence": "Resumo, Métodos e resultados: 30,300 participantes com diabetes no início; por 100 g/dia, ACM HR 0.83 (0.74–0.93), microvascular 0.72 (0.61–0.87), macrovascular 0.87 (0.82–0.93)."
+        },
+        {
+          "evidence": "Apenas dados bibliográficos verificados: resumo de congresso sobre a carga global/regional/nacional de doenças cardiovasculares relacionada a frutas e hortaliças. Texto principal não obtido; não utilizado como evidência quantitativa de ACM."
+        }
+      ]
+    },
+    "flavonoid-foods": {
+      "factor": "Alimentos com flavonoides",
+      "originalClaim": "Comer alimentos com flavonoides está associado a risco de mortalidade 20% menor; exemplos incluem uma xícara de chá, uma maçã, uma laranja, 100 g de mirtilos ou 100 g de brócolis.",
+      "finding": "A direção da associação é sustentada, mas não se tratou de um ensaio de 100 g de brócolis por dia. A associação atinge um platô perto de 500 mg/dia de flavonoides totais. Após ajuste alimentar adicional, o HR do Q3 foi 0.88 e o do Q5, 0.92; uma redução uniforme de 20% ignora as diferenças entre modelos.",
+      "effect": "Q3 HR 0.88; Q5 HR 0.92",
+      "ci": "CI de 95% 0.84–0.91; 0.88–0.97",
+      "comparison": "Quintis 3/5 do consumo total de flavonoides versus quintil 1, Tabela 2, Modelo 3",
+      "population": "Dinamarca: 56,048 participantes, 14,083 mortes, 23 anos",
+      "design": "Coorte prospectiva",
+      "gradeReason": "Coorte única ou confundimento/heterogeneidade substancial; evidências diretas limitadas sobre ACM",
+      "limitations": "Confundimento por alimentação saudável e fatores socioeconômicos; um único questionário de frequência alimentar; não permite inferir efeitos de suplementos",
+      "action": "Obtenha nutrientes vegetais de hortaliças, frutas, leguminosas e alimentos semelhantes variados; não dependa de suplementos de flavonoides nem os use para compensar tabaco ou álcool.",
+      "sources": [
+        {
+          "evidence": "Texto completo, Tabela 2, flavonoides totais: Modelo 2, Q3/Q5 ambos cerca de 0.83; Modelo 3, Q3 0.88 (0.84–0.91), Q5 0.92 (0.88–0.97). Resultados: platô perto de 500 mg/dia."
+        }
+      ]
+    },
+    "chili-us": {
+      "factor": "Pimenta vermelha picante (EUA)",
+      "originalClaim": "Estudo dos EUA com 16,179 pessoas acompanhadas por cerca de 19 anos: mortes em 21.6% dos consumidores de pimenta versus 33.6% dos não consumidores; o parágrafo original afirma depois ACM 23% menor com >4 vezes/semana.",
+      "finding": "Os 16,179 participantes, 4,946 mortes e 21.6% versus 33.6% são do estudo dos EUA. A ACM ajustada foi 13% menor, o que difere da diferença bruta de risco e da estimativa italiana de 23%.",
+      "effect": "HR 0.87",
+      "ci": "CI de 95% 0.77–0.97",
+      "comparison": "Consumo de pimenta vermelha picante versus nenhum consumo",
+      "population": "NHANES III, EUA: 16,179 adultos, mediana de 18.9 anos",
+      "design": "Coorte prospectiva",
+      "gradeReason": "Coorte única ou confundimento/heterogeneidade substancial; evidências diretas limitadas sobre ACM",
+      "limitations": "As proporções brutas de mortes sofrem confundimento por idade e outros fatores; uma única medição alimentar",
+      "action": "Use como tempero se gostar e tolerar; pessoas com desconforto gastrointestinal não precisam forçar o aumento do consumo.",
+      "sources": [
+        {
+          "evidence": "Resumo, Resultados: NHANES III dos EUA, 16,179 participantes, 4,946 mortes, mediana de 18.9 anos; consumidores versus não consumidores, HR ajustado 0.87 (0.77–0.97); proporções brutas de mortes 21.6% versus 33.6%."
+        }
+      ]
+    },
+    "chili-italy": {
+      "factor": "Pimenta (Itália)",
+      "originalClaim": "Comer pimenta >4 vezes/semana reduz a ACM em 23% e a mortalidade cardiovascular em 34%; uma manchete secundária afirma “risco 61% menor de morte relacionada a doenças”.",
+      "finding": "As associações de >4 vezes/semana com ACM 23% menor e mortalidade cardiovascular 34% menor vêm da coorte italiana. Os 61% referem-se à redução relativa da mortalidade cerebrovascular, não da mortalidade geral por doenças. A referência foi consumo nunca/raro, não todas as pessoas que consumiam pimenta menos de 2 vezes/semana.",
+      "effect": "ACM HR 0.77",
+      "ci": "CI de 95% 0.66–0.90",
+      "comparison": ">4 vezes/semana versus nunca/raramente",
+      "population": "Coorte italiana Moli-sani: 22,811 participantes, 1,236 mortes, mediana de 8.2 anos",
+      "design": "Coorte prospectiva",
+      "gradeReason": "Coorte única ou confundimento/heterogeneidade substancial; evidências diretas limitadas sobre ACM",
+      "limitations": "Confundimento residual por alimentação/estilo de vida; não demonstra eficácia de uma intervenção com capsaicina",
+      "action": "Consuma conforme sua tolerância; isso não substitui o controle da pressão arterial ou outros tratamentos.",
+      "sources": [
+        {
+          "evidence": "Resumo, Resultados: Moli-sani, Itália, 22,811 participantes, 1,236 mortes, mediana de 8.2 anos; >4 vezes/semana versus nunca/raramente: ACM HR 0.77 (0.66–0.90), mortalidade cardiovascular 0.66 (0.50–0.86), mortalidade cerebrovascular 0.39 (0.20–0.75)."
+        }
+      ]
+    },
+    "eggs": {
+      "factor": "Ovos",
+      "originalClaim": "Meio ovo adicional por dia aumenta o risco de mortalidade por todas as causas e cardiovascular em 7%; substituir meio ovo inteiro por claras, aves, peixe, laticínios, nozes ou leguminosas produz reduções de ACM no modelo de 6%, 8%, 9%, 7%, 13% e 10%.",
+      "finding": "Os 7% e os números do modelo de substituição originais foram confirmados. São resultados observacionais de adultos de meia-idade e idosos dos EUA e substituições hipotéticas de quantidades equivalentes, não reduções de mortalidade causadas por mudanças alimentares randomizadas nem aumento fixo de 7% com ovos para todos.",
+      "effect": "HR 1.07 por meio ovo inteiro adicional/dia",
+      "ci": "CI de 95% 1.06–1.08",
+      "comparison": "Cada 25 g/dia adicionais de ovo inteiro; modelo de substituição, não uma intervenção efetiva",
+      "population": "NIH-AARP: 521,120 participantes, 129,328 mortes, mediana de 16 anos",
+      "design": "Grande coorte prospectiva",
+      "gradeReason": "Associações diretas com ACM em coortes combinadas ou em uma grande coorte de alta qualidade; não provam causalidade",
+      "limitations": "Autorrelato, uma única medição alimentar inicial, confundimento residual; os resultados podem variar entre regiões",
+      "action": "Escolha o consumo de ovos considerando a alimentação global e os lipídios sanguíneos; leguminosas ou nozes podem substituir parte da proteína animal. Não elimine ovos apenas por um estudo.",
+      "sources": [
+        {
+          "evidence": "Resumo do texto completo e Resultados/Substituição hipotética: meio ovo/dia, ACM 1.07 (1.06–1.08); substituição por claras/aves/peixe/laticínios/nozes/leguminosas produziu, respectivamente, reduções de ACM no modelo de 6/8/9/7/13/10%."
+        }
+      ]
+    },
+    "walnuts": {
+      "factor": "Nozes",
+      "originalClaim": "≥5 porções de nozes/semana (28 g/porção): mais 1.3 anos de expectativa de vida saudável, ACM 14% menor e mortalidade cardiovascular 25% menor.",
+      "finding": "A ACM 14% menor com ≥5 porções/semana é sustentada. Os 1.30/1.26 anos são estimativas de um modelo de expectativa total de vida aos 60 anos, não expectativa de vida saudável nem garantia de viver mais.",
+      "effect": "HR 0.86",
+      "ci": "CI de 95% 0.79–0.93",
+      "comparison": "≥5 porções/semana versus nenhuma; 28 g por porção",
+      "population": "NHS/HPFS: 93,340 participantes, 30,263 mortes, até 20 anos",
+      "design": "Análise de duas coortes",
+      "gradeReason": "Associações diretas com ACM em coortes combinadas ou em uma grande coorte de alta qualidade; não provam causalidade",
+      "limitations": "Viés do usuário saudável; expectativa de vida modelada; o financiamento pela indústria merece atenção",
+      "action": "Se não tiver alergia a frutos de casca rija, substitua lanches por quantidades moderadas desses alimentos sem sal, considerando a ingestão total de energia.",
+      "sources": [
+        {
+          "evidence": "Resumo, Resultados: ≥5 porções/semana HR 0.86 (0.79–0.93); expectativa de vida aos 60 anos maior em 1.30 anos para mulheres e 1.26 para homens, não expectativa de vida saudável."
+        }
+      ]
+    },
+    "nuts-general": {
+      "factor": "Frequência de consumo de frutos de casca rija",
+      "originalClaim": "O original descreve a frequência semanal com uma porção de 1 onça, com reduções de mortalidade de 7%, 11%, 13%, 15% e 20%; também chama de “transversal” um estudo de 7,216 pessoas, relatando mortalidade 39% menor com >3 porções/semana.",
+      "finding": "As frequências no NEJM foram <1, 1, 2–4, 5–6 e ≥7 vezes/semana, correspondendo a mortalidade 7/11/13/15/20% menor, e não grupos por peso semanal total; esses dados não demonstram que tais alimentos precisem ser consumidos crus. Os 39% do PREDIMED vêm de uma análise observacional do consumo, nem transversal nem o efeito sobre ACM do consumo randomizado separadamente.",
+      "effect": "NEJM ≥7 vezes/semana HR 0.80; PREDIMED >3 porções/semana HR 0.61",
+      "ci": "CI de 95% 0.73–0.86; 0.45–0.83",
+      "comparison": "Ambos versus nenhum consumo de frutos de casca rija",
+      "population": "NEJM: 118,962 participantes, 27,429 mortes; PREDIMED: 7,216 adultos com alto risco cardiovascular, 323 mortes",
+      "design": "Coortes prospectivas e análise observacional dentro de um ensaio randomizado",
+      "gradeReason": "Associações diretas com ACM em coortes combinadas ou em uma grande coorte de alta qualidade; não provam causalidade",
+      "limitations": "Os grupos de consumo não foram randomizados; crus versus torrados não foi testado diretamente",
+      "action": "Evite se tiver alergia; escolha versões sem sal e com pouco açúcar acrescentado para substituir outros lanches muito calóricos.",
+      "sources": [
+        {
+          "evidence": "Resumo, Resultados: frequências <1/1/2–4/5–6/≥7 vezes/semana, respectivos HR 0.93/0.89/0.87/0.85/0.80; CI do grupo mais alto 0.73–0.86."
+        },
+        {
+          "evidence": "Resumo, Métodos/Resultados: consumo inicial e medições anuais repetidas associados à mortalidade; >3 porções/semana HR 0.61 (0.45–0.83), 323 mortes."
+        }
+      ]
+    },
+    "sodium-ecological": {
+      "factor": "Associação ecológica entre países com o consumo de sódio",
+      "originalClaim": "Estudo ecológico de 181 países: por 1 g/dia adicional de sódio, expectativa de vida saudável ao nascer β=2.6 anos e aos 60 anos β=0.3 anos; ACM β=−131; em 46 países de alta renda, β=3.4 anos e ACM β=−168.",
+      "finding": "Os valores β originais concordam com o resumo, mas correlações ecológicas entre países não justificam que indivíduos comam mais sal. Os autores afirmam explicitamente que esses dados não devem fundamentar intervenções nutricionais.",
+      "effect": "β −131 eventos de morte por 1 g/dia a mais de sódio (regressão entre países)",
+      "ci": "Não informado",
+      "comparison": "Consumo médio de sódio versus medidas de mortalidade padronizadas por idade em 181 países; não é um HR individual",
+      "population": "Dados agregados de 2010 de 181 países; análise de sensibilidade em 46 países de alta renda",
+      "design": "Análise ecológica transversal",
+      "gradeReason": "Desfechos animais, ecológicos ou diferentes de ACM não estabelecem diretamente efeitos individuais sobre ACM humana",
+      "limitations": "Falácia ecológica; confundimento pela renda nacional e assistência à saúde; erros na estimativa do consumo",
+      "action": "Não aumente o sódio para prolongar a vida; ajuste o sal conforme sua pressão arterial, doenças e alimentação.",
+      "sources": [
+        {
+          "evidence": "Resumo, Métodos e resultados: 181 países; ACM β −131, R² 0.60, P<0.001; a conclusão final afirma que esses dados observacionais não devem servir de base para intervenções nutricionais."
+        }
+      ]
+    },
+    "potassium-salt": {
+      "factor": "Substituição por sal com menos sódio e enriquecido com potássio",
+      "originalClaim": "Vários estudos sugerem que o sal com menos sódio pode reduzir a ocorrência de doenças e ter efeito positivo na redução da ACM.",
+      "finding": "O SSaSS sustenta diretamente menor ACM quando adultos rurais específicos de alto risco substituem o sal comum por sal com 75% NaCl/25% KCl; não é possível isolar as contribuições da redução do sódio e da suplementação de potássio.",
+      "effect": "Razão de taxas de mortalidade 0.88",
+      "ci": "CI de 95% 0.82–0.95",
+      "comparison": "75% NaCl + 25% KCl versus 100% NaCl; 39.28 versus 44.61 por 1,000 pessoas-ano",
+      "population": "20,995 pessoas em 600 aldeias chinesas; histórico de AVC ou idade ≥60 com hipertensão; acompanhamento médio de 4.74 anos",
+      "design": "Ensaio aberto randomizado por conglomerados; ACM foi desfecho secundário",
+      "gradeReason": "Grande ensaio randomizado com desfecho direto de ACM; aplicabilidade populacional claramente delimitada",
+      "limitations": "População específica de alto risco; estudo aberto; aplicabilidade limitada em doença renal ou risco de hipercalemia",
+      "action": "Pessoas elegíveis, incluindo aquelas com hipertensão, podem substituir por sal com menos sódio e mais potássio após confirmação por profissional de saúde. Com função renal comprometida, hipercalemia ou medicamentos que elevam potássio, procure orientação antes de mudar o sal por conta própria.",
+      "sources": [
+        {
+          "evidence": "Resumo, Métodos/Resultados: 20,995 participantes, 4.74 anos; taxas de ACM 39.28 versus 44.61 por 1,000 pessoas-ano, razão de taxas 0.88 (0.82–0.95); hipercalemia clínica 1.04 (0.80–1.37)."
+        }
+      ]
+    },
+    "carbohydrate-share": {
+      "factor": "Proporção de energia proveniente de carboidratos",
+      "originalClaim": "Menor consumo de carboidratos significa vida mais curta; maior consumo também encurta ligeiramente a vida; cerca de 50% da energia seria a faixa de maior longevidade.",
+      "finding": "O estudo de 2018 sustenta uma associação observacional em U, com menor risco em torno de 50–55% da energia. Isso não significa que o baixo consumo de carboidratos inevitavelmente encurte a vida individual; as fontes de gordura/proteína que os substituem importam.",
+      "effect": "Baixo consumo de carboidratos HR 1.20; alto consumo HR 1.23",
+      "ci": "CI de 95% 1.09–1.32; 1.11–1.36",
+      "comparison": "<40% e >70% da energia proveniente de carboidratos, cada um versus consumo moderado (categorias da meta-análise); mínimo no ARIC em 50–55%",
+      "population": "ARIC: 15,428 participantes; total da meta-análise: 432,179",
+      "design": "Coorte prospectiva e meta-análise de coortes",
+      "gradeReason": "Associações diretas com ACM em coortes combinadas ou em uma grande coorte de alta qualidade; não provam causalidade",
+      "limitations": "Observacional e autorrelatado; diferenças nas categorias de consumo e alimentos substitutos; estimativas de expectativa de vida não são intervenções",
+      "action": "Priorize a qualidade dos carboidratos e aumente cereais integrais e leguminosas; diabetes ou dietas cetogênicas terapêuticas exigem individualização.",
+      "sources": [
+        {
+          "evidence": "Resumo, Resultados: ARIC com 15,428 participantes e síntese de 432,179 no total; menor ACM perto de 50%–55% da energia em carboidratos; baixo consumo HR 1.20 (1.09–1.32), alto consumo 1.23 (1.11–1.36); as fontes substitutas animais e vegetais diferiram na direção da associação."
+        }
+      ]
+    },
+    "betel-quid": {
+      "factor": "Noz de areca / preparado de bétele",
+      "originalClaim": "Mascar noz de areca aumenta a mortalidade por todas as causas em 21%.",
+      "finding": "A ACM 21% maior é um risco relativo combinado de estudos observacionais. A heterogeneidade é alta; os ingredientes do preparado e a exposição conjunta a tabaco e álcool influenciam a interpretação.",
+      "effect": "RR 1.21",
+      "ci": "CI de 95% 1.04–1.42",
+      "comparison": "Pessoas que mascam areca/preparado de bétele versus não consumidoras",
+      "population": "Análise de ACM: 179,582 participantes, 5 categorias de comparação em estudos asiáticos",
+      "design": "Revisão sistemática/meta-análise de estudos observacionais",
+      "gradeReason": "Coorte única ou confundimento/heterogeneidade substancial; evidências diretas limitadas sobre ACM",
+      "limitations": "I² 85%; formulações dos produtos e confundimento residual por tabaco/álcool; não randomizado",
+      "action": "Evite ou interrompa o uso de areca/preparado de bétele; a ausência de tabaco não o torna seguro. Procure apoio para cessação em caso de dependência.",
+      "sources": [
+        {
+          "evidence": "Texto completo, Mortalidade por todas as causas: 5 categorias de comparação, N=179,582, RR 1.21 (1.04–1.42), I² 85%, heterogeneidade P<0.001."
+        }
+      ]
+    },
+    "calorie-restriction": {
+      "factor": "Restrição calórica (primatas não humanos)",
+      "originalClaim": "Restrição calórica em macacos rhesus: controles com alimentação normal tiveram risco de doença 2.9 vezes maior e risco de mortalidade 3.0 vezes maior.",
+      "finding": "O número original de mortalidade triplicada dizia respeito a mortes relacionadas à idade em um estudo anterior com macacos rhesus, não à ACM humana. A atualização de 2014 do mesmo projeto relatou HR controle/restrição calórica de 1.78 para todas as causas e HR 2.89 para mortalidade relacionada à idade. A magnitude do prolongamento da vida humana não está comprovada.",
+      "effect": "HR de todas as causas em macacos 1.78 (controle/RC)",
+      "ci": "CI de 95% 1.04–3.04",
+      "comparison": "Alimentação normal versus restrição calórica de aproximadamente 30%",
+      "population": "UW: 76 macacos rhesus; o estudo independente do NIA com macacos inicialmente não encontrou diferença significativa de sobrevivência",
+      "design": "Intervenção animal de longo prazo",
+      "gradeReason": "Desfechos animais, ecológicos ou diferentes de ACM não estabelecem diretamente efeitos individuais sobre ACM humana",
+      "limitations": "Resultados animais não podem ser extrapolados para humanos; os centros diferiram na ração, idade e consumo dos controles",
+      "action": "Evite comer em excesso mantendo nutrição adequada. Pessoas com baixo peso, grávidas/lactantes, menores, idosos frágeis ou pessoas com transtornos alimentares não devem restringir calorias por conta própria.",
+      "sources": [
+        {
+          "evidence": "Resumo do estudo original no Europe PMC (Métodos/Resultados); JSON original preservado: o resumo de 2009 descreve estudo animal de 20 anos com menos mortes relacionadas à idade, não ACM humana."
+        },
+        {
+          "evidence": "Texto completo, Resultados: ACM controle/RC HR 1.78 (1.04–3.04), P=0.037; HR relacionado à idade 2.89 (1.34–6.25); a Introdução distingue o número anterior de mortalidade 3.0 vezes maior."
+        }
+      ]
+    },
+    "macronutrient-pattern": {
+      "factor": "Nutrição global e proporções de macronutrientes",
+      "originalClaim": "O original afirma proporções universalmente ideais: <24% de amido, 15%–17% de proteína, >15% de gordura monoinsaturada, <15% de açúcar, 6% de gordura saturada e 6% de poli-insaturada, e 30 g+ de fibra; também descreve associação linear entre gordura total e ACM.",
+      "finding": "No artigo, a gordura total não se associou significativamente à ACM; ele não mostrou que toda gordura seja prejudicial de forma linear. A matriz de risco descreve combinações em dados observacionais, não um ótimo universal. Os mínimos das curvas individuais incluíram fibra 15–30 g/dia, proteína 14–18% e amido 20–30%, diferentes de várias faixas originais e das “proporções ideais” precisas.",
+      "effect": "Exemplos: fibra 15–30 g/dia HR 0.68; proteína 14–18% HR 0.73",
+      "ci": "CI de 95% 0.65–0.72; 0.70–0.75",
+      "comparison": "Fibra versus 5 g/dia; proteína versus 10% da energia; cada nutriente tem sua própria referência",
+      "population": "UK Biobank: 195,658 participantes, 4,780 mortes, média de 10.6 anos",
+      "design": "Grande coorte prospectiva com modelagem não linear",
+      "gradeReason": "Associações diretas com ACM em coortes combinadas ou em uma grande coorte de alta qualidade; não provam causalidade",
+      "limitations": "Recordatórios alimentares de 24 horas autorrelatados, viés de seleção e confundimento residual; combinar mínimos de curvas distintas não cria prescrição validada",
+      "action": "Baseie a alimentação na qualidade global dos alimentos em vez de proporções exatas de macronutrientes; siga planos de nutrição clínica para doença renal, diabetes e condições semelhantes.",
+      "sources": [
+        {
+          "evidence": "Texto completo, Resultados/Fig. 1: gordura total sem significância; fibra 15–30 g/dia versus 5 g/dia HR 0.68 (0.65–0.72); proteína 14–18% versus 10% HR 0.73 (0.70–0.75). Métodos: categorias da matriz de risco não eram comparações alimentares randomizadas."
+        }
+      ]
+    },
+    "ultraprocessed-acm": {
+      "factor": "Alimentos ultraprocessados e ACM",
+      "originalClaim": "Seção original de ações: comer menos ultraprocessados, −62% a −18%; a manchete citada afirma que consumidores frequentes de batata chips, hambúrgueres e chocolate têm “idade média ao morrer de apenas 58 anos”.",
+      "finding": "O SUN sustenta associação do grupo de maior consumo com ACM 62% maior. Os 58 anos são a idade média, na amostra, daqueles que morreram; não significam que consumidores frequentes tenham expectativa de vida de 58 anos nem que os ultraprocessados tenham causado suas mortes.",
+      "effect": "HR 1.62; por 1 porção adicional/dia HR 1.18",
+      "ci": "CI de 95% 1.13–2.33; 1.05–1.33",
+      "comparison": "Quartil mais alto versus mais baixo; grupo mais alto >4 porções/dia",
+      "population": "Graduados universitários espanhóis do SUN: 19,899 participantes, 335 mortes, 200,432 pessoas-ano",
+      "design": "Coorte prospectiva",
+      "gradeReason": "Coorte única ou confundimento/heterogeneidade substancial; evidências diretas limitadas sobre ACM",
+      "limitations": "Apenas 335 mortes; amostra selecionada de alta escolaridade; confundimento alimentar; CI amplo",
+      "action": "Substitua parte dos ultraprocessados por alimentos integrais menos processados, preservando nutrição adequada e acessibilidade financeira.",
+      "sources": [
+        {
+          "evidence": "Texto completo, Resultados: 335 mortes; idade média ao morrer 58.0 (DP 15.6); HR do grupo mais alto/mais baixo 1.62 (1.13–2.33); por porção HR 1.18 (1.05–1.33)."
+        }
+      ]
+    },
+    "ultraprocessed-cvd": {
+      "factor": "Ultraprocessados (limites dos desfechos das fontes cardiovasculares)",
+      "originalClaim": "A entrada de ultraprocessados reúne o estudo SUN de mortalidade por todas as causas, o estudo NutriNet-Santé de incidência cardiovascular e um comentário.",
+      "finding": "O NutriNet-Santé examinou novos casos de doença cardiovascular, não ACM. Lawrence/Baker é um comentário sem evidência quantitativa independente de ACM. Não devem ser contados com o SUN como três estudos de mortalidade.",
+      "effect": "Doença cardiovascular HR 1.12; ACM não avaliada",
+      "ci": "Doença cardiovascular CI de 95% 1.05–1.20; ACM não informada",
+      "comparison": "Cada aumento de 10 pontos percentuais na proporção alimentar de ultraprocessados",
+      "population": "França: 105,159 adultos, 1,409 eventos cardiovasculares, mediana de 5.2 anos",
+      "design": "Coorte prospectiva (doença cardiovascular); comentário",
+      "gradeReason": "Desfechos animais, ecológicos ou diferentes de ACM não estabelecem diretamente efeitos individuais sobre ACM humana",
+      "limitations": "Desfecho diferente de ACM; PDF do comentário original inacessível, apenas dados bibliográficos verificados",
+      "action": "Podem sustentar a orientação alimentar geral de reduzir ultraprocessados, mas não permitem calcular o risco de mortalidade a partir deste artigo.",
+      "sources": [
+        {
+          "evidence": "Resumo, Desfecho principal/Resultados: incidência cardiovascular, HR 1.12 (1.05–1.20) por aumento de 10 pontos percentuais na proporção de ultraprocessados; ACM não informada."
+        },
+        {
+          "evidence": "Registro bibliográfico do Europe PMC PMID 31142449: Ultra-processed food and adverse health outcomes, 2019, BMJ l2289; sem resumo, link RG original retornou 403; texto completo do comentário não lido."
+        }
+      ]
+    },
+    "whole-grains": {
+      "factor": "Cereais integrais",
+      "originalClaim": "Este fator não constava no repositório original.",
+      "finding": "Maior consumo de cereais integrais se associa a menor ACM. O estudo mede o peso de alimentos integrais; 90 g não significam 90 g de grãos secos ou de fibra.",
+      "effect": "RR 0.83",
+      "ci": "CI de 95% 0.77–0.90",
+      "comparison": "Cada 90 g/dia adicionais de alimentos integrais (cerca de 3 porções)",
+      "population": "11 estudos prospectivos combinados para ACM; 45 estudos na revisão completa",
+      "design": "Meta-análise de dose-resposta de estudos prospectivos",
+      "gradeReason": "Associações diretas com ACM em coortes combinadas ou em uma grande coorte de alta qualidade; não provam causalidade",
+      "limitations": "ACM I² 83%; observacional; definições heterogêneas de porções alimentares",
+      "action": "Substitua gradualmente cereais refinados por integrais. Pessoas com doença celíaca devem escolher integrais sem glúten; ajuste à tolerância digestiva.",
+      "sources": [
+        {
+          "evidence": "Resumo, Resultados: ACM por 90 g/dia RR 0.83 (0.77–0.90), I² 83%, 11 estudos; o exemplo de 90 g são duas fatias de pão e uma tigela de cereal."
+        }
+      ]
+    },
+    "dietary-fiber": {
+      "factor": "Fibra alimentar",
+      "originalClaim": "Este fator não constava no repositório original.",
+      "finding": "A revisão sustenta associação entre maior ingestão de fibra e menor ACM. A faixa de 15–30% do resumo abrange vários desfechos, não um efeito preciso específico sobre ACM. Os ensaios randomizados demonstraram melhora de fatores de risco, não redução de mortes.",
+      "effect": "Direção da associação com ACM: menor; o resumo não fornece estimativa combinada precisa e separada de ACM",
+      "ci": "Não informado",
+      "comparison": "Maior versus menor consumo de fibra; risco 15–30% menor em vários desfechos",
+      "population": "185 estudos prospectivos e 58 ensaios; 4,635 participantes nos ensaios",
+      "design": "Revisões sistemáticas e meta-análises (ACM proveniente de coortes)",
+      "gradeReason": "Associações diretas com ACM em coortes combinadas ou em uma grande coorte de alta qualidade; não provam causalidade",
+      "limitations": "Evidências de ACM não randomizadas; não derive um CI de ACM da faixa global",
+      "action": "Aumente gradualmente a fibra de cereais integrais, leguminosas, hortaliças e frutas, com atenção à ingestão de líquidos; siga orientação médica em caso de estreitamento intestinal ou doença gastrointestinal aguda.",
+      "sources": [
+        {
+          "evidence": "Resumo, Resultados: 185 coortes, 58 ensaios clínicos; dados observacionais mostraram reduções de 15–30% em vários desfechos, com maiores benefícios perto de 25–29 g/dia. Os ensaios relataram peso/pressão arterial/colesterol, não ACM."
+        }
+      ]
+    },
+    "plant-protein": {
+      "factor": "Fontes de proteína vegetal",
+      "originalClaim": "Este fator não constava no repositório original.",
+      "finding": "Maior ingestão de proteína vegetal se associa a menor ACM. Os alimentos substituídos importam; isso não pode ser interpretado como efeito de uma intervenção de acrescentar proteína em pó.",
+      "effect": "Tamanho de efeito combinado 0.92",
+      "ci": "CI de 95% 0.87–0.97",
+      "comparison": "Maior versus menor ingestão de proteína vegetal",
+      "population": "32 coortes revisadas, 31 combinadas; 715,128 participantes, 113,039 mortes",
+      "design": "Revisão sistemática/meta-análise de dose-resposta de coortes prospectivas",
+      "gradeReason": "Associações diretas com ACM em coortes combinadas ou em uma grande coorte de alta qualidade; não provam causalidade",
+      "limitations": "Heterogeneidade I² 57.5%; confundimento residual; difícil separar os efeitos dos alimentos integrais dos componentes proteicos",
+      "action": "Substitua parte da carne vermelha/processada por leguminosas, alimentos de soja e frutos de casca rija; ajuste a alergias ou doença renal conforme necessidades individuais.",
+      "sources": [
+        {
+          "evidence": "Resumo, Resultados: proteína vegetal e ACM, tamanho de efeito combinado 0.92 (0.87–0.97), I² 57.5%; cada 3% adicionais da energia se associaram a ACM 5% menor; o resumo não dá CI para essa estimativa de dose."
+        }
+      ]
+    },
+    "dairy": {
+      "factor": "Laticínios / leite",
+      "originalClaim": "* Leite\n  * [Estudo do The Lancet com 130,000 pessoas em 21 países: 500 g de leite ou iogurte por dia reduzem o risco de mortalidade cardiovascular em 23%](https://www.sohu.com/a/253940257_419768)\n  * Fonte: [Association of dairy intake with cardiovascular disease and mortality in 21 countries from five continents (PURE): a prospective cohort study](http://mdrf-eprints.in/1114/1/Association_of_dietary_patterns_and_dietary_diversity_with_cardiometabolic_disease_risk_factors.pdf)\n  * Comparadas a pessoas sem consumo de laticínios, aquelas que consumiam duas porções diárias (uma porção é 244 g de leite/iogurte, 15 g de queijo ou 5 g de manteiga) tinham **risco de mortalidade por todas as causas 17% menor**, risco de mortalidade cardiovascular 23% menor e de AVC 33% menor\nSeção original de ações: beber leite (−17% a −10% de ACM)",
+      "finding": "Os 17% do PURE são uma associação de ACM para >2 porções/dia de laticínios totais versus nenhuma, não o efeito apenas do leite nem de exatamente 2 porções. O CI de 95% do HR 0.77 de mortalidade cardiovascular cruza 1, portanto a redução de 23% não pode ser afirmada como benefício estabelecido. Outras revisões não encontraram associação consistente de ACM para laticínios totais ou leite; não se deve prometer que leite prolonga a vida. O PDF original estava inacessível e seu nome não corresponde ao título citado, sugerindo link incorreto.",
+      "effect": "HR 0.83",
+      "ci": "CI de 95% 0.72–0.96",
+      "comparison": "Laticínios totais >2 porções/dia versus 0; não apenas leite",
+      "population": "136,384 pessoas em 21 países, idades 35–70; acompanhamento mediano de 9.1 anos; 6,796 mortes",
+      "design": "Coorte prospectiva PURE; verificada também uma revisão de 8 meta-análises",
+      "gradeReason": "Grande coorte multinacional com desfecho direto de ACM; inconsistências entre outras coortes combinadas impedem inferência causal",
+      "limitations": "Erro do questionário alimentar e confundimento residual por renda e padrões alimentares; tipos de laticínios e substitutos importam. HR 0.90 para >1 porção de leite refere-se ao composto morte/doença cardiovascular, não à ACM específica do leite.",
+      "action": "Escolha leite ou iogurte sem açúcar acrescentado conforme as necessidades nutricionais; use alternativas adequadas para intolerância à lactose ou alergia ao leite, em vez de forçar maior consumo por longevidade.",
+      "sources": [
+        {
+          "evidence": "Resumo, Métodos/Resultados: laticínios totais >2 porções/dia versus nenhum, ACM 0.83 (0.72–0.96); mortalidade cardiovascular 0.77 (0.58–1.01)."
+        },
+        {
+          "evidence": "Resumo: 8 meta-análises; faixa de RR 0.99–1.01 por 200–244 g de leite; a conclusão não encontrou associação com ACM."
+        }
+      ]
+    },
+    "tea-china-par": {
+      "factor": "Chá (China-PAR)",
+      "originalClaim": "* Chá\n  * [Acompanhar 100,000 chineses por 7 anos encontrou associação de chá três vezes/semana com risco de mortalidade por todas as causas 15% menor e expectativa de vida 1.26 anos maior](https://www.jianshu.com/p/5461a205cf95?utm_campaign=hugo)\n  * Fonte: [Tea consumption and the risk of atherosclerotic cardiovascular disease and all-cause mortality: The China-PAR project](https://www.researchgate.net/profile/Fangchao-Liu-4/publication/338483323_Tea_consumption_and_the_risk_of_atherosclerotic_cardiovascular_disease_and_all-cause_mortality_The_China-PAR_project/links/5e55e5e94585152ce8efe511/Tea-consumption-and-the-risk-of-atherosclerotic-cardiovascular-disease-and-all-cause-mortality-The-China-PAR-project.pdf)\n  * [Prospective study of tea consumption and mortality risk in Chinese adults](http://rs.yiigle.com/CN112338202202/1351516.htm)\n  * Entre 438,443 participantes analisados, ocorreram 34,661 mortes em 11.1 anos. Comparados aos que nunca bebiam chá, os consumidores atuais não diários e diários tiveram respectivos HR de mortalidade por todas as causas (CI de 95%) de 0.89 (0.86–0.91) e 0.92 (0.88–0.95). A análise por sexo mostrou associação protetora principalmente nos homens (interação P<0.05).\nSeção original de ações: beber chá (−15% a −8% de ACM)",
+      "finding": "Beber chá habitualmente se associa a menor ACM; a definição ≥3 vezes/semana vem do texto principal. A expectativa de vida 1.26 anos maior aos 50 anos é modelada, não uma intervenção mostrando que todos vivem 1.26 anos a mais ao beber chá.",
+      "effect": "HR 0.85",
+      "ci": "CI de 95% 0.79–0.90",
+      "comparison": "≥3 vezes/semana versus nunca ou <3 vezes/semana",
+      "population": "China: 100,902 adultos; mediana de 7.3 anos; 5,479 mortes",
+      "design": "Combinação de três coortes prospectivas China-PAR",
+      "gradeReason": "Várias coortes e grande amostra com ACM direta; direção semelhante ao CKB, mas observacional",
+      "limitations": "Consumo de chá autorrelatado; confundimento residual por tabaco, álcool, condição socioeconômica e comportamentos de saúde; tamanhos de xícara, concentração e tipos de chá não são equivalentes; diferença de expectativa de vida modelada.",
+      "action": "Se gostar e tolerar, escolha chá sem açúcar e não escaldante. Reduza com insônia, palpitações ou necessidade de limitar cafeína; chá não substitui parar de fumar ou tratamento.",
+      "sources": [
+        {
+          "evidence": "Resumo, Resultados: ACM 0.85 (0.79–0.90), diferença de expectativa de vida aos 50 anos de 1.26 anos; Métodos do texto principal definem beber chá como ≥3 vezes/semana (web-jama-tea-extract.json)."
+        }
+      ]
+    },
+    "tea-ckb": {
+      "factor": "Chá (CKB)",
+      "originalClaim": "* Chá\n  * [Acompanhar 100,000 chineses por 7 anos encontrou associação de chá três vezes/semana com risco de mortalidade por todas as causas 15% menor e expectativa de vida 1.26 anos maior](https://www.jianshu.com/p/5461a205cf95?utm_campaign=hugo)\n  * Fonte: [Tea consumption and the risk of atherosclerotic cardiovascular disease and all-cause mortality: The China-PAR project](https://www.researchgate.net/profile/Fangchao-Liu-4/publication/338483323_Tea_consumption_and_the_risk_of_atherosclerotic_cardiovascular_disease_and_all-cause_mortality_The_China-PAR_project/links/5e55e5e94585152ce8efe511/Tea-consumption-and-the-risk-of-atherosclerotic-cardiovascular-disease-and-all-cause-mortality-The-China-PAR-project.pdf)\n  * [Prospective study of tea consumption and mortality risk in Chinese adults](http://rs.yiigle.com/CN112338202202/1351516.htm)\n  * Entre 438,443 participantes analisados, ocorreram 34,661 mortes em 11.1 anos. Comparados aos que nunca bebiam chá, os consumidores atuais não diários e diários tiveram respectivos HR de mortalidade por todas as causas (CI de 95%) de 0.89 (0.86–0.91) e 0.92 (0.88–0.95). A análise por sexo mostrou associação protetora principalmente nos homens (interação P<0.05).\nSeção original de ações: beber chá (−15% a −8% de ACM)",
+      "finding": "A amostra original, o número de mortes e os dois HR estão corretos; a associação protetora ocorreu principalmente nos homens. O consumo diário não mostrou superioridade sobre o não diário; maior frequência de chá não pode ser tomada diretamente como maior longevidade.",
+      "effect": "HR 0.89 (não diário); 0.92 (diário)",
+      "ci": "Respectivos CI de 95% 0.86–0.91; 0.88–0.95",
+      "comparison": "Consumo atual de chá não diário/diário versus nunca",
+      "population": "CKB, China: 438,443 pessoas; mediana de 11.1 anos; 34,661 mortes",
+      "design": "Coorte prospectiva",
+      "gradeReason": "Grande coorte chinesa de alta qualidade, com direção sustentada por outra grande coorte; não randomizada",
+      "limitations": "Interação por sexo P<0.05; tabaco e álcool podem confundir desfechos de câncer; chá autorrelatado no início; sem prova de benefício causal individual.",
+      "action": "Escolha chá sem açúcar a temperatura adequada; chá não compensa riscos do tabaco ou do álcool excessivo.",
+      "sources": [
+        {
+          "evidence": "Resumo, Resultados e resumo na página do texto completo da revista: não diário 0.89 (0.86–0.91), diário 0.92 (0.88–0.95); associação protetora principalmente nos homens."
+        }
+      ]
+    },
+    "artificially-sweetened-drinks": {
+      "factor": "Refrigerantes com adoçantes artificiais",
+      "originalClaim": "* Bebidas sem açúcar (adoçadas)\n  * [“Bebidas sem açúcar aumentam o risco de mortalidade em 26%”: é verdade?](https://www.zhihu.com/question/418598272/answer/1450648364)\n    * Comparados aos participantes que consumiam <1 copo/mês de refrigerantes, aqueles que consumiam ≥1 copo/dia de refrigerantes combinados tinham risco de mortalidade 18% maior; **refrigerantes com açúcar e sem açúcar aumentavam o risco de mortalidade em 11% e 27%, respectivamente.**\n    * ![Bebidas](https://user-images.githubusercontent.com/2707039/163704346-e7d92e7f-eba5-4673-8f15-3a96782c2e32.png)\n  * [Association Between Soft Drink Consumption and Mortality in 10 European Countries](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2749350)",
+      "finding": "Os 18%, 11% e 27% originais aparecem no texto principal, mas referem-se ao subgrupo com IMC<25 e ≥1 copo/dia versus <1 copo/mês; o original omite essa restrição populacional. Na coorte completa, os HR de ACM com ≥2 copos/dia foram 1.17, 1.08 e 1.26 para refrigerantes totais, com açúcar e com adoçantes artificiais. Este estudo observacional não estabelece que adoçantes causem morte nem se aplica a água ou chá/café sem açúcar.",
+      "effect": "HR 1.26 (coorte completa, adoçantes artificiais); 1.27 (subgrupo IMC<25)",
+      "ci": "CI de 95% 1.16–1.35; 1.12–1.43",
+      "comparison": "Coorte completa: ≥2 copos/dia versus <1 copo/mês; subgrupo IMC<25: ≥1 copo/dia versus <1 copo/mês; copo ≈250 mL",
+      "population": "EPIC: 451,743 pessoas em 10 países europeus; média de 16.4 anos; 41,693 mortes",
+      "design": "Coorte prospectiva multinacional",
+      "gradeReason": "Grande coorte multinacional de ACM direta, mas com causalidade reversa e viés de seleção por saúde substanciais",
+      "limitations": "Pessoas com obesidade ou risco metabólico podem mudar para bebidas com adoçantes; questionário alimentar único inicial; não permite implicar adoçantes individuais; não é ensaio randomizado de substituição de bebidas açucaradas.",
+      "action": "Prefira água ou chá/café sem açúcar para hidratação habitual. Quem está trocando bebidas açucaradas por bebidas com adoçantes não deve voltar às açucaradas com base nesta coorte.",
+      "sources": [
+        {
+          "evidence": "Resumo, Resultados: adoçantes artificiais ≥2 copos/dia HR 1.26 (1.16–1.35); texto principal, Resultados, Mortalidade por todas as causas, parágrafo 3: subgrupo IMC<25, ≥1 copo/dia, três categorias de bebidas HR 1.18/1.11/1.27 (web-jama-tea-extract.json)."
+        }
+      ]
+    },
+    "sugar-sweetened-drinks": {
+      "factor": "Bebidas açucaradas",
+      "originalClaim": "* Bebidas açucaradas\n  * [Cola e chá com leite aumentam a mortalidade por todas as causas em até 62%! Suco reduz a imunidade e afeta o metabolismo hepático! Sobre bebidas açucaradas](https://zhuanlan.zhihu.com/p/400746073)\n    * Um copo de bebida açucarada por dia aumenta a mortalidade por todas as causas em 7%; dois copos, em 21%\n    * Durante 34 anos de acompanhamento, pesquisadores observaram que, comparados a quem bebia um copo ou menos por mês, os que bebiam dois copos diários tinham risco de mortalidade geral 21% maior, mortalidade cardiovascular 31% maior e mortalidade por câncer 16% maior.\n    * Cada copo diário adicional de bebida açucarada aumenta o risco de mortalidade geral em 7%, de doença cardiovascular em 10% e de mortalidade relacionada ao câncer em 16%.\n    * Um artigo publicado no BMJ provou que bebidas açucaradas aumentam o risco de câncer; abrangia não só suco, mas também chá com leite: o risco geral de câncer relacionado a bebidas açucaradas era 18% maior que o habitual, e suco 100% espremido na hora também aumentava o risco geral de câncer em 12%.\nSeção original de ações: limitar ou evitar bebidas adoçadas (caso contrário, um copo diário +7% de ACM, +dopamina)",
+      "finding": "Duas coortes dos EUA sustentam associações de ≥2 porções/dia versus <1 porção/mês com ACM 21% maior, mortalidade cardiovascular 31% maior e mortalidade por câncer 16% maior. O PDF do artigo original foi lido: o modelo contínuo dá HR de ACM 1.07 por 1 porção adicional/dia; o HR categórico de 1 a <2 porções/dia é 1.14, e não são intercambiáveis. A mortalidade por câncer foi 5% maior por 1 porção adicional/dia; o original afirma incorretamente 16%, número da comparação da categoria de consumo mais alta. Os 18% e 12% do BMJ são de incidência de câncer, não ACM. Não foi encontrada estimativa correspondente totalmente ajustada para a manchete “até 62%”.",
+      "effect": "HR 1.21 (≥2 porções/dia); 1.14 (1 a <2 porções/dia); 1.07 (por 1 porção adicional/dia)",
+      "ci": "Respectivos CI de 95% 1.13–1.28; 1.09–1.19; 1.05–1.09",
+      "comparison": "Bebidas açucaradas ≥2 porções/dia versus <1 porção/mês; separadamente, modelo contínuo por 1 porção adicional/dia",
+      "population": "NHS, EUA: 80,647 mulheres; HPFS: 37,716 homens; até 34 anos; 36,436 mortes",
+      "design": "Duas coortes prospectivas",
+      "gradeReason": "Duas grandes coortes com medições alimentares repetidas e ACM direta; ainda não é ensaio causal",
+      "limitations": "Principalmente profissionais de saúde; consumo autorrelatado; confundimento residual; copos/porções não são intercambiáveis entre estudos; modelos contínuos por copo e categóricos diferem. O artigo do BMJ trata de incidência de câncer por 100 mL/dia, não mortalidade.",
+      "action": "Reduza refrigerantes açucarados, chá com leite adoçado e bebidas semelhantes habituais, substituindo-os por água; os limiares de dose dos estudos não são limites de segurança.",
+      "sources": [
+        {
+          "evidence": "Resumo e Resultados/Tabelas 2, 3 do artigo original (cópia PDF sugar-drinks-mirror.pdf e texto): ≥2 porções/dia ACM 1.21 (1.13–1.28); por 1 porção adicional/dia ACM 1.07 (1.05–1.09), mortalidade cardiovascular 1.10 (1.06–1.14), mortalidade por câncer 1.05 (1.02–1.08). A cópia preserva o artigo original; a reportagem do site que a hospeda não é a base das evidências."
+        },
+        {
+          "evidence": "Resumo, Resultados: incidência de câncer por 100 mL/dia de bebidas açucaradas, sHR 1.18 (1.10–1.27); suco puro 1.12 (1.03–1.23); não ACM."
+        }
+      ]
+    },
+    "fruit-juice": {
+      "factor": "Suco de fruta 100%",
+      "originalClaim": "* Suco de fruta\n  * [Revista JAMA: suco 100% puro pode ser mais perigoso que bebidas açucaradas](https://zhuanlan.zhihu.com/p/66513350)\n    * Cada porção adicional de 12 onças/dia de bebidas açucaradas aumenta o risco de mortalidade por todas as causas em 11%;\n    * Cada porção adicional de 12 onças/dia de suco aumenta o risco de mortalidade por todas as causas em 24%.",
+      "finding": "O REGARDS sustenta HR de ACM 1.24 por 12 onças/dia adicionais de suco puro. Os “11% para bebidas açucaradas” originais referem-se, na realidade, à categoria combinada de bebidas com açúcar adicionado e suco 100%, não apenas às primeiras. Estimativas pontuais de modelos diferentes não demonstram que suco seja mais perigoso que refrigerante açucarado.",
+      "effect": "HR 1.24 (suco puro); 1.11 (bebidas com açúcar combinadas)",
+      "ci": "Respectivos CI de 95% 1.09–1.42; 1.03–1.19",
+      "comparison": "Por 12 onças fluidas dos EUA adicionais/dia ≈355 mL; modelo contínuo",
+      "population": "REGARDS, EUA: 13,440 pessoas com ≥45 anos, idade média 63.6; média de 6 anos; 1,000 mortes",
+      "design": "Análise secundária de coorte prospectiva existente",
+      "gradeReason": "Coorte única, relativamente poucos eventos, alimentação inicial autorrelatada; ACM direta, mas requer replicação",
+      "limitations": "A exposição 1.11 do resumo é a categoria combinada; sem classificação direta suco versus bebidas açucaradas entre modelos; HR de consumo alto versus baixo 1.14 (0.97–1.33) não significativo; não se aplica a fruta inteira.",
+      "action": "Prefira fruta inteira; consuma pequenas quantidades de suco, sem usá-lo como principal fonte de hidratação. Siga planos alimentares médicos para diabetes ou restrição de açúcar.",
+      "sources": [
+        {
+          "evidence": "Resumo, Exposições/Resultados: bebidas com açúcar definidas como bebidas com açúcar adicionado + suco puro; por 12 oz, ACM da categoria combinada 1.11 (1.03–1.19), suco puro 1.24 (1.09–1.42)."
+        }
+      ]
+    },
+    "coffee": {
+      "factor": "Café",
+      "originalClaim": "* Café\n  * [Grande notícia! Vários estudos confirmam que beber café se associa diretamente a menor mortalidade por todas as causas](https://news.bioon.com/article/6725420.html)\n  * [Explicação científica | Mais uma razão para beber café: menor mortalidade!](https://www.sohu.com/a/439412995_100003595)\n  * [Coffee consumption and all-cause, cardiovascular and cancer mortality in Mediterranean adults](https://fanyi.pdf365.cn/help/249)\n    * Uma meta-análise recente incluiu 40 estudos de diferentes países e 3,852,651 participantes. O consumo de café mostrou relações não lineares com mortalidade por todas as causas, cardiovascular e por câncer: menor mortalidade por câncer com duas xícaras/dia (RR=0.96), cardiovascular com 2.5 xícaras/dia (RR=0.83) e por todas as causas com 3.5 xícaras/dia (RR=0.85), sem redução ou aumento adicional com maior consumo.\nSeção original de ações: beber café (−22% a −12% de ACM)",
+      "finding": "Os 40 estudos, 3,852,651 participantes e as estimativas originais de ACM RR 0.85 com 3.5 xícaras/dia, cardiovascular RR 0.83 com 2.5 e mortalidade por câncer RR 0.96 com 2 correspondem à meta-análise. Todas são associações observacionais; 3.5 xícaras é o mínimo da curva ajustada, não prescrição precisa de longevidade individual. Os −22% a −12% da seção de ações não são um efeito uniforme desta meta-análise.",
+      "effect": "RR 0.85",
+      "ci": "CI de 95% 0.82–0.89",
+      "comparison": "3.5 xícaras/dia na curva ajustada versus nenhuma; tamanho de xícara varia entre coortes",
+      "population": "40 estudos, 3,852,651 participantes, 450,256 mortes por todas as causas e causas específicas",
+      "design": "Meta-análise de dose-resposta de coortes observacionais",
+      "gradeReason": "Associações consistentes de ACM em várias coortes; não são evidências causais randomizadas",
+      "limitations": "Doença pode causar interrupção do café; confundimento por tabaco, álcool e dieta; preparo, tamanho da xícara, açúcar e cafeína variam; sem base para converter diretamente razões de risco em expectativa de vida.",
+      "action": "Se já está habituado e tolera café, beba moderadamente com pouco açúcar. Individualize quando for preciso limitar cafeína, incluindo insônia, palpitações ou gravidez; não se force a começar por longevidade.",
+      "sources": [
+        {
+          "evidence": "Resumo, Resultados: 40 estudos; mínimo de ACM com 3.5 xícaras/dia RR 0.85 (0.82–0.89), cardiovascular com 2.5 xícaras 0.83 (0.80–0.87), mortalidade por câncer com 2 xícaras 0.96 (0.94–0.99)."
+        }
+      ]
+    },
+    "spermidine-diet": {
+      "factor": "Espermidina alimentar (entradas de líquidos e medicamentos unificadas)",
+      "originalClaim": "* Espermidina\n  * [Science: respaldo científico! Espermidina, descoberta no sêmen, tem extraordinários benefícios antienvelhecimento, anticâncer, de proteção cardiovascular e neural, contra obesidade e diabetes tipo 2](https://www.medsci.cn/article/show_article.do?id=420d12904103)\n  * [Alto consumo alimentar de espermidina reduz mortalidade](https://zhuanlan.zhihu.com/p/388942219)\n\n* Espermidina\n  * [Science: respaldo científico! Espermidina, descoberta no sêmen, tem extraordinários benefícios antienvelhecimento, anticâncer, de proteção cardiovascular e neural, contra obesidade e diabetes tipo 2](https://www.medsci.cn/article/show_article.do?id=420d12904103)\n  * Espermidina é a poliamina mais prontamente absorvida pelo intestino humano. Muitos alimentos contêm quantidades substanciais, incluindo pimentão verde fresco, gérmen de trigo, couve-flor, brócolis, cogumelos e vários queijos; os níveis são especialmente altos em produtos de soja como natto, cogumelos shiitake e durião. Pesquisadores acompanharam 829 participantes de 45–84 anos por 20 anos para analisar a possível associação entre espermidina alimentar e mortalidade humana.\n  * Mulheres ingeriam mais espermidina que homens, e o consumo diminuía com a idade. As principais fontes eram cereais integrais (13.4%), maçãs e peras (13.3%), saladas (9.8%), brotos (7.3%) e batatas (6.4%). Os grupos de consumo eram baixo (<62.2 µmol/dia), médio (62.2–79.8 µmol/dia) e alto (>79.8 µmol/dia). Houve 341 mortes: 137 vasculares, 94 por câncer e 110 por outras causas. A mortalidade bruta calculada nos grupos baixo, médio e alto foi 40.5%, 23.7% e 15.1%, respectivamente, indicando associação inversa significativa com mortalidade por todas as causas, mantida após ajustes progressivos por idade, sexo e energia.\nSeção original de ações: espermidina (−60% a −30% de ACM)",
+      "finding": "As duas entradas duplicadas foram unificadas. A exposição foi ingestão alimentar, não medicamento ou líquido; 40.5, 23.7 e 15.1 são mortes por 1,000 pessoas-ano, não porcentagens. O HR de ACM totalmente ajustado foi 0.76 por 1 desvio-padrão a mais de consumo; isso não pode ser descrito como suplementos reduzindo a mortalidade em 30%–60%. A coorte independente SAPHIR sustentou a direção, mas a qualidade alimentar global não pode ser separada da espermidina em si.",
+      "effect": "HR 0.76 por 1 DP a mais de ingestão alimentar",
+      "ci": "CI de 95% 0.67–0.86",
+      "comparison": "Cada 1 DP adicional de ingestão alimentar contínua; não um ensaio randomizado de suplemento",
+      "population": "Bruneck: 829 pessoas de 45–84 anos; 341 mortes em 1995–2015; validação independente SAPHIR",
+      "design": "Coorte nutricional prospectiva com validação externa; ensaio randomizado de suplemento sobre cognição não examinou ACM",
+      "gradeReason": "Evidência observacional alimentar de ACM com pequena coorte principal e confundimento alimentar; sem ensaio direto de longevidade com suplemento",
+      "limitations": "Denominador da mortalidade bruta original incorreto; idade explica grande parte da associação bruta; mortalidade acumulada ajustada em 20 anos 0.48/0.41/0.38. Registro de ensaio não muda o desenho de coorte; sem extrapolação a suplementos.",
+      "action": "Obtenha-a por alimentos comuns e equilibrados, como cereais integrais e leguminosas; não compre nem tome espermidina com base na alegação “mortalidade 60% menor”. Pessoas com doenças devem discutir suplementos com um clínico.",
+      "sources": [
+        {
+          "evidence": "Resumo e Tabela 2 do artigo original: HR por 1 DP totalmente ajustado 0.76 (0.67–0.86); mortalidade bruta 40.5/23.7/15.1 por 1,000 pessoas-ano; SAPHIR ajustado por idade, sexo e energia, 0.71 (0.53–0.95); PDF completo e texto preservados."
+        },
+        {
+          "evidence": "Resumo: 100 pessoas com declínio cognitivo subjetivo, 12 meses, 0.9 mg/dia; desfecho cognitivo primário sem melhora; eficácia sobre ACM não avaliada."
+        }
+      ]
+    },
+    "smoking": {
+      "factor": "Tabagismo e cessação",
+      "originalClaim": "* Tabagismo\n  * [Mesmo fumar pouco aumenta o risco de mortalidade!](https://www.medsci.cn/article/show_article.do?id=02ca2083319b)\n    * Entre 42,416 homens e 86,735 mulheres de 35–89 anos sem doença prévia, 18,985 homens (45%) e 18,072 mulheres (21%) fumavam atualmente; 33% dos homens fumantes e 39% das mulheres fumantes não fumavam diariamente. Nunca fumantes eram 8,866 homens (21%) e 53,912 mulheres (62%). Durante o acompanhamento, as razões de risco de mortalidade por todas as causas versus nunca fumar foram 1.17 (CI de 95% 1.10–1.25) para <10 cigarros/dia e 1.54 (1.42–1.67) para ≥10/dia, semelhantes entre idades e sexos. Fumar diariamente teve associação mais forte com cânceres respiratórios, doença pulmonar obstrutiva crônica e doenças gastrointestinais e vasculares. Quem já havia parado no recrutamento teve menor mortalidade que fumantes diários atuais.\n    * Fumantes perdem em média 11–12 anos de vida\n  * [Por que fumar causa dependência? Fumar com moderação ainda faz mal?](https://www.zhihu.com/question/24846224/answer/1719798177)\nSeção original de ações: não fumar (caso contrário, aproximadamente +50% de ACM, −12 a −11 anos de vida)",
+      "finding": "A amostra mexicana de baixo consumo e os riscos 1.17/1.54 correspondem; o artigo os chama RR, não um +50% uniforme para todos os fumantes. Uma grande coorte dos EUA encontrou ACM aproximadamente triplicada em fumantes atuais e vida >10 anos mais curta. Os 11–12 anos originais não foram confirmados no artigo mexicano; populações com intensidades diferentes não podem ser combinadas em estimativa uniforme.",
+      "effect": "RR 1.17 (<10 cigarros/dia); 1.54 (≥10/dia)",
+      "ci": "Respectivos CI de 95% 1.10–1.25; 1.42–1.67",
+      "comparison": "Tabagismo diário inicial <10/≥10 cigarros versus nunca fumar",
+      "population": "México: 129,151 adultos sem doença crônica prévia, de 35–89 anos; recrutados em 1998–2004, acompanhados até 2018",
+      "design": "Coorte prospectiva, com corroboração adicional de coorte nacional dos EUA",
+      "gradeReason": "Resultados diretos de ACM consistentes em várias grandes coortes; o nível B aqui reflete a ausência de randomização e não contesta os danos causais estabelecidos do tabaco",
+      "limitations": "Intensidade muda ao longo do tempo; o resultado não significativo de fumar não diariamente nesta coorte não demonstra segurança; os CI do estudo dos EUA são de 99%, não 95%.",
+      "action": "Não comece a fumar; pare o quanto antes. Procure serviços de cessação e apoio medicamentoso baseado em evidências se necessário; menos cigarros não elimina o risco.",
+      "sources": [
+        {
+          "evidence": "Resumo, Métodos/Resultados: RR 1.17 (1.10–1.25), 1.54 (1.42–1.67); ex-fumantes tinham menor risco que fumantes diários atuais."
+        },
+        {
+          "evidence": "Resumo, Resultados: mulheres HR 3.0 (CI de 99% 2.7–3.3), homens 2.8 (CI de 99% 2.4–3.1); fumantes atuais tinham vida >10 anos mais curta; parar aos 25–34 anos deu cerca de 10 anos adicionais versus continuar."
+        }
+      ]
+    },
+    "sun-exposure": {
+      "factor": "Exposição solar / radiação ultravioleta",
+      "originalClaim": "* Exposição solar\n  * [Exposição solar e mortalidade: como tomar sol de forma segura e científica?](https://zhuanlan.zhihu.com/p/76301306)\n    * Um estudo dinamarquês de 26 anos encontrou que maior exposição solar prolonga significativamente a vida; mesmo pessoas com câncer de pele induzido por exposição excessiva viveram em média 6 anos a mais que a população geral.\nSeção original de ações: exposição solar (aproximadamente −40% de ACM)",
+      "finding": "O estudo dinamarquês usou diagnóstico de câncer de pele como indicador indireto de exposição solar; não randomizou mais luz solar. Câncer de pele não melanoma se associou a HR de ACM 0.52 e melanoma a HR 0.89; os autores excluem explicitamente conclusões causais. Não decorrem daí “6 anos extras com mais sol” nem “ACM cerca de 40% menor”. Uma coorte sueca de hábitos solares modelou diferença de expectativa de vida de 0.6–2.1 anos, também não 6 anos.",
+      "effect": "HR 0.52 (câncer de pele não melanoma); 0.89 (melanoma)",
+      "ci": "CI de 95% 0.52–0.53; 0.87–0.91",
+      "comparison": "Diagnóstico de câncer de pele versus nenhum diagnóstico; não intervenção de dose solar",
+      "population": "Dinamarca: 4.4 milhões de pessoas com >40 anos, 1980–2006; Suécia: 29,518 mulheres acompanhadas por 20 anos",
+      "design": "Estudo observacional de registro nacional; coorte prospectiva de hábitos solares",
+      "gradeReason": "Desfecho direto de ACM, mas inferência altamente indireta de câncer de pele como indicador solar; não permite prescrever exposição solar",
+      "limitations": "Confundimento por diagnóstico de câncer de pele, seleção por sobrevivência, condição socioeconômica, atividade ao ar livre e procura de assistência; indicador de exposição pouco confiável; queimaduras solares aumentam o risco de câncer de pele; estes estudos não estabeleceram duração/dose ideal.",
+      "action": "Atividade regular ao ar livre e luz natural são razoáveis, evitando queimaduras e câmaras de bronzeamento. Siga orientação médica de proteção solar com doença fotossensível, medicamentos pertinentes ou alto risco de câncer de pele.",
+      "sources": [
+        {
+          "evidence": "Resumo, Resultados: ACM não melanoma HR 0.52 (0.52–0.53), melanoma 0.89 (0.87–0.91); a Conclusão exclui explicitamente conclusões causais."
+        },
+        {
+          "evidence": "Resumo, Resultados: quem evitava sol tinha expectativa de vida modelada 0.6–2.1 anos menor que o grupo de maior exposição; 29,518 mulheres, não randomizado."
+        }
+      ]
+    },
+    "nmn": {
+      "factor": "NMN",
+      "originalClaim": "* NMN",
+      "finding": "O original apenas lista NMN, sem citações ou números. O ensaio humano lido examinou sensibilidade muscular à insulina. Uma revisão de 8 ensaios randomizados com 342 pessoas no total, de 14 dias a 12 semanas, não encontrou benefício significativo nas principais medidas metabólicas. Nenhum estabelece redução de ACM ou maior longevidade humana.",
+      "effect": "Efeito sobre ACM não informado",
+      "ci": "Não informado",
+      "comparison": "NMN versus placebo; desfechos metabólicos substitutos",
+      "population": "Ensaio original: mulheres pós-menopausa com sobrepeso/obesidade e pré-diabetes, 10 semanas; revisão: 8 ensaios, 342 pessoas",
+      "design": "Ensaio humano pequeno e curto e revisão de medidas metabólicas",
+      "gradeReason": "Desenho randomizado, mas sem desfecho direto de eficácia sobre ACM; evidência indireta no sistema prático de classificação de ACM",
+      "limitations": "Acompanhamento muito curto; faltam evidências de eficácia e segurança de longo prazo; diferenças iniciais de gordura hepática no ensaio original são debatidas; mudanças em NAD ou sinalização de insulina não demonstram prolongamento da vida.",
+      "action": "Não trate NMN como medicamento de longevidade comprovado; participação em pesquisa deve seguir procedimentos formais de ensaio e não substituir tratamento de doenças crônicas.",
+      "sources": [
+        {
+          "evidence": "Resumo: ensaio de 10 semanas controlado por placebo; medidas de sensibilidade/sinalização muscular à insulina; eficácia sobre ACM não informada."
+        },
+        {
+          "evidence": "Resumo, Resultados recentes: 8 ensaios randomizados, 342 pessoas, 250–2,000 mg/dia, 14 dias–12 semanas; sem benefício metabólico global significativo, não ACM."
+        }
+      ]
+    },
+    "metformin-diabetes": {
+      "factor": "Metformina (pessoas com sobrepeso e diabetes tipo 2 recém-diagnosticado)",
+      "originalClaim": "* Metformina\n  * [Para entusiastas da metformina | Sou o medicamento milagroso: metformina](https://zhuanlan.zhihu.com/p/419202902)\n    * Metformina tem efeitos protetores em muitos tumores, doença cardiovascular e diabetes, e também se destaca em obesidade, doença hepática, doença renal e envelhecimento.\n  * [Grandes notícias da metformina em 2020: proteção gástrica, saúde cerebral, antienvelhecimento, prevenção de câncer ou carcinogênese?](https://zhuanlan.zhihu.com/p/357807109)\n  * [Metformina é mesmo tão milagrosa? Estudo dos EUA: pais que tomam metformina podem causar defeitos congênitos nos filhos](https://baijiahao.baidu.com/s?id=1729999374705305768)\n  * ![Metformina](https://user-images.githubusercontent.com/2707039/163702325-5d427542-9ae5-4311-8979-d0d326a9832f.jpg)\n  * Reações adversas\n    * Como medicamento usado há quase um século, a metformina tem reações adversas bem estabelecidas: as comuns incluem deficiência de vitamina B12 (7%–17.4%), reações gastrointestinais (até 53%), fadiga (9%) e cefaleia (6%); reações graves, mas incomuns, incluem acidose láctica e lesão hepática; alguns estudos também sugerem possíveis malformações fetais\nSeção original de ações: metformina (pessoas com diabetes podem ganhar +3 anos comparadas a pessoas sem diabetes)",
+      "finding": "O UKPDS 34 encontrou redução relativa de ACM de 36% com controle intensivo da glicose usando metformina versus manejo dietético convencional em pessoas com sobrepeso e diabetes recém-diagnosticado, não pessoas saudáveis. Uma síntese posterior de 13 ensaios randomizados deu RR de ACM 0.99 com CI amplo, portanto um ensaio não estabelece um medicamento universal de longevidade.",
+      "effect": "Redução relativa do risco de ACM 36% (relato original); RR combinado de 13 ensaios randomizados 0.99",
+      "ci": "Ensaio original: CI de 95% da redução 9%–55%; RR combinado CI de 95% 0.75–1.31",
+      "comparison": "Controle intensivo da glicose com metformina versus estratégia convencional principalmente alimentar; não pessoas saudáveis versus pessoas com diabetes",
+      "population": "Comparação randomizada principal UKPDS: 753 pessoas com sobrepeso e diabetes tipo 2 recém-diagnosticado, idade média 53; mediana de 10.7 anos",
+      "design": "Ensaio aberto randomizado de estratégia terapêutica; síntese adicional de 13 ensaios randomizados",
+      "gradeReason": "Evidência direta randomizada de ACM; reduzida a B por ensaio antigo aberto, subgrupo único e combinação posterior de ensaios inconsistente/imprecisa. Um resultado não promete prolongamento universal da vida.",
+      "limitations": "O tratamento de controle do ensaio antigo difere do padrão atual; não extrapole para pessoas sem diabetes. Para aplicabilidade das frequências originais de reações adversas, veja o registro separado de eventos adversos da metformina.",
+      "action": "Havendo indicação para diabetes, um clínico deve escolher o tratamento considerando função renal, tolerância e B12. Não interrompa prescrições nem comece metformina por conta própria para antienvelhecimento em pessoas saudáveis.",
+      "sources": [
+        {
+          "evidence": "Resumo, Métodos/Resultados: 753 na comparação randomizada, redução relativa de ACM 36% (CI de 95% 9%–55%); um ensaio suplementar separado de adição de metformina ao tratamento já existente com sulfonilureia teve resultados diferentes."
+        },
+        {
+          "evidence": "Resumo: 13 ensaios randomizados, 13,110 pessoas, RR de ACM 0.99 (0.75–1.31), com heterogeneidade."
+        }
+      ]
+    },
+    "metformin-longevity": {
+      "factor": "Metformina (longevidade em saudáveis e alegações originais de segurança)",
+      "originalClaim": "* Metformina\n  * [Para entusiastas da metformina | Sou o medicamento milagroso: metformina](https://zhuanlan.zhihu.com/p/419202902)\n    * Metformina tem efeitos protetores em muitos tumores, doença cardiovascular e diabetes, e também se destaca em obesidade, doença hepática, doença renal e envelhecimento.\n  * [Grandes notícias da metformina em 2020: proteção gástrica, saúde cerebral, antienvelhecimento, prevenção de câncer ou carcinogênese?](https://zhuanlan.zhihu.com/p/357807109)\n  * [Metformina é mesmo tão milagrosa? Estudo dos EUA: pais que tomam metformina podem causar defeitos congênitos nos filhos](https://baijiahao.baidu.com/s?id=1729999374705305768)\n  * ![Metformina](https://user-images.githubusercontent.com/2707039/163702325-5d427542-9ae5-4311-8979-d0d326a9832f.jpg)\n  * Reações adversas\n    * Como medicamento usado há quase um século, a metformina tem reações adversas bem estabelecidas: as comuns incluem deficiência de vitamina B12 (7%–17.4%), reações gastrointestinais (até 53%), fadiga (9%) e cefaleia (6%); reações graves, mas incomuns, incluem acidose láctica e lesão hepática; alguns estudos também sugerem possíveis malformações fetais\nSeção original de ações: metformina (pessoas com diabetes podem ganhar +3 anos comparadas a pessoas sem diabetes)",
+      "finding": "Uma coorte retrospectiva britânica de 2014 relatou razão ajustada dos tempos medianos de sobrevivência de 0.85 para controles sem diabetes em relação a usuários de metformina com diabetes. Não foi ensaio randomizado de medicamento em saudáveis nem estabeleceu extensão fixa de 3 anos. Após alocação randomizada de participantes DPP/DPPOS de alto risco de diabetes e acompanhamento mediano de 21 anos, o HR de ACM da metformina foi 0.99, sem benefício observado. Estudo Noruega/Taiwan de 2024 não encontrou associação significativa entre uso paterno e defeitos congênitos após controle adequado do diabetes paterno e outros confundidores; a manchete secundária original não é uma conclusão estabelecida de teratogenicidade.",
+      "effect": "Controles sem diabetes/pacientes tratados com metformina STR 0.85; metformina DPP/DPPOS ACM HR 0.99",
+      "ci": "STR CI de 95% 0.81–0.90 (não HR); HR DPP/DPPOS CI de 95% 0.79–1.25",
+      "comparison": "Coorte observacional: controles sem diabetes versus usuários de metformina com diabetes; DPP: alocação randomizada original de metformina versus placebo",
+      "population": "CPRD britânico: 78,241 usuários de metformina, 12,222 de sulfonilureia, 90,463 pessoas pareadas sem diabetes; DPP/DPPOS: 3,234 participantes com alto risco de diabetes, mediana de 21 anos, 453 mortes",
+      "design": "Coorte retrospectiva pareada; acompanhamento aberto de longo prazo de ensaio randomizado; coorte adicional de segurança em dois países",
+      "gradeReason": "A base original de +3 anos é uma comparação observacional de sobrevivência com viés substancial. A alocação randomizada de longo prazo do DPP não mostrou benefício de ACM, com cruzamento de intervenções; prolongamento da vida de saudáveis em geral não estabelecido",
+      "limitations": "Uma razão de tempos de sobrevivência não pode ser convertida em anos fixos ganhos; várias alegações antienvelhecimento carecem de confirmação em ensaios de ACM em saudáveis; frequências de segurança estão no registro separado de eventos adversos; malformações congênitas não são ACM.",
+      "action": "Pessoas saudáveis não devem tomar metformina por conta própria para longevidade. Homens com diabetes planejando concepção devem discutir riscos individuais com um clínico, em vez de parar por reportagens secundárias.",
+      "sources": [
+        {
+          "evidence": "Resumo, Resultados: pacientes tratados com metformina são referência STR 1; controles sem diabetes STR 0.85 (0.81–0.90), análise retrospectiva observacional; sem +3 anos fixos."
+        },
+        {
+          "evidence": "Resumo, Métodos/Resultados: 3,234 adultos de alto risco de diabetes randomizados; mediana de 21 anos, 453 mortes; metformina ACM HR 0.99 (0.79–1.25), sem redução significativa; intervenções tornaram-se abertas com cruzamento após 2001."
+        },
+        {
+          "evidence": "Resumo, Resultados: após restringir a pais com diabetes e ponderar por escore de propensão, RR combinado Noruega/Taiwan de defeitos congênitos 0.89 (0.77–1.03); não ACM."
+        }
+      ]
+    },
+    "multivitamins": {
+      "factor": "Multivitamínicos",
+      "originalClaim": "* Multivitamínicos\n  * [Tomar multivitamínicos pode reduzir o risco de câncer em 8%; outros efeitos não são significativos](https://health.qq.com/a/20121023/000026.htm)\nSeção original de ações: multivitamínicos (−8% de risco de câncer)",
+      "finding": "O ensaio PHS II em médicos homens encontrou HR de incidência de câncer 0.92, cerca de 8% menor; trata-se de incidência, não ACM, e a mortalidade por câncer não foi significativamente menor. O HR randomizado de ACM no COSMOS foi 0.93 com CI cruzando 1; três coortes dos EUA em 2024 também não encontraram benefício de ACM. Não foi demonstrado que multivitamínicos prolonguem a vida em pessoas geralmente saudáveis.",
+      "effect": "ACM HR 0.93 (COSMOS); incidência de câncer HR 0.92 (PHS II, não ACM)",
+      "ci": "ACM CI de 95% 0.81–1.08; incidência de câncer 0.86–0.998",
+      "comparison": "Multivitamínico diário versus placebo; coortes adicionais comparam uso diário versus não uso",
+      "population": "PHS II: 14,641 médicos homens, 11.2 anos; COSMOS: 21,442 idosos, 3.6 anos; coortes de 2024: 390,124 pessoas",
+      "design": "Ensaios randomizados duplo-cegos controlados por placebo; várias grandes coortes",
+      "gradeReason": "Evidência direta de ACM de grande ensaio randomizado; A reflete qualidade do desenho, não benefício estabelecido; efeitos menores não podem ser excluídos",
+      "limitations": "COSMOS com acompanhamento mais curto e ACM secundária; PHS II não se aplica a todos os sexos/idades; formulações variam; HR ligeiramente elevados de coortes não provam dano do produto; tratar deficiência é questão separada.",
+      "action": "Não tome multivitamínicos rotineiramente para longevidade; use suplementação direcionada após avaliação de deficiências, fases específicas da vida ou má absorção.",
+      "sources": [
+        {
+          "evidence": "Resumo: incidência total de câncer HR 0.92 (0.86–0.998), mortalidade por câncer 0.88 (0.77–1.01), 14,641 médicos homens."
+        },
+        {
+          "evidence": "Resumo, Resultados: ACM HR 0.93 (0.81–1.08), incidência de câncer 0.97 (0.86–1.09), 21,442 pessoas, 3.6 anos."
+        },
+        {
+          "evidence": "Resumo, Resultados: 390,124 pessoas, 164,762 mortes; uso diário ACM HR 1.04 (1.02–1.07) no primeiro período de acompanhamento e 1.04 (0.99–1.08) no segundo; sem benefício."
+        }
+      ]
+    },
+    "glucosamine-chondroitin": {
+      "factor": "Glucosamina / condroitina",
+      "originalClaim": "* Glucosamina\n  * [Incrível! Glucosamina reduz mortalidade cardiovascular em 65%, comparável a exercício regular](https://www.sohu.com/a/436372221_120873241)\n  * Novo estudo da West Virginia University encontrou que glucosamina (condroitina) pode reduzir mortalidade cardiovascular em 65% e geral em 39%, comparável a exercício regular\n  * O estudo usou dados NHANES de 1999–2010 de 16,686 adultos, com acompanhamento mediano de 107 meses; 648 participantes tomaram regularmente 500–1,000 mg/dia de glucosamina/condroitina por mais de um ano.\nSeção original de ações: glucosamina (−39% de ACM)",
+      "finding": "Os 39% de menor ACM e 65% de menor mortalidade cardiovascular originais têm ajuste apenas por idade. Os HR totalmente ajustados foram 0.73 para ACM (27% menor) e 0.42 para cardiovascular (58% menor). Usuários persistentes eram 658, não 648. São associações observacionais, não prova direta de eficácia “equivalente a exercício” nem dose eficaz de longevidade de 500–1,000 mg.",
+      "effect": "HR 0.73 (ACM ajustada por múltiplas variáveis)",
+      "ci": "CI de 95% 0.57–0.93",
+      "comparison": "Uso inicial relatado de glucosamina/condroitina por ≥365 dias versus não uso ou <365 dias",
+      "population": "NHANES 1999–2010: 16,686 adultos com ≥40 anos, excluindo doença cardiovascular inicial e estado vital ausente; 658 usuários por ≥1 ano; mediana de 107 meses; 3,366 mortes",
+      "design": "Análise de acompanhamento de mortalidade em coorte nacional",
+      "gradeReason": "Pequeno grupo exposto com viés do usuário saudável e confundimento substanciais; sem ensaio randomizado de longevidade",
+      "limitations": "Estimativas ajustadas por idade e múltiplas variáveis não são intercambiáveis; suplementos combinados não estabelecem efeito apenas da glucosamina; uso inicial autorrelatado, sem rastrear dose ou adesão no acompanhamento. Usuários faziam mais exercício, fumavam menos e tinham maior escolaridade; ajustes não eliminam confundimento por usuário saudável ou outros suplementos.",
+      "action": "Não comece glucosamina/condroitina para longevidade. Com sintomas articulares ou tratamento anticoagulante, discuta adequação e interações com um clínico; mantenha exercício regular.",
+      "sources": [
+        {
+          "evidence": "Nesta rodada foram lidos Métodos (Participantes / Uso de glucosamina/condroitina), Resultados e Discussão da revista original: idade ≥40; ≥365 dias de uso versus não uso ou <365 dias; 658 usuários; ACM ajustada por idade 0.61 (0.49–0.77), cardiovascular 0.35 (0.20–0.61); ACM multivariável 0.73 (0.57–0.93), cardiovascular 0.42 (0.23–0.75); dose e adesão no acompanhamento não rastreadas."
+        }
+      ]
+    },
+    "anti-aging-drugs-review": {
+      "factor": "Candidatos a medicamentos antienvelhecimento (revisão)",
+      "originalClaim": "* Visão geral\n  * [Revisão aprofundada da família Nature: desenvolvimento de medicamentos antienvelhecimento](https://zhuanlan.zhihu.com/p/145495570)\n  * ![Desenvolvimento de medicamentos antienvelhecimento](https://user-images.githubusercontent.com/2707039/163702474-205baeec-f0ce-4e8d-96a4-36efe47534de.jpg)",
+      "finding": "A revisão correspondente de 2020 da Nature Reviews Drug Discovery discute rapamicina, senolíticos, metformina, acarbose, espermidina, intensificadores de NAD, lítio e outros. Seus níveis refletem principalmente resultados pré-clínicos e alguns clínicos; não é meta-análise demonstrando menor ACM em saudáveis.",
+      "effect": "Nenhum efeito combinado de ACM aplicável a saudáveis informado",
+      "ci": "Não informado",
+      "comparison": "Estudos mecanísticos, animais e clínicos iniciais de candidatos diferentes; sem comparador randomizado comum de ACM",
+      "population": "Principalmente modelos animais e estudos humanos limitados; não população saudável submetida a intervenção de mortalidade",
+      "design": "Revisão narrativa de desenvolvimento de medicamentos",
+      "gradeReason": "Apenas evidência indireta de ACM em saudáveis; prestígio da revista não eleva o nível",
+      "limitations": "Moléculas, doses e indicações diferentes não podem ser combinadas em “regime de medicamentos antienvelhecimento”; benefício no tratamento de uma doença não significa prolongamento da vida de pessoas saudáveis. Revisão de 2020, não busca abrangente de todos os novos medicamentos até 2026.",
+      "action": "Não combine medicamentos antienvelhecimento por conta própria. Trate indicações claras de doença sob cuidado especializado; intervenções experimentais antienvelhecimento cabem em pesquisa adequadamente conduzida.",
+      "sources": [
+        {
+          "evidence": "Resumo: candidatos divididos em dois níveis conforme evidências pré-clínicas e algumas clínicas, visando prolongar os anos de vida saudável; não informa eficácia sobre ACM humana em saudáveis."
+        }
+      ]
+    },
+    "alcohol": {
+      "factor": "Álcool / consumo de bebidas alcoólicas",
+      "originalClaim": "Seção original de ações: abandonar álcool (caso contrário, aproximadamente +50% de ACM, sem limite superior); a seção 6 não contém entrada correspondente de evidências.",
+      "finding": "Foi acrescentada uma revisão sistemática original para suprir a citação ausente da seção de ações. Após ajuste pelo viés de ex-consumidores e outros fatores, baixo consumo não teve associação protetora significativa com ACM. Com 45 a <65 g de etanol/dia, RR 1.19; com ≥65 g/dia, 1.35. Não se pode descrever uniformemente qualquer consumo como “cerca de +50%, sem limite superior”; ausência de benefício significativo de ACM em baixo consumo também não estabelece dose absolutamente segura.",
+      "effect": "RR 0.93 (1.3 a <25 g/dia); 1.19 (45 a <65 g/dia); 1.35 (≥65 g/dia)",
+      "ci": "Respectivos CI de 95% 0.85–1.01; 1.07–1.32; 1.23–1.47",
+      "comparison": "Categorias de gramas médios diários de etanol versus abstêmios ao longo da vida",
+      "population": "107 coortes, 4,838,825 pessoas, 425,564 mortes",
+      "design": "Revisão sistemática de ACM e metarregressão",
+      "gradeReason": "Várias coortes com ACM direta; aborda vieses importantes, mas não elimina confundimento",
+      "limitations": "Consumo subnotificado, doença em ex-consumidores, episódios de consumo excessivo, diferenças por sexo e limites de metarregressão entre estudos; risco apareceu com menor consumo em mulheres. Não é ensaio de cessação e não quantifica diretamente seu benefício.",
+      "action": "Quem não bebe não deve começar pela saúde. Quem bebe deve reduzir o total e episódios excessivos. Com dependência ou histórico de abstinência, procure apoio médico e evite interrupção abrupta sem suporte.",
+      "sources": [
+        {
+          "evidence": "Texto completo, Resultados e Tabela 2, totalmente ajustado: baixo consumo 0.93 (0.85–1.01), 45–<65 g/dia 1.19 (1.07–1.32), ≥65 g/dia 1.35 (1.23–1.47); XML e texto preservados."
+        }
+      ]
+    },
+    "ambient-air-pollution": {
+      "factor": "Poluição ambiental crônica por PM2.5",
+      "originalClaim": "Não constava no repositório original; acrescentado nesta rodada.",
+      "finding": "Em grande coorte Medicare, cada 10 μg/m³ a mais de PM2.5 de longo prazo se associou a ACM 7.3% maior; cada 10 ppb a mais de ozônio, a ACM 1.1% maior. São associações de exposição ambiental, não reduções equivalentes de mortalidade pelo uso de determinado purificador.",
+      "effect": "Aumento do risco de ACM de 7.3% por 10 μg/m³ de PM2.5",
+      "ci": "CI de 95% do aumento 7.1%–7.5%",
+      "comparison": "Cada 10 μg/m³ a mais de PM2.5 anual estimado no domicílio; modelo de dois poluentes",
+      "population": "EUA: 60,925,443 beneficiários Medicare; 2000–2012; 460,310,521 pessoas-ano",
+      "design": "Coorte nacional aberta",
+      "gradeReason": "Coorte de ACM direta excepcionalmente grande e de alta qualidade; não randomizada, com limites de estimativa de exposição e confundimento individual",
+      "limitations": "População idosa dos EUA; exposição por código postal não é inalação individual; faltam dados individuais detalhados de tabagismo e semelhantes; associação não quantifica diretamente efeito de intervenção pessoal de limpeza do ar.",
+      "action": "Acompanhe a qualidade local do ar; em alta poluição, reduza atividade intensa ao ar livre nos horários de maior exposição e melhore o ar interno quando viável. Equilibre ventilação com as condições de poluição e infecção.",
+      "sources": [
+        {
+          "evidence": "Resumo, Resultados: por 10 μg/m³ de PM2.5, aumento de ACM 7.3% (7.1%–7.5%); por 10 ppb de ozônio, aumento 1.1% (1.0%–1.2%)."
+        }
+      ]
+    },
+    "statins-indicated-patients": {
+      "factor": "Estatinas (conforme risco cardiovascular e indicações)",
+      "originalClaim": "Não constava no repositório original; acrescentado nesta rodada.",
+      "finding": "Meta-análise de dados individuais de 27 ensaios randomizados encontrou RR de ACM 0.91 por 1 mmol/L a menos de LDL-C entre pessoas sem doença vascular prévia. Aplica-se a participantes elegíveis para redução lipídica, não a medicar toda pessoa saudável; o benefício absoluto depende do risco inicial.",
+      "effect": "RR 0.91 por redução de 1 mmol/L de LDL-C (sem doença vascular prévia)",
+      "ci": "CI de 95% 0.85–0.97",
+      "comparison": "Estatina versus controle ou tratamento mais versus menos intensivo; padronizado pela diferença de LDL-C",
+      "population": "27 ensaios randomizados, 174,149 pessoas; número de ACM é do subgrupo sem doença vascular prévia; mediana de 4.8–5.1 anos",
+      "design": "Meta-análise de dados individuais de ensaios randomizados",
+      "gradeReason": "Evidência combinada randomizada de ACM direta; subgrupo explícito, exposição padronizada e população clinicamente elegível",
+      "limitations": "Inclui prevenção primária e secundária; 0.91 é do subgrupo sem histórico. Benefícios absolutos variam pelo risco. Limiares locais de prescrição de 2026 não foram verificados separadamente; esta entrada não fundamenta automedicação.",
+      "action": "Discuta estatinas com um clínico se tiver doença cardiovascular aterosclerótica ou indicação avaliada de redução lipídica. Pessoas saudáveis de baixo risco não devem começar apenas por “longevidade”; sintomas musculares, interações e gravidez exigem avaliação individual.",
+      "sources": [
+        {
+          "evidence": "Resumo, Resultados: sem doença vascular prévia, por 1 mmol/L a menos de LDL-C, ACM RR 0.91 (0.85–0.97); eventos vasculares maiores RR 0.79 (0.77–0.81), desfecho distinto."
+        }
+      ]
+    },
+    "vitamin-d-general-population": {
+      "factor": "Suplementação de vitamina D (idosos não selecionados)",
+      "originalClaim": "Não constava no repositório original; acrescentado nesta rodada.",
+      "finding": "O VITAL não encontrou redução de ACM com vitamina D3 2,000 UI/dia: HR 0.99, CI cruzando 1. Isso não nega tratar deficiência, doença óssea ou outras indicações claras, nem prova que todas as doses sejam completamente seguras no longo prazo.",
+      "effect": "HR 0.99",
+      "ci": "CI de 95% 0.87–1.12",
+      "comparison": "Vitamina D3 2,000 UI/dia versus placebo",
+      "population": "EUA: 25,871 pessoas, homens ≥50 e mulheres ≥55; mediana de 5.3 anos; 978 mortes",
+      "design": "Ensaio randomizado duplo-cego controlado por placebo, fatorial 2×2",
+      "gradeReason": "Desfecho direto de ACM em grande ensaio randomizado; ACM secundária e efeitos menores não excluídos; nível não significa eficácia de longevidade",
+      "limitations": "Não selecionados por deficiência grave; a maioria não era deficiente, e os resultados não cobrem todas as doses/indicações. Associações observacionais de baixa vitamina D não estabelecem efeitos causais da suplementação.",
+      "action": "Não tome doses altas indiscriminadamente por longevidade; suspeita de deficiência ou indicação clara, como saúde óssea, justifica suplementação orientada por clínico.",
+      "sources": [
+        {
+          "evidence": "Resumo, Resultados: 978 mortes por todas as causas; vitamina D versus placebo HR 0.99 (0.87–1.12); 25,871 randomizados, mediana de 5.3 anos."
+        }
+      ]
+    },
+    "racquet-sports": {
+      "factor": "Esportes de raquete",
+      "originalClaim": "Esportes de raquete 3 vezes/semana por 45–60 minutos/sessão reduzem ACM em cerca de 47%; a manchete citada atribui isso ao The Lancet.",
+      "finding": "Os 47% correspondem à razão de riscos ajustada de ACM em praticantes de esportes de raquete, não a efeito de intervenção randomizada. O resumo não sustenta a prescrição exata de três sessões de 45–60 minutos/semana nem estabelece a melhor opção entre todos os esportes. O artigo saiu no British Journal of Sports Medicine, não no The Lancet.",
+      "effect": "HR 0.53",
+      "ci": "CI de 95% 0.40–0.69",
+      "comparison": "Participação em esportes de raquete versus não participação nessa categoria",
+      "population": "80,306 adultos britânicos; idade média 52±14",
+      "design": "Análise combinada de coortes populacionais da Inglaterra/Escócia",
+      "gradeReason": "Grande coorte populacional com ACM direta; ainda associação não causal",
+      "limitations": "Atividade autorrelatada, confundimento por participante saudável e fatores socioeconômicos; não permite extrapolar incondicionalmente ao tênis de mesa ou a toda idade.",
+      "action": "Escolha atividades de raquete prazerosas e compatíveis com sua condição física e aumente gradualmente; procure avaliação para lesões articulares ou sintomas cardiovasculares.",
+      "sources": [
+        {
+          "evidence": "Resumo, Métodos/Resultados: n=80,306; esportes de raquete ACM HR 0.53 (0.40–0.69), mortalidade cardiovascular HR 0.44 (0.24–0.83)."
+        }
+      ]
+    },
+    "vigorous-activity": {
+      "factor": "Atividade física vigorosa",
+      "originalClaim": "15–20 minutos/semana de atividade vigorosa reduzem ACM em 16%–40%; chegar a 50–57 minutos pode reduzi-la mais.",
+      "finding": "O original rotula como ACM toda a faixa de 16–40% do artigo, que abrange diferentes desfechos de mortalidade. Cerca de 15 minutos/semana correspondem a ACM 18% menor, cerca de 19.2 minutos a mortalidade cardiovascular 40% menor, e cerca de 53.6 minutos/semana a ACM 36% menor. São associações modeladas em relação a 2.2 minutos/semana, não benefícios garantidos de 8 minutos diários.",
+      "effect": "ACM HR 0.82 (cerca de 15 minutos/semana); 0.64 (53.6 minutos/semana)",
+      "ci": "Respectivos CI de 95% 0.75–0.89; 0.54–0.77",
+      "comparison": "Atividade vigorosa cerca de 15 ou 53.6 minutos/semana versus 2.2 minutos/semana",
+      "population": "71,893 adultos UK Biobank; idade mediana 62.5, acompanhamento médio 5.9 anos",
+      "design": "Coorte prospectiva com acelerômetro no pulso e modelagem de dose-resposta",
+      "gradeReason": "Grande coorte com atividade medida objetivamente e desfecho direto de ACM",
+      "limitations": "Não randomizada; viés de seleção e confundimento residual; o mínimo da curva não é prescrição ideal para todos.",
+      "action": "Com base de exercício e sem contraindicações, acrescente gradualmente períodos breves de maior intensidade. Procure avaliação prévia com sintomas ou doença crônica instável.",
+      "sources": [
+        {
+          "evidence": "Texto completo, Resumo e Resultados, “Associação dose-resposta do volume de atividade vigorosa”/Figura 4: 1,927 mortes por todas as causas; cerca de 15 minutos HR 0.82, 53.6 minutos HR 0.64; 19.2 minutos HR 0.60 (0.50–0.72) refere-se a mortalidade cardiovascular."
+        }
+      ]
+    },
+    "walking-steps": {
+      "factor": "Caminhada / passos diários",
+      "originalClaim": "Caminhar reduz mortalidade por todas as causas em mais de 50%; idade média dos participantes era 45.2, e o original observa que isso indica apenas correlação.",
+      "finding": "Tanto 7,000–9,999 quanto ≥10,000 passos/dia se associaram a menor ACM, em cerca de 72% e 55%. Isso não estabelece que uma intervenção de caminhada inevitavelmente reduza mortalidade em mais de 50%, que mais passos sejam sempre melhores ou que haja benefício independente da cadência.",
+      "effect": "HR 0.28; 0.45",
+      "ci": "Respectivos CI de 95% 0.15–0.54; 0.25–0.81",
+      "comparison": "7,000–9,999 e ≥10,000 passos/dia versus <7,000 passos/dia",
+      "population": "CARDIA: 2,110 adultos negros/brancos dos EUA, idade média 45.2; 10.8 anos de acompanhamento, 72 mortes",
+      "design": "Coorte prospectiva única com medições por acelerômetro",
+      "gradeReason": "ACM direta, mas poucas mortes e estimativas instáveis de uma única coorte",
+      "limitations": "Medição de atividade de curto prazo; confundimento residual e causalidade reversa; 7,000 passos não é limiar universal.",
+      "action": "Aumente gradualmente as caminhadas a partir do seu nível atual; individualize com limitações de mobilidade, risco de quedas ou doença cardiopulmonar.",
+      "sources": [
+        {
+          "evidence": "Texto completo, Resumo, Resultados: n=2,110, 72 mortes; nível moderado HR 0.28 (0.15–0.54), alto HR 0.45 (0.25–0.81); cadência sem associação significativa após ajuste."
+        }
+      ]
+    },
+    "toothbrushing": {
+      "factor": "Escovação dentária",
+      "originalClaim": "Quem raramente escova os dentes tem riscos 9%, 12% e 25% maiores de câncer, DPOC e cirrose, e mortalidade prematura 25% maior; a seção de ações afirma −25% de ACM com escovação.",
+      "finding": "Raramente/nunca escovar versus regularmente teve HR de ACM 1.25; os números de câncer, DPOC e cirrose tratam principalmente de incidência. Essa observação não significa que começar a escovar reduza ACM em 25% nem estabelece efeito causal da própria escova.",
+      "effect": "HR 1.25",
+      "ci": "CI de 95% 1.21–1.28",
+      "comparison": "Raramente/nunca escovar versus regularmente",
+      "population": "China Kadoorie Biobank: 512,715 pessoas de 30–79 anos",
+      "design": "Grande coorte prospectiva",
+      "gradeReason": "Grande coorte com ACM direta e ajuste por vários confundidores; não é evidência de intervenção",
+      "limitations": "Escovação autorrelatada; relacionada a tabagismo, pobreza, saúde prévia e acesso a cuidados.",
+      "action": "Escove regularmente com creme dental fluoretado e procure cuidados odontológicos; isso não substitui controle do tabagismo, manejo da pressão ou medidas semelhantes.",
+      "sources": [
+        {
+          "evidence": "Texto completo, Resumo, Resultados: 9.3% raramente/nunca escovavam; ACM 1.25 (1.21–1.28), câncer 1.09 (1.04–1.14), DPOC 1.12 (1.05–1.20), cirrose 1.25 (1.09–1.44)."
+        }
+      ]
+    },
+    "tub-bathing": {
+      "factor": "Banho de imersão",
+      "originalClaim": "Banho de imersão diário versus 1–2 vezes/semana ou nenhum: risco cardiovascular 28% menor, de AVC 26% menor e de hemorragia intracerebral 46% menor; sem associação com aumento de morte súbita.",
+      "finding": "Os 28%, 26% e 46% originais correspondem à incidência cardiovascular, de AVC e hemorragia intracerebral; os números são verificáveis, mas não tratam de ACM. Ausência de associação significativa com morte súbita não demonstra segurança completa do banho.",
+      "effect": "ACM não informada; incidência cardiovascular HR 0.72",
+      "ci": "ACM não informada; incidência cardiovascular CI de 95% 0.62–0.84",
+      "comparison": "Banho de imersão quase diário/diário versus 0–2 vezes/semana",
+      "population": "30,076 japoneses de 40–59 anos, sem doença cardiovascular ou câncer inicial; acompanhamento 1990–2009",
+      "design": "Coorte prospectiva japonesa; desfechos de eventos cardiovasculares/cerebrovasculares",
+      "gradeReason": "Evidência indireta com desfechos diferentes de ACM nesta entrada",
+      "limitations": "Não randomizada; hábitos japoneses de imersão não se generalizam diretamente a chuveiros; resultado não significativo de morte súbita não exclui afogamento, estresse térmico ou outros riscos.",
+      "action": "Tome banho em água confortavelmente morna, com hábitos seguros. Evite banhos quentes prolongados ou sozinho com tendência a desmaios, doença aguda, álcool ou doença cardiovascular instável.",
+      "sources": [
+        {
+          "evidence": "Resumo, Resultados: 2,097 eventos cardiovasculares; HR cardiovascular 0.72 (0.62–0.84), AVC 0.74 (0.62–0.87), hemorragia intracerebral 0.54 (0.40–0.73); sem associação encontrada com morte súbita."
+        }
+      ]
+    },
+    "heavy-housework": {
+      "factor": "Trabalho doméstico pesado (homens idosos)",
+      "originalClaim": "Homens fazendo trabalho doméstico pesado semanalmente após 72 anos podem reduzir a mortalidade média em 29%.",
+      "finding": "Participação em trabalho doméstico pesado nos homens se associou a ACM 29% menor, mas 72 era a idade média da amostra; a elegibilidade era ≥65 anos. Não significa que benefícios comecem apenas após 72 nem representa ensaio reduzindo “mortalidade média”. Resultados nas mulheres não foram significativos.",
+      "effect": "HR 0.71",
+      "ci": "CI de 95% 0.56–0.91",
+      "comparison": "Participação em trabalho doméstico pesado versus nenhuma",
+      "population": "Adultos de Hong Kong na comunidade com ≥65 anos; 2,867 após excluir doenças crônicas especificadas, idade média 72; 452 mortes",
+      "design": "Coorte prospectiva única, cerca de 9 anos de acompanhamento",
+      "gradeReason": "ACM direta, mas coorte única e estratificação por sexo; confundimento substancial pela capacidade física",
+      "limitations": "Quem consegue fazer tarefas domésticas pode já ser mais saudável; mover móveis/botijões não é prescrição de longevidade. A correção de 2013 apenas corrige proporções de participação masculina/feminina.",
+      "action": "Faça tarefas adequadas à sua capacidade; evite levantar pesos com fragilidade, osteoporose, problemas nas costas ou risco de queda.",
+      "sources": [
+        {
+          "evidence": "Texto completo, Resumo/Resultados: após ajuste adicional por IMC, fragilidade, arranjo domiciliar e atividade de lazer, ACM masculina HR 0.71 (0.56–0.91); sem associação significativa nas mulheres. Correção PMC3825706 revisa participação doméstica para 52–81% nos homens e 64–93% nas mulheres."
+        }
+      ]
+    },
+    "sleep-duration": {
+      "factor": "Duração do sono",
+      "originalClaim": "A mortalidade é menor com 7 horas; comparadas a 7 horas, ≥10 horas dão ACM 34% maior nos homens e 48% nas mulheres.",
+      "finding": "Os números correspondem: versus 7 horas autorrelatadas, ≥10 horas se associaram a ACM 34% maior nos homens e 48% nas mulheres. Sono longo pode refletir doença subjacente; isso não justifica forçar quem dorme muito a reduzir para 7 horas nem afirmar que mudar a duração inevitavelmente mude a mortalidade.",
+      "effect": "Homens HR 1.34; mulheres HR 1.48",
+      "ci": "Respectivos CI de 95% 1.26–1.44; 1.36–1.61",
+      "comparison": "≥10 horas autorrelatadas versus 7 horas; as coortes mediram sono noturno ou sono diário total, incluindo cochilos",
+      "population": "9 coortes no Japão, China, Singapura e Coreia: 322,721 pessoas, idade média 54.5; excluídos doença cardiovascular/câncer inicial autorrelatados e mortes nos primeiros 5 anos; 19,419 mortes masculinas e 13,768 femininas",
+      "design": "Dados individuais combinados de várias coortes; acompanhamento prospectivo de cerca de 13–14 anos",
+      "gradeReason": "ACM direta em várias coortes com associação consistente em J; não causal",
+      "limitations": "Duração do sono autorrelatada uma vez: no início na maioria das coortes e no terceiro acompanhamento no Shanghai Women’s Health Study; questionários não padronizados entre coortes (sono noturno ou diário total com cochilos); confundimento residual e sem informações sobre qualidade do sono, depressão, condição socioeconômica e semelhantes. Excluir doença cardiovascular/câncer inicial e mortes nos primeiros 5 anos não elimina completamente causalidade reversa.",
+      "action": "Mantenha sono suficiente, regular e restaurador. Sono longo persistente com fadiga, roncos ou sonolência merece investigação.",
+      "sources": [
+        {
+          "evidence": "Texto completo, Resumo/Mortalidade por todas as causas: ≥10 horas, ajuste multivariável, homens 1.34 (1.26–1.44), mulheres 1.48 (1.36–1.61); referência 7 horas; Métodos excluem mortes nos primeiros 5 anos."
+        }
+      ]
+    },
+    "bedtime": {
+      "factor": "Horário de dormir",
+      "originalClaim": "22:00–24:00 é o melhor; dormir cedo aumenta ACM em 43%, dormir tarde em 15%; o original observa controvérsia.",
+      "finding": "O estudo original confirma associações de dormir cedo/tarde com desfechos adversos, mas o resumo do artigo lido não fornece efeitos e CI separados para “ACM 43%/15% maior”. Números secundários não podem ser copiados como ACM totalmente ajustada. Os resultados totalmente ajustados do resumo são HR 1.09 e 1.10 para o composto morte + evento cardiovascular não fatal, não ACM isolada.",
+      "effect": "Números separados de ACM não verificados; desfecho composto HR 1.09/1.10",
+      "ci": "ACM não verificada; desfecho composto CI de 95% 1.03–1.16/1.02–1.20",
+      "comparison": "Antes de cerca de 22:00 ou após meia-noite versus 22:00 a meia-noite",
+      "population": "PURE: 112,198 pessoas em 21 países; 9.2 anos; 5,633 mortes, 5,346 eventos cardiovasculares maiores",
+      "design": "Coorte prospectiva multinacional; horário de dormir autorrelatado",
+      "gradeReason": "Artigo original inclui acompanhamento de mortalidade, mas só o resumo foi lido nesta rodada e estimativas separadas de ACM não foram reverificadas; desfechos compostos não podem ser elevados a evidência de ACM",
+      "limitations": "Confundimento por horários sociais e doenças; ajuste completo atenuou marcadamente associações. Limites exatos diferem ligeiramente entre Métodos e Conclusão e não devem ser limiares rígidos.",
+      "action": "Mantenha sono regular e adequado ao seu ritmo; essa associação não justifica adiar deliberadamente um horário cedo que já seja adequado.",
+      "sources": [
+        {
+          "evidence": "Resumo, Resultados: composto ajustado por idade/sexo 1.29 (1.22–1.35), 1.11 (1.03–1.20); totalmente ajustado 1.09 (1.03–1.16), 1.10 (1.02–1.20). Os 43%/15% secundários originais são preservados como ACM não verificada."
+        }
+      ]
+    },
+    "sedentary-time": {
+      "factor": "Tempo sedentário e televisão",
+      "originalClaim": "Cada hora sedentária adicional aumenta risco de incidência cardiovascular em 4%, câncer em 1% e ACM em 3%; limiares são 6–8 horas/dia sentado no total e 3–4 horas/dia de TV.",
+      "finding": "Maior tempo sedentário se associa a maior ACM, mas 3% fixos por hora adicional não se aplicam a todos os níveis. A revisão sistemática correspondente encontrou não linearidade: cerca de 1% por hora com tempo sedentário total ≤8 horas e cerca de 4% acima de 8 horas; televisão também tem inclinações diferentes. Os pontos de 6–8 e 3–4 horas são inflexões de modelos observacionais, não limites de segurança.",
+      "effect": "RR por 1 hora adicional de tempo sedentário total 1.01 (≤8 h/dia); 1.04 (>8 h/dia)",
+      "ci": "Respectivos CI de 95% 1.00–1.01; 1.03–1.05",
+      "comparison": "1 hora/dia adicional de tempo sedentário total dentro de cada intervalo de exposição",
+      "population": "34 estudos prospectivos; 1,331,468 participantes únicos entre diferentes desfechos",
+      "design": "Revisão sistemática e meta-análise de dose-resposta, ajustada por atividade física",
+      "gradeReason": "ACM direta combinada de várias coortes; não intervenção randomizada",
+      "limitations": "Principalmente tempo sentado autorrelatado, heterogeneidade e confundimento residual. Mortalidade por câncer não se associou significativamente nesta revisão e não deve ser confundida com incidência de câncer. PDF do relatório chinês original e PDF antigo da OMS inacessíveis.",
+      "action": "Substitua parte do tempo sentado por movimento ou atividade dentro de suas capacidades e faça exercício regular. Se não puder ficar em pé, siga orientação de reabilitação; não se prescreve frequência universal de pausas não comprovada.",
+      "sources": [
+        {
+          "evidence": "Texto completo, Resumo: ACM sedentária total ajustada por atividade física RR/hora 1.01 (1.00–1.01) com ≤8 h e 1.04 (1.03–1.05) com >8 h; TV 1.03 (1.01–1.04) com ≤3.5 h e 1.06 (1.05–1.08) com >3.5 h."
+        }
+      ]
+    },
+    "pessimism": {
+      "factor": "Pessimismo / otimismo",
+      "originalClaim": "Cada 1 DP de pessimismo se associa a ACM HR 1.134 e mortalidade cardiovascular HR 1.196; otimismo não se associou significativamente. O original chama causalidade reversa de “impossível”.",
+      "finding": "O HR original 1.134 e números relacionados correspondem ao artigo e se referem a cada 1 DP a mais na pontuação de pessimismo. Resultados não significativos de otimismo não provam que ele seja inútil; o artigo descrever causalidade reversa como “improvável” não a exclui.",
+      "effect": "ACM HR 1.134 por 1 DP de pessimismo; HR com ajuste adicional 1.160",
+      "ci": "Respectivos CI de 95% 1.065–1.207; 1.083–1.242",
+      "comparison": "Cada 1 DP a mais na pontuação de pessimismo",
+      "population": "Amostra australiana relacionada a gêmeos com ≥50 anos: 2,978 pessoas, 1,068 mortes após cerca de 20 anos; amostras dos modelos menores por dados ausentes",
+      "design": "Coorte prospectiva única; modelos de sobrevivência consideram agrupamento familiar",
+      "gradeReason": "ACM direta, mas coorte única com confundimento substancial por personalidade/saúde",
+      "limitations": "Traços psicológicos não randomizados; causalidade reversa não excluída; sem evidência direta de ensaio de tratamento emocional reduzindo ACM.",
+      "action": "Procure apoio ou ajuda profissional quando pessimismo persistente ou humor deprimido afetar sua vida; otimismo forçado não substitui tratamento.",
+      "sources": [
+        {
+          "evidence": "Texto completo, Resumo e Tabela 1: pontuação ajustada por idade com sexo no modelo, ACM HR 1.134 (1.065–1.207); acrescentando IMC, álcool e tabaco, HR 1.160 (1.083–1.242); otimismo sem associação significativa."
+        }
+      ]
+    },
+    "wealth": {
+      "factor": "Patrimônio líquido / recursos financeiros",
+      "originalClaim": "5,414 adultos de meia-idade (média 46.7 anos): maior patrimônio líquido se associa a longevidade, com direção semelhante entre 2,490 irmãos e gêmeos.",
+      "finding": "A amostra e a direção originais correspondem. Por US$50,000 adicionais de patrimônio líquido, HR de ACM 0.95 e HR intrafamiliar 0.94, mas o CI do subgrupo só de gêmeos cruzou 1. Não mostra que determinado investimento prolongue proporcionalmente a vida por ganhos patrimoniais nem descreve efeito ecológico da desigualdade de riqueza.",
+      "effect": "HR 0.95 por US$50,000 adicionais de patrimônio líquido; HR intrafamiliar 0.94",
+      "ci": "Respectivos CI de 95% 0.94–0.97; 0.91–0.97",
+      "comparison": "Cada US$50,000 adicionais no patrimônio líquido autorrelatado de 1994–1996 (unidade do estudo)",
+      "population": "MIDUS, EUA: 5,414 pessoas, idade média 46.7, quase 24 anos de acompanhamento; 1,010 mortes; 2,490 irmãos/gêmeos",
+      "design": "Coorte única e comparações intrafamiliares",
+      "gradeReason": "ACM direta e comparações familiares, mas coorte única com confundimento econômico/de saúde incompletamente controlado",
+      "limitations": "Patrimônio autorrelatado; representação demográfica limitada; confundimento individual não compartilhado e perda patrimonial por saúde; nenhuma intervenção de aumento de renda testada.",
+      "action": "Priorize moradia estável, acesso a cuidados e segurança financeira básica; investimento de alto risco não é intervenção de saúde.",
+      "sources": [
+        {
+          "evidence": "Texto completo arquivado do projeto de pesquisa do autor, Resultados/Tabela 2: amostra total HR 0.95 (0.94–0.97) por $50,000; intrafamiliar 0.94 (0.91–0.97); apenas gêmeos idênticos 0.95 (0.87–1.04)."
+        }
+      ]
+    },
+    "weight-change": {
+      "factor": "Mudança de peso do início da vida adulta à meia-idade",
+      "originalClaim": "Obesidade para sobrepeso versus obesidade persistente dá ACM 54% menor (HR 0.46); sobrepeso para peso normal não mostrou redução (HR 1.12). A seção de ações abrevia para emagrecimento −54%.",
+      "finding": "Obesidade para sobrepeso versus obesidade persistente HR 0.46 corresponde. Sobrepeso para peso normal versus sobrepeso persistente HR 1.12 tem CI cruzando 1: sem diferença significativa, não prova de que atingir peso normal seja inútil ou prejudicial. O emagrecimento ocorreu entre 25 anos e meia-idade, não perda involuntária na velhice.",
+      "effect": "Obesidade→sobrepeso HR 0.46; sobrepeso→normal HR 1.12",
+      "ci": "Respectivos CI de 95% 0.27–0.77; 0.86–1.45",
+      "comparison": "Versus obesidade persistente e sobrepeso persistente, respectivamente",
+      "population": "NHANES: 24,205 adultos dos EUA de 40–74 anos; pesos recordados aos 25 anos e 10 anos antes do início; acompanhamento 10.7 anos, 5,846 mortes",
+      "design": "Histórico de peso recordado observacional ligado à mortalidade prospectiva",
+      "gradeReason": "ACM direta, mas viés de memória, pequena amostra de emagrecimento e impossibilidade de distinguir intenção ou causas",
+      "limitations": "Apenas 214 pessoas passaram de obesidade a sobrepeso; não randomizado; sem prova de benefício causal de 54% por perda intencional.",
+      "action": "Pessoas com obesidade devem planejar manejo de peso e força muscular de longo prazo com profissionais de saúde. Não transfira essas conclusões à velhice, gravidez ou perda involuntária de peso.",
+      "sources": [
+        {
+          "evidence": "Texto completo, Resumo e Tabela 3: obesidade-sobrepeso versus obesidade-obesidade 0.46 (0.27–0.77); sobrepeso-normal versus sobrepeso-sobrepeso 1.12 (0.86–1.45); Tabela 1: 214 participantes obesidade→sobrepeso."
+        }
+      ]
+    },
+    "covid-pandemic": {
+      "factor": "Pandemia de COVID-19 e excesso de mortes por todas as causas",
+      "originalClaim": "A mortalidade por COVID nos EUA é cerca de 1.5%, com redução de 2 anos na expectativa de vida; o título do artigo citado trata de ACM na primeira onda em 21 países industrializados.",
+      "finding": "O artigo original sustenta excesso de mortes por todas as causas na primeira onda, mas seus 21 países são 19 europeus mais Austrália e Nova Zelândia, excluindo os EUA. Não sustenta “mortalidade por COVID nos EUA de 1.5%” nem “redução de 2 anos na expectativa de vida”; a primeira alegação também carece de data, denominador e definição de letalidade entre casos/infecções. Excesso de mortes na pandemia inclui efeitos indiretos, como interrupção de cuidados.",
+      "effect": "206,000 mortes excedentes em 21 países de meados de fevereiro ao fim de maio de 2020; não HR individual",
+      "ci": "Intervalo de credibilidade bayesiano de 95% 178,100–231,000; não intervalo de confiança de 95%",
+      "comparison": "Mortes observadas por todas as causas versus contrafactual modelado sem pandemia",
+      "population": "Registros nacionais de mortes de 21 países industrializados, primeira onda de 2020; exclui EUA",
+      "design": "Estudo populacional de séries temporais/ecológico com conjunto de 16 modelos bayesianos",
+      "gradeReason": "Totais diretos de ACM, mas dados ecológicos não estimam efeito de uma infecção individual sobre ACM",
+      "limitations": "Modelos contrafactuais e atrasos de registro; contexto de 2020 não extrapolável a variantes, imunidade e cuidados atuais. Link original CDC é portal geral de dados de mortalidade, não apoio direto aos números originais.",
+      "action": "Reduza exposição à infecção e mantenha cuidado de doenças crônicas e acesso oportuno à assistência. Siga orientações de prevenção/tratamento atualmente aplicáveis em vez de estimar risco pessoal com porcentagens fixas de 2020.",
+      "sources": [
+        {
+          "evidence": "Texto completo do PDF original, Resumo, Resultados e Tabela 1: 206,000 mortes excedentes em 21 países (intervalo de credibilidade de 95% 178,100–231,000); Introdução especifica 19 países europeus + Austrália/Nova Zelândia; não estimativas de letalidade da infecção ou expectativa de vida dos EUA."
+        }
+      ]
+    },
+    "resistance-training": {
+      "factor": "Treinamento resistido / fortalecimento muscular",
+      "originalClaim": "Fator novo; repositório original sem números correspondentes.",
+      "finding": "Meta-análise de coortes prospectivas associou qualquer fortalecimento muscular versus nenhum a ACM cerca de 15% menor. A curva sugeriu maiores benefícios em torno de 30–60 minutos/semana, mas efeitos de doses altas são incertos; não é dose ideal confirmada por ensaios randomizados.",
+      "effect": "RR 0.85",
+      "ci": "CI de 95% 0.79–0.93",
+      "comparison": "Qualquer fortalecimento muscular versus nenhum, ajustando por atividade aeróbica quando possível",
+      "population": "Síntese binária de ACM: 7 estudos, 263,058 pessoas, 42,133 mortes; 16 estudos na revisão completa",
+      "design": "Revisão sistemática/meta-análise de coortes prospectivas",
+      "gradeReason": "Síntese direta de ACM com direção consistente entre coortes; nível B do projeto não é o GRADE do artigo, que classificou a certeza de ACM como muito baixa",
+      "limitations": "I²=83%; autorrelato, viés do participante saudável e confundimento; curva em J não estabelece que mais treino seja prejudicial.",
+      "action": "Se fisicamente capaz, treine gradualmente grandes grupos musculares junto com atividade aeróbica. Dor, cirurgia recente ou doença crônica instável exigem avaliação e ajuste prévios.",
+      "sources": [
+        {
+          "evidence": "Texto completo, Tabela 1 e Mortalidade por todas as causas: 7 estudos, 42,133/263,058 mortes/participantes, RR 0.85 (0.79–0.93), I² 83%; RR<1 em cada estudo; GRADE original: muito baixo."
+        }
+      ]
+    },
+    "social-isolation": {
+      "factor": "Isolamento social, solidão e morar sozinho",
+      "originalClaim": "Fator novo; repositório original sem números correspondentes.",
+      "finding": "Resultados meta-analíticos ajustados associam isolamento social, solidão e morar sozinho a razões de chances de mortalidade de 1.29, 1.26 e 1.32, respectivamente. São exposições distintas; OR não pode ser reescrito como HR nem como aumento da mortalidade absoluta individual. Não está comprovado que aumentar contato social reverta necessariamente o risco na mesma magnitude.",
+      "effect": "Isolamento social OR 1.29; solidão OR 1.26; morar sozinho OR 1.32",
+      "ci": "Não informado (resumo original lido não fornece CI de 95%; nenhum acrescentado de fontes secundárias)",
+      "comparison": "Isolamento social/solidão/morar sozinho versus respectivo grupo de menor exposição em cada estudo",
+      "population": "Estudos de acompanhamento de mortalidade até fevereiro de 2014; populações e ajustes variam entre estudos",
+      "design": "Revisão sistemática e meta-análise de estudos originais",
+      "gradeReason": "Síntese de vários estudos com desfechos diretos de mortalidade; não intervencional e não causal",
+      "limitations": "Saúde inicial influencia resultados; definições heterogêneas das exposições; morar sozinho não é solidão; apenas resumo nesta rodada de revisão.",
+      "action": "Mantenha contatos confiáveis e formas de buscar ajuda conforme suas preferências; aborde barreiras como audição, mobilidade e depressão. Nem todo mundo que mora sozinho precisa coabitar.",
+      "sources": [
+        {
+          "evidence": "Resumo relata OR ajustados de isolamento social 1.29, solidão 1.26 e morar sozinho 1.32; saúde inicial influencia resultados; sem CI listados."
+        }
+      ]
+    },
+    "intensive-bp-control": {
+      "factor": "Controle intensivo da pressão em pessoas elegíveis",
+      "originalClaim": "Fator novo; repositório original sem números correspondentes.",
+      "finding": "Nos participantes SPRINT sem diabetes e com risco cardiovascular aumentado, alvo sistólico <120 versus <140 mmHg reduziu ACM em cerca de 27%. É ensaio de estratégia terapêutica, não evidência de que anti-hipertensivos prolonguem a vida de toda pessoa saudável; HR composto cardiovascular 0.75 e HR de ACM 0.73 são relatados separadamente.",
+      "effect": "ACM HR 0.73",
+      "ci": "CI de 95% 0.60–0.90",
+      "comparison": "Alvo sistólico intensivo <120 versus padrão <140 mmHg",
+      "population": "9,361 adultos com pressão sistólica ≥130 mmHg, risco cardiovascular aumentado e sem diabetes",
+      "design": "Ensaio controlado randomizado SPRINT; acompanhamento mediano 3.26 anos, interrompido precocemente",
+      "gradeReason": "Comparação randomizada direta de ACM; aplicabilidade claramente definida, preservando limitações de interrupção precoce e eventos adversos",
+      "limitations": "Interrupção precoce pode superestimar benefício; hipotensão, síncope, alterações eletrolíticas e lesão renal aguda mais comuns; não generalizável a diabetes ou normotensos de baixo risco.",
+      "action": "Com hipertensão diagnosticada e maior risco, discuta alvos com um clínico e monitore função renal, eletrólitos e sintomas posturais. Não acrescente medicamento nem persiga o alvo do ensaio por conta própria.",
+      "sources": [
+        {
+          "evidence": "Resumo, Métodos/Resultados: n=9,361; ACM HR 0.73 (0.60–0.90), P=.003; composto cardiovascular primário 0.75 (0.64–0.89); mais eventos graves de hipotensão, síncope, alterações eletrolíticas e renais no grupo intensivo."
+        }
+      ]
+    },
+    "cardiorespiratory-fitness": {
+      "factor": "Aptidão cardiorrespiratória (ACR)",
+      "originalClaim": "Entrada nova; o repositório original não listava separadamente aptidão cardiorrespiratória.",
+      "finding": "Cada 1 MET a mais de aptidão cardiorrespiratória medida por teste de exercício se associa a menor ACM. É associação observacional de capacidade física, não benefício garantido de “fazer 1 MET a mais de exercício”.",
+      "effect": "RR 0.88 por 1 MET a mais de ACR",
+      "ci": "0.83–0.93",
+      "comparison": "Cada 1 MET a mais de ACR; não comparação de minutos de exercício",
+      "population": "34 coortes de adultos na revisão; análise contínua de dose para ACM usa subconjunto",
+      "design": "Meta-análise de dose-resposta de estudos de coorte",
+      "gradeReason": "Coortes combinadas com medição relativamente objetiva, mas associação isolada não estabelece efeito causal de mudar a aptidão.",
+      "limitations": "Heterogeneidade muito alta; doença prévia, genética e protocolos de teste influenciam ACR; busca até 2019-12-26.",
+      "action": "Use aptidão como pista na avaliação da capacidade física e treine gradualmente conforme a saúde inicial; não use RR diretamente para estimar prolongamento pessoal da vida.",
+      "sources": [
+        {
+          "evidence": "Resumo Europe PMC, Resultados: ACM RR 0.88 (0.83–0.93) por 1 MET; trecho de busca no texto original indica I²=99.4% nesta análise."
+        }
+      ]
+    },
+    "dapagliflozin-ckd": {
+      "factor": "Dapagliflozina (doença renal crônica específica)",
+      "originalClaim": "Entrada nova; o repositório original não listava inibidores de SGLT2.",
+      "finding": "Em pessoas com doença renal crônica elegíveis para DAPA-CKD, o grupo de tratamento randomizado teve menor ACM. Isso não é evidência de medicamento antienvelhecimento em saudáveis.",
+      "effect": "HR 0.69; mortes 4.7% versus 6.8%",
+      "ci": "0.53–0.88",
+      "comparison": "Dapagliflozina 10 mg/dia versus placebo, ambos com cuidado padrão",
+      "population": "4,304 adultos com doença renal crônica; eGFR 25–75, UACR 200–5,000 mg/g; acompanhamento mediano 2.4 anos; com/sem diabetes tipo 2",
+      "design": "Ensaio randomizado duplo-cego controlado por placebo; ACM como desfecho secundário essencial pré-especificado",
+      "gradeReason": "Alocação aleatória e registro direto de ACM; principais limites são aplicabilidade populacional e interrupção precoce.",
+      "limitations": "Interrompido precocemente por eficácia; não generalizável a saudáveis sem doença renal crônica, diabetes tipo 1 ou doenças renais excluídas. Os 4.7%/6.8% são proporções de mortes no período do ensaio, não risco vitalício.",
+      "action": "Um clínico deve avaliar doença renal crônica e outras indicações, considerando depleção de volume, infecção, cetoacidose e outros riscos. A dose descreve apenas o regime do ensaio.",
+      "sources": [
+        {
+          "evidence": "Resumo/Métodos/Resultados e Tabela 2: ACM como desfecho secundário pré-especificado, 101/2,152 versus 146/2,152; HR 0.69 (0.53–0.88); mediana de 2.4 anos."
+        }
+      ]
+    },
+    "semaglutide-select": {
+      "factor": "Semaglutida (população elegível para SELECT)",
+      "originalClaim": "Entrada nova; o repositório original não listava agonistas do receptor de GLP-1.",
+      "finding": "A estimativa de ACM do SELECT favoreceu menor mortalidade, mas o teste hierárquico do ensaio principal não superou a etapa de morte cardiovascular. Assim, ACM não pode ser tratada como superioridade confirmatória sob controle de multiplicidade.",
+      "effect": "HR 0.81 (interpretação exploratória)",
+      "ci": "0.71–0.93",
+      "comparison": "Semaglutida subcutânea 2.4 mg semanal versus placebo, com cuidado padrão",
+      "population": "17,604 pessoas; idade ≥45, IMC ≥27, doença cardiovascular estabelecida, sem diabetes; acompanhamento médio 39.8 meses",
+      "design": "Ensaio randomizado duplo-cego e sua análise de desfechos de mortalidade",
+      "gradeReason": "Evidência randomizada, rebaixada porque o teste hierárquico de ACM não foi concluído; nível B aqui não significa pesquisa observacional.",
+      "limitations": "Não generalizável a mais jovens, pessoas sem doença cardiovascular ou IMC normal; financiamento do fabricante; interrupção por eventos adversos no ensaio principal 16.6% versus 8.2%.",
+      "action": "Avalie apenas sob indicações clínicas pertinentes; resultados exploratórios de ACM não são promessa de longevidade para saudáveis.",
+      "sources": [
+        {
+          "evidence": "Resultados: ACM HR 0.81 (0.71–0.93); morte cardiovascular 0.85 (0.71–1.01)."
+        },
+        {
+          "evidence": "Desfechos de eficácia: morte cardiovascular não atingiu limiar hierárquico, portanto teste subsequente de superioridade de ACM não realizado; resumo Europe PMC informa interrupção 16.6% versus 8.2%. Solicitação de texto completo ao site original retornou 403; não se alega leitura do texto completo."
+        }
+      ]
+    },
+    "aspirin-primary-prevention": {
+      "factor": "Aspirina (prevenção primária em idosos)",
+      "originalClaim": "Novo contraexemplo; não se pode presumir que medicamento preventivo prolongue a vida.",
+      "finding": "O ASPREE não sustentou começar aspirina diária para longevidade em idosos sem doença cardiovascular prévia. O desfecho secundário de ACM sinalizou maior mortalidade, mas sem ajuste de comparações múltiplas e exigindo interpretação cautelosa.",
+      "effect": "HR 1.14; 12.7 versus 11.1 por 1,000 pessoas-ano",
+      "ci": "1.01–1.29 (sem ajuste para comparações múltiplas)",
+      "comparison": "Aspirina 100 mg/dia versus placebo",
+      "population": "19,114 idosos na comunidade, geralmente ≥70 (participantes negros/hispânicos dos EUA ≥65), sem doença cardiovascular, demência ou incapacidade; mediana de 4.7 anos",
+      "design": "Ensaio randomizado duplo-cego; ACM como desfecho secundário",
+      "gradeReason": "Evidência randomizada direta de ACM, mas multiplicidade de desfechos secundários e sinal inesperado de morte por câncer limitam a certeza.",
+      "limitations": "Não totalmente consistente com estudos anteriores; não aplicável à prevenção secundária após infarto/AVC; não significa que aspirina aumente ACM em toda idade.",
+      "action": "Não comece aspirina por conta própria apenas para longevidade. Se a toma por indicação clara, discuta com um clínico em vez de parar com base neste ensaio.",
+      "sources": [
+        {
+          "evidence": "Resultados: 1,052 mortes; ACM 12.7 versus 11.1 por 1,000 pessoas-ano, HR 1.14 (1.01–1.29)."
+        },
+        {
+          "evidence": "Discussão afirma explicitamente que os CI não foram ajustados para múltiplos desfechos secundários; os autores pedem interpretação cautelosa da maior ACM."
+        }
+      ]
+    },
+    "walking-steps-2025": {
+      "factor": "Passos diários (atualização da revisão de 2025)",
+      "originalClaim": "Acrescenta evidências combinadas de várias coortes à entrada original de passos de uma única coorte.",
+      "finding": "O resumo da revisão de 2025 associa 7,000 versus 2,000 passos/dia a menor ACM. A associação entre grupos não pode ser tomada diretamente como benefício de intervenção pessoal de aumentar de 2,000 para 7,000 passos.",
+      "effect": "HR 0.53 (informado no resumo)",
+      "ci": "0.46–0.60",
+      "comparison": "7,000 versus 2,000 passos/dia medidos por dispositivo, modelo de dose-resposta",
+      "population": "Coortes prospectivas de adultos; 14 estudos nesta comparação de ACM; busca da revisão até 2025-02-14",
+      "design": "Revisão sistemática e meta-análise de dose-resposta",
+      "gradeReason": "Síntese direta de ACM medida por dispositivos em várias coortes; certeza moderada GRADE dos autores não é a certeza causal do projeto.",
+      "limitations": "Confundimento residual; sem conclusões estratificadas por idade; diferenças nos dispositivos, períodos de medição e doença prévia. Nesta rodada, baseado nos números do resumo, sem revisão tabela a tabela do texto completo.",
+      "action": "Aumente os passos dentro da sua capacidade; 7,000 podem ser meta gradual para algumas pessoas, não limiar obrigatório para todas.",
+      "sources": [
+        {
+          "evidence": "Resultados: 14 estudos de ACM; 7,000 versus 2,000 passos HR 0.53 (0.46–0.60), I²=36.3%; GRADE de ACM dos autores: moderado."
+        }
+      ]
+    },
+    "metformin-adverse-events": {
+      "factor": "Reações adversas da metformina (verificação de denominadores e definições)",
+      "originalClaim": "Deficiência de vitamina B12 7%–17.4%; reações adversas gastrointestinais até 53%; fadiga 9%, cefaleia 6%; acidose láctica e lesão hepática graves raras.",
+      "finding": "Os 53% da bula dos EUA referem-se a diarreia em ensaio específico; astenia 9% e cefaleia 6% também vêm desse ensaio, não são taxas gerais de todos que tomam metformina. Cerca de 7% em ensaio de 29 semanas desenvolveram B12 sérica abaixo do normal, não necessariamente deficiência sintomática; o limite superior de 17.4% não foi confirmado nesta bula. Acidose láctica tem alerta em destaque; lesão hepática é relato pós-comercialização, e notificações espontâneas não estimam frequência.",
+      "effect": "Efeito sobre ACM não avaliado; diarreia 53% versus 12%",
+      "ci": "ACM não informada; intervalos das reações adversas não listados",
+      "comparison": "Comprimidos de metformina de liberação imediata versus placebo; até 2,550 mg/dia",
+      "population": "Ensaio de diabetes tipo 2 dos EUA na bula: 141 tratados, 145 placebo; dados de B12 de ensaio de 29 semanas",
+      "design": "Dados de ensaio de reações adversas da bula oficial e relatos pós-comercialização; não estudo de intervenção sobre ACM",
+      "gradeReason": "Fonte clara de segurança, mas apenas indireta para longevidade/ACM; D não contesta confiabilidade da bula.",
+      "limitations": "Taxas entre formulações, titulação, doses, acompanhamento e populações não são diretamente comparáveis; nenhuma definição uniforme fornecida para 17.4%; frequências de reações adversas não são riscos de mortalidade.",
+      "action": "Use conforme indicações clínicas e monitore função renal e B12; esta entrada corrige definições e denominadores das frequências, não fundamenta começar ou interromper tratamento por conta própria.",
+      "sources": [
+        {
+          "evidence": "Bula atualizada em 2026-06: Tabela 1, diarreia 53%/12%, astenia 9%/6%, cefaleia 6%/5%; seção 5.2, cerca de 7% desenvolveram B12 sérica baixa. Seção 6.2: lesão hepática vem de relatos espontâneos."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "language": "en",
+  "records": {
+    "poultry-fish": {
+      "summary": "Long-term US studies linked higher red and processed meat intake with a higher risk of death. Associations were weaker for fish and poultry; what replaces meat and how it is cooked also matter.",
+      "takeaway": "Eat less processed meat and replace some red meat with beans, nuts or fish."
+    },
+    "fresh-fruit-diabetes": {
+      "summary": "In a long-term Chinese study of people with diabetes, higher fresh fruit intake was linked with lower risks of death and vascular complications. The study looked at whole fruit, not juice.",
+      "takeaway": "Include moderate portions of whole fruit, adjusted to your blood glucose and treatment plan."
+    },
+    "flavonoid-foods": {
+      "summary": "A long-term Danish study linked higher dietary flavonoid intake with a lower risk of death. Flavonoids come from many plant foods, and the study examined everyday diets.",
+      "takeaway": "Enjoy a variety of vegetables, fruit and beans."
+    },
+    "chili-us": {
+      "summary": "A US follow-up study found a lower risk of death among adults who ate red chili peppers. Age, diet and other habits also influence this association.",
+      "takeaway": "If you enjoy chili and it agrees with your stomach, use it to add flavor."
+    },
+    "chili-italy": {
+      "summary": "An Italian follow-up study linked frequent chili consumption with lower all-cause and cardiovascular mortality.",
+      "takeaway": "If you enjoy chili and tolerate it well, add it to meals to taste."
+    },
+    "eggs": {
+      "summary": "A US study of middle-aged and older adults linked higher whole-egg intake with a higher risk of death, though findings differ across regions. The overall diet offers more context than eggs alone.",
+      "takeaway": "Choose egg intake that suits your blood lipids and diet, with room for beans and nuts too."
+    },
+    "walnuts": {
+      "summary": "Long-term US studies linked regular walnut consumption with a lower risk of death. Estimated differences in life expectancy came from statistical models, and other healthy habits may contribute.",
+      "takeaway": "If you are not allergic, swap some snacks for modest portions of unsalted walnuts and include them in your total energy intake."
+    },
+    "nuts-general": {
+      "summary": "Several follow-up studies linked regular nut consumption with a lower risk of death. They covered different diets and did not directly compare raw and roasted nuts.",
+      "takeaway": "Choose unsalted nuts with little added sugar that you enjoy; avoid them if you have a nut allergy."
+    },
+    "sodium-ecological": {
+      "summary": "A comparison across countries found lower mortality where sodium intake was higher, though differences in income, healthcare and other national factors also affect this association. Personal salt choices are better guided by blood pressure and health.",
+      "takeaway": "Manage salt intake according to your blood pressure and medical needs."
+    },
+    "potassium-salt": {
+      "summary": "A randomized trial in rural China found fewer deaths and cardiovascular events when regular salt was replaced with a lower-sodium, potassium-enriched salt. Participants had a stroke history or were older adults with hypertension.",
+      "takeaway": "Check suitability before switching salt, especially with impaired kidney function, high potassium or medicines that raise potassium."
+    },
+    "carbohydrate-share": {
+      "summary": "Long-term studies found higher mortality at both lower and higher carbohydrate shares. The foods used to replace carbohydrates also influenced the findings.",
+      "takeaway": "Start with better-quality carbohydrate sources, including whole grains and beans; tailor therapeutic diets to individual needs."
+    },
+    "betel-quid": {
+      "summary": "A pooled analysis of Asian studies linked betel quid chewing with a higher risk of death. Recipes and accompanying smoking or drinking affect the size of the association.",
+      "takeaway": "Avoid betel quid and seek help to quit if you are dependent on it."
+    },
+    "calorie-restriction": {
+      "summary": "Rhesus monkey studies suggest calorie restriction may improve survival, though results differ between studies. A lifespan benefit from calorie restriction has not been established in humans.",
+      "takeaway": "Eat enough for good nutrition without excess; avoid self-directed restriction when underweight, pregnant, breastfeeding, growing, frail or living with an eating disorder."
+    },
+    "macronutrient-pattern": {
+      "summary": "A large UK follow-up study found complex relationships between fat, protein, carbohydrates, fiber and health. A balanced mix of foods is more practical than chasing an exact nutrient ratio.",
+      "takeaway": "Build meals around vegetables, fruit, whole grains, beans and suitable protein; follow a tailored nutrition plan for kidney disease or diabetes."
+    },
+    "ultraprocessed-acm": {
+      "summary": "In a Spanish follow-up study, higher ultra-processed food intake was linked with a higher risk of death. Participants were mainly university graduates, and diet and social background also influence the findings.",
+      "takeaway": "Gradually replace some everyday ultra-processed foods with affordable, less processed choices."
+    },
+    "ultraprocessed-cvd": {
+      "summary": "A French follow-up study linked a higher share of ultra-processed foods with a higher risk of developing cardiovascular disease.",
+      "takeaway": "Choose fewer ultra-processed snacks and ready-made foods, and more simple meals that fit your routine.",
+      "title": "Ultra-processed foods and heart health"
+    },
+    "whole-grains": {
+      "summary": "A pooled analysis of long-term studies linked higher whole-grain intake with a lower risk of death. Portions referred to the weight of whole-grain foods.",
+      "takeaway": "Gradually replace some refined grains with whole grains; choose gluten-free options if you have celiac disease."
+    },
+    "dietary-fiber": {
+      "summary": "Follow-up studies linked higher fiber intake with a lower risk of death, while clinical trials found improvements in measures such as blood pressure and cholesterol.",
+      "takeaway": "Increase fiber gradually through whole grains, beans, vegetables and fruit, with enough fluid; seek advice for intestinal narrowing or acute digestive illness."
+    },
+    "plant-protein": {
+      "summary": "Several cohort studies linked higher plant protein intake with a lower risk of death. Food sources and what they replace are central to understanding the finding.",
+      "takeaway": "Replace some red and processed meat with beans, soy foods or nuts, adjusted for kidney disease or allergies."
+    },
+    "dairy": {
+      "summary": "A multinational follow-up study linked dairy intake with a lower risk of death, but reviews have found mixed results. Milk and yogurt can provide nutrients, with choices guided by individual needs.",
+      "takeaway": "If you enjoy and tolerate dairy, choose milk or yogurt with little added sugar; use suitable alternatives for lactose intolerance or allergy."
+    },
+    "tea-china-par": {
+      "summary": "A long-term Chinese study linked habitual tea drinking with a lower risk of death. Tea drinkers' lifestyles and socioeconomic circumstances may also contribute.",
+      "takeaway": "Enjoy unsweetened tea at a comfortable temperature; cut back if it disrupts sleep, causes palpitations or conflicts with caffeine limits."
+    },
+    "tea-ckb": {
+      "summary": "Another large Chinese follow-up study found the link between tea drinking and lower mortality mainly in men. Daily drinking did not show better results than less frequent drinking.",
+      "takeaway": "Drink unsweetened tea in amounts you enjoy, at a comfortable temperature and without disrupting sleep."
+    },
+    "artificially-sweetened-drinks": {
+      "summary": "A large European study linked higher artificially sweetened drink intake with a higher risk of death. People with existing metabolic problems may be more likely to switch to these drinks, complicating interpretation.",
+      "takeaway": "Choose water for everyday thirst; if you use diet drinks to replace sugary drinks, this finding is not a reason to switch back."
+    },
+    "sugar-sweetened-drinks": {
+      "summary": "Long-term US studies linked higher sugary drink intake with a higher risk of all-cause and cardiovascular death.",
+      "takeaway": "Gradually replace regular sugary drinks with water or unsweetened options."
+    },
+    "fruit-juice": {
+      "summary": "A US follow-up study of middle-aged and older adults linked higher fruit juice intake with a higher risk of death.",
+      "takeaway": "Drink water for thirst, choose whole fruit, and keep juice to small amounts."
+    },
+    "coffee": {
+      "summary": "A large review linked moderate coffee consumption with a lower risk of death. Cup size, preparation, added sugar and individual tolerance all matter.",
+      "takeaway": "Enjoy coffee in moderation if it suits you, with little added sugar; adjust caffeine during pregnancy or if you experience insomnia or palpitations."
+    },
+    "spermidine-diet": {
+      "summary": "Follow-up research linked higher spermidine intake from food with a lower risk of death. Taking spermidine supplements is a different question, and a lifespan benefit from supplements has not been established.",
+      "takeaway": "Add variety through ordinary foods such as whole grains and beans.",
+      "title": "Dietary spermidine"
+    },
+    "smoking": {
+      "summary": "Long-term studies consistently find higher mortality among smokers, including people who smoke relatively little each day. People who quit have lower risks than those who continue.",
+      "takeaway": "Do not start smoking; if you smoke, quit as early as you can, using cessation services and medication support when needed."
+    },
+    "sun-exposure": {
+      "summary": "Nordic studies found associations between indicators of sun exposure and survival, with outdoor activity and healthcare habits also influencing the results. They did not establish a sun exposure duration for longer life.",
+      "takeaway": "Enjoy outdoor activity and daylight while avoiding sunburn; use tailored protection for high skin cancer risk or photosensitivity."
+    },
+    "nmn": {
+      "summary": "Human trials have mainly examined metabolic measures and have been small and short. NMN has not been shown to extend human lifespan, and long-term safety data are limited.",
+      "takeaway": "Focus first on diet, activity and sleep, rather than treating NMN as a proven longevity medicine."
+    },
+    "metformin-diabetes": {
+      "summary": "A randomized trial in overweight people with newly diagnosed diabetes found fewer deaths with metformin; pooled results from later trials were less certain. These studies concern diabetes treatment.",
+      "takeaway": "For diabetes, follow a prescribed plan that considers kidney function and tolerance. If you are healthy, do not start metformin on your own for longevity."
+    },
+    "metformin-longevity": {
+      "summary": "An observational study compared people with diabetes taking metformin with controls without diabetes and found better survival in the metformin group. However, long-term randomized follow-up found no reduction in mortality among people at high risk of diabetes. A lifespan benefit for healthy people taking metformin has not been established.",
+      "takeaway": "Do not self-medicate for aging; discuss treatment questions with your clinician if you have diabetes or are planning a family.",
+      "title": "Metformin and longevity in healthy people"
+    },
+    "multivitamins": {
+      "summary": "Randomized trials and large follow-up studies have not shown lower mortality from multivitamins in generally healthy people. Some studies found fewer cancer diagnoses, which is a different outcome.",
+      "takeaway": "Use targeted supplements for deficiencies or specific nutritional needs, and start with a good everyday diet."
+    },
+    "glucosamine-chondroitin": {
+      "summary": "A US follow-up study linked long-term glucosamine and chondroitin use with lower mortality; users were also more likely to exercise and not smoke. These supplements have not been shown to extend healthy people's lives.",
+      "takeaway": "Find the cause of joint symptoms first, and check supplement interactions especially if you take anticoagulants."
+    },
+    "anti-aging-drugs-review": {
+      "summary": "A review of aging drug research discussed several candidate molecules, with evidence mainly from animals and limited human studies. Lifespan benefits for healthy people remain unproven.",
+      "takeaway": "Avoid combining aging drugs on your own; pursue experimental treatments through properly conducted research."
+    },
+    "alcohol": {
+      "summary": "A large review accounting for biases such as former drinking found no mortality benefit from low alcohol intake, while higher intake was linked with greater risk.",
+      "takeaway": "If you do not drink, there is no need to start; if you do, cut back, with medical support for dependence or a history of withdrawal."
+    },
+    "ambient-air-pollution": {
+      "summary": "A large US study of older adults linked long-term exposure to higher fine-particle and ozone levels with a higher risk of death.",
+      "takeaway": "Check air quality, reduce strenuous outdoor activity during heavy pollution, and improve indoor air where possible."
+    },
+    "statins-indicated-patients": {
+      "summary": "Pooled randomized trials found that statin treatment reduced cardiovascular events, with fewer deaths also seen in enrolled participants without prior vascular disease. Individual benefit depends on baseline risk.",
+      "takeaway": "Discuss statins if you meet treatment criteria, and report muscle symptoms or other medicines that may interact."
+    },
+    "vitamin-d-general-population": {
+      "summary": "A large randomized trial found no mortality reduction from routine vitamin D supplementation in generally healthy middle-aged and older adults. Deficiency and bone disease require separate assessment.",
+      "takeaway": "Use supplements for identified deficiency risks or bone health needs, and avoid unsupervised high doses."
+    },
+    "racquet-sports": {
+      "summary": "A UK adult follow-up study linked racquet sport participation with a lower risk of death. Enjoyment, fitness and the ability to keep going also matter when choosing an activity.",
+      "takeaway": "Choose a racquet sport you enjoy and can manage, and build up gradually."
+    },
+    "vigorous-activity": {
+      "summary": "A UK follow-up study linked even short amounts of vigorous activity with lower mortality. Participants were mainly middle-aged and older adults, with activity measured by wearable devices.",
+      "takeaway": "Add short vigorous activities if you have a fitness base and can do so safely; seek assessment for symptoms or unstable chronic illness."
+    },
+    "walking-steps": {
+      "summary": "A US study of middle-aged adults linked more daily steps with lower mortality, without showing that ever more steps are always better.",
+      "takeaway": "Walk a little more from your current baseline, adjusting for heart or lung disease, fall risk or mobility limitations."
+    },
+    "toothbrushing": {
+      "summary": "A large Chinese follow-up study found higher mortality among people who rarely brushed their teeth. Oral care is also related to smoking, health and access to care.",
+      "takeaway": "Brush regularly with fluoride toothpaste and get dental problems treated."
+    },
+    "tub-bathing": {
+      "summary": "A Japanese study of middle-aged adults linked regular tub bathing with fewer cardiovascular disease and stroke events.",
+      "takeaway": "Bathe at a comfortable temperature; avoid long hot baths and bathing alone after alcohol or with fainting tendencies or unstable cardiovascular health."
+    },
+    "heavy-housework": {
+      "summary": "A Hong Kong study of older adults linked heavy housework with lower mortality in men, with no clear association in women. Better underlying fitness may also contribute.",
+      "takeaway": "Use suitable chores as everyday activity, avoiding heavy lifting if frail or living with osteoporosis or back problems."
+    },
+    "sleep-duration": {
+      "summary": "Studies across Asian countries linked very long sleep with higher mortality; longer sleep may also reflect underlying illness or sleep problems.",
+      "takeaway": "Aim for sufficient, restorative sleep, and investigate persistent sleepiness, fatigue or snoring."
+    },
+    "bedtime": {
+      "summary": "A multinational follow-up study linked earlier and later bedtimes with a higher combined risk of death and cardiovascular events. The association weakened substantially after accounting for other factors.",
+      "takeaway": "Keep a regular schedule that suits you and allows enough sleep, without forcing yourself to stay up for a particular bedtime."
+    },
+    "sedentary-time": {
+      "summary": "A review linked longer sedentary time with higher mortality, particularly among people who sat for much of the day. Associations also differed for television viewing and total sitting.",
+      "takeaway": "Replace some sitting time with walking or other movement when your body allows."
+    },
+    "pessimism": {
+      "summary": "An Australian follow-up study of older adults linked higher pessimism scores with higher mortality. Mood, physical health and life circumstances influence one another.",
+      "takeaway": "Talk with someone you trust when things are difficult, and seek professional support if mood keeps affecting daily life."
+    },
+    "wealth": {
+      "summary": "A US study of middle-aged adults linked greater wealth with lower mortality. Resources, health and security often influence one another.",
+      "takeaway": "Prioritize housing, healthcare access and basic financial security to reduce avoidable pressures."
+    },
+    "weight-change": {
+      "summary": "A US follow-up study found lower mortality among people who moved from obesity to overweight between early adulthood and midlife than among those who remained obese.",
+      "takeaway": "If you have obesity, plan sustainable weight and strength management; investigate unintentional weight loss, especially in older age."
+    },
+    "covid-pandemic": {
+      "summary": "Death registries from several countries showed substantial excess mortality during the first COVID-19 wave, including infection and potentially indirect effects such as disrupted care. This reflects that phase of the pandemic.",
+      "takeaway": "Reduce infection exposure, keep chronic conditions managed, and obtain appropriate care promptly when ill."
+    },
+    "resistance-training": {
+      "summary": "A review of cohort studies linked muscle-strengthening activity with lower mortality. The relationship with specific amounts of training remains uncertain.",
+      "takeaway": "Build strength in major muscle groups gradually alongside aerobic activity, with adjustments for pain, recent surgery or unstable chronic illness."
+    },
+    "social-isolation": {
+      "summary": "A review linked social isolation, loneliness and living alone with higher mortality, though these are different experiences. People who live alone can still have fulfilling, reliable connections.",
+      "takeaway": "Maintain connections and ways to ask for help that suit you, and address barriers such as hearing, mobility or mood difficulties."
+    },
+    "intensive-bp-control": {
+      "summary": "A randomized trial found fewer deaths with intensive blood pressure treatment in higher-risk adults without diabetes, but more adverse events such as hypotension and kidney problems.",
+      "takeaway": "Set blood pressure goals with your clinician and monitor dizziness, kidney function and electrolytes."
+    },
+    "cardiorespiratory-fitness": {
+      "summary": "Several cohort studies linked better cardiorespiratory fitness on exercise testing with lower mortality. Fitness reflects physical capacity and is also influenced by illness and genetics.",
+      "takeaway": "Start from your current fitness and build suitable activity gradually."
+    },
+    "dapagliflozin-ckd": {
+      "summary": "A randomized trial found fewer deaths with dapagliflozin among eligible people with chronic kidney disease, with or without diabetes. A lifespan benefit for healthy people has not been established.",
+      "takeaway": "For chronic kidney disease, have a clinician assess suitability, considering risks including dehydration, infection and ketoacidosis."
+    },
+    "semaglutide-select": {
+      "summary": "In SELECT, participants with cardiovascular disease, overweight or obesity, and no diabetes had fewer deaths in the semaglutide group; this mortality finding is exploratory.",
+      "takeaway": "Assess treatment for medical and weight-management needs, including tolerability; a lifespan benefit for healthy people remains unproven."
+    },
+    "aspirin-primary-prevention": {
+      "summary": "A randomized trial in older adults without prior cardiovascular disease found no lifespan benefit from daily aspirin and a signal of higher mortality. This differs from treatment after a heart attack or stroke.",
+      "takeaway": "Do not start aspirin solely for longevity; if you take it for a medical indication, discuss changes with your clinician first."
+    },
+    "walking-steps-2025": {
+      "summary": "A more recent review again linked higher daily step counts with lower mortality. Participants' health, devices and measurement methods also affect the findings.",
+      "takeaway": "Choose a walking goal within reach; comfort and consistency matter."
+    },
+    "metformin-adverse-events": {
+      "summary": "Metformin can cause diarrhea and other digestive symptoms and may lower vitamin B12 levels; lactic acidosis is also an important risk. Reactions vary with formulation, dose and health.",
+      "takeaway": "Use it as prescribed, monitor tolerance, kidney function and vitamin B12, and report symptoms promptly.",
+      "title": "Metformin side effects"
+    }
+  }
+}

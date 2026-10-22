@@ -1,0 +1,253 @@
+{
+  "language": "es",
+  "records": {
+    "poultry-fish": {
+      "summary": "Estudios estadounidenses de seguimiento prolongado relacionaron comer más carne roja y procesada con mayor riesgo de muerte. La asociación fue más débil con pescado y aves; también importan los sustitutos y la cocción.",
+      "takeaway": "Come menos carne procesada y sustituye parte de la roja por legumbres, frutos secos o pescado."
+    },
+    "fresh-fruit-diabetes": {
+      "summary": "Un seguimiento chino de personas con diabetes relacionó comer más fruta fresca con menor riesgo de muerte y complicaciones vasculares. Estudió fruta entera, no zumo.",
+      "takeaway": "Incluye cantidades moderadas de fruta entera, ajustadas a tu glucemia y tratamiento."
+    },
+    "flavonoid-foods": {
+      "summary": "Un seguimiento danés relacionó una mayor ingesta alimentaria de flavonoides con menor riesgo de muerte. Estos compuestos están en muchos vegetales; el estudio observó la dieta cotidiana.",
+      "takeaway": "Varía las verduras, frutas y legumbres."
+    },
+    "chili-us": {
+      "summary": "Un seguimiento estadounidense encontró menor riesgo de muerte entre adultos que comían chile rojo. La edad, la dieta y otros hábitos también influyen en esta asociación.",
+      "takeaway": "Si te gusta el picante y te sienta bien, disfrútalo como condimento."
+    },
+    "chili-italy": {
+      "summary": "Un seguimiento italiano relacionó comer chile con frecuencia con menor mortalidad total y cardiovascular.",
+      "takeaway": "Si te gusta el chile y lo toleras bien, úsalo para dar sabor a tus comidas."
+    },
+    "eggs": {
+      "summary": "Un seguimiento estadounidense de adultos de mediana y avanzada edad relacionó comer más huevos enteros con mayor riesgo de muerte. Los resultados varían entre regiones; la dieta completa aporta más contexto que el huevo por separado.",
+      "takeaway": "Adapta los huevos a tus lípidos sanguíneos y tu alimentación, dejando espacio para legumbres y frutos secos."
+    },
+    "walnuts": {
+      "summary": "Seguimientos estadounidenses relacionaron comer nueces regularmente con menor riesgo de muerte. Las diferencias de esperanza de vida se estimaron con modelos; otros hábitos saludables también pueden influir.",
+      "takeaway": "Si no tienes alergia, sustituye algunos tentempiés por cantidades moderadas de nueces sin sal y cuenta su aporte energético."
+    },
+    "nuts-general": {
+      "summary": "Varios seguimientos relacionaron comer frutos secos regularmente con menor riesgo de muerte. Incluyeron distintas dietas y no compararon directamente frutos secos crudos y tostados.",
+      "takeaway": "Elige frutos secos sin sal y con poco azúcar añadido que te gusten; evítalos si tienes alergia."
+    },
+    "sodium-ecological": {
+      "summary": "Una comparación entre países encontró una mortalidad menor donde el consumo de sodio era mayor, aunque las diferencias de ingresos, atención sanitaria y otros factores nacionales también influyen en esta relación. Para decidir cuánto consumir, conviene tener en cuenta la presión arterial y la salud de cada persona.",
+      "takeaway": "Ajusta la sal a tu presión arterial y tus necesidades médicas."
+    },
+    "potassium-salt": {
+      "summary": "Un ensayo aleatorizado en zonas rurales chinas encontró menos muertes y eventos cardiovasculares al sustituir sal común por sal reducida en sodio y enriquecida con potasio. Los participantes tenían antecedentes de ictus o eran mayores con hipertensión.",
+      "takeaway": "Antes de cambiar de sal, confirma que sea adecuada, especialmente con enfermedad renal, potasio alto o fármacos que lo elevan."
+    },
+    "carbohydrate-share": {
+      "summary": "Los seguimientos relacionaron tanto proporciones bajas como altas de carbohidratos con mayor mortalidad. Los alimentos que los sustituían también influyeron en los resultados.",
+      "takeaway": "Mejora primero la calidad de los carbohidratos, con integrales y legumbres; adapta las dietas terapéuticas a cada persona."
+    },
+    "betel-quid": {
+      "summary": "Un análisis conjunto de estudios asiáticos relacionó masticar betel con mayor riesgo de muerte. Las mezclas y el consumo conjunto de tabaco o alcohol influyen en la asociación.",
+      "takeaway": "Evita el betel; si tienes dependencia, busca apoyo para dejarlo."
+    },
+    "calorie-restriction": {
+      "summary": "Estudios con macacos rhesus sugieren que restringir calorías puede mejorar la supervivencia, con resultados diferentes entre estudios. No se ha demostrado que prolongue la vida humana.",
+      "takeaway": "Come lo suficiente para nutrirte sin excesos; evita restringir por tu cuenta con bajo peso, embarazo, lactancia, durante el crecimiento, con fragilidad o trastornos alimentarios."
+    },
+    "macronutrient-pattern": {
+      "summary": "Un gran seguimiento británico encontró relaciones complejas entre grasas, proteínas, carbohidratos, fibra y salud. Combinar bien los alimentos es más práctico que buscar una proporción exacta.",
+      "takeaway": "Combina verduras, fruta, integrales, legumbres y proteínas adecuadas; con enfermedad renal o diabetes, sigue un plan nutricional adaptado."
+    },
+    "ultraprocessed-acm": {
+      "summary": "Un seguimiento español relacionó comer más ultraprocesados con mayor riesgo de muerte. Participaron principalmente personas con estudios universitarios; la dieta y el entorno social también influyen.",
+      "takeaway": "Sustituye poco a poco algunos ultraprocesados habituales por opciones asequibles y menos procesadas."
+    },
+    "ultraprocessed-cvd": {
+      "summary": "Un seguimiento francés relacionó una mayor proporción de ultraprocesados con mayor riesgo de desarrollar enfermedad cardiovascular.",
+      "takeaway": "Reduce los aperitivos ultraprocesados y la comida lista para consumir; busca comidas cotidianas que puedas mantener.",
+      "title": "Ultraprocesados y salud cardiovascular"
+    },
+    "whole-grains": {
+      "summary": "Un análisis conjunto de estudios prolongados relacionó comer más integrales con menor riesgo de muerte. Las raciones correspondían al peso de los alimentos integrales.",
+      "takeaway": "Sustituye gradualmente parte de los cereales refinados por cereales integrales; si tienes celiaquía, elige opciones sin gluten."
+    },
+    "dietary-fiber": {
+      "summary": "Seguimientos relacionaron más fibra con menor riesgo de muerte; ensayos clínicos observaron mejoras en presión arterial y colesterol.",
+      "takeaway": "Aumenta la fibra poco a poco con integrales, legumbres, verduras y fruta, y bebe suficiente agua. Con estrechamiento intestinal o enfermedad digestiva aguda, consulta antes."
+    },
+    "plant-protein": {
+      "summary": "Varias cohortes relacionaron una mayor ingesta de proteína vegetal con menor riesgo de muerte. Importan los alimentos de origen y cuáles sustituyen.",
+      "takeaway": "Sustituye parte de la carne roja y procesada por legumbres, soja o frutos secos, adaptándolo a enfermedad renal o alergias."
+    },
+    "dairy": {
+      "summary": "Un seguimiento multinacional relacionó los lácteos con menor riesgo de muerte, pero las revisiones no coinciden. Leche y yogur aportan nutrientes; la elección depende de tus necesidades.",
+      "takeaway": "Si te gustan y toleras, elige leche o yogur con poco azúcar añadido; busca alternativas adecuadas con intolerancia a lactosa o alergia."
+    },
+    "tea-china-par": {
+      "summary": "Un seguimiento chino relacionó beber té habitualmente con menor riesgo de muerte. El estilo de vida y las circunstancias socioeconómicas de quienes lo beben también pueden influir.",
+      "takeaway": "Disfruta de té sin azúcar y no abrasador; reduce si altera el sueño, produce palpitaciones o debes limitar cafeína."
+    },
+    "tea-ckb": {
+      "summary": "Otro gran seguimiento chino encontró la asociación entre té y menor mortalidad principalmente en hombres. Beberlo a diario no dio mejores resultados que beberlo con menor frecuencia.",
+      "takeaway": "Toma té sin azúcar en cantidades y a una temperatura agradables, sin perjudicar el sueño."
+    },
+    "artificially-sweetened-drinks": {
+      "summary": "Un gran estudio europeo relacionó un mayor consumo de bebidas con edulcorantes artificiales con mayor riesgo de muerte. Las personas con problemas metabólicos previos pueden recurrir a estas bebidas con más frecuencia, lo que dificulta la interpretación.",
+      "takeaway": "Para la sed, prioriza agua; si sustituyes bebidas azucaradas por bebidas sin azúcar, este resultado no es motivo para volver al azúcar."
+    },
+    "sugar-sweetened-drinks": {
+      "summary": "Seguimientos estadounidenses relacionaron beber más bebidas azucaradas con mayor riesgo de muerte total y cardiovascular.",
+      "takeaway": "Sustituye gradualmente las bebidas azucaradas habituales por agua u opciones sin azúcar."
+    },
+    "fruit-juice": {
+      "summary": "Un seguimiento estadounidense de adultos de mediana y avanzada edad relacionó más zumo puro con mayor riesgo de muerte.",
+      "takeaway": "Bebe agua para la sed, prioriza la fruta entera y toma zumo en pequeñas cantidades."
+    },
+    "coffee": {
+      "summary": "Una gran revisión relacionó el consumo moderado de café con menor riesgo de muerte. Importan el tamaño de la taza, la preparación, el azúcar y la tolerancia individual.",
+      "takeaway": "Disfruta con moderación si te sienta bien, con poco azúcar; ajusta la cafeína durante el embarazo o con insomnio o palpitaciones."
+    },
+    "spermidine-diet": {
+      "summary": "Seguimientos relacionaron más espermidina procedente de alimentos con menor riesgo de muerte. Tomar suplementos es otra cuestión; no se ha demostrado que prolonguen la vida.",
+      "takeaway": "Varía la dieta con alimentos corrientes, como integrales y legumbres.",
+      "title": "Espermidina en la alimentación"
+    },
+    "smoking": {
+      "summary": "Los seguimientos encuentran de forma consistente mayor mortalidad en fumadores, incluso con pocos cigarrillos diarios. Quienes dejan de fumar tienen menor riesgo que quienes continúan.",
+      "takeaway": "No empieces; si fumas, déjalo cuanto antes, con servicios de cesación y apoyo farmacológico cuando sea necesario."
+    },
+    "sun-exposure": {
+      "summary": "Estudios nórdicos encontraron asociaciones entre indicadores de exposición solar y supervivencia. La actividad exterior y el uso de servicios sanitarios también influyen. No establecieron un tiempo de sol para vivir más.",
+      "takeaway": "Disfruta del aire libre y la luz natural evitando quemaduras; adapta la protección con alto riesgo de cáncer cutáneo o fotosensibilidad."
+    },
+    "nmn": {
+      "summary": "Los ensayos humanos han sido pequeños y breves, centrados en medidas metabólicas. No se ha demostrado que NMN prolongue la vida humana y hay pocos datos de seguridad a largo plazo.",
+      "takeaway": "Prioriza dieta, actividad y sueño; no consideres NMN un fármaco de longevidad probado."
+    },
+    "metformin-diabetes": {
+      "summary": "Un ensayo aleatorizado en personas con sobrepeso y diabetes recién diagnosticada encontró menos muertes con metformina. Los ensayos posteriores agrupados fueron menos concluyentes. Se trata de tratamiento de la diabetes.",
+      "takeaway": "Con diabetes, sigue el plan prescrito según función renal y tolerancia; si estás sano, no empieces metformina por tu cuenta para vivir más."
+    },
+    "metformin-longevity": {
+      "summary": "Un estudio observacional comparó a personas con diabetes que tomaban metformina con un grupo de control sin diabetes y encontró una mayor supervivencia en el primer grupo. Sin embargo, un seguimiento aleatorizado a largo plazo no encontró una reducción de la mortalidad en personas con alto riesgo de diabetes. No se ha demostrado que la metformina prolongue la vida de las personas sanas.",
+      "takeaway": "No te automediques para el envejecimiento; si tienes diabetes o planeas tener hijos, consulta las dudas de tratamiento.",
+      "title": "Metformina y longevidad en personas sanas"
+    },
+    "multivitamins": {
+      "summary": "Ensayos y grandes seguimientos no han demostrado menor mortalidad con multivitamínicos en personas generalmente sanas. Algunos encontraron menos diagnósticos de cáncer, que es otro desenlace.",
+      "takeaway": "Reserva los suplementos para carencias o necesidades concretas; empieza por una buena alimentación cotidiana."
+    },
+    "glucosamine-chondroitin": {
+      "summary": "Un seguimiento estadounidense relacionó uso prolongado de glucosamina y condroitina con menor mortalidad. Sus usuarios también hacían más ejercicio y fumaban menos. No se ha demostrado que estos suplementos prolonguen la vida de personas sanas.",
+      "takeaway": "Averigua primero la causa de las molestias articulares y revisa interacciones, especialmente si tomas anticoagulantes."
+    },
+    "anti-aging-drugs-review": {
+      "summary": "Una revisión de fármacos antienvejecimiento reunió moléculas candidatas, con datos sobre todo animales y estudios humanos limitados. Su beneficio de longevidad en personas sanas sigue sin demostrarse.",
+      "takeaway": "No combines fármacos antienvejecimiento por tu cuenta; los tratamientos experimentales deben realizarse en investigación adecuada."
+    },
+    "alcohol": {
+      "summary": "Una gran revisión que tuvo en cuenta sesgos como el consumo previo no encontró menor mortalidad con poco alcohol; más consumo se asoció con mayor riesgo.",
+      "takeaway": "Si no bebes, no necesitas empezar; si bebes, reduce. Si tienes dependencia del alcohol o has tenido síntomas de abstinencia, busca apoyo médico para reducirlo o dejarlo."
+    },
+    "ambient-air-pollution": {
+      "summary": "Un gran seguimiento estadounidense de mayores relacionó exposición prolongada a más partículas finas y ozono con mayor riesgo de muerte.",
+      "takeaway": "Consulta la calidad del aire, reduce esfuerzos intensos al aire libre con mucha contaminación y mejora el aire interior cuando puedas."
+    },
+    "statins-indicated-patients": {
+      "summary": "Ensayos aleatorizados agrupados encontraron menos eventos cardiovasculares con estatinas y menos muertes en participantes sin enfermedad vascular previa. El beneficio individual depende del riesgo inicial.",
+      "takeaway": "Si cumples criterios de tratamiento, coméntalo con tu médico y comunica molestias musculares u otros medicamentos que puedan interactuar."
+    },
+    "vitamin-d-general-population": {
+      "summary": "Un gran ensayo aleatorizado no encontró menor mortalidad al suplementar vitamina D de rutina en adultos de mediana y avanzada edad generalmente sanos. Carencias y enfermedad ósea necesitan valoración aparte.",
+      "takeaway": "Usa suplementos según riesgos de carencia o necesidades óseas identificadas; evita dosis altas sin supervisión."
+    },
+    "racquet-sports": {
+      "summary": "Un seguimiento británico de adultos relacionó practicar deportes de raqueta con menor riesgo de muerte. Para elegir actividad también cuentan el disfrute, la capacidad y la constancia.",
+      "takeaway": "Busca un deporte de raqueta que te guste y puedas practicar; aumenta poco a poco."
+    },
+    "vigorous-activity": {
+      "summary": "Un seguimiento británico relacionó periodos breves de actividad vigorosa con menor mortalidad. Participaron sobre todo adultos de mediana y avanzada edad; la actividad se midió con dispositivos.",
+      "takeaway": "Si tienes base física y puedes hacerlo con seguridad, añade esfuerzos breves intensos; con síntomas o enfermedad crónica inestable, consulta antes."
+    },
+    "walking-steps": {
+      "summary": "Un seguimiento estadounidense de adultos de mediana edad relacionó más pasos diarios con menor mortalidad, sin mostrar que cuantos más, mejor.",
+      "takeaway": "Camina algo más desde tu nivel actual; adapta con enfermedad cardiopulmonar, riesgo de caídas o movilidad reducida."
+    },
+    "toothbrushing": {
+      "summary": "Un gran seguimiento chino encontró mayor mortalidad en quienes raramente se cepillaban. El cuidado bucal también se relaciona con tabaco, salud y acceso asistencial.",
+      "takeaway": "Cepíllate regularmente con pasta fluorada y trata los problemas dentales."
+    },
+    "tub-bathing": {
+      "summary": "Un seguimiento japonés de adultos de mediana edad relacionó baños regulares en bañera con menos enfermedad cardiovascular e ictus.",
+      "takeaway": "Agua a temperatura cómoda; evita baños calientes largos y bañarte solo después de beber alcohol, con tendencia al desmayo o enfermedad cardiovascular inestable."
+    },
+    "heavy-housework": {
+      "summary": "Un seguimiento de mayores de Hong Kong relacionó tareas domésticas pesadas con menor mortalidad en hombres, sin asociación clara en mujeres. Una mejor capacidad previa también puede influir.",
+      "takeaway": "Haz tareas adecuadas como actividad diaria; evita cargas pesadas con fragilidad, osteoporosis o problemas de espalda."
+    },
+    "sleep-duration": {
+      "summary": "Estudios asiáticos relacionaron dormir mucho con mayor mortalidad. El sueño prolongado también puede reflejar enfermedad o problemas de sueño.",
+      "takeaway": "Busca sueño suficiente y reparador; investiga somnolencia, fatiga o ronquidos persistentes."
+    },
+    "bedtime": {
+      "summary": "Un seguimiento multinacional relacionó acostarse muy temprano o muy tarde con un mayor riesgo combinado de muerte y eventos cardiovasculares. La asociación se debilitó considerablemente al tener en cuenta otros factores.",
+      "takeaway": "Mantén horarios regulares que te permitan dormir suficiente; no te fuerces a trasnochar para cumplir una hora concreta."
+    },
+    "sedentary-time": {
+      "summary": "Una revisión relacionó más sedentarismo con mayor mortalidad, sobre todo en quienes pasaban gran parte del día sentados. Televisión y tiempo total sentado mostraron asociaciones diferentes.",
+      "takeaway": "Si tu cuerpo lo permite, cambia parte del tiempo sentado por caminar u otro movimiento."
+    },
+    "pessimism": {
+      "summary": "Un seguimiento australiano de adultos mayores relacionó mayor puntuación de pesimismo con mayor mortalidad. Ánimo, salud física y circunstancias vitales se influyen mutuamente.",
+      "takeaway": "Habla con alguien de confianza cuando estés mal; si el ánimo afecta la vida de forma persistente, busca apoyo profesional."
+    },
+    "wealth": {
+      "summary": "Un seguimiento estadounidense de adultos de mediana edad relacionó mayor patrimonio con menor mortalidad. Recursos, salud y seguridad económica suelen influirse mutuamente.",
+      "takeaway": "Prioriza vivienda, acceso sanitario y seguridad económica básica para reducir presiones evitables."
+    },
+    "weight-change": {
+      "summary": "Un seguimiento estadounidense encontró menor mortalidad en quienes pasaron de obesidad a sobrepeso entre juventud y mediana edad que en quienes siguieron con obesidad.",
+      "takeaway": "Con obesidad, planifica un manejo sostenible del peso y la fuerza; investiga pérdidas involuntarias, especialmente en mayores."
+    },
+    "covid-pandemic": {
+      "summary": "Registros de varios países mostraron mucha mortalidad adicional durante la primera ola de COVID-19. Incluía infecciones y posibles efectos indirectos como interrupciones asistenciales. Refleja esa etapa de la pandemia.",
+      "takeaway": "Reduce la exposición, cuida las enfermedades crónicas y busca atención adecuada pronto si enfermas."
+    },
+    "resistance-training": {
+      "summary": "Una revisión de cohortes relacionó el fortalecimiento muscular con menor mortalidad. Sigue habiendo incertidumbre sobre la cantidad concreta de entrenamiento.",
+      "takeaway": "Trabaja gradualmente los principales grupos musculares junto al ejercicio aeróbico. Adapta el ejercicio si tienes dolor, te has sometido recientemente a una cirugía o tienes una enfermedad crónica inestable."
+    },
+    "social-isolation": {
+      "summary": "Una revisión relacionó aislamiento, soledad y vivir solo con mayor mortalidad, aunque son experiencias distintas. Quien vive solo también puede tener relaciones satisfactorias y fiables.",
+      "takeaway": "Mantén contactos y vías de ayuda acordes con tus preferencias; atiende dificultades de audición, movilidad o ánimo."
+    },
+    "intensive-bp-control": {
+      "summary": "Un ensayo aleatorizado en adultos hipertensos con alto riesgo cardiovascular y sin diabetes encontró menos muertes con control intensivo, pero más efectos adversos como hipotensión y problemas renales.",
+      "takeaway": "Acuerda los objetivos de presión con tu médico y vigila mareos, función renal y electrolitos."
+    },
+    "cardiorespiratory-fitness": {
+      "summary": "Varias cohortes relacionaron mejor aptitud cardiorrespiratoria medida en pruebas de esfuerzo con menor mortalidad. Refleja capacidad física, pero también influyen enfermedades y genética.",
+      "takeaway": "Parte de tu capacidad actual y aumenta gradualmente la actividad adecuada."
+    },
+    "dapagliflozin-ckd": {
+      "summary": "Un ensayo aleatorizado encontró menos muertes con dapagliflozina en pacientes aptos con enfermedad renal crónica, con o sin diabetes. No se ha demostrado beneficio de longevidad en sanos.",
+      "takeaway": "Con enfermedad renal crónica, que un médico valore si es adecuada, considerando deshidratación, infección y cetoacidosis."
+    },
+    "semaglutide-select": {
+      "summary": "En SELECT, pacientes con enfermedad cardiovascular, sobrepeso u obesidad y sin diabetes tuvieron menos muertes en el grupo de semaglutida. Este resultado de mortalidad es exploratorio.",
+      "takeaway": "Valora el tratamiento según necesidades médicas y de peso, incluida tolerancia; el beneficio de longevidad en sanos no está demostrado."
+    },
+    "aspirin-primary-prevention": {
+      "summary": "Un ensayo aleatorizado en mayores sin enfermedad cardiovascular previa no encontró beneficio de longevidad con aspirina diaria y observó una señal de más mortalidad. Es distinto de tratar tras infarto o ictus.",
+      "takeaway": "No empieces aspirina solo para vivir más; si la tomas por indicación médica, consulta antes de cambiarla."
+    },
+    "walking-steps-2025": {
+      "summary": "Una revisión más reciente volvió a relacionar más pasos diarios con menor mortalidad. La salud de los participantes, los dispositivos y los métodos también influyen.",
+      "takeaway": "Fija una meta de paseo alcanzable; importan la comodidad y la constancia."
+    },
+    "metformin-adverse-events": {
+      "summary": "La metformina puede causar diarrea y otras molestias digestivas, y bajar vitamina B12; la acidosis láctica es otro riesgo importante. Las reacciones varían con formulación, dosis y salud.",
+      "takeaway": "Úsala según receta, vigila tolerancia, riñón y vitamina B12, y comunica pronto las molestias.",
+      "title": "Efectos adversos de la metformina"
+    }
+  }
+}

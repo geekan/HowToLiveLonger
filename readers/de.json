@@ -1,0 +1,253 @@
+{
+  "language": "de",
+  "records": {
+    "poultry-fish": {
+      "summary": "US-Langzeitstudien brachten einen höheren Verzehr von rotem und verarbeitetem Fleisch mit einem höheren Sterberisiko in Verbindung. Bei Fisch und Geflügel waren die Zusammenhänge schwächer. Auch Ersatzlebensmittel und Zubereitung spielen eine Rolle.",
+      "takeaway": "Weniger verarbeitetes Fleisch essen und rotes Fleisch teilweise durch Hülsenfrüchte, Nüsse oder Fisch ersetzen."
+    },
+    "fresh-fruit-diabetes": {
+      "summary": "In einer chinesischen Langzeitstudie mit Menschen mit Diabetes war mehr frisches Obst mit einem niedrigeren Risiko für Tod und Gefäßkomplikationen verbunden. Untersucht wurde ganzes Obst, kein Saft.",
+      "takeaway": "Obst in mäßigen Mengen essen und die Portionen an Blutzucker und Behandlungsplan anpassen."
+    },
+    "flavonoid-foods": {
+      "summary": "Eine dänische Langzeitstudie brachte mehr Flavonoide aus der Ernährung mit einem niedrigeren Sterberisiko in Verbindung. Diese Pflanzenstoffe kommen in vielen Lebensmitteln vor; untersucht wurde die alltägliche Ernährung.",
+      "takeaway": "Gemüse, Obst und Hülsenfrüchte abwechslungsreich genießen."
+    },
+    "chili-us": {
+      "summary": "In einer US-Beobachtungsstudie hatten Erwachsene, die rote Chili aßen, ein niedrigeres Sterberisiko. Alter, Ernährung und andere Gewohnheiten beeinflussen diesen Zusammenhang ebenfalls.",
+      "takeaway": "Wer Chili mag und gut verträgt, kann damit sein Essen würzen."
+    },
+    "chili-italy": {
+      "summary": "Eine italienische Beobachtungsstudie verband häufigen Chiliverzehr mit niedrigerer Gesamt- und Herz-Kreislauf-Mortalität.",
+      "takeaway": "Wer Chili mag und gut verträgt, kann damit nach Geschmack würzen."
+    },
+    "eggs": {
+      "summary": "Eine US-Studie bei Erwachsenen mittleren und höheren Alters verband mehr ganze Eier mit einem höheren Sterberisiko. Ergebnisse anderer Regionen unterscheiden sich. Die gesamte Ernährung sagt mehr aus als Eier allein.",
+      "takeaway": "Eier passend zu Blutfetten und Ernährungsgewohnheiten einplanen; auch Hülsenfrüchten und Nüssen Platz geben."
+    },
+    "walnuts": {
+      "summary": "US-Langzeitstudien verbanden regelmäßigen Walnussverzehr mit niedrigerem Sterberisiko. Unterschiede in der Lebenserwartung wurden statistisch geschätzt; andere gesunde Gewohnheiten können mitwirken.",
+      "takeaway": "Ohne Nussallergie einige Snacks durch kleine Portionen ungesalzener Walnüsse ersetzen und deren Energie mitrechnen."
+    },
+    "nuts-general": {
+      "summary": "Mehrere Beobachtungsstudien verbanden regelmäßigen Nussverzehr mit niedrigerem Sterberisiko. Sie erfassten unterschiedliche Ernährungsweisen, verglichen aber rohe und geröstete Nüsse nicht direkt.",
+      "takeaway": "Ungesalzene Nüsse mit wenig Zuckerzusatz nach Geschmack wählen; bei Nussallergie meiden."
+    },
+    "sodium-ecological": {
+      "summary": "Ein Ländervergleich fand eine niedrigere Sterblichkeit in Ländern mit höherer Natriumaufnahme. Unterschiede bei Einkommen, Gesundheitsversorgung und weiteren Faktoren beeinflussen diesen Zusammenhang ebenfalls. Die persönliche Salzaufnahme richtet sich besser nach Blutdruck und Gesundheitszustand.",
+      "takeaway": "Die Salzzufuhr an den eigenen Blutdruck und medizinischen Bedarf anpassen."
+    },
+    "potassium-salt": {
+      "summary": "In einer randomisierten Studie im ländlichen China gab es weniger Todesfälle und Herz-Kreislauf-Ereignisse, wenn normales Salz durch natriumärmeres, kaliumreiches Salz ersetzt wurde. Teilnehmende hatten einen früheren Schlaganfall oder waren älter und hatten Bluthochdruck.",
+      "takeaway": "Vor dem Salzwechsel die Eignung prüfen lassen, besonders bei eingeschränkter Nierenfunktion, hohem Kalium oder kaliumerhöhenden Medikamenten."
+    },
+    "carbohydrate-share": {
+      "summary": "Langzeitstudien fanden sowohl bei niedrigem als auch hohem Kohlenhydratanteil eine höhere Mortalität. Auch die Lebensmittel, die Kohlenhydrate ersetzen, beeinflussten die Ergebnisse.",
+      "takeaway": "Zunächst auf gute Kohlenhydratquellen wie Vollkorn und Hülsenfrüchte achten; therapeutische Ernährungsformen individuell anpassen."
+    },
+    "betel-quid": {
+      "summary": "Eine gemeinsame Auswertung asiatischer Studien verband das Kauen von Betelbissen mit höherem Sterberisiko. Zusammensetzung sowie gleichzeitiges Rauchen oder Trinken beeinflussen die Stärke des Zusammenhangs.",
+      "takeaway": "Betelbissen meiden und bei Abhängigkeit Hilfe zum Aufhören suchen."
+    },
+    "calorie-restriction": {
+      "summary": "Studien an Rhesusaffen deuten auf besseres Überleben durch Kalorienbeschränkung hin, mit unterschiedlichen Ergebnissen. Eine Lebensverlängerung beim Menschen ist dadurch bisher nicht belegt.",
+      "takeaway": "Ausreichend und ausgewogen essen, ohne Übermaß. Bei Untergewicht, Schwangerschaft, Stillzeit, im Wachstum, bei Gebrechlichkeit oder Essstörungen nicht eigenständig Kalorien beschränken."
+    },
+    "macronutrient-pattern": {
+      "summary": "Eine große britische Langzeitstudie fand komplexe Zusammenhänge zwischen Fett, Protein, Kohlenhydraten, Ballaststoffen und Gesundheit. Eine ausgewogene Lebensmittelauswahl ist praktischer als ein exakt berechnetes Nährstoffverhältnis.",
+      "takeaway": "Gemüse, Obst, Vollkorn, Hülsenfrüchte und passende Proteinquellen kombinieren; bei Nierenkrankheit oder Diabetes dem individuellen Ernährungsplan folgen."
+    },
+    "ultraprocessed-acm": {
+      "summary": "In einer spanischen Beobachtungsstudie war mehr hochverarbeitetes Essen mit höherem Sterberisiko verbunden. Teilnehmende waren überwiegend Hochschulabsolventen; Ernährung und sozialer Hintergrund beeinflussen die Ergebnisse ebenfalls.",
+      "takeaway": "Häufig gegessene hochverarbeitete Lebensmittel schrittweise durch bezahlbare, weniger verarbeitete Alternativen ersetzen."
+    },
+    "ultraprocessed-cvd": {
+      "summary": "Eine französische Beobachtungsstudie verband einen höheren Anteil hochverarbeiteter Lebensmittel mit höherem Herz-Kreislauf-Erkrankungsrisiko.",
+      "takeaway": "Weniger hochverarbeitete Snacks und Fertiggerichte wählen, dafür mehr einfache Mahlzeiten, die sich im Alltag beibehalten lassen.",
+      "title": "Hochverarbeitete Lebensmittel und Herz-Kreislauf-Gesundheit"
+    },
+    "whole-grains": {
+      "summary": "Eine gemeinsame Auswertung von Langzeitstudien verband mehr Vollkorn mit niedrigerem Sterberisiko. Die Portionsangaben bezogen sich auf das Gewicht der Vollkornlebensmittel.",
+      "takeaway": "Raffinierte Getreideprodukte nach und nach teilweise durch Vollkorn ersetzen; bei Zöliakie glutenfreie Sorten wählen."
+    },
+    "dietary-fiber": {
+      "summary": "Beobachtungsstudien verbanden mehr Ballaststoffe mit niedrigerem Sterberisiko. Klinische Studien fanden außerdem Verbesserungen etwa bei Blutdruck und Cholesterin.",
+      "takeaway": "Ballaststoffe aus Vollkorn, Hülsenfrüchten, Gemüse und Obst langsam steigern und ausreichend trinken; bei Darmverengung oder akuter Magen-Darm-Erkrankung erst ärztlich nachfragen."
+    },
+    "plant-protein": {
+      "summary": "Mehrere Kohortenstudien verbanden mehr pflanzliches Protein mit niedrigerem Sterberisiko. Entscheidend für die Einordnung sind die Lebensmittelquellen und was sie ersetzen.",
+      "takeaway": "Rotes und verarbeitetes Fleisch teilweise durch Hülsenfrüchte, Sojaprodukte oder Nüsse ersetzen; Nierenkrankheiten und Allergien berücksichtigen."
+    },
+    "dairy": {
+      "summary": "Eine länderübergreifende Beobachtungsstudie verband Milchprodukte mit niedrigerem Sterberisiko; andere Übersichten fanden uneinheitliche Ergebnisse. Milch und Joghurt liefern Nährstoffe, die Auswahl richtet sich auch nach persönlichen Bedürfnissen.",
+      "takeaway": "Wer Milchprodukte mag und gut verträgt, kann Milch oder Joghurt mit wenig Zuckerzusatz wählen. Bei Laktoseintoleranz oder Allergie passende Alternativen suchen."
+    },
+    "tea-china-par": {
+      "summary": "In einer chinesischen Langzeitstudie hatten regelmäßige Teetrinkende ein niedrigeres Sterberisiko. Lebensweise und soziale sowie wirtschaftliche Umstände können mitwirken.",
+      "takeaway": "Ungesüßten, nicht zu heißen Tee genießen; bei Schlafproblemen, Herzklopfen oder nötiger Koffeinbegrenzung weniger trinken."
+    },
+    "tea-ckb": {
+      "summary": "Eine weitere große chinesische Langzeitstudie fand den Zusammenhang zwischen Tee und niedrigerer Mortalität vor allem bei Männern. Tägliches Trinken schnitt nicht besser ab als selteneres.",
+      "takeaway": "Ungesüßten Tee nach Geschmack und in angenehmer Temperatur trinken, ohne den Schlaf zu stören."
+    },
+    "artificially-sweetened-drinks": {
+      "summary": "Eine große europäische Studie verband mehr künstlich gesüßte Getränke mit höherem Sterberisiko. Menschen mit bestehenden Stoffwechselproblemen wechseln möglicherweise häufiger zu solchen Getränken, was die Einordnung erschwert.",
+      "takeaway": "Im Alltag Wasser gegen Durst wählen. Wer Zuckergetränke durch zuckerfreie ersetzt, muss deshalb nicht wieder zu Zuckergetränken wechseln."
+    },
+    "sugar-sweetened-drinks": {
+      "summary": "US-Langzeitstudien verbanden mehr Zuckergetränke mit höherem Gesamt- und Herz-Kreislauf-Sterberisiko.",
+      "takeaway": "Regelmäßige Zuckergetränke schrittweise durch Wasser oder ungesüßte Getränke ersetzen."
+    },
+    "fruit-juice": {
+      "summary": "Eine US-Beobachtungsstudie bei Erwachsenen mittleren und höheren Alters verband mehr reinen Fruchtsaft mit höherem Sterberisiko.",
+      "takeaway": "Bei Durst Wasser trinken, Obst möglichst ganz essen und Saft in kleinen Mengen genießen."
+    },
+    "coffee": {
+      "summary": "Eine große Forschungsübersicht verband mäßigen Kaffeekonsum mit niedrigerem Sterberisiko. Tassengröße, Zubereitung, Zuckerzusatz und persönliche Verträglichkeit sind ebenfalls wichtig.",
+      "takeaway": "Bei Verträglichkeit maßvoll mit wenig Zucker genießen; in der Schwangerschaft, bei Schlaflosigkeit oder Herzklopfen die Koffeinzufuhr anpassen."
+    },
+    "spermidine-diet": {
+      "summary": "Beobachtungsstudien verbanden mehr Spermidin aus Lebensmitteln mit niedrigerem Sterberisiko. Supplemente sind eine andere Frage; eine Lebensverlängerung durch sie ist bisher nicht belegt.",
+      "takeaway": "Mit gewöhnlichen Lebensmitteln wie Vollkorn und Hülsenfrüchten für Abwechslung sorgen.",
+      "title": "Spermidin aus der Ernährung"
+    },
+    "smoking": {
+      "summary": "Langzeitstudien finden durchgehend höhere Mortalität bei Rauchenden, auch bei wenigen Zigaretten täglich. Wer aufhört, hat niedrigere Risiken als Menschen, die weiterrauchen.",
+      "takeaway": "Nicht anfangen; wer raucht, möglichst früh aufhören. Bei Bedarf Entwöhnungsangebote und medikamentöse Unterstützung nutzen."
+    },
+    "sun-exposure": {
+      "summary": "Nordische Studien fanden Zusammenhänge zwischen Merkmalen der Sonnenexposition und Überleben. Auch Aktivitäten im Freien und die Nutzung medizinischer Versorgung können die Ergebnisse beeinflussen. Eine Dauer des Sonnenbadens für ein längeres Leben wurde nicht bestimmt.",
+      "takeaway": "Draußen sein und Tageslicht genießen, Sonnenbrand vermeiden. Bei hohem Hautkrebsrisiko oder Lichtempfindlichkeit gezielt schützen."
+    },
+    "nmn": {
+      "summary": "Humanstudien zu NMN waren bisher meist klein, kurz und auf Stoffwechselwerte ausgerichtet. Eine Verlängerung des menschlichen Lebens ist nicht belegt; langfristige Sicherheitsdaten fehlen weitgehend.",
+      "takeaway": "Zuerst auf Ernährung, Bewegung und Schlaf achten, statt NMN als bewiesenes Langlebigkeitsmedikament anzusehen."
+    },
+    "metformin-diabetes": {
+      "summary": "Eine randomisierte Studie bei übergewichtigen Menschen mit neu diagnostiziertem Diabetes fand weniger Todesfälle unter Metformin. Zusammengefasste spätere Studien waren weniger eindeutig. Es geht um Diabetesbehandlung.",
+      "takeaway": "Bei Diabetes dem verordneten Plan folgen und Nierenfunktion sowie Verträglichkeit berücksichtigen; als gesunder Mensch nicht eigenständig für Langlebigkeit beginnen."
+    },
+    "metformin-longevity": {
+      "summary": "Eine Beobachtungsstudie verglich Menschen mit Diabetes, die Metformin einnahmen, mit Kontrollpersonen ohne Diabetes und fand ein besseres Überleben in der Metformin-Gruppe. Eine langfristige randomisierte Nachbeobachtung zeigte jedoch keine geringere Sterblichkeit bei Menschen mit hohem Diabetesrisiko. Eine lebensverlängernde Wirkung bei gesunden Menschen ist nicht belegt.",
+      "takeaway": "Keine Medikamente auf eigene Faust gegen das Altern einnehmen. Bei Diabetes oder Kinderwunsch Fragen zur Medikation ärztlich besprechen.",
+      "title": "Metformin und die Lebensdauer gesunder Menschen"
+    },
+    "multivitamins": {
+      "summary": "Randomisierte Studien und große Langzeitbeobachtungen zeigten keine niedrigere Mortalität durch Multivitamine bei allgemein gesunden Menschen. Weniger Krebsdiagnosen in einigen Studien sind ein anderer Endpunkt.",
+      "takeaway": "Bei Mangel oder besonderem Nährstoffbedarf gezielt ergänzen und zunächst im Alltag gut essen."
+    },
+    "glucosamine-chondroitin": {
+      "summary": "Eine US-Beobachtungsstudie verband langfristige Glucosamin- und Chondroitinnutzung mit niedrigerer Mortalität. Nutzende bewegten sich auch häufiger und rauchten seltener. Eine Lebensverlängerung Gesunder durch diese Präparate ist nicht belegt.",
+      "takeaway": "Bei Gelenkbeschwerden zuerst die Ursache klären; besonders bei Blutverdünnern Wechselwirkungen mit Supplementen prüfen lassen."
+    },
+    "anti-aging-drugs-review": {
+      "summary": "Eine Übersicht zu Antiaging-Arzneien behandelte verschiedene Wirkstoffkandidaten. Die Evidenz stammt überwiegend aus Tierstudien und begrenzten Humanstudien. Lebensverlängerung bei Gesunden ist weiterhin unbewiesen.",
+      "takeaway": "Antiaging-Arzneien nicht eigenständig kombinieren; experimentelle Behandlungen gehören in sorgfältig durchgeführte Forschung."
+    },
+    "alcohol": {
+      "summary": "Eine große Übersicht berücksichtigte Verzerrungen etwa durch ehemals Trinkende und fand keinen Mortalitätsvorteil geringer Alkoholmengen. Höherer Konsum war mit höherem Risiko verbunden.",
+      "takeaway": "Wer nicht trinkt, braucht nicht anzufangen. Wer trinkt, möglichst reduzieren; bei Abhängigkeit oder früherem Entzug mit medizinischer Unterstützung."
+    },
+    "ambient-air-pollution": {
+      "summary": "Eine große US-Studie bei älteren Erwachsenen verband langfristig höhere Feinstaub- und Ozonbelastung mit höherem Sterberisiko.",
+      "takeaway": "Auf die Luftqualität achten, bei starker Belastung anstrengende Bewegung im Freien reduzieren und die Raumluft möglichst verbessern."
+    },
+    "statins-indicated-patients": {
+      "summary": "Zusammengefasste randomisierte Studien fanden weniger Herz-Kreislauf-Ereignisse unter Statinen. Auch bei Teilnehmenden ohne frühere Gefäßerkrankung gab es weniger Todesfälle. Der persönliche Nutzen hängt vom Ausgangsrisiko ab.",
+      "takeaway": "Bei erfüllten Behandlungskriterien Statine ärztlich besprechen; Muskelbeschwerden und weitere Medikamente mit möglichen Wechselwirkungen ansprechen."
+    },
+    "vitamin-d-general-population": {
+      "summary": "Eine große randomisierte Studie fand keine Mortalitätssenkung durch routinemäßiges Vitamin D bei allgemein gesunden Erwachsenen mittleren und höheren Alters. Mangel und Knochenkrankheiten brauchen eigene Beurteilung.",
+      "takeaway": "Bei festgestelltem Mangelrisiko oder Bedarf für die Knochengesundheit gezielt ergänzen; keine eigenständigen hohen Dosen."
+    },
+    "racquet-sports": {
+      "summary": "Eine britische Beobachtungsstudie bei Erwachsenen verband Rückschlagsport mit niedrigerem Sterberisiko. Freude, Fitness und langfristige Durchführbarkeit gehören ebenfalls zur Sportwahl.",
+      "takeaway": "Eine passende Rückschlagsportart wählen, die Freude macht, und die Aktivität langsam steigern."
+    },
+    "vigorous-activity": {
+      "summary": "Eine britische Beobachtungsstudie verband schon kurze intensive Aktivität mit niedrigerer Mortalität. Teilnehmende waren vorwiegend mittleren und höheren Alters; tragbare Geräte erfassten die Bewegung.",
+      "takeaway": "Wer schon regelmäßig aktiv ist, kann kurze intensive Einheiten ergänzen, sofern gesundheitlich nichts dagegenspricht. Bei Beschwerden oder instabiler chronischer Erkrankung erst ärztlich abklären lassen."
+    },
+    "walking-steps": {
+      "summary": "Eine US-Studie bei Menschen mittleren Alters verband mehr tägliche Schritte mit niedrigerer Mortalität. Sie zeigte nicht, dass immer mehr Schritte stets besser sind.",
+      "takeaway": "Vom heutigen Niveau aus etwas mehr gehen; bei Herz- oder Lungenkrankheit, Sturzrisiko oder eingeschränkter Mobilität anpassen."
+    },
+    "toothbrushing": {
+      "summary": "Eine große chinesische Beobachtungsstudie fand höhere Mortalität bei seltenem Zähneputzen. Mundpflege hängt auch mit Rauchen, Gesundheit und Versorgungszugang zusammen.",
+      "takeaway": "Regelmäßig mit Fluoridzahnpasta putzen und Zahnprobleme behandeln lassen."
+    },
+    "tub-bathing": {
+      "summary": "Eine japanische Studie bei Menschen mittleren Alters verband regelmäßiges Wannenbaden mit weniger Herz-Kreislauf-Erkrankungen und Schlaganfällen.",
+      "takeaway": "Angenehm warm baden; nach Alkohol, bei Ohnmachtsneigung oder instabiler Herz-Kreislauf-Gesundheit lange heiße und unbeaufsichtigte Bäder vermeiden."
+    },
+    "heavy-housework": {
+      "summary": "In einer Hongkonger Studie bei Älteren war schwere Hausarbeit bei Männern mit niedrigerer Mortalität verbunden. Bei Frauen gab es keinen klaren Zusammenhang. Bessere Ausgangsfitness kann mitwirken.",
+      "takeaway": "Geeignete Hausarbeit als Alltagsbewegung nutzen; bei Gebrechlichkeit, Osteoporose oder Rückenproblemen schweres Heben vermeiden."
+    },
+    "sleep-duration": {
+      "summary": "Studien in mehreren asiatischen Ländern verbanden sehr langen Schlaf mit höherer Mortalität. Längerer Schlaf kann auch auf Erkrankungen oder Schlafprobleme hinweisen.",
+      "takeaway": "Ausreichenden, erholsamen Schlaf anstreben; anhaltende Schläfrigkeit, Müdigkeit oder Schnarchen abklären lassen."
+    },
+    "bedtime": {
+      "summary": "Eine länderübergreifende Nachbeobachtung verband sehr frühe und sehr späte Schlafenszeiten mit einem höheren kombinierten Risiko für Tod und Herz-Kreislauf-Ereignisse. Nach Berücksichtigung anderer Faktoren war der Zusammenhang deutlich schwächer.",
+      "takeaway": "Einen passenden regelmäßigen Rhythmus mit genug Schlaf finden; nicht für eine bestimmte Uhrzeit absichtlich wach bleiben."
+    },
+    "sedentary-time": {
+      "summary": "Eine Übersicht verband längeres Sitzen mit höherer Mortalität, besonders bei Menschen, die einen großen Teil des Tages saßen. Fernsehen und Gesamtsitzzeit zeigten unterschiedliche Zusammenhänge.",
+      "takeaway": "Soweit körperlich möglich einen Teil der Sitzzeit durch Gehen oder andere Bewegung ersetzen."
+    },
+    "pessimism": {
+      "summary": "Eine australische Beobachtungsstudie bei Erwachsenen mittleren und höheren Alters verband höhere Pessimismuswerte mit höherer Mortalität. Stimmung, körperliche Gesundheit und Lebensumstände beeinflussen sich gegenseitig.",
+      "takeaway": "In schwierigen Zeiten mit vertrauten Menschen sprechen; bei anhaltender Alltagsbeeinträchtigung professionelle Unterstützung suchen."
+    },
+    "wealth": {
+      "summary": "Eine US-Studie bei Menschen mittleren Alters verband größeres Nettovermögen mit niedrigerer Mortalität. Finanzielle Mittel, Gesundheit und Sicherheit beeinflussen sich oft gegenseitig.",
+      "takeaway": "Wohnen, Gesundheitsversorgung und finanzielle Grundsicherheit priorisieren, um vermeidbare Belastungen zu reduzieren."
+    },
+    "weight-change": {
+      "summary": "Eine US-Beobachtungsstudie fand niedrigere Mortalität bei Menschen, die zwischen frühem Erwachsenenalter und Lebensmitte von Adipositas zu Übergewicht wechselten, als bei Menschen mit anhaltender Adipositas.",
+      "takeaway": "Bei Adipositas das Gewicht langfristig regulieren und die Muskelkraft erhalten; ungewollten Gewichtsverlust besonders im Alter abklären lassen."
+    },
+    "covid-pandemic": {
+      "summary": "Sterberegister mehrerer Länder zeigten in der ersten COVID-19-Welle deutliche Übersterblichkeit. Neben Infektionen können indirekte Folgen wie unterbrochene Versorgung beitragen. Das bildet die damalige Pandemiephase ab.",
+      "takeaway": "Infektionsexposition verringern, chronische Erkrankungen gut versorgen und bei Krankheit rechtzeitig geeignete Hilfe holen."
+    },
+    "resistance-training": {
+      "summary": "Eine Übersicht von Kohortenstudien verband Muskelkräftigung mit niedrigerer Mortalität. Der Zusammenhang mit bestimmten Trainingsmengen bleibt unsicher.",
+      "takeaway": "Große Muskelgruppen langsam zusätzlich zur Ausdauer trainieren; bei Schmerzen, nach Operationen oder instabiler chronischer Erkrankung anpassen."
+    },
+    "social-isolation": {
+      "summary": "Eine Übersicht verband soziale Isolation, Einsamkeit und Alleinleben mit höherer Mortalität. Das sind unterschiedliche Erfahrungen. Auch Alleinlebende können erfüllende, zuverlässige Kontakte haben.",
+      "takeaway": "Nach eigenen Wünschen verlässliche Kontakte und Hilfswege pflegen; Hindernisse durch Hör-, Bewegungs- oder Stimmungsprobleme beachten."
+    },
+    "intensive-bp-control": {
+      "summary": "Eine randomisierte Studie bei Menschen mit Bluthochdruck, erhöhtem Herz-Kreislauf-Risiko und ohne Diabetes fand weniger Todesfälle unter intensiver Blutdruckbehandlung. Hypotonie und Nierenprobleme traten jedoch häufiger auf.",
+      "takeaway": "Blutdruckziele gemeinsam ärztlich festlegen und auf Schwindel, Nierenfunktion sowie Elektrolyte achten."
+    },
+    "cardiorespiratory-fitness": {
+      "summary": "Mehrere Kohortenstudien verbanden bessere Herz-Lungen-Fitness im Belastungstest mit niedrigerer Mortalität. Sie zeigt körperliche Leistungsfähigkeit, wird aber auch von Krankheiten und Genetik beeinflusst.",
+      "takeaway": "Von der aktuellen Fitness aus passende Bewegung langsam aufbauen."
+    },
+    "dapagliflozin-ckd": {
+      "summary": "Eine randomisierte Studie fand weniger Todesfälle unter Dapagliflozin bei Teilnehmenden mit chronischer Nierenkrankheit, die die Studienkriterien erfüllten, mit oder ohne Diabetes. Eine Lebensverlängerung Gesunder ist nicht belegt.",
+      "takeaway": "Bei chronischer Nierenkrankheit ärztlich auf Eignung prüfen lassen; dabei Austrocknung, Infektionen und Ketoazidose berücksichtigen."
+    },
+    "semaglutide-select": {
+      "summary": "In SELECT gab es unter Semaglutid weniger Todesfälle bei Teilnehmenden mit Herz-Kreislauf-Erkrankung, Übergewicht oder Adipositas und ohne Diabetes. Dieser Mortalitätsbefund ist explorativ.",
+      "takeaway": "Behandlung nach Krankheits- und Gewichtsmanagementbedarf sowie Verträglichkeit beurteilen; Lebensverlängerung Gesunder bleibt unbewiesen."
+    },
+    "aspirin-primary-prevention": {
+      "summary": "Eine randomisierte Studie bei Älteren ohne frühere Herz-Kreislauf-Erkrankung fand keine Lebensverlängerung durch tägliches Aspirin und ein Signal höherer Mortalität. Das ist eine andere Situation als die Behandlung nach Herzinfarkt oder Schlaganfall.",
+      "takeaway": "Nicht allein zur Lebensverlängerung mit der Einnahme von Aspirin beginnen; bei bestehender medizinischer Indikation Änderungen zuerst ärztlich besprechen."
+    },
+    "walking-steps-2025": {
+      "summary": "Eine neuere Übersicht verband erneut mehr tägliche Schritte mit niedrigerer Mortalität. Gesundheitszustand, Geräte und Messmethoden beeinflussen die Ergebnisse ebenfalls.",
+      "takeaway": "Ein erreichbares Gehziel wählen; angenehm gehen und dranbleiben sind wichtig."
+    },
+    "metformin-adverse-events": {
+      "summary": "Metformin kann Durchfall und andere Verdauungsbeschwerden verursachen und den Vitamin-B12-Spiegel senken. Auch Laktatazidose ist ein wichtiges Risiko. Reaktionen hängen von Präparat, Dosis und Gesundheit ab.",
+      "takeaway": "Nach Verordnung einnehmen, Verträglichkeit, Nierenfunktion und Vitamin B12 beobachten und Beschwerden zeitnah melden.",
+      "title": "Nebenwirkungen von Metformin"
+    }
+  }
+}

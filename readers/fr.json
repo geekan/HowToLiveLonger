@@ -1,0 +1,253 @@
+{
+  "language": "fr",
+  "records": {
+    "poultry-fish": {
+      "summary": "Des suivis américains prolongés ont associé une consommation accrue de viande rouge et transformée à un risque de décès plus élevé. Le lien était plus faible pour le poisson et la volaille ; les aliments de remplacement et la cuisson comptent aussi.",
+      "takeaway": "Mangez moins de viande transformée et remplacez une partie de la viande rouge par des légumineuses, des fruits à coque ou du poisson."
+    },
+    "fresh-fruit-diabetes": {
+      "summary": "Un suivi chinois de personnes diabétiques a associé davantage de fruits frais à moins de décès et de complications vasculaires. Il portait sur les fruits entiers, pas les jus.",
+      "takeaway": "Intégrez des portions modérées de fruits entiers, adaptées à votre glycémie et à votre traitement."
+    },
+    "flavonoid-foods": {
+      "summary": "Un suivi danois a associé davantage de flavonoïdes alimentaires à un risque de décès plus faible. Ces composés se trouvent dans de nombreux végétaux ; l'étude observait l'alimentation quotidienne.",
+      "takeaway": "Variez les légumes, les fruits et les légumineuses."
+    },
+    "chili-us": {
+      "summary": "Un suivi américain a trouvé un risque de décès plus faible chez les adultes mangeant du piment rouge. L'âge, l'alimentation et les autres habitudes influencent aussi ce lien.",
+      "takeaway": "Si vous aimez le piment et le digérez bien, utilisez-le pour le plaisir du goût."
+    },
+    "chili-italy": {
+      "summary": "Un suivi italien a associé une consommation fréquente de piment à moins de mortalité totale et cardiovasculaire.",
+      "takeaway": "Si vous aimez le piment et le tolérez bien, utilisez-le pour assaisonner vos plats selon vos goûts."
+    },
+    "eggs": {
+      "summary": "Un suivi américain d'adultes d'âge moyen ou avancé a associé davantage d'œufs entiers à plus de décès. Les résultats diffèrent selon les régions ; l'alimentation globale compte davantage que les œufs seuls.",
+      "takeaway": "Adaptez les œufs à vos lipides sanguins et à votre alimentation, avec une place pour légumineuses et fruits à coque."
+    },
+    "walnuts": {
+      "summary": "Des suivis américains ont associé la consommation régulière de noix à moins de décès. Les différences d'espérance de vie étaient modélisées ; d'autres habitudes saines peuvent contribuer.",
+      "takeaway": "Sans allergie, remplacez certaines collations par des portions modérées de noix non salées, en comptant leur apport énergétique."
+    },
+    "nuts-general": {
+      "summary": "Plusieurs suivis ont associé la consommation régulière de fruits à coque à moins de décès. Les régimes étaient variés ; cru et grillé n'ont pas été directement comparés.",
+      "takeaway": "Choisissez des fruits à coque non salés et peu sucrés que vous aimez ; évitez-les en cas d'allergie."
+    },
+    "sodium-ecological": {
+      "summary": "Une comparaison entre pays a observé une mortalité plus faible là où la consommation de sodium était plus élevée. Les écarts de revenus, de soins et d’autres facteurs nationaux influencent aussi cette association. Pour adapter sa consommation de sel, mieux vaut tenir compte de sa tension et de son état de santé.",
+      "takeaway": "Adaptez le sel à votre tension artérielle et à vos besoins médicaux."
+    },
+    "potassium-salt": {
+      "summary": "Un essai randomisé en Chine rurale a trouvé moins de décès et d'événements cardiovasculaires avec un sel réduit en sodium et enrichi en potassium. Les participants avaient eu un AVC ou étaient âgés et hypertendus.",
+      "takeaway": "Avant de changer de sel, vérifiez qu'il convient, surtout en cas de maladie rénale, potassium élevé ou médicaments augmentant le potassium."
+    },
+    "carbohydrate-share": {
+      "summary": "Des suivis ont associé les parts faibles comme élevées de glucides à davantage de mortalité. Les aliments remplaçant les glucides influençaient aussi les résultats.",
+      "takeaway": "Améliorez d'abord la qualité des glucides avec céréales complètes et légumineuses ; individualisez les régimes thérapeutiques."
+    },
+    "betel-quid": {
+      "summary": "Une analyse regroupée d'études asiatiques a associé la chique de bétel à davantage de décès. Sa composition et le tabac ou l'alcool associés influencent l'ampleur du lien.",
+      "takeaway": "Évitez la chique de bétel ; en cas de dépendance, cherchez une aide au sevrage."
+    },
+    "calorie-restriction": {
+      "summary": "Des études sur les macaques rhésus suggèrent que restreindre les calories peut améliorer la survie, avec des résultats variables. Une prolongation de vie humaine n'est pas démontrée.",
+      "takeaway": "Mangez suffisamment et sans excès ; pas de restriction autonome en cas de maigreur, grossesse, allaitement, croissance, fragilité ou trouble alimentaire."
+    },
+    "macronutrient-pattern": {
+      "summary": "Un grand suivi britannique a trouvé des relations complexes entre graisses, protéines, glucides, fibres et santé. Bien associer les aliments est plus pratique que chercher un ratio exact.",
+      "takeaway": "Associez légumes, fruits, céréales complètes, légumineuses et protéines adaptées ; avec maladie rénale ou diabète, suivez un plan nutritionnel personnalisé."
+    },
+    "ultraprocessed-acm": {
+      "summary": "Un suivi espagnol a associé davantage d'aliments ultratransformés à plus de décès. Les participants étaient surtout diplômés de l'université ; alimentation et milieu social influencent aussi les résultats.",
+      "takeaway": "Remplacez progressivement certains ultratransformés habituels par des options abordables et moins transformées."
+    },
+    "ultraprocessed-cvd": {
+      "summary": "Un suivi français a associé une part plus élevée d’aliments ultratransformés à un risque accru de développer une maladie cardiovasculaire.",
+      "takeaway": "Moins de collations ultratransformées et de plats prêts à consommer ; davantage de repas quotidiens que vous pouvez maintenir.",
+      "title": "Aliments ultratransformés et santé cardiovasculaire"
+    },
+    "whole-grains": {
+      "summary": "Une analyse regroupée d'études prolongées a associé davantage de céréales complètes à moins de décès. Les portions correspondaient au poids des aliments complets.",
+      "takeaway": "Remplacez progressivement une partie des céréales raffinées par des céréales complètes. En cas de maladie cœliaque, choisissez des variétés sans gluten."
+    },
+    "dietary-fiber": {
+      "summary": "Des suivis ont associé davantage de fibres à moins de décès ; des essais cliniques ont observé une amélioration de la tension et du cholestérol.",
+      "takeaway": "Augmentez progressivement les fibres avec céréales complètes, légumineuses, légumes et fruits, en buvant suffisamment. Avec sténose intestinale ou maladie digestive aiguë, consultez d'abord."
+    },
+    "plant-protein": {
+      "summary": "Plusieurs cohortes ont associé davantage de protéines végétales à moins de décès. Leur source alimentaire et les aliments remplacés sont essentiels pour comprendre le résultat.",
+      "takeaway": "Remplacez une partie des viandes rouges et transformées par légumineuses, soja ou fruits à coque, selon maladie rénale ou allergies."
+    },
+    "dairy": {
+      "summary": "Un suivi multinational a associé les produits laitiers à moins de décès, mais les revues ne concordent pas. Lait et yaourt apportent des nutriments ; le choix dépend de vos besoins.",
+      "takeaway": "Si vous les aimez et les tolérez, choisissez lait ou yaourt peu sucrés ; alternatives adaptées en cas d'intolérance au lactose ou d'allergie."
+    },
+    "tea-china-par": {
+      "summary": "Un suivi chinois a associé le thé habituel à moins de décès. Le mode de vie et la situation socioéconomique des buveurs peuvent aussi contribuer.",
+      "takeaway": "Savourez du thé non sucré et non brûlant ; réduisez s'il perturbe le sommeil, cause des palpitations ou si vous devez limiter la caféine."
+    },
+    "tea-ckb": {
+      "summary": "Un autre grand suivi chinois a trouvé le lien thé–mortalité moindre surtout chez les hommes. En boire chaque jour ne donnait pas de meilleurs résultats qu'une consommation moins fréquente.",
+      "takeaway": "Buvez du thé non sucré en quantité et à température agréables, sans nuire au sommeil."
+    },
+    "artificially-sweetened-drinks": {
+      "summary": "Une grande étude européenne a associé davantage de boissons édulcorées artificiellement à plus de décès. Les personnes ayant déjà des troubles métaboliques peuvent y passer plus souvent, compliquant l'interprétation.",
+      "takeaway": "Pour la soif, privilégiez l'eau ; si ces boissons remplacent des boissons sucrées, ce résultat ne justifie pas de revenir au sucre."
+    },
+    "sugar-sweetened-drinks": {
+      "summary": "Des suivis américains ont associé davantage de boissons sucrées à plus de décès totaux et cardiovasculaires.",
+      "takeaway": "Remplacez progressivement les boissons sucrées habituelles par eau ou boissons non sucrées."
+    },
+    "fruit-juice": {
+      "summary": "Un suivi américain d'adultes d'âge moyen ou avancé a associé davantage de jus pur à plus de décès.",
+      "takeaway": "Buvez de l'eau pour la soif, privilégiez les fruits entiers et gardez le jus en petite quantité."
+    },
+    "coffee": {
+      "summary": "Une grande revue a associé une consommation modérée de café à moins de décès. Taille de tasse, préparation, sucre et tolérance personnelle comptent.",
+      "takeaway": "Savourez votre café avec modération et peu de sucre s’il vous convient. Adaptez la caféine pendant la grossesse ou en cas d’insomnie ou de palpitations."
+    },
+    "spermidine-diet": {
+      "summary": "Des suivis ont associé davantage de spermidine alimentaire à moins de décès. Les suppléments posent une autre question ; leur effet sur la longévité n'est pas démontré.",
+      "takeaway": "Variez votre alimentation avec des aliments ordinaires, comme céréales complètes et légumineuses.",
+      "title": "Spermidine alimentaire"
+    },
+    "smoking": {
+      "summary": "Les suivis trouvent régulièrement plus de mortalité chez les fumeurs, même avec peu de cigarettes quotidiennes. Les personnes sevrées ont moins de risques que celles qui continuent.",
+      "takeaway": "Ne commencez pas ; si vous fumez, arrêtez au plus tôt, avec aide au sevrage et soutien médicamenteux si nécessaire."
+    },
+    "sun-exposure": {
+      "summary": "Des études nordiques ont trouvé des liens entre indicateurs d'exposition solaire et survie. Activité extérieure et recours aux soins influencent aussi les résultats. Aucune durée de soleil pour vivre plus longtemps n'a été établie.",
+      "takeaway": "Profitez du plein air et de la lumière naturelle en évitant les coups de soleil. Adaptez votre protection en cas de risque élevé de cancer de la peau ou de photosensibilité."
+    },
+    "nmn": {
+      "summary": "Les essais humains sont petits, courts et surtout métaboliques. NMN n'a pas démontré de prolongation de vie humaine ; les données de sécurité prolongée sont limitées.",
+      "takeaway": "Privilégiez alimentation, activité et sommeil ; ne considérez pas NMN comme un médicament de longévité prouvé."
+    },
+    "metformin-diabetes": {
+      "summary": "Un essai randomisé chez des personnes en surpoids avec diabète nouvellement diagnostiqué a trouvé moins de décès sous metformine. Les essais ultérieurs regroupés étaient moins concluants. Il s'agit du traitement du diabète.",
+      "takeaway": "Si vous avez un diabète, suivez la prescription en tenant compte de votre fonction rénale et de votre tolérance au traitement. Si vous êtes en bonne santé, ne commencez pas la metformine de votre propre initiative pour vivre plus longtemps."
+    },
+    "metformin-longevity": {
+      "summary": "Une étude observationnelle a comparé des personnes diabétiques prenant de la metformine à des témoins non diabétiques et observé une meilleure survie dans le premier groupe. Toutefois, un suivi randomisé à long terme n’a pas constaté de baisse de la mortalité chez les personnes à haut risque de diabète. Un effet sur la longévité des personnes en bonne santé n’est pas établi.",
+      "takeaway": "Pas d'automédication anti-âge ; avec diabète ou projet d'enfant, discutez vos questions de traitement avec votre médecin.",
+      "title": "Metformine et longévité des personnes en bonne santé"
+    },
+    "multivitamins": {
+      "summary": "Essais et grands suivis n'ont pas démontré moins de décès avec les multivitamines chez les personnes généralement saines. Certaines études ont trouvé moins de cancers diagnostiqués, un autre critère.",
+      "takeaway": "Réservez les suppléments aux carences ou besoins précis ; commencez par une bonne alimentation quotidienne."
+    },
+    "glucosamine-chondroitin": {
+      "summary": "Un suivi américain a associé l'usage prolongé de glucosamine et chondroïtine à moins de décès. Les utilisateurs étaient aussi plus actifs et moins fumeurs. Il n’a pas été démontré que ces compléments prolongent la vie des personnes en bonne santé.",
+      "takeaway": "Cherchez d'abord la cause des douleurs articulaires et vérifiez les interactions, surtout avec des anticoagulants."
+    },
+    "anti-aging-drugs-review": {
+      "summary": "Une revue des médicaments anti-âge présentait plusieurs molécules candidates, surtout étudiées chez l'animal et dans peu d'études humaines. Leur bénéfice de longévité chez les personnes saines reste non démontré.",
+      "takeaway": "Ne combinez pas seul des médicaments anti-âge ; les traitements expérimentaux relèvent de recherches correctement conduites."
+    },
+    "alcohol": {
+      "summary": "Une grande revue tenant compte de biais comme la consommation passée n'a pas trouvé moins de décès avec peu d'alcool ; une consommation accrue était liée à plus de risque.",
+      "takeaway": "Si vous ne buvez pas, nul besoin de commencer ; sinon, réduisez. Avec dépendance ou antécédent de sevrage, cherchez un soutien médical."
+    },
+    "ambient-air-pollution": {
+      "summary": "Un grand suivi américain de personnes âgées a associé l'exposition prolongée à davantage de particules fines et d'ozone à plus de décès.",
+      "takeaway": "Surveillez l'air, réduisez l'effort extérieur intense en forte pollution et améliorez l'air intérieur si possible."
+    },
+    "statins-indicated-patients": {
+      "summary": "Des essais randomisés regroupés ont trouvé moins d'événements cardiovasculaires sous statines et moins de décès chez les participants sans maladie vasculaire préalable. Le bénéfice individuel dépend du risque initial.",
+      "takeaway": "Si vous remplissez les critères, discutez-en avec votre médecin ; signalez douleurs musculaires et médicaments pouvant interagir."
+    },
+    "vitamin-d-general-population": {
+      "summary": "Un grand essai randomisé n'a pas trouvé moins de décès avec supplémentation systématique en vitamine D chez les adultes d'âge moyen ou avancé généralement sains. Carences et maladies osseuses nécessitent une évaluation distincte.",
+      "takeaway": "Supplémentation selon risques de carence ou besoins osseux identifiés ; évitez les fortes doses sans suivi."
+    },
+    "racquet-sports": {
+      "summary": "Un suivi britannique d'adultes a associé les sports de raquette à moins de décès. Plaisir, capacité et régularité comptent aussi pour choisir une activité.",
+      "takeaway": "Trouvez un sport de raquette plaisant et adapté ; progressez doucement."
+    },
+    "vigorous-activity": {
+      "summary": "Un suivi britannique a associé de courtes périodes d'activité vigoureuse à moins de décès. Les participants étaient surtout d'âge moyen ou avancé ; l'activité était mesurée par des dispositifs portés.",
+      "takeaway": "Avec une base physique et si votre santé le permet, ajoutez de courts efforts intenses ; symptômes ou maladie chronique instable : évaluation préalable."
+    },
+    "walking-steps": {
+      "summary": "Un suivi américain d'adultes d'âge moyen a associé plus de pas quotidiens à moins de décès, sans montrer que toujours plus est toujours mieux.",
+      "takeaway": "Marchez un peu plus depuis votre niveau actuel ; adaptez avec maladie cardiopulmonaire, risque de chute ou mobilité réduite."
+    },
+    "toothbrushing": {
+      "summary": "Un grand suivi chinois a trouvé davantage de décès chez ceux se brossant rarement les dents. Les soins buccaux sont aussi liés au tabac, à la santé et à l'accès aux soins.",
+      "takeaway": "Brossez régulièrement avec un dentifrice fluoré et faites traiter les problèmes dentaires."
+    },
+    "tub-bathing": {
+      "summary": "Un suivi japonais d'adultes d'âge moyen a associé les bains réguliers en baignoire à moins de maladies cardiovasculaires et d'AVC.",
+      "takeaway": "Eau à température agréable ; évitez les bains chauds longs et les bains solitaires après alcool, avec malaises ou santé cardiovasculaire instable."
+    },
+    "heavy-housework": {
+      "summary": "Un suivi de personnes âgées à Hong Kong a associé les tâches ménagères lourdes à moins de décès chez les hommes, sans lien clair chez les femmes. Une meilleure forme préalable peut contribuer.",
+      "takeaway": "Faites des tâches adaptées comme activité quotidienne ; évitez les charges lourdes avec fragilité, ostéoporose ou problèmes dorsaux."
+    },
+    "sleep-duration": {
+      "summary": "Des études asiatiques ont associé un sommeil très long à davantage de décès. Il peut aussi refléter une maladie ou un problème de sommeil.",
+      "takeaway": "Cherchez un sommeil suffisant et réparateur ; explorez somnolence, fatigue ou ronflements persistants."
+    },
+    "bedtime": {
+      "summary": "Un suivi multinational a associé des couchers très précoces ou très tardifs à un risque combiné plus élevé de décès et d’événements cardiovasculaires. Cette association s’est nettement atténuée après prise en compte d’autres facteurs.",
+      "takeaway": "Gardez un rythme adapté et assez de sommeil ; ne vous forcez pas à veiller pour respecter une heure précise."
+    },
+    "sedentary-time": {
+      "summary": "Une revue a associé plus de sédentarité à plus de décès, surtout chez ceux restant assis une grande partie du jour. Télévision et temps assis total montraient des liens différents.",
+      "takeaway": "Si votre corps le permet, remplacez une partie du temps assis par marche ou mouvement."
+    },
+    "pessimism": {
+      "summary": "Un suivi australien de personnes âgées a associé plus de pessimisme à plus de décès. Humeur, santé physique et circonstances de vie s'influencent mutuellement.",
+      "takeaway": "Parlez à une personne de confiance quand cela va mal ; si l'humeur affecte durablement votre vie, cherchez une aide professionnelle."
+    },
+    "wealth": {
+      "summary": "Un suivi américain d'adultes d'âge moyen a associé un patrimoine supérieur à moins de décès. Ressources, santé et sécurité matérielle s'influencent souvent mutuellement.",
+      "takeaway": "Priorisez logement, accès aux soins et sécurité financière de base pour réduire les pressions évitables."
+    },
+    "weight-change": {
+      "summary": "Un suivi américain a trouvé moins de décès chez les personnes passées d'obésité à surpoids entre jeunesse adulte et âge moyen que chez celles restées obèses.",
+      "takeaway": "En cas d’obésité, prévoyez une gestion durable du poids et de la force musculaire. Faites rechercher la cause d’une perte de poids involontaire, surtout à un âge avancé."
+    },
+    "covid-pandemic": {
+      "summary": "Les registres de plusieurs pays ont montré une forte surmortalité pendant la première vague de COVID-19. Elle incluait infections et possibles effets indirects, comme les soins interrompus. Cela reflète cette phase de la pandémie.",
+      "takeaway": "Réduisez l'exposition, prenez soin des maladies chroniques et accédez rapidement aux soins adaptés si vous êtes malade."
+    },
+    "resistance-training": {
+      "summary": "Une revue de cohortes a associé le renforcement musculaire à moins de décès. La relation avec des quantités précises d'entraînement reste incertaine.",
+      "takeaway": "Renforcez progressivement les principaux groupes musculaires en complément d’une activité aérobie. Adaptez les exercices en cas de douleur, de chirurgie récente ou de maladie chronique instable."
+    },
+    "social-isolation": {
+      "summary": "Une revue a associé l’isolement social, la solitude et le fait de vivre seul à une mortalité plus élevée, mais ce sont des expériences différentes. On peut vivre seul tout en ayant des relations riches et fiables.",
+      "takeaway": "Maintenez des contacts et moyens d'aide adaptés à vos souhaits ; prenez en compte audition, mobilité et humeur."
+    },
+    "intensive-bp-control": {
+      "summary": "Un essai randomisé chez des adultes hypertendus à haut risque cardiovasculaire sans diabète a trouvé moins de décès avec traitement intensif, mais plus d'effets indésirables comme hypotension et problèmes rénaux.",
+      "takeaway": "Fixez les objectifs tensionnels avec votre médecin et surveillez vertiges, fonction rénale et électrolytes."
+    },
+    "cardiorespiratory-fitness": {
+      "summary": "Plusieurs cohortes ont associé une meilleure aptitude cardiorespiratoire mesurée à l'effort à moins de décès. Elle reflète la capacité physique, aussi influencée par maladies et génétique.",
+      "takeaway": "Partez de votre forme actuelle et augmentez progressivement les activités adaptées."
+    },
+    "dapagliflozin-ckd": {
+      "summary": "Un essai randomisé a trouvé moins de décès sous dapagliflozine chez des personnes atteintes de maladie rénale chronique qui remplissaient les critères de l'étude, avec ou sans diabète. Un bénéfice de ce traitement sur la durée de vie des personnes en bonne santé n'a pas été démontré.",
+      "takeaway": "Avec maladie rénale chronique, faites évaluer la pertinence par un médecin, en tenant compte de déshydratation, infection et acidocétose."
+    },
+    "semaglutide-select": {
+      "summary": "Dans SELECT, des participants avec maladie cardiovasculaire, surpoids ou obésité et sans diabète ont eu moins de décès sous sémaglutide. Ce résultat de mortalité est exploratoire.",
+      "takeaway": "Discutez du traitement selon vos besoins médicaux et de gestion du poids, en tenant compte de sa tolérance. Un bénéfice sur la durée de vie des personnes en bonne santé reste à démontrer."
+    },
+    "aspirin-primary-prevention": {
+      "summary": "Un essai randomisé chez des personnes âgées sans maladie cardiovasculaire préalable n'a pas trouvé de bénéfice de longévité de l'aspirine quotidienne et a signalé plus de décès. Le traitement après infarctus ou AVC est un contexte différent.",
+      "takeaway": "Ne commencez pas l’aspirine uniquement pour vivre plus longtemps. Si vous en prenez pour une indication médicale, consultez votre médecin avant de modifier le traitement."
+    },
+    "walking-steps-2025": {
+      "summary": "Une revue plus récente a de nouveau associé plus de pas quotidiens à moins de décès. Santé des participants, dispositifs et méthodes influencent aussi les résultats.",
+      "takeaway": "Choisissez un objectif de marche accessible ; confort et régularité comptent."
+    },
+    "metformin-adverse-events": {
+      "summary": "La metformine peut causer diarrhée et autres troubles digestifs, et abaisser la vitamine B12 ; l'acidose lactique est aussi un risque important. Les réactions varient selon formulation, dose et santé.",
+      "takeaway": "Suivez la prescription, surveillez votre tolérance au traitement, votre fonction rénale et votre taux de vitamine B12, et signalez rapidement les symptômes.",
+      "title": "Effets indésirables de la metformine"
+    }
+  }
+}
