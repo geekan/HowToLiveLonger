@@ -18,6 +18,6 @@
 npx skills add geekan/HowToLiveLonger --skill howtolivelonger
 ```
 
-يقرأ [بيانات الدراسات بصيغة JSON](../../data/evidence.json) ويجيب مع ذكر المصادر.
+اقرأ [بيانات الدراسات بصيغة JSON](../../data/evidence.json) ويجيب مع ذكر المصادر.
 
 [المساهمة](../../CONTRIBUTING.md) · [الترخيص](../../LICENSE)
